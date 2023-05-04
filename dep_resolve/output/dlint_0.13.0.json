@@ -1,0 +1,38 @@
+{
+  "flake8": {
+    "version": "5.0.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<6.0.0,>=3.6.0"
+      }
+    ]
+  },
+  "pyflakes": {
+    "version": "2.5.0",
+    "constraints": [
+      {
+        "from": "flake8",
+        "specifier": "<2.6.0,>=2.5.0"
+      }
+    ]
+  },
+  "pycodestyle": {
+    "version": "2.9.1",
+    "constraints": [
+      {
+        "from": "flake8",
+        "specifier": "<2.10.0,>=2.9.0"
+      }
+    ]
+  },
+  "mccabe": {
+    "version": "0.7.0",
+    "constraints": [
+      {
+        "from": "flake8",
+        "specifier": "<0.8.0,>=0.7.0"
+      }
+    ]
+  }
+}

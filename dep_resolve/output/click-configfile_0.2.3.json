@@ -1,0 +1,29 @@
+{
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.10"
+      }
+    ]
+  },
+  "configparser": {
+    "version": "5.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.5.0"
+      }
+    ]
+  },
+  "click": {
+    "version": "8.1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=6.6"
+      }
+    ]
+  }
+}

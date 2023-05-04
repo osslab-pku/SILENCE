@@ -1,0 +1,7 @@
+behave==1.2.6
+  - parse [required: >=1.8.2, installed: 1.19.0]
+  - parse-type [required: >=0.4.2, installed: 0.6.0]
+    - parse [required: >=1.18.0, installed: 1.19.0]
+    - six [required: >=1.11, installed: 1.16.0]
+  - six [required: >=1.11, installed: 1.16.0]
+

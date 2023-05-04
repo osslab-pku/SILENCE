@@ -1,0 +1,12 @@
+cvxpy 0.4.11 (Apache-2.0) has 1 incompatibilities in [tree_created]:
+cvxpy 
+  toolz 0.8.2 [cvxpy ()]
+  six 1.10.0 [cvxpy ()]
+  scs 1.2.5 [cvxpy (>=1.1.3)]
+  scipy 0.19.1 [cvxpy (>=0.15)] [ecos (>=0.9)]
+    numpy 1.13.1 [cvxpy (>=1.9)] [scipy (>=1.8.2)] [ecos (>=1.6)]
+  numpy 1.13.1 [cvxpy (>=1.9)] [scipy (>=1.8.2)] [ecos (>=1.6)]
+  multiprocess 0.70.5 [cvxpy ()]
+  fastcache 0.4.2 [cvxpy ()]
+  ecos 2.0.4 (INCOMPATIBLE! HAS GPL-3.0-only) [cvxpy (>=2)]
+  CVXcanon 0.1.1 [cvxpy (>=0.0.22)]

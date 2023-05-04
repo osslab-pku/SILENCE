@@ -1,0 +1,38 @@
+{
+  "structlog": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "sentry-sdk": {
+    "version": "1.10.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "sentry-sdk",
+        "specifier": ">=1.26.11"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "sentry-sdk",
+        "specifier": ""
+      }
+    ]
+  }
+}

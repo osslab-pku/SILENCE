@@ -1,0 +1,3 @@
+git-url-parse==1.2.2
+  - pbr [required: Any, installed: 5.11.1]
+

@@ -1,0 +1,17 @@
+textract 1.6.3 (MIT) has 1 incompatibilities in [tree_created]:
+textract 
+  xlrd 1.2.0 [textract (==1.2.0)]
+  SpeechRecognition 3.8.1 [textract (==3.8.1)]
+  six 1.12.0 [textract (==1.12.0)] [pdfminer.six ()] [imapclient ()]
+  pdfminer.six 20181108 [textract (==20181108)]
+    sortedcontainers 2.1.0 [pdfminer.six ()]
+    pycryptodome 3.8.2 [pdfminer.six ()]
+  extract-msg 0.23.1 (INCOMPATIBLE! HAS GPL-3.0-only) [textract (==0.23.1)]
+    tzlocal 1.5.1 [extract-msg (==1.5.1)]
+    olefile 0.46 [extract-msg (==0.46)]
+    imapclient 2.1.0 [extract-msg (==2.1.0)]
+  EbookLib 0.17.1 [textract (==0.17.1)]
+  chardet 3.0.4 [textract (==3.0.4)]
+  beautifulsoup4 4.8.0 [textract (==4.8.0)]
+    soupsieve 1.9.3 [beautifulsoup4 (>=1.2)]
+  argcomplete 1.10.0 [textract (==1.10.0)]

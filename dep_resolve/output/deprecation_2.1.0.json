@@ -1,0 +1,20 @@
+{
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  }
+}

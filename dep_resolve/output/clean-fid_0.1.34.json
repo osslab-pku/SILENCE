@@ -1,0 +1,134 @@
+{
+  "requests": {
+    "version": "2.25.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==2.25.1"
+      },
+      {
+        "from": "torchvision",
+        "specifier": ""
+      }
+    ]
+  },
+  "pillow": {
+    "version": "9.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=8.1"
+      },
+      {
+        "from": "torchvision",
+        "specifier": "!=8.3.*,>=5.3.0"
+      }
+    ]
+  },
+  "tqdm": {
+    "version": "4.64.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=4.28.1"
+      }
+    ]
+  },
+  "scipy": {
+    "version": "1.9.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.14.3"
+      },
+      {
+        "from": "scipy",
+        "specifier": "<1.26.0,>=1.18.5"
+      },
+      {
+        "from": "torchvision",
+        "specifier": ""
+      }
+    ]
+  },
+  "torchvision": {
+    "version": "0.14.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "torch": {
+    "version": "1.13.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "torchvision",
+        "specifier": "==1.13.0"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "2.10",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2.5"
+      }
+    ]
+  },
+  "chardet": {
+    "version": "4.0.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<5,>=3.0.2"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "torchvision",
+        "specifier": ""
+      },
+      {
+        "from": "torch",
+        "specifier": ""
+      }
+    ]
+  }
+}

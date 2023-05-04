@@ -1,0 +1,73 @@
+{
+  "fastapi": {
+    "version": "0.86.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.80.0"
+      }
+    ]
+  },
+  "pydantic": {
+    "version": "1.10.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.9.1"
+      },
+      {
+        "from": "fastapi",
+        "specifier": "!=1.7,!=1.7.1,!=1.7.2,!=1.7.3,!=1.8,!=1.8.1,<2.0.0,>=1.6.2"
+      }
+    ]
+  },
+  "starlette": {
+    "version": "0.20.4",
+    "constraints": [
+      {
+        "from": "fastapi",
+        "specifier": "==0.20.4"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "pydantic",
+        "specifier": ">=4.1.0"
+      },
+      {
+        "from": "starlette",
+        "specifier": ">=3.10.0"
+      }
+    ]
+  },
+  "anyio": {
+    "version": "3.6.2",
+    "constraints": [
+      {
+        "from": "starlette",
+        "specifier": "<5,>=3.4.0"
+      }
+    ]
+  },
+  "sniffio": {
+    "version": "1.3.0",
+    "constraints": [
+      {
+        "from": "anyio",
+        "specifier": ">=1.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "anyio",
+        "specifier": ">=2.8"
+      }
+    ]
+  }
+}

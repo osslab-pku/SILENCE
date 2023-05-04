@@ -1,0 +1,4 @@
+quantulum3 0.6.4 (MIT) has 1 incompatibilities in [tree_created]:
+quantulum3 
+  num2words 0.5.6 [quantulum3 ()]
+  inflect 1.0.1 (INCOMPATIBLE! HAS AGPL-3.0-only) [quantulum3 ()]

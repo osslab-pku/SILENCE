@@ -1,0 +1,4 @@
+pyathenajdbc==3.0.1
+  - jpype1 [required: >=1.1.0,<2.0.0, installed: 1.4.1]
+    - packaging [required: Any, installed: 23.1]
+

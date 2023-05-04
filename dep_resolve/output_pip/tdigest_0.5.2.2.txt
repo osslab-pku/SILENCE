@@ -1,0 +1,4 @@
+tdigest==0.5.2.2
+  - accumulation-tree [required: Any, installed: 0.6.2]
+  - pyudorandom [required: Any, installed: 1.0.0]
+

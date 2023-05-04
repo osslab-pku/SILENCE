@@ -1,0 +1,6 @@
+django-jsonfield==1.4.0
+  - Django [required: >=1.11, installed: 4.2]
+    - asgiref [required: >=3.6.0,<4, installed: 3.6.0]
+    - sqlparse [required: >=0.3.1, installed: 0.4.4]
+  - six [required: Any, installed: 1.16.0]
+

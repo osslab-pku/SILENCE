@@ -1,0 +1,562 @@
+{
+  "websockets": {
+    "version": "10.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=10.0"
+      }
+    ]
+  },
+  "uvicorn": {
+    "version": "0.19.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyyaml": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "python-multipart": {
+    "version": "0.0.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pydub": {
+    "version": "0.25.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pydantic": {
+    "version": "1.10.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "fastapi",
+        "specifier": "!=1.7,!=1.7.1,!=1.7.2,!=1.7.3,!=1.8,!=1.8.1,<2.0.0,>=1.6.2"
+      }
+    ]
+  },
+  "pycryptodome": {
+    "version": "3.15.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pillow": {
+    "version": "9.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=6.2.0"
+      }
+    ]
+  },
+  "paramiko": {
+    "version": "2.12.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pandas": {
+    "version": "1.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "orjson": {
+    "version": "3.8.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "pandas",
+        "specifier": ">=1.20.3"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.19"
+      },
+      {
+        "from": "contourpy",
+        "specifier": ">=1.16"
+      }
+    ]
+  },
+  "matplotlib": {
+    "version": "3.6.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "httpx": {
+    "version": "0.22.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "h11": {
+    "version": "0.11.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.13,>=0.11"
+      },
+      {
+        "from": "uvicorn",
+        "specifier": ">=0.8"
+      },
+      {
+        "from": "httpcore",
+        "specifier": "<0.13,>=0.11"
+      }
+    ]
+  },
+  "fsspec": {
+    "version": "2022.11.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "ffmpy": {
+    "version": "0.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "fastapi": {
+    "version": "0.86.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "aiohttp": {
+    "version": "3.8.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "click": {
+    "version": "8.1.3",
+    "constraints": [
+      {
+        "from": "uvicorn",
+        "specifier": ">=7.0"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      },
+      {
+        "from": "httpx",
+        "specifier": ""
+      },
+      {
+        "from": "httpcore",
+        "specifier": ""
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      },
+      {
+        "from": "yarl",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "anyio",
+        "specifier": ">=2.8"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      },
+      {
+        "from": "httpx",
+        "specifier": ""
+      },
+      {
+        "from": "aiohttp",
+        "specifier": "<3.0,>=2.0"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "pydantic",
+        "specifier": ">=4.1.0"
+      },
+      {
+        "from": "starlette",
+        "specifier": ">=3.10.0"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "paramiko",
+        "specifier": ""
+      },
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      }
+    ]
+  },
+  "pynacl": {
+    "version": "1.5.0",
+    "constraints": [
+      {
+        "from": "paramiko",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "cryptography": {
+    "version": "38.0.3",
+    "constraints": [
+      {
+        "from": "paramiko",
+        "specifier": ">=2.5"
+      }
+    ]
+  },
+  "bcrypt": {
+    "version": "4.0.1",
+    "constraints": [
+      {
+        "from": "paramiko",
+        "specifier": ">=3.1.3"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2020.1"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2.8.1"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=2.7"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=2.2.1"
+      },
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=20.0"
+      }
+    ]
+  },
+  "kiwisolver": {
+    "version": "1.4.4",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "fonttools": {
+    "version": "4.38.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=4.22.0"
+      }
+    ]
+  },
+  "cycler": {
+    "version": "0.11.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=0.10"
+      }
+    ]
+  },
+  "contourpy": {
+    "version": "1.0.6",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "jinja2",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "httpcore": {
+    "version": "0.14.7",
+    "constraints": [
+      {
+        "from": "httpx",
+        "specifier": "<0.15.0,>=0.14.5"
+      }
+    ]
+  },
+  "sniffio": {
+    "version": "1.3.0",
+    "constraints": [
+      {
+        "from": "httpx",
+        "specifier": ""
+      },
+      {
+        "from": "httpcore",
+        "specifier": "==1.*"
+      },
+      {
+        "from": "anyio",
+        "specifier": ">=1.1"
+      }
+    ]
+  },
+  "starlette": {
+    "version": "0.20.4",
+    "constraints": [
+      {
+        "from": "fastapi",
+        "specifier": "==0.20.4"
+      }
+    ]
+  },
+  "aiosignal": {
+    "version": "1.3.1",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": ">=1.1.2"
+      }
+    ]
+  },
+  "frozenlist": {
+    "version": "1.3.3",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": ">=1.1.1"
+      },
+      {
+        "from": "aiosignal",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "yarl": {
+    "version": "1.8.1",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": "<2.0,>=1.0"
+      }
+    ]
+  },
+  "async-timeout": {
+    "version": "4.0.2",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": "<5.0,>=4.0.0a3"
+      }
+    ]
+  },
+  "multidict": {
+    "version": "6.0.2",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": "<7.0,>=4.5"
+      },
+      {
+        "from": "yarl",
+        "specifier": ">=4.0"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": ">=17.3.0"
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "pynacl",
+        "specifier": ">=1.4.1"
+      },
+      {
+        "from": "cryptography",
+        "specifier": ">=1.12"
+      }
+    ]
+  },
+  "anyio": {
+    "version": "3.6.2",
+    "constraints": [
+      {
+        "from": "httpcore",
+        "specifier": "==3.*"
+      },
+      {
+        "from": "starlette",
+        "specifier": "<5,>=3.4.0"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  }
+}

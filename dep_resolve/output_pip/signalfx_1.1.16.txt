@@ -1,0 +1,15 @@
+signalfx==1.1.16
+  - certifi [required: Any, installed: 2022.12.7]
+  - protobuf [required: >=3.0.0,<4.21.0, installed: 3.20.3]
+  - pyformance [required: >=0.3.1, installed: 0.4]
+    - six [required: Any, installed: 1.16.0]
+  - requests [required: >=2.7.0, installed: 2.28.2]
+    - certifi [required: >=2017.4.17, installed: 2022.12.7]
+    - charset-normalizer [required: >=2,<4, installed: 3.1.0]
+    - idna [required: >=2.5,<4, installed: 3.4]
+    - urllib3 [required: >=1.21.1,<1.27, installed: 1.26.14]
+  - six [required: >=1.6.0, installed: 1.16.0]
+  - sseclient-py [required: >=1.4, installed: 1.7.2]
+  - urllib3 [required: >=1.15.1, installed: 1.26.14]
+  - ws4py [required: >=0.4.1, installed: 0.5.1]
+

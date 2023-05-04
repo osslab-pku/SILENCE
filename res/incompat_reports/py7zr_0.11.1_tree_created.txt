@@ -1,0 +1,4 @@
+py7zr 0.11.1 (LGPL-2.1-or-later) has 1 incompatibilities in [tree_created]:
+py7zr 
+  pycryptodome 3.9.9 (INCOMPATIBLE! HAS Apache-2.0) [py7zr ()]
+  texttable 1.6.3 [py7zr ()]

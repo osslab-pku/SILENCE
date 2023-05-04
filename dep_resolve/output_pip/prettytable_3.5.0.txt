@@ -1,0 +1,3 @@
+prettytable==3.5.0
+  - wcwidth [required: Any, installed: 0.2.6]
+

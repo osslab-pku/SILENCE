@@ -1,0 +1,11 @@
+{
+  "nvidia-cublas-cu11": {
+    "version": "11.11.3.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

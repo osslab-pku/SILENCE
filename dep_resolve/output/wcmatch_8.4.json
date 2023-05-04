@@ -1,0 +1,11 @@
+{
+  "bracex": {
+    "version": "2.3.post1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.1.1"
+      }
+    ]
+  }
+}

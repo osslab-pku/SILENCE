@@ -1,0 +1,163 @@
+{
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.11.0"
+      }
+    ]
+  },
+  "pyjwt": {
+    "version": "2.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0.0,>=1.5.3"
+      }
+    ]
+  },
+  "future": {
+    "version": "0.18.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.18.3,>=0.17.0"
+      }
+    ]
+  },
+  "cryptography": {
+    "version": "36.0.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<37.0.0,>=2.0.0"
+      }
+    ]
+  },
+  "chardet": {
+    "version": "4.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4.1,>=2.0"
+      }
+    ]
+  },
+  "backoff": {
+    "version": "2.2.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0.0,>=1.0.0"
+      }
+    ]
+  },
+  "aiohttp": {
+    "version": "3.8.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4.0.0,>=3.3.0"
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "cryptography",
+        "specifier": ">=1.12"
+      }
+    ]
+  },
+  "aiosignal": {
+    "version": "1.3.1",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": ">=1.1.2"
+      }
+    ]
+  },
+  "frozenlist": {
+    "version": "1.3.3",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": ">=1.1.1"
+      },
+      {
+        "from": "aiosignal",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "yarl": {
+    "version": "1.8.1",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": "<2.0,>=1.0"
+      }
+    ]
+  },
+  "async-timeout": {
+    "version": "4.0.2",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": "<5.0,>=4.0.0a3"
+      }
+    ]
+  },
+  "multidict": {
+    "version": "6.0.2",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": "<7.0,>=4.5"
+      },
+      {
+        "from": "yarl",
+        "specifier": ">=4.0"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": "<3.0,>=2.0"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": ">=17.3.0"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "yarl",
+        "specifier": ">=2.0"
+      }
+    ]
+  }
+}

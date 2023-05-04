@@ -1,0 +1,7 @@
+pdoc3==0.10.0
+  - mako [required: Any, installed: 1.2.4]
+    - MarkupSafe [required: >=0.9.2, installed: 2.1.2]
+  - markdown [required: >=3.0, installed: 3.4.3]
+    - importlib-metadata [required: >=4.4, installed: 6.6.0]
+      - zipp [required: >=0.5, installed: 3.15.0]
+

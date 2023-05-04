@@ -1,0 +1,398 @@
+{
+  "dbt-core": {
+    "version": "1.2.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "networkx": {
+    "version": "2.8.8",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "<3,>=2.3"
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "<2.0.0,>=1.9"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "<4,>=2.5"
+      },
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "<3.0.0"
+      }
+    ]
+  },
+  "werkzeug": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "<3,>=1"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": ">=3.7.4"
+      },
+      {
+        "from": "mashumaro",
+        "specifier": ""
+      }
+    ]
+  },
+  "dbt-extractor": {
+    "version": "0.4.1",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "~=0.4.1"
+      }
+    ]
+  },
+  "sqlparse": {
+    "version": "0.4.3",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "<0.5,>=0.2.3"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "<22.0,>=20.9"
+      }
+    ]
+  },
+  "minimal-snowplow-tracker": {
+    "version": "0.0.2",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "==0.0.2"
+      }
+    ]
+  },
+  "mashumaro": {
+    "version": "2.9",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "==2.9"
+      }
+    ]
+  },
+  "logbook": {
+    "version": "1.5.3",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "<1.6,>=1.5"
+      }
+    ]
+  },
+  "isodate": {
+    "version": "0.6.1",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "<0.7,>=0.6"
+      },
+      {
+        "from": "agate",
+        "specifier": ">=0.5.4"
+      }
+    ]
+  },
+  "hologram": {
+    "version": "0.0.15",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "<=0.0.15,>=0.0.14"
+      }
+    ]
+  },
+  "colorama": {
+    "version": "0.4.5",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "<0.4.6,>=0.3.9"
+      }
+    ]
+  },
+  "click": {
+    "version": "8.1.3",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "<9,>=7.0"
+      }
+    ]
+  },
+  "agate": {
+    "version": "1.6.3",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "<1.6.4,>=1.6"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "<2.1,>=0.23"
+      },
+      {
+        "from": "werkzeug",
+        "specifier": ">=2.1.1"
+      },
+      {
+        "from": "Jinja2",
+        "specifier": ">=0.23"
+      }
+    ]
+  },
+  "Jinja2": {
+    "version": "2.11.3",
+    "constraints": [
+      {
+        "from": "dbt-core",
+        "specifier": "==2.11.3"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "pyyaml": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "mashumaro",
+        "specifier": ">=3.13"
+      }
+    ]
+  },
+  "msgpack": {
+    "version": "1.0.4",
+    "constraints": [
+      {
+        "from": "mashumaro",
+        "specifier": ">=0.5.6"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "isodate",
+        "specifier": ""
+      },
+      {
+        "from": "agate",
+        "specifier": ">=1.9.0"
+      },
+      {
+        "from": "jsonschema",
+        "specifier": ">=1.11.0"
+      },
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      },
+      {
+        "from": "leather",
+        "specifier": ">=1.6.1"
+      }
+    ]
+  },
+  "jsonschema": {
+    "version": "3.2.0",
+    "constraints": [
+      {
+        "from": "hologram",
+        "specifier": "<4.0,>=3.0"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "hologram",
+        "specifier": "<2.9,>=2.8"
+      }
+    ]
+  },
+  "pytimeparse": {
+    "version": "1.1.8",
+    "constraints": [
+      {
+        "from": "agate",
+        "specifier": ">=1.1.5"
+      }
+    ]
+  },
+  "python-slugify": {
+    "version": "6.1.2",
+    "constraints": [
+      {
+        "from": "agate",
+        "specifier": ">=1.2.1"
+      }
+    ]
+  },
+  "parsedatetime": {
+    "version": "2.4",
+    "constraints": [
+      {
+        "from": "agate",
+        "specifier": "!=2.5,!=2.6,>=2.1"
+      }
+    ]
+  },
+  "leather": {
+    "version": "0.3.4",
+    "constraints": [
+      {
+        "from": "agate",
+        "specifier": ">=0.3.2"
+      }
+    ]
+  },
+  "Babel": {
+    "version": "2.11.0",
+    "constraints": [
+      {
+        "from": "agate",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyrsistent": {
+    "version": "0.19.2",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": ">=0.14.0"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": ">=17.4.0"
+      }
+    ]
+  },
+  "text-unidecode": {
+    "version": "1.3",
+    "constraints": [
+      {
+        "from": "python-slugify",
+        "specifier": ">=1.3"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "Babel",
+        "specifier": ">=2015.7"
+      }
+    ]
+  }
+}

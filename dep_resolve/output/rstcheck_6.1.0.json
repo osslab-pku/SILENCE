@@ -1,0 +1,59 @@
+{
+  "pydantic": {
+    "version": "1.10.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0,>=1.2"
+      },
+      {
+        "from": "rstcheck-core",
+        "specifier": "<2.0,>=1.2"
+      }
+    ]
+  },
+  "types-docutils": {
+    "version": "0.18.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.19,>=0.18"
+      },
+      {
+        "from": "rstcheck-core",
+        "specifier": "<0.19,>=0.18"
+      }
+    ]
+  },
+  "docutils": {
+    "version": "0.18.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.19,>=0.7"
+      },
+      {
+        "from": "rstcheck-core",
+        "specifier": "<0.19,>=0.7"
+      }
+    ]
+  },
+  "rstcheck-core": {
+    "version": "1.0.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.0.2"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "pydantic",
+        "specifier": ">=4.1.0"
+      }
+    ]
+  }
+}

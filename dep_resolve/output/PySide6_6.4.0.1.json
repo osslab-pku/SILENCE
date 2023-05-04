@@ -1,0 +1,41 @@
+{
+  "PySide6-Addons": {
+    "version": "6.4.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==6.4.0.1"
+      }
+    ]
+  },
+  "PySide6-Essentials": {
+    "version": "6.4.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==6.4.0.1"
+      },
+      {
+        "from": "PySide6-Addons",
+        "specifier": "==6.4.0.1"
+      }
+    ]
+  },
+  "shiboken6": {
+    "version": "6.4.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==6.4.0.1"
+      },
+      {
+        "from": "PySide6-Addons",
+        "specifier": "==6.4.0.1"
+      },
+      {
+        "from": "PySide6-Essentials",
+        "specifier": "==6.4.0.1"
+      }
+    ]
+  }
+}

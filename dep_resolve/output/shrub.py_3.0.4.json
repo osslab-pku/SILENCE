@@ -1,0 +1,51 @@
+{
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5,>=4"
+      },
+      {
+        "from": "pydantic",
+        "specifier": ">=4.1.0"
+      }
+    ]
+  },
+  "git-url-parse": {
+    "version": "1.2.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2,>=1"
+      }
+    ]
+  },
+  "pydantic": {
+    "version": "1.10.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0,>=1.8"
+      }
+    ]
+  },
+  "PyYaml": {
+    "version": "5.4.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<6.0,>=5.1"
+      }
+    ]
+  },
+  "pbr": {
+    "version": "5.11.0",
+    "constraints": [
+      {
+        "from": "git-url-parse",
+        "specifier": ""
+      }
+    ]
+  }
+}

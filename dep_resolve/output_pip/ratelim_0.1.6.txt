@@ -1,0 +1,3 @@
+ratelim==0.1.6
+  - decorator [required: Any, installed: 5.1.1]
+

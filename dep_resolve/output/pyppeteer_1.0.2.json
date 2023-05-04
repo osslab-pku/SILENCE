@@ -1,0 +1,74 @@
+{
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2021"
+      }
+    ]
+  },
+  "websockets": {
+    "version": "10.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<11.0,>=10.0"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.25.8"
+      }
+    ]
+  },
+  "tqdm": {
+    "version": "4.64.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5.0.0,>=4.42.1"
+      }
+    ]
+  },
+  "pyee": {
+    "version": "8.2.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<9.0.0,>=8.1.0"
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.4"
+      }
+    ]
+  },
+  "appdirs": {
+    "version": "1.4.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.4.3"
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  }
+}

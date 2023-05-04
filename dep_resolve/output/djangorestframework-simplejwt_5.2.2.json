@@ -1,0 +1,60 @@
+{
+  "pyjwt": {
+    "version": "2.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3,>=1.7.1"
+      }
+    ]
+  },
+  "djangorestframework": {
+    "version": "3.14.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "django": {
+    "version": "4.1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "djangorestframework",
+        "specifier": ">=3.0"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "djangorestframework",
+        "specifier": ""
+      }
+    ]
+  },
+  "sqlparse": {
+    "version": "0.4.3",
+    "constraints": [
+      {
+        "from": "django",
+        "specifier": ">=0.2.2"
+      }
+    ]
+  },
+  "asgiref": {
+    "version": "3.5.2",
+    "constraints": [
+      {
+        "from": "django",
+        "specifier": "<4,>=3.5.2"
+      }
+    ]
+  }
+}

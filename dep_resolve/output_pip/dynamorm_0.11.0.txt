@@ -1,0 +1,17 @@
+dynamorm==0.11.0
+  - blinker [required: >=1.4,<2.0, installed: 1.6.2]
+  - boto3 [required: >=1.3,<2.0, installed: 1.26.118]
+    - botocore [required: >=1.29.118,<1.30.0, installed: 1.29.118]
+      - jmespath [required: >=0.7.1,<2.0.0, installed: 1.0.1]
+      - python-dateutil [required: >=2.1,<3.0.0, installed: 2.8.2]
+        - six [required: >=1.5, installed: 1.16.0]
+      - urllib3 [required: >=1.25.4,<1.27, installed: 1.26.15]
+    - jmespath [required: >=0.7.1,<2.0.0, installed: 1.0.1]
+    - s3transfer [required: >=0.6.0,<0.7.0, installed: 0.6.0]
+      - botocore [required: >=1.12.36,<2.0a.0, installed: 1.29.118]
+        - jmespath [required: >=0.7.1,<2.0.0, installed: 1.0.1]
+        - python-dateutil [required: >=2.1,<3.0.0, installed: 2.8.2]
+          - six [required: >=1.5, installed: 1.16.0]
+        - urllib3 [required: >=1.25.4,<1.27, installed: 1.26.15]
+  - six [required: Any, installed: 1.16.0]
+

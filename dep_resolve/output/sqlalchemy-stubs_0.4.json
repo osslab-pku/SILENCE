@@ -1,0 +1,42 @@
+{
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.7.4"
+      },
+      {
+        "from": "mypy",
+        "specifier": ">=3.10"
+      }
+    ]
+  },
+  "mypy": {
+    "version": "0.990",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.790"
+      }
+    ]
+  },
+  "tomli": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "mypy",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "mypy-extensions": {
+    "version": "0.4.3",
+    "constraints": [
+      {
+        "from": "mypy",
+        "specifier": ">=0.4.3"
+      }
+    ]
+  }
+}

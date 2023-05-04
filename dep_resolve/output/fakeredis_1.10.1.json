@@ -1,0 +1,65 @@
+{
+  "sortedcontainers": {
+    "version": "2.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0.0,>=2.4.0"
+      }
+    ]
+  },
+  "redis": {
+    "version": "4.3.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4.5"
+      }
+    ]
+  },
+  "async-timeout": {
+    "version": "4.0.2",
+    "constraints": [
+      {
+        "from": "redis",
+        "specifier": ">=4.0.2"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "redis",
+        "specifier": ">=20.4"
+      }
+    ]
+  },
+  "deprecated": {
+    "version": "1.2.13",
+    "constraints": [
+      {
+        "from": "redis",
+        "specifier": ">=1.2.3"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "wrapt": {
+    "version": "1.14.1",
+    "constraints": [
+      {
+        "from": "deprecated",
+        "specifier": "<2,>=1.10"
+      }
+    ]
+  }
+}

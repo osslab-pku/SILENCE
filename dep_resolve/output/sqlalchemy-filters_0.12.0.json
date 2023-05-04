@@ -1,0 +1,29 @@
+{
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.10.0"
+      }
+    ]
+  },
+  "sqlalchemy": {
+    "version": "1.4.43",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.0.16"
+      }
+    ]
+  },
+  "greenlet": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "sqlalchemy",
+        "specifier": "!=0.4.17"
+      }
+    ]
+  }
+}

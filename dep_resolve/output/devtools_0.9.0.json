@@ -1,0 +1,29 @@
+{
+  "executing": {
+    "version": "0.10.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.0.0,>=0.8.0"
+      }
+    ]
+  },
+  "asttokens": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0.0,>=2.0.0"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "asttokens",
+        "specifier": ""
+      }
+    ]
+  }
+}

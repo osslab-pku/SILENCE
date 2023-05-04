@@ -1,0 +1,6 @@
+structlog-sentry==2.0.0
+  - sentry-sdk [required: Any, installed: 1.20.0]
+    - certifi [required: Any, installed: 2022.12.7]
+    - urllib3 [required: >=1.26.11, installed: 1.26.15]
+  - structlog [required: Any, installed: 23.1.0]
+

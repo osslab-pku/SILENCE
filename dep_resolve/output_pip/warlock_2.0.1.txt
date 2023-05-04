@@ -1,0 +1,7 @@
+warlock==2.0.1
+  - jsonpatch [required: >=1,<2, installed: 1.32]
+    - jsonpointer [required: >=1.9, installed: 2.3]
+  - jsonschema [required: >=4,<5, installed: 4.17.3]
+    - attrs [required: >=17.4.0, installed: 23.1.0]
+    - pyrsistent [required: >=0.14.0,!=0.17.2,!=0.17.1,!=0.17.0, installed: 0.19.3]
+

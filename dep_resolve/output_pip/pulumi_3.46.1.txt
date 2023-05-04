@@ -1,0 +1,9 @@
+pulumi==3.46.1
+  - dill [required: ~=0.3, installed: 0.3.6]
+  - grpcio [required: ==1.47, installed: 1.47.0]
+    - six [required: >=1.5.2, installed: 1.16.0]
+  - protobuf [required: ~=4.21, installed: 4.22.0]
+  - pyyaml [required: ~=6.0, installed: 6.0]
+  - semver [required: ~=2.8, installed: 2.13.0]
+  - six [required: ~=1.12, installed: 1.16.0]
+

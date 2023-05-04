@@ -1,0 +1,762 @@
+{
+  "ipykernel": {
+    "version": "6.17.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "myst-parser",
+        "specifier": ""
+      }
+    ]
+  },
+  "sphinx": {
+    "version": "5.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<6,>=4"
+      },
+      {
+        "from": "myst-parser",
+        "specifier": "<6,>=4"
+      }
+    ]
+  },
+  "pyyaml": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "myst-parser",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-cache",
+        "specifier": ""
+      }
+    ]
+  },
+  "nbformat": {
+    "version": "5.7.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=5.0"
+      },
+      {
+        "from": "nbclient",
+        "specifier": ">=5.0"
+      },
+      {
+        "from": "jupyter-cache",
+        "specifier": ""
+      }
+    ]
+  },
+  "myst-parser": {
+    "version": "0.18.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.18.0"
+      }
+    ]
+  },
+  "nbclient": {
+    "version": "0.7.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-cache",
+        "specifier": "<0.6,>=0.2"
+      }
+    ]
+  },
+  "jupyter-cache": {
+    "version": "0.5.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.5.0"
+      }
+    ]
+  },
+  "ipython": {
+    "version": "8.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "ipykernel",
+        "specifier": ">=7.23.1"
+      }
+    ]
+  },
+  "traitlets": {
+    "version": "5.5.0",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ">=5.1.0"
+      },
+      {
+        "from": "nbformat",
+        "specifier": ">=5.1"
+      },
+      {
+        "from": "nbclient",
+        "specifier": ">=5.2.2"
+      },
+      {
+        "from": "ipython",
+        "specifier": ">=5"
+      },
+      {
+        "from": "matplotlib-inline",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "tornado": {
+    "version": "6.2",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ">=6.1"
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ">=6.2"
+      }
+    ]
+  },
+  "pyzmq": {
+    "version": "24.0.1",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ">=17"
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ">=23.0"
+      }
+    ]
+  },
+  "psutil": {
+    "version": "5.9.4",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ""
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ""
+      },
+      {
+        "from": "sphinx",
+        "specifier": ">=21.0"
+      }
+    ]
+  },
+  "nest-asyncio": {
+    "version": "1.5.6",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ""
+      },
+      {
+        "from": "nbclient",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ">=1.5.4"
+      }
+    ]
+  },
+  "matplotlib-inline": {
+    "version": "0.1.3",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ">=0.1"
+      },
+      {
+        "from": "ipython",
+        "specifier": ""
+      }
+    ]
+  },
+  "jupyter-client": {
+    "version": "7.4.5",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ">=6.1.12"
+      },
+      {
+        "from": "nbclient",
+        "specifier": ">=6.1.5"
+      }
+    ]
+  },
+  "debugpy": {
+    "version": "1.6.3",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ">=1.0"
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=4.8"
+      },
+      {
+        "from": "jupyter-cache",
+        "specifier": ""
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=2.5.0"
+      }
+    ]
+  },
+  "imagesize": {
+    "version": "1.4.1",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=1.3"
+      }
+    ]
+  },
+  "alabaster": {
+    "version": "0.7.12",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": "<0.8,>=0.7"
+      }
+    ]
+  },
+  "babel": {
+    "version": "2.11.0",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=2.9"
+      }
+    ]
+  },
+  "snowballstemmer": {
+    "version": "2.2.0",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "docutils": {
+    "version": "0.19",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": "<0.20,>=0.14"
+      },
+      {
+        "from": "myst-parser",
+        "specifier": "<0.20,>=0.15"
+      }
+    ]
+  },
+  "Pygments": {
+    "version": "2.13.0",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=2.12"
+      }
+    ]
+  },
+  "Jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=3.0"
+      }
+    ]
+  },
+  "sphinxcontrib-qthelp": {
+    "version": "1.0.2",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ""
+      }
+    ]
+  },
+  "sphinxcontrib-serializinghtml": {
+    "version": "1.1.5",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=1.1.5"
+      }
+    ]
+  },
+  "sphinxcontrib-htmlhelp": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "sphinxcontrib-jsmath": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ""
+      }
+    ]
+  },
+  "sphinxcontrib-devhelp": {
+    "version": "1.0.2",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ""
+      }
+    ]
+  },
+  "sphinxcontrib-applehelp": {
+    "version": "1.0.2",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ""
+      }
+    ]
+  },
+  "jupyter-core": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "nbformat",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ">=4.9.2"
+      }
+    ]
+  },
+  "jsonschema": {
+    "version": "4.17.0",
+    "constraints": [
+      {
+        "from": "nbformat",
+        "specifier": ">=2.6"
+      }
+    ]
+  },
+  "fastjsonschema": {
+    "version": "2.15.3",
+    "constraints": [
+      {
+        "from": "nbformat",
+        "specifier": ""
+      }
+    ]
+  },
+  "mdit-py-plugins": {
+    "version": "0.3.1",
+    "constraints": [
+      {
+        "from": "myst-parser",
+        "specifier": "~=0.3.1"
+      }
+    ]
+  },
+  "markdown-it-py": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "myst-parser",
+        "specifier": "<3.0.0,>=1.0.0"
+      },
+      {
+        "from": "mdit-py-plugins",
+        "specifier": "<3.0.0,>=1.0.0"
+      }
+    ]
+  },
+  "jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "myst-parser",
+        "specifier": ""
+      }
+    ]
+  },
+  "tabulate": {
+    "version": "0.9.0",
+    "constraints": [
+      {
+        "from": "jupyter-cache",
+        "specifier": ""
+      }
+    ]
+  },
+  "sqlalchemy": {
+    "version": "1.4.43",
+    "constraints": [
+      {
+        "from": "jupyter-cache",
+        "specifier": "<1.5,>=1.3.12"
+      }
+    ]
+  },
+  "click": {
+    "version": "8.1.3",
+    "constraints": [
+      {
+        "from": "jupyter-cache",
+        "specifier": ""
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "jupyter-cache",
+        "specifier": ""
+      },
+      {
+        "from": "jsonschema",
+        "specifier": ">=17.4.0"
+      }
+    ]
+  },
+  "pexpect": {
+    "version": "4.8.0",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ">4.3"
+      }
+    ]
+  },
+  "stack-data": {
+    "version": "0.6.0",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ""
+      }
+    ]
+  },
+  "pygments": {
+    "version": "2.13.0",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ">=2.4.0"
+      }
+    ]
+  },
+  "prompt-toolkit": {
+    "version": "3.0.32",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": "<3.1.0,>3.0.1"
+      }
+    ]
+  },
+  "pickleshare": {
+    "version": "0.7.5",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ""
+      }
+    ]
+  },
+  "jedi": {
+    "version": "0.18.1",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ">=0.16"
+      }
+    ]
+  },
+  "decorator": {
+    "version": "5.1.1",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ""
+      }
+    ]
+  },
+  "backcall": {
+    "version": "0.2.0",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "jupyter-client",
+        "specifier": ">=2.8.2"
+      }
+    ]
+  },
+  "entrypoints": {
+    "version": "0.4",
+    "constraints": [
+      {
+        "from": "jupyter-client",
+        "specifier": ""
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "babel",
+        "specifier": ">=2015.7"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "Jinja2",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "jinja2",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "platformdirs": {
+    "version": "2.5.3",
+    "constraints": [
+      {
+        "from": "jupyter-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyrsistent": {
+    "version": "0.19.2",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": "!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0"
+      }
+    ]
+  },
+  "mdurl": {
+    "version": "0.1.2",
+    "constraints": [
+      {
+        "from": "markdown-it-py",
+        "specifier": "~=0.1"
+      }
+    ]
+  },
+  "greenlet": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "sqlalchemy",
+        "specifier": "!=0.4.17"
+      }
+    ]
+  },
+  "ptyprocess": {
+    "version": "0.6.0",
+    "constraints": [
+      {
+        "from": "pexpect",
+        "specifier": ">=0.5"
+      }
+    ]
+  },
+  "pure-eval": {
+    "version": "0.2.1",
+    "constraints": [
+      {
+        "from": "stack-data",
+        "specifier": ""
+      }
+    ]
+  },
+  "asttokens": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "stack-data",
+        "specifier": ">=2.1.0"
+      }
+    ]
+  },
+  "executing": {
+    "version": "1.2.0",
+    "constraints": [
+      {
+        "from": "stack-data",
+        "specifier": ">=1.2.0"
+      }
+    ]
+  },
+  "wcwidth": {
+    "version": "0.2.5",
+    "constraints": [
+      {
+        "from": "prompt-toolkit",
+        "specifier": ""
+      }
+    ]
+  },
+  "parso": {
+    "version": "0.8.3",
+    "constraints": [
+      {
+        "from": "jedi",
+        "specifier": "<0.9.0,>=0.8.0"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      },
+      {
+        "from": "asttokens",
+        "specifier": ""
+      }
+    ]
+  }
+}

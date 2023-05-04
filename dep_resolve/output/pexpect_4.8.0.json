@@ -1,0 +1,11 @@
+{
+  "ptyprocess": {
+    "version": "0.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "dbfread": {
+    "version": "2.0.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.0.5"
+      }
+    ]
+  },
+  "agate": {
+    "version": "1.6.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.5.0"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "agate",
+        "specifier": ">=1.9.0"
+      },
+      {
+        "from": "leather",
+        "specifier": ">=1.6.1"
+      },
+      {
+        "from": "isodate",
+        "specifier": ""
+      }
+    ]
+  },
+  "pytimeparse": {
+    "version": "1.1.8",
+    "constraints": [
+      {
+        "from": "agate",
+        "specifier": ">=1.1.5"
+      }
+    ]
+  },
+  "python-slugify": {
+    "version": "6.1.2",
+    "constraints": [
+      {
+        "from": "agate",
+        "specifier": ">=1.2.1"
+      }
+    ]
+  },
+  "parsedatetime": {
+    "version": "2.4",
+    "constraints": [
+      {
+        "from": "agate",
+        "specifier": "!=2.5,!=2.6,>=2.1"
+      }
+    ]
+  },
+  "leather": {
+    "version": "0.3.4",
+    "constraints": [
+      {
+        "from": "agate",
+        "specifier": ">=0.3.2"
+      }
+    ]
+  },
+  "isodate": {
+    "version": "0.6.1",
+    "constraints": [
+      {
+        "from": "agate",
+        "specifier": ">=0.5.4"
+      }
+    ]
+  },
+  "Babel": {
+    "version": "2.11.0",
+    "constraints": [
+      {
+        "from": "agate",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "text-unidecode": {
+    "version": "1.3",
+    "constraints": [
+      {
+        "from": "python-slugify",
+        "specifier": ">=1.3"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "Babel",
+        "specifier": ">=2015.7"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "protobuf": {
+    "version": "3.20.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4,>=3.13.0"
+      }
+    ]
+  }
+}

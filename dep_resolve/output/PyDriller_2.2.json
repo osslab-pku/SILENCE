@@ -1,0 +1,56 @@
+{
+  "lizard": {
+    "version": "1.17.10",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "types-pytz": {
+    "version": "2022.6.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "gitpython": {
+    "version": "3.1.28",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "gitdb": {
+    "version": "4.0.9",
+    "constraints": [
+      {
+        "from": "gitpython",
+        "specifier": "<5,>=4.0.1"
+      }
+    ]
+  },
+  "smmap": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "gitdb",
+        "specifier": "<6,>=3.0.1"
+      }
+    ]
+  }
+}

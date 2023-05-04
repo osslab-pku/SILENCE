@@ -1,0 +1,20 @@
+{
+  "colorama": {
+    "version": "0.4.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

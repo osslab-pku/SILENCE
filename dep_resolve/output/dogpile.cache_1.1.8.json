@@ -1,0 +1,29 @@
+{
+  "stevedore": {
+    "version": "4.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  },
+  "decorator": {
+    "version": "5.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=4.0.0"
+      }
+    ]
+  },
+  "pbr": {
+    "version": "5.11.0",
+    "constraints": [
+      {
+        "from": "stevedore",
+        "specifier": "!=2.1.0,>=2.0.0"
+      }
+    ]
+  }
+}

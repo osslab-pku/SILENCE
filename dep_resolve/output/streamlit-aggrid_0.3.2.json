@@ -1,0 +1,457 @@
+{
+  "python-decouple": {
+    "version": "3.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4.0,>=3.6"
+      }
+    ]
+  },
+  "pandas": {
+    "version": "1.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.2"
+      },
+      {
+        "from": "streamlit",
+        "specifier": ">=0.21.0"
+      },
+      {
+        "from": "altair",
+        "specifier": ">=0.18"
+      }
+    ]
+  },
+  "streamlit": {
+    "version": "1.14.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.87.0"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=1.20.3"
+      },
+      {
+        "from": "streamlit",
+        "specifier": ""
+      },
+      {
+        "from": "pydeck",
+        "specifier": ">=1.16.4"
+      },
+      {
+        "from": "pyarrow",
+        "specifier": ">=1.16.6"
+      },
+      {
+        "from": "altair",
+        "specifier": ""
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2020.1"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2.8.1"
+      },
+      {
+        "from": "streamlit",
+        "specifier": ""
+      }
+    ]
+  },
+  "watchdog": {
+    "version": "2.1.9",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ""
+      }
+    ]
+  },
+  "tornado": {
+    "version": "6.2",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=5.0"
+      }
+    ]
+  },
+  "pydeck": {
+    "version": "0.8.0",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=0.1.dev5"
+      }
+    ]
+  },
+  "gitpython": {
+    "version": "3.1.28",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": "!=3.1.19"
+      }
+    ]
+  },
+  "validators": {
+    "version": "0.20.0",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=0.2"
+      }
+    ]
+  },
+  "tzlocal": {
+    "version": "4.2",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=1.1"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=3.10.0.0"
+      }
+    ]
+  },
+  "toml": {
+    "version": "0.10.2",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ""
+      }
+    ]
+  },
+  "semver": {
+    "version": "2.13.0",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ""
+      }
+    ]
+  },
+  "rich": {
+    "version": "12.6.0",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=10.11.0"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=2.4"
+      }
+    ]
+  },
+  "pympler": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=0.9"
+      }
+    ]
+  },
+  "pyarrow": {
+    "version": "10.0.0",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=4.0"
+      }
+    ]
+  },
+  "protobuf": {
+    "version": "3.20.3",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": "<4,>=3.12"
+      }
+    ]
+  },
+  "pillow": {
+    "version": "9.3.0",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=6.2.0"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=14.1"
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=1.4"
+      }
+    ]
+  },
+  "click": {
+    "version": "8.1.3",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=7.0"
+      }
+    ]
+  },
+  "cachetools": {
+    "version": "5.2.0",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=4.0"
+      }
+    ]
+  },
+  "blinker": {
+    "version": "1.4",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "altair": {
+    "version": "4.2.0",
+    "constraints": [
+      {
+        "from": "streamlit",
+        "specifier": ">=3.2.0"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      }
+    ]
+  },
+  "jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "pydeck",
+        "specifier": ">=2.10.1"
+      },
+      {
+        "from": "altair",
+        "specifier": ""
+      }
+    ]
+  },
+  "gitdb": {
+    "version": "4.0.9",
+    "constraints": [
+      {
+        "from": "gitpython",
+        "specifier": "<5,>=4.0.1"
+      }
+    ]
+  },
+  "pytz-deprecation-shim": {
+    "version": "0.1.0.post0",
+    "constraints": [
+      {
+        "from": "tzlocal",
+        "specifier": ""
+      }
+    ]
+  },
+  "commonmark": {
+    "version": "0.9.1",
+    "constraints": [
+      {
+        "from": "rich",
+        "specifier": "<0.10.0,>=0.9.0"
+      }
+    ]
+  },
+  "pygments": {
+    "version": "2.13.0",
+    "constraints": [
+      {
+        "from": "rich",
+        "specifier": "<3.0.0,>=2.6.0"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  },
+  "toolz": {
+    "version": "0.12.0",
+    "constraints": [
+      {
+        "from": "altair",
+        "specifier": ""
+      }
+    ]
+  },
+  "jsonschema": {
+    "version": "4.17.0",
+    "constraints": [
+      {
+        "from": "altair",
+        "specifier": ">=3.0"
+      }
+    ]
+  },
+  "entrypoints": {
+    "version": "0.4",
+    "constraints": [
+      {
+        "from": "altair",
+        "specifier": ""
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "jinja2",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "smmap": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "gitdb",
+        "specifier": "<6,>=3.0.1"
+      }
+    ]
+  },
+  "tzdata": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "pytz-deprecation-shim",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyrsistent": {
+    "version": "0.19.2",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": "!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": ">=17.4.0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+snuggs==1.4.6
+  - numpy [required: Any, installed: 1.24.3]
+  - pyparsing [required: >=2.1.6, installed: 3.0.9]
+

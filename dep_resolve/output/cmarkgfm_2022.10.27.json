@@ -1,0 +1,20 @@
+{
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.15.0"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  }
+}

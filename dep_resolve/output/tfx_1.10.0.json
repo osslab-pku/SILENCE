@@ -1,0 +1,1993 @@
+{
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5,>=3.10.0.2"
+      },
+      {
+        "from": "tensorflow",
+        "specifier": ">=3.6.6"
+      }
+    ]
+  },
+  "tensorflow-serving-api": {
+    "version": "2.10.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,<3,>=1.15"
+      }
+    ]
+  },
+  "tensorflow-model-analysis": {
+    "version": "0.41.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.42.0,>=0.41.0"
+      }
+    ]
+  },
+  "tensorflow-hub": {
+    "version": "0.12.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.13,>=0.9.0"
+      }
+    ]
+  },
+  "tensorflow": {
+    "version": "2.9.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,<2.10,>=1.15.5"
+      },
+      {
+        "from": "tensorflow-serving-api",
+        "specifier": "<3,>=2.10.0"
+      },
+      {
+        "from": "tensorflow-model-analysis",
+        "specifier": "!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,<3,>=1.15.5"
+      }
+    ]
+  },
+  "pyyaml": {
+    "version": "5.4.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<6,>=3.12"
+      },
+      {
+        "from": "kubernetes",
+        "specifier": ">=3.12"
+      }
+    ]
+  },
+  "pyarrow": {
+    "version": "6.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<7,>=6"
+      },
+      {
+        "from": "tensorflow-model-analysis",
+        "specifier": "<7,>=6"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2,>=1.16"
+      },
+      {
+        "from": "tensorflow-model-analysis",
+        "specifier": "<2,>=1.16"
+      },
+      {
+        "from": "tensorflow-hub",
+        "specifier": ">=1.12.0"
+      },
+      {
+        "from": "tensorflow",
+        "specifier": ">=1.20"
+      },
+      {
+        "from": "pyarrow",
+        "specifier": ">=1.16.6"
+      },
+      {
+        "from": "keras-tuner",
+        "specifier": ""
+      },
+      {
+        "from": "scipy",
+        "specifier": "<1.26.0,>=1.18.5"
+      },
+      {
+        "from": "pandas",
+        "specifier": ">=1.20.3"
+      },
+      {
+        "from": "tensorboard",
+        "specifier": ">=1.12.0"
+      },
+      {
+        "from": "opt-einsum",
+        "specifier": ">=1.7"
+      },
+      {
+        "from": "keras-preprocessing",
+        "specifier": ">=1.9.1"
+      },
+      {
+        "from": "h5py",
+        "specifier": ">=1.14.5"
+      }
+    ]
+  },
+  "kubernetes": {
+    "version": "12.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<13,>=10.0.1"
+      }
+    ]
+  },
+  "keras-tuner": {
+    "version": "1.1.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2,>=1.0.4"
+      }
+    ]
+  },
+  "grpcio": {
+    "version": "1.50.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2,>=1.28.1"
+      },
+      {
+        "from": "tensorflow-serving-api",
+        "specifier": "<2,>=1.0"
+      },
+      {
+        "from": "tensorflow",
+        "specifier": "<2.0,>=1.24.3"
+      },
+      {
+        "from": "google-cloud-bigquery",
+        "specifier": "<2.0dev,>=1.38.1"
+      },
+      {
+        "from": "ml-metadata",
+        "specifier": "<2,>=1.8.6"
+      },
+      {
+        "from": "tensorboard",
+        "specifier": ">=1.24.3"
+      },
+      {
+        "from": "grpc-google-iam-v1",
+        "specifier": "<2.0.0dev,>=1.0.0"
+      }
+    ]
+  },
+  "google-cloud-bigquery": {
+    "version": "2.34.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3,>=2.26.0"
+      },
+      {
+        "from": "google-cloud-aiplatform",
+        "specifier": "<3.0.0dev,>=1.15.0"
+      }
+    ]
+  },
+  "google-cloud-aiplatform": {
+    "version": "1.18.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2,>=1.6.2"
+      }
+    ]
+  },
+  "google-api-core": {
+    "version": "1.31.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.33"
+      },
+      {
+        "from": "google-api-python-client",
+        "specifier": "<3dev,>=1.21.0"
+      },
+      {
+        "from": "google-cloud-core",
+        "specifier": "!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.6"
+      },
+      {
+        "from": "google-cloud-storage",
+        "specifier": "!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.5"
+      }
+    ]
+  },
+  "click": {
+    "version": "7.1.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<8,>=7"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "21.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<22,>=19.3.0"
+      },
+      {
+        "from": "tensorflow-model-analysis",
+        "specifier": "<22,>=19.3.0"
+      },
+      {
+        "from": "ml-metadata",
+        "specifier": "<22,>=20.3"
+      },
+      {
+        "from": "jsonschema",
+        "specifier": ">=17.4.0"
+      }
+    ]
+  },
+  "jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4,>=2.7.3"
+      },
+      {
+        "from": "ml-pipelines-sdk",
+        "specifier": "<4,>=2.7.3"
+      },
+      {
+        "from": "notebook",
+        "specifier": ""
+      },
+      {
+        "from": "nbclassic",
+        "specifier": ""
+      },
+      {
+        "from": "nbconvert",
+        "specifier": ">=3.0"
+      },
+      {
+        "from": "jupyter-server",
+        "specifier": ""
+      }
+    ]
+  },
+  "google-api-python-client": {
+    "version": "1.12.11",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2,>=1.8"
+      },
+      {
+        "from": "ml-pipelines-sdk",
+        "specifier": "<2,>=1.8"
+      }
+    ]
+  },
+  "google-apitools": {
+    "version": "0.5.32",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1,>=0.5"
+      },
+      {
+        "from": "ml-pipelines-sdk",
+        "specifier": "<1,>=0.5"
+      }
+    ]
+  },
+  "docker": {
+    "version": "4.4.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5,>=4.1"
+      },
+      {
+        "from": "ml-pipelines-sdk",
+        "specifier": "<5,>=4.1"
+      }
+    ]
+  },
+  "protobuf": {
+    "version": "3.20.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4,>=3.13"
+      },
+      {
+        "from": "tensorflow-serving-api",
+        "specifier": ">=3.6.0"
+      },
+      {
+        "from": "tensorflow-model-analysis",
+        "specifier": "<4,>=3.13"
+      },
+      {
+        "from": "tensorflow-hub",
+        "specifier": ">=3.8.0"
+      },
+      {
+        "from": "tensorflow",
+        "specifier": "<3.20,>=3.9.2"
+      },
+      {
+        "from": "google-cloud-bigquery",
+        "specifier": "<4.0.0dev,>=3.12.0"
+      },
+      {
+        "from": "google-cloud-aiplatform",
+        "specifier": "!=3.20.0,!=3.20.1,!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<5.0.0dev,>=3.19.5"
+      },
+      {
+        "from": "google-api-core",
+        "specifier": ">=3.12.0"
+      },
+      {
+        "from": "ml-metadata",
+        "specifier": "<4,>=3.13"
+      },
+      {
+        "from": "ml-pipelines-sdk",
+        "specifier": "<4,>=3.13"
+      },
+      {
+        "from": "tensorflow-metadata",
+        "specifier": "<4,>=3.13"
+      },
+      {
+        "from": "tensorboard",
+        "specifier": "<3.20,>=3.9.2"
+      },
+      {
+        "from": "proto-plus",
+        "specifier": "<5.0.0dev,>=3.19.0"
+      },
+      {
+        "from": "google-cloud-resource-manager",
+        "specifier": "<5.0.0dev,>=3.20.2"
+      },
+      {
+        "from": "googleapis-common-protos",
+        "specifier": "<5.0.0dev,>=3.15.0"
+      }
+    ]
+  },
+  "portpicker": {
+    "version": "1.5.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2,>=1.3.1"
+      },
+      {
+        "from": "ml-pipelines-sdk",
+        "specifier": "<2,>=1.3.1"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "20.9",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<21,>=20"
+      },
+      {
+        "from": "tensorflow",
+        "specifier": ""
+      },
+      {
+        "from": "keras-tuner",
+        "specifier": ""
+      },
+      {
+        "from": "google-cloud-bigquery",
+        "specifier": "<22.0dev,>=14.3"
+      },
+      {
+        "from": "google-cloud-aiplatform",
+        "specifier": "<22.0.0dev,>=14.3"
+      },
+      {
+        "from": "google-api-core",
+        "specifier": ">=14.3"
+      },
+      {
+        "from": "ml-pipelines-sdk",
+        "specifier": "<21,>=20"
+      },
+      {
+        "from": "ipykernel",
+        "specifier": ""
+      },
+      {
+        "from": "nbconvert",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-server",
+        "specifier": ""
+      }
+    ]
+  },
+  "ml-metadata": {
+    "version": "1.10.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.11.0,>=1.10.0"
+      },
+      {
+        "from": "ml-pipelines-sdk",
+        "specifier": "<1.11.0,>=1.10.0"
+      }
+    ]
+  },
+  "absl-py": {
+    "version": "1.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=0.9"
+      },
+      {
+        "from": "tensorflow-model-analysis",
+        "specifier": "<2.0.0,>=0.9"
+      },
+      {
+        "from": "tensorflow",
+        "specifier": ">=1.0.0"
+      },
+      {
+        "from": "ml-metadata",
+        "specifier": "<2.0.0,>=0.9"
+      },
+      {
+        "from": "ml-pipelines-sdk",
+        "specifier": "<2.0.0,>=0.9"
+      },
+      {
+        "from": "tensorflow-metadata",
+        "specifier": "<2.0.0,>=0.9"
+      },
+      {
+        "from": "tensorboard",
+        "specifier": ">=0.4"
+      }
+    ]
+  },
+  "ml-pipelines-sdk": {
+    "version": "1.10.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==1.10.0"
+      }
+    ]
+  },
+  "tensorflow-metadata": {
+    "version": "1.10.0",
+    "constraints": [
+      {
+        "from": "tensorflow-model-analysis",
+        "specifier": "<1.11.0,>=1.10.0"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "tensorflow-model-analysis",
+        "specifier": "<2,>=1.12"
+      },
+      {
+        "from": "tensorflow",
+        "specifier": ">=1.12.0"
+      },
+      {
+        "from": "kubernetes",
+        "specifier": ">=1.9.0"
+      },
+      {
+        "from": "grpcio",
+        "specifier": ">=1.5.2"
+      },
+      {
+        "from": "google-api-core",
+        "specifier": ">=1.13.0"
+      },
+      {
+        "from": "google-api-python-client",
+        "specifier": "<2dev,>=1.13.0"
+      },
+      {
+        "from": "google-apitools",
+        "specifier": ">=1.12.0"
+      },
+      {
+        "from": "docker",
+        "specifier": ">=1.4.0"
+      },
+      {
+        "from": "ml-metadata",
+        "specifier": "<2,>=1.10"
+      },
+      {
+        "from": "keras-preprocessing",
+        "specifier": ">=1.9.0"
+      },
+      {
+        "from": "google-pasta",
+        "specifier": ""
+      },
+      {
+        "from": "astunparse",
+        "specifier": "<2.0,>=1.6.1"
+      },
+      {
+        "from": "google-auth",
+        "specifier": ">=1.9.0"
+      },
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      },
+      {
+        "from": "google-auth-httplib2",
+        "specifier": ""
+      },
+      {
+        "from": "oauth2client",
+        "specifier": ">=1.6.1"
+      },
+      {
+        "from": "bleach",
+        "specifier": ">=1.9.0"
+      }
+    ]
+  },
+  "scipy": {
+    "version": "1.9.3",
+    "constraints": [
+      {
+        "from": "tensorflow-model-analysis",
+        "specifier": "<2,>=1.4.1"
+      }
+    ]
+  },
+  "pandas": {
+    "version": "1.5.1",
+    "constraints": [
+      {
+        "from": "tensorflow-model-analysis",
+        "specifier": "<2,>=1.0"
+      }
+    ]
+  },
+  "ipywidgets": {
+    "version": "7.7.1",
+    "constraints": [
+      {
+        "from": "tensorflow-model-analysis",
+        "specifier": "<8,>=7"
+      }
+    ]
+  },
+  "ipython": {
+    "version": "7.34.0",
+    "constraints": [
+      {
+        "from": "tensorflow-model-analysis",
+        "specifier": "<8,>=7"
+      },
+      {
+        "from": "keras-tuner",
+        "specifier": ""
+      },
+      {
+        "from": "ipywidgets",
+        "specifier": ">=4.0.0"
+      },
+      {
+        "from": "ipykernel",
+        "specifier": ">=7.23.1"
+      }
+    ]
+  },
+  "keras": {
+    "version": "2.9.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": "<2.10.0,>=2.9.0rc0"
+      }
+    ]
+  },
+  "tensorflow-estimator": {
+    "version": "2.9.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": "<2.10.0,>=2.9.0rc0"
+      }
+    ]
+  },
+  "tensorboard": {
+    "version": "2.9.1",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": "<2.10,>=2.9"
+      },
+      {
+        "from": "keras-tuner",
+        "specifier": ""
+      }
+    ]
+  },
+  "tensorflow-io-gcs-filesystem": {
+    "version": "0.27.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=0.23.1"
+      }
+    ]
+  },
+  "wrapt": {
+    "version": "1.14.1",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=1.11.0"
+      }
+    ]
+  },
+  "termcolor": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ""
+      },
+      {
+        "from": "kubernetes",
+        "specifier": ">=21.0.0"
+      },
+      {
+        "from": "google-api-core",
+        "specifier": ">=40.3.0"
+      },
+      {
+        "from": "ipython",
+        "specifier": ">=18.5"
+      },
+      {
+        "from": "tensorboard",
+        "specifier": ">=41.0.0"
+      }
+    ]
+  },
+  "opt-einsum": {
+    "version": "3.3.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=2.3.2"
+      }
+    ]
+  },
+  "libclang": {
+    "version": "14.0.6",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=13.0.0"
+      }
+    ]
+  },
+  "keras-preprocessing": {
+    "version": "1.1.1",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=1.1.1"
+      }
+    ]
+  },
+  "h5py": {
+    "version": "3.6.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=2.9.0"
+      }
+    ]
+  },
+  "google-pasta": {
+    "version": "0.2.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=0.1.1"
+      }
+    ]
+  },
+  "gast": {
+    "version": "0.4.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": "<=0.4.0,>=0.2.1"
+      }
+    ]
+  },
+  "flatbuffers": {
+    "version": "1.12",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": "<2,>=1.12"
+      }
+    ]
+  },
+  "astunparse": {
+    "version": "1.6.3",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=1.6.0"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "kubernetes",
+        "specifier": ">=1.24.2"
+      },
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "requests-oauthlib": {
+    "version": "1.3.1",
+    "constraints": [
+      {
+        "from": "kubernetes",
+        "specifier": ""
+      },
+      {
+        "from": "google-auth-oauthlib",
+        "specifier": ">=0.7.0"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "kubernetes",
+        "specifier": ""
+      },
+      {
+        "from": "keras-tuner",
+        "specifier": ""
+      },
+      {
+        "from": "google-cloud-bigquery",
+        "specifier": "<3.0.0dev,>=2.18.0"
+      },
+      {
+        "from": "google-api-core",
+        "specifier": "<3.0.0dev,>=2.18.0"
+      },
+      {
+        "from": "docker",
+        "specifier": "!=2.18.0,>=2.14.2"
+      },
+      {
+        "from": "tensorboard",
+        "specifier": "<3,>=2.21.0"
+      },
+      {
+        "from": "requests-oauthlib",
+        "specifier": ">=2.0.0"
+      },
+      {
+        "from": "google-cloud-storage",
+        "specifier": "<3.0.0dev,>=2.18.0"
+      }
+    ]
+  },
+  "websocket-client": {
+    "version": "1.4.2",
+    "constraints": [
+      {
+        "from": "kubernetes",
+        "specifier": "!=0.40.0,!=0.41.*,!=0.42.*,>=0.32.0"
+      },
+      {
+        "from": "docker",
+        "specifier": ">=0.32.0"
+      },
+      {
+        "from": "jupyter-server",
+        "specifier": ""
+      }
+    ]
+  },
+  "google-auth": {
+    "version": "2.14.1",
+    "constraints": [
+      {
+        "from": "kubernetes",
+        "specifier": ">=1.0.1"
+      },
+      {
+        "from": "google-api-core",
+        "specifier": "<2.0dev,>=1.25.0"
+      },
+      {
+        "from": "google-api-python-client",
+        "specifier": "<3dev,>=1.16.0"
+      },
+      {
+        "from": "tensorboard",
+        "specifier": "<3,>=1.6.3"
+      },
+      {
+        "from": "google-cloud-core",
+        "specifier": "<3.0dev,>=1.25.0"
+      },
+      {
+        "from": "google-cloud-storage",
+        "specifier": "<3.0dev,>=1.25.0"
+      },
+      {
+        "from": "google-auth-httplib2",
+        "specifier": ""
+      },
+      {
+        "from": "google-auth-oauthlib",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "kubernetes",
+        "specifier": ">=2.5.3"
+      },
+      {
+        "from": "google-cloud-bigquery",
+        "specifier": "<3.0dev,>=2.7.2"
+      },
+      {
+        "from": "pandas",
+        "specifier": ">=2.8.1"
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ">=2.8.2"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "kubernetes",
+        "specifier": ">=14.05.14"
+      },
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "kt-legacy": {
+    "version": "1.0.4",
+    "constraints": [
+      {
+        "from": "keras-tuner",
+        "specifier": ""
+      }
+    ]
+  },
+  "google-resumable-media": {
+    "version": "2.4.0",
+    "constraints": [
+      {
+        "from": "google-cloud-bigquery",
+        "specifier": "<3.0dev,>=0.6.0"
+      },
+      {
+        "from": "google-cloud-storage",
+        "specifier": ">=2.3.2"
+      }
+    ]
+  },
+  "google-cloud-core": {
+    "version": "2.3.2",
+    "constraints": [
+      {
+        "from": "google-cloud-bigquery",
+        "specifier": "<3.0.0dev,>=1.4.1"
+      },
+      {
+        "from": "google-cloud-storage",
+        "specifier": "<3.0dev,>=2.3.0"
+      }
+    ]
+  },
+  "proto-plus": {
+    "version": "1.22.0",
+    "constraints": [
+      {
+        "from": "google-cloud-bigquery",
+        "specifier": "<2.0.0dev,>=1.15.0"
+      },
+      {
+        "from": "google-cloud-aiplatform",
+        "specifier": "<2.0.0dev,>=1.22.0"
+      },
+      {
+        "from": "google-cloud-resource-manager",
+        "specifier": "<2.0.0dev,>=1.22.0"
+      }
+    ]
+  },
+  "google-cloud-resource-manager": {
+    "version": "1.6.2",
+    "constraints": [
+      {
+        "from": "google-cloud-aiplatform",
+        "specifier": "<3.0.0dev,>=1.3.3"
+      }
+    ]
+  },
+  "google-cloud-storage": {
+    "version": "2.6.0",
+    "constraints": [
+      {
+        "from": "google-cloud-aiplatform",
+        "specifier": "<3.0.0dev,>=1.32.0"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "google-api-core",
+        "specifier": ""
+      },
+      {
+        "from": "pandas",
+        "specifier": ">=2020.1"
+      }
+    ]
+  },
+  "googleapis-common-protos": {
+    "version": "1.56.3",
+    "constraints": [
+      {
+        "from": "google-api-core",
+        "specifier": "<2.0dev,>=1.6.0"
+      },
+      {
+        "from": "tensorflow-metadata",
+        "specifier": "<2,>=1.52.0"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "jinja2",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "werkzeug",
+        "specifier": ">=2.1.1"
+      }
+    ]
+  },
+  "uritemplate": {
+    "version": "3.0.1",
+    "constraints": [
+      {
+        "from": "google-api-python-client",
+        "specifier": "<4dev,>=3.0.0"
+      }
+    ]
+  },
+  "google-auth-httplib2": {
+    "version": "0.1.0",
+    "constraints": [
+      {
+        "from": "google-api-python-client",
+        "specifier": ">=0.0.3"
+      }
+    ]
+  },
+  "httplib2": {
+    "version": "0.21.0",
+    "constraints": [
+      {
+        "from": "google-api-python-client",
+        "specifier": "<1dev,>=0.15.0"
+      },
+      {
+        "from": "google-apitools",
+        "specifier": ">=0.8"
+      },
+      {
+        "from": "google-auth-httplib2",
+        "specifier": ">=0.15.0"
+      },
+      {
+        "from": "oauth2client",
+        "specifier": ">=0.9.1"
+      }
+    ]
+  },
+  "oauth2client": {
+    "version": "4.1.3",
+    "constraints": [
+      {
+        "from": "google-apitools",
+        "specifier": ">=1.4.12"
+      }
+    ]
+  },
+  "fasteners": {
+    "version": "0.17.3",
+    "constraints": [
+      {
+        "from": "google-apitools",
+        "specifier": ">=0.14"
+      }
+    ]
+  },
+  "psutil": {
+    "version": "5.9.4",
+    "constraints": [
+      {
+        "from": "portpicker",
+        "specifier": ""
+      },
+      {
+        "from": "ipykernel",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": ">=2.0.2"
+      },
+      {
+        "from": "httplib2",
+        "specifier": "!=3.0.0,!=3.0.1,!=3.0.2,!=3.0.3,<4,>=2.4.2"
+      }
+    ]
+  },
+  "jupyterlab-widgets": {
+    "version": "3.0.3",
+    "constraints": [
+      {
+        "from": "ipywidgets",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "widgetsnbextension": {
+    "version": "3.6.1",
+    "constraints": [
+      {
+        "from": "ipywidgets",
+        "specifier": "~=3.6.0"
+      }
+    ]
+  },
+  "traitlets": {
+    "version": "5.5.0",
+    "constraints": [
+      {
+        "from": "ipywidgets",
+        "specifier": ">=4.3.1"
+      },
+      {
+        "from": "ipython",
+        "specifier": ">=4.2"
+      },
+      {
+        "from": "ipykernel",
+        "specifier": ">=5.1.0"
+      },
+      {
+        "from": "matplotlib-inline",
+        "specifier": ""
+      },
+      {
+        "from": "notebook",
+        "specifier": ">=4.2.1"
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ""
+      },
+      {
+        "from": "nbclassic",
+        "specifier": ">=4.2.1"
+      },
+      {
+        "from": "nbconvert",
+        "specifier": ">=5.0"
+      },
+      {
+        "from": "nbformat",
+        "specifier": ">=5.1"
+      },
+      {
+        "from": "jupyter-core",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-server",
+        "specifier": ">=5.1"
+      },
+      {
+        "from": "nbclient",
+        "specifier": ">=5.2.2"
+      }
+    ]
+  },
+  "ipykernel": {
+    "version": "6.17.1",
+    "constraints": [
+      {
+        "from": "ipywidgets",
+        "specifier": ">=4.5.1"
+      },
+      {
+        "from": "notebook",
+        "specifier": ""
+      },
+      {
+        "from": "nbclassic",
+        "specifier": ""
+      }
+    ]
+  },
+  "pexpect": {
+    "version": "4.8.0",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ">4.3"
+      }
+    ]
+  },
+  "matplotlib-inline": {
+    "version": "0.1.3",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ""
+      },
+      {
+        "from": "ipykernel",
+        "specifier": ">=0.1"
+      }
+    ]
+  },
+  "backcall": {
+    "version": "0.2.0",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ""
+      }
+    ]
+  },
+  "pygments": {
+    "version": "2.13.0",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ""
+      },
+      {
+        "from": "nbconvert",
+        "specifier": ">=2.4.1"
+      }
+    ]
+  },
+  "prompt-toolkit": {
+    "version": "3.0.32",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": "!=3.0.0,!=3.0.1,<3.1.0,>=2.0.0"
+      }
+    ]
+  },
+  "pickleshare": {
+    "version": "0.7.5",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ""
+      }
+    ]
+  },
+  "decorator": {
+    "version": "5.1.1",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ""
+      }
+    ]
+  },
+  "jedi": {
+    "version": "0.18.1",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ">=0.16"
+      }
+    ]
+  },
+  "wheel": {
+    "version": "0.38.4",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": ">=0.26"
+      },
+      {
+        "from": "astunparse",
+        "specifier": "<1.0,>=0.23.0"
+      }
+    ]
+  },
+  "werkzeug": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "tensorboard-plugin-wit": {
+    "version": "1.8.1",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": ">=1.6.0"
+      }
+    ]
+  },
+  "tensorboard-data-server": {
+    "version": "0.6.1",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": "<0.7.0,>=0.6.0"
+      }
+    ]
+  },
+  "markdown": {
+    "version": "3.3.7",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": ">=2.6.8"
+      }
+    ]
+  },
+  "google-auth-oauthlib": {
+    "version": "0.4.6",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": "<0.5,>=0.4.1"
+      }
+    ]
+  },
+  "oauthlib": {
+    "version": "3.2.2",
+    "constraints": [
+      {
+        "from": "requests-oauthlib",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      },
+      {
+        "from": "anyio",
+        "specifier": ">=2.8"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "rsa": {
+    "version": "4.9",
+    "constraints": [
+      {
+        "from": "google-auth",
+        "specifier": "<5,>=3.1.4"
+      },
+      {
+        "from": "oauth2client",
+        "specifier": ">=3.1.4"
+      }
+    ]
+  },
+  "pyasn1-modules": {
+    "version": "0.2.8",
+    "constraints": [
+      {
+        "from": "google-auth",
+        "specifier": ">=0.2.1"
+      },
+      {
+        "from": "oauth2client",
+        "specifier": ">=0.0.5"
+      }
+    ]
+  },
+  "cachetools": {
+    "version": "5.2.0",
+    "constraints": [
+      {
+        "from": "google-auth",
+        "specifier": "<6.0,>=2.0.0"
+      }
+    ]
+  },
+  "google-crc32c": {
+    "version": "1.5.0",
+    "constraints": [
+      {
+        "from": "google-resumable-media",
+        "specifier": "<2.0dev,>=1.0"
+      }
+    ]
+  },
+  "grpc-google-iam-v1": {
+    "version": "0.12.4",
+    "constraints": [
+      {
+        "from": "google-cloud-resource-manager",
+        "specifier": "<1.0.0dev,>=0.12.4"
+      }
+    ]
+  },
+  "pyasn1": {
+    "version": "0.4.8",
+    "constraints": [
+      {
+        "from": "oauth2client",
+        "specifier": ">=0.1.7"
+      },
+      {
+        "from": "rsa",
+        "specifier": ">=0.1.3"
+      },
+      {
+        "from": "pyasn1-modules",
+        "specifier": "<0.5.0,>=0.4.6"
+      }
+    ]
+  },
+  "notebook": {
+    "version": "6.5.2",
+    "constraints": [
+      {
+        "from": "widgetsnbextension",
+        "specifier": ">=4.4.1"
+      }
+    ]
+  },
+  "tornado": {
+    "version": "6.2",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ">=6.1"
+      },
+      {
+        "from": "notebook",
+        "specifier": ">=6.1"
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ">=6.2"
+      },
+      {
+        "from": "nbclassic",
+        "specifier": ">=6.1"
+      },
+      {
+        "from": "terminado",
+        "specifier": ">=6.1.0"
+      },
+      {
+        "from": "jupyter-server",
+        "specifier": ">=6.1.0"
+      }
+    ]
+  },
+  "pyzmq": {
+    "version": "24.0.1",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ">=17"
+      },
+      {
+        "from": "notebook",
+        "specifier": ">=17"
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ">=23.0"
+      },
+      {
+        "from": "nbclassic",
+        "specifier": ">=17"
+      },
+      {
+        "from": "jupyter-server",
+        "specifier": ">=17"
+      }
+    ]
+  },
+  "nest-asyncio": {
+    "version": "1.5.6",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ""
+      },
+      {
+        "from": "notebook",
+        "specifier": ">=1.5"
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ">=1.5.4"
+      },
+      {
+        "from": "nbclassic",
+        "specifier": ">=1.5"
+      },
+      {
+        "from": "nbclient",
+        "specifier": ""
+      }
+    ]
+  },
+  "jupyter-client": {
+    "version": "7.4.5",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ">=6.1.12"
+      },
+      {
+        "from": "notebook",
+        "specifier": ">=5.3.4"
+      },
+      {
+        "from": "nbclassic",
+        "specifier": ">=6.1.1"
+      },
+      {
+        "from": "jupyter-server",
+        "specifier": ">=6.1.12"
+      },
+      {
+        "from": "nbclient",
+        "specifier": ">=6.1.5"
+      }
+    ]
+  },
+  "debugpy": {
+    "version": "1.6.3",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ">=1.0"
+      }
+    ]
+  },
+  "ptyprocess": {
+    "version": "0.6.0",
+    "constraints": [
+      {
+        "from": "pexpect",
+        "specifier": ">=0.5"
+      },
+      {
+        "from": "terminado",
+        "specifier": ""
+      }
+    ]
+  },
+  "wcwidth": {
+    "version": "0.2.5",
+    "constraints": [
+      {
+        "from": "prompt-toolkit",
+        "specifier": ""
+      }
+    ]
+  },
+  "parso": {
+    "version": "0.8.3",
+    "constraints": [
+      {
+        "from": "jedi",
+        "specifier": "<0.9.0,>=0.8.0"
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "markdown",
+        "specifier": ">=4.4"
+      },
+      {
+        "from": "nbconvert",
+        "specifier": ">=3.6"
+      }
+    ]
+  },
+  "nbclassic": {
+    "version": "0.4.8",
+    "constraints": [
+      {
+        "from": "notebook",
+        "specifier": ">=0.4.7"
+      }
+    ]
+  },
+  "prometheus-client": {
+    "version": "0.14.1",
+    "constraints": [
+      {
+        "from": "notebook",
+        "specifier": ""
+      },
+      {
+        "from": "nbclassic",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-server",
+        "specifier": ""
+      }
+    ]
+  },
+  "terminado": {
+    "version": "0.17.0",
+    "constraints": [
+      {
+        "from": "notebook",
+        "specifier": ">=0.8.3"
+      },
+      {
+        "from": "nbclassic",
+        "specifier": ">=0.8.3"
+      },
+      {
+        "from": "jupyter-server",
+        "specifier": ">=0.8.3"
+      }
+    ]
+  },
+  "nbconvert": {
+    "version": "7.2.4",
+    "constraints": [
+      {
+        "from": "notebook",
+        "specifier": ">=5"
+      },
+      {
+        "from": "nbclassic",
+        "specifier": ">=5"
+      },
+      {
+        "from": "jupyter-server",
+        "specifier": ">=6.4.4"
+      }
+    ]
+  },
+  "nbformat": {
+    "version": "5.7.0",
+    "constraints": [
+      {
+        "from": "notebook",
+        "specifier": ""
+      },
+      {
+        "from": "nbclassic",
+        "specifier": ""
+      },
+      {
+        "from": "nbconvert",
+        "specifier": ">=5.1"
+      },
+      {
+        "from": "jupyter-server",
+        "specifier": ">=5.2.0"
+      },
+      {
+        "from": "nbclient",
+        "specifier": ">=5.0"
+      }
+    ]
+  },
+  "jupyter-core": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "notebook",
+        "specifier": ">=4.6.1"
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ">=4.9.2"
+      },
+      {
+        "from": "nbclassic",
+        "specifier": ">=4.6.1"
+      },
+      {
+        "from": "nbconvert",
+        "specifier": ">=4.7"
+      },
+      {
+        "from": "nbformat",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-server",
+        "specifier": ">=4.7.0"
+      }
+    ]
+  },
+  "argon2-cffi": {
+    "version": "21.3.0",
+    "constraints": [
+      {
+        "from": "notebook",
+        "specifier": ""
+      },
+      {
+        "from": "nbclassic",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-server",
+        "specifier": ""
+      }
+    ]
+  },
+  "entrypoints": {
+    "version": "0.4",
+    "constraints": [
+      {
+        "from": "jupyter-client",
+        "specifier": ""
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  },
+  "notebook-shim": {
+    "version": "0.2.2",
+    "constraints": [
+      {
+        "from": "nbclassic",
+        "specifier": ">=0.1.0"
+      }
+    ]
+  },
+  "jupyter-server": {
+    "version": "1.23.1",
+    "constraints": [
+      {
+        "from": "nbclassic",
+        "specifier": ">=1.8"
+      },
+      {
+        "from": "notebook-shim",
+        "specifier": "<3,>=1.8"
+      }
+    ]
+  },
+  "tinycss2": {
+    "version": "1.2.1",
+    "constraints": [
+      {
+        "from": "nbconvert",
+        "specifier": ""
+      }
+    ]
+  },
+  "pandocfilters": {
+    "version": "1.5.0",
+    "constraints": [
+      {
+        "from": "nbconvert",
+        "specifier": ">=1.4.1"
+      }
+    ]
+  },
+  "nbclient": {
+    "version": "0.7.0",
+    "constraints": [
+      {
+        "from": "nbconvert",
+        "specifier": ">=0.5.0"
+      }
+    ]
+  },
+  "mistune": {
+    "version": "2.0.3",
+    "constraints": [
+      {
+        "from": "nbconvert",
+        "specifier": "<3,>=2.0.3"
+      }
+    ]
+  },
+  "markupsafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "nbconvert",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "jupyterlab-pygments": {
+    "version": "0.2.2",
+    "constraints": [
+      {
+        "from": "nbconvert",
+        "specifier": ""
+      }
+    ]
+  },
+  "defusedxml": {
+    "version": "0.7.1",
+    "constraints": [
+      {
+        "from": "nbconvert",
+        "specifier": ""
+      }
+    ]
+  },
+  "bleach": {
+    "version": "5.0.1",
+    "constraints": [
+      {
+        "from": "nbconvert",
+        "specifier": ""
+      }
+    ]
+  },
+  "beautifulsoup4": {
+    "version": "4.11.1",
+    "constraints": [
+      {
+        "from": "nbconvert",
+        "specifier": ""
+      }
+    ]
+  },
+  "jsonschema": {
+    "version": "4.17.0",
+    "constraints": [
+      {
+        "from": "nbformat",
+        "specifier": ">=2.6"
+      }
+    ]
+  },
+  "fastjsonschema": {
+    "version": "2.15.3",
+    "constraints": [
+      {
+        "from": "nbformat",
+        "specifier": ""
+      }
+    ]
+  },
+  "platformdirs": {
+    "version": "2.5.3",
+    "constraints": [
+      {
+        "from": "jupyter-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "argon2-cffi-bindings": {
+    "version": "21.2.0",
+    "constraints": [
+      {
+        "from": "argon2-cffi",
+        "specifier": ""
+      }
+    ]
+  },
+  "Send2Trash": {
+    "version": "1.7.1",
+    "constraints": [
+      {
+        "from": "jupyter-server",
+        "specifier": ""
+      }
+    ]
+  },
+  "anyio": {
+    "version": "3.6.2",
+    "constraints": [
+      {
+        "from": "jupyter-server",
+        "specifier": "<4,>=3.1.0"
+      }
+    ]
+  },
+  "webencodings": {
+    "version": "0.5",
+    "constraints": [
+      {
+        "from": "tinycss2",
+        "specifier": ">=0.4"
+      },
+      {
+        "from": "bleach",
+        "specifier": ""
+      }
+    ]
+  },
+  "soupsieve": {
+    "version": "2.3.2.post1",
+    "constraints": [
+      {
+        "from": "beautifulsoup4",
+        "specifier": ">1.2"
+      }
+    ]
+  },
+  "pyrsistent": {
+    "version": "0.19.2",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": "!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0"
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "argon2-cffi-bindings",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "sniffio": {
+    "version": "1.3.0",
+    "constraints": [
+      {
+        "from": "anyio",
+        "specifier": ">=1.1"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  }
+}

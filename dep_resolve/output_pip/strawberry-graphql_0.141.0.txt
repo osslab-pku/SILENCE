@@ -1,0 +1,6 @@
+strawberry-graphql==0.141.0
+  - graphql-core [required: >=3.2.0,<3.3.0, installed: 3.2.3]
+  - python-dateutil [required: >=2.7.0,<3.0.0, installed: 2.8.2]
+    - six [required: >=1.5, installed: 1.16.0]
+  - typing-extensions [required: >=3.7.4,<5.0.0, installed: 4.5.0]
+

@@ -1,0 +1,105 @@
+{
+  "tomlkit": {
+    "version": "0.11.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.7"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=20.9"
+      },
+      {
+        "from": "nox",
+        "specifier": ">=20.9"
+      }
+    ]
+  },
+  "nox": {
+    "version": "2022.8.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2020.8.22"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "virtualenv": {
+    "version": "20.16.6",
+    "constraints": [
+      {
+        "from": "nox",
+        "specifier": ">=14"
+      }
+    ]
+  },
+  "py": {
+    "version": "1.11.0",
+    "constraints": [
+      {
+        "from": "nox",
+        "specifier": "<2.0.0,>=1.4"
+      }
+    ]
+  },
+  "colorlog": {
+    "version": "6.5.0",
+    "constraints": [
+      {
+        "from": "nox",
+        "specifier": "<7.0.0,>=2.6.1"
+      }
+    ]
+  },
+  "argcomplete": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "nox",
+        "specifier": "<3.0,>=1.9.4"
+      }
+    ]
+  },
+  "platformdirs": {
+    "version": "2.5.3",
+    "constraints": [
+      {
+        "from": "virtualenv",
+        "specifier": "<3,>=2.4"
+      }
+    ]
+  },
+  "filelock": {
+    "version": "3.8.0",
+    "constraints": [
+      {
+        "from": "virtualenv",
+        "specifier": "<4,>=3.4.1"
+      }
+    ]
+  },
+  "distlib": {
+    "version": "0.3.6",
+    "constraints": [
+      {
+        "from": "virtualenv",
+        "specifier": "<1,>=0.3.6"
+      }
+    ]
+  }
+}

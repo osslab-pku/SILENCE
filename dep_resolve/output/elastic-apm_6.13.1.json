@@ -1,0 +1,29 @@
+{
+  "wrapt": {
+    "version": "1.14.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.14.1"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

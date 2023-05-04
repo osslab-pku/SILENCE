@@ -1,0 +1,24 @@
+{
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "PyLBFGS",
+        "specifier": ">=1.13.1"
+      }
+    ]
+  },
+  "PyLBFGS": {
+    "version": "0.2.0.14",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.1.3"
+      }
+    ]
+  }
+}

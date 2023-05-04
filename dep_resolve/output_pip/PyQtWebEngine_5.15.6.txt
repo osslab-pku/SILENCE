@@ -1,0 +1,7 @@
+PyQtWebEngine==5.15.6
+  - PyQt5 [required: >=5.15.4, installed: 5.15.9]
+    - PyQt5-Qt5 [required: >=5.15.2, installed: 5.15.2]
+    - PyQt5-sip [required: >=12.11,<13, installed: 12.12.1]
+  - PyQt5-sip [required: >=12.11,<13, installed: 12.12.1]
+  - PyQtWebEngine-Qt5 [required: >=5.15.0, installed: 5.15.2]
+

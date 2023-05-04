@@ -1,0 +1,24 @@
+{
+  "rustworkx": {
+    "version": "0.12.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==0.12.0"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.16.0"
+      },
+      {
+        "from": "rustworkx",
+        "specifier": ">=1.16.0"
+      }
+    ]
+  }
+}

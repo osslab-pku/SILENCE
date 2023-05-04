@@ -1,0 +1,16 @@
+paddlepaddle==2.4.0rc0
+  - astor [required: Any, installed: 0.8.1]
+  - decorator [required: Any, installed: 5.1.1]
+  - numpy [required: >=1.13, installed: 1.24.2]
+  - opt-einsum [required: ==3.3.0, installed: 3.3.0]
+    - numpy [required: >=1.7, installed: 1.24.2]
+  - paddle-bfloat [required: ==0.1.7, installed: 0.1.7]
+  - Pillow [required: Any, installed: 9.4.0]
+  - protobuf [required: >=3.1.0,<=3.20.0, installed: 3.20.0]
+  - requests [required: >=2.20.0, installed: 2.28.2]
+    - certifi [required: >=2017.4.17, installed: 2022.12.7]
+    - charset-normalizer [required: >=2,<4, installed: 3.1.0]
+    - idna [required: >=2.5,<4, installed: 3.4]
+    - urllib3 [required: >=1.21.1,<1.27, installed: 1.26.14]
+  - six [required: Any, installed: 1.16.0]
+

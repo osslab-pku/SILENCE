@@ -1,0 +1,4 @@
+pytesseract==0.3.9
+  - packaging [required: >=21.3, installed: 23.1]
+  - Pillow [required: >=8.0.0, installed: 9.5.0]
+

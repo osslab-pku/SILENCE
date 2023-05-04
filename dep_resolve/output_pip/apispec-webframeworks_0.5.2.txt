@@ -1,0 +1,4 @@
+apispec-webframeworks==0.5.2
+  - apispec [required: >=2.0.0, installed: 6.3.0]
+    - packaging [required: >=21.3, installed: 23.1]
+

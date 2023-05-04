@@ -1,0 +1,9 @@
+gevent-websocket==0.10.1
+  - gevent [required: Any, installed: 22.10.2]
+    - greenlet [required: >=2.0.0, installed: 2.0.2]
+    - setuptools [required: Any, installed: 66.0.0]
+    - zope.event [required: Any, installed: 4.6]
+      - setuptools [required: Any, installed: 66.0.0]
+    - zope.interface [required: Any, installed: 6.0]
+      - setuptools [required: Any, installed: 66.0.0]
+

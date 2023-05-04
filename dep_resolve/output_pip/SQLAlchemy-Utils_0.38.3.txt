@@ -1,0 +1,5 @@
+SQLAlchemy-Utils==0.38.3
+  - SQLAlchemy [required: >=1.3, installed: 2.0.10]
+    - greenlet [required: !=0.4.17, installed: 2.0.2]
+    - typing-extensions [required: >=4.2.0, installed: 4.5.0]
+

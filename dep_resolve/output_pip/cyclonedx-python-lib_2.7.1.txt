@@ -1,0 +1,6 @@
+cyclonedx-python-lib==2.7.1
+  - packageurl-python [required: >=0.9, installed: 0.11.1]
+  - setuptools [required: >=47.0.0, installed: 66.0.0]
+  - sortedcontainers [required: >=2.4.0,<3.0.0, installed: 2.4.0]
+  - toml [required: >=0.10.0,<0.11.0, installed: 0.10.2]
+

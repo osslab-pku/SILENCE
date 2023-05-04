@@ -1,0 +1,5 @@
+jupyter-server-terminals==0.3.2
+  - terminado [required: >=0.8.3, installed: 0.17.1]
+    - ptyprocess [required: Any, installed: 0.7.0]
+    - tornado [required: >=6.1.0, installed: 6.3.1]
+

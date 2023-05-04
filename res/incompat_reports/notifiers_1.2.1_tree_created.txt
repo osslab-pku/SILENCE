@@ -1,0 +1,14 @@
+notifiers 1.2.1 (MIT) has 1 incompatibilities in [tree_created]:
+notifiers 
+  rfc3987 1.3.8 (INCOMPATIBLE! HAS GPL-3.0-or-later) [notifiers (>=1.3.8)]
+  click 7.0 [notifiers (>=7.0)]
+  jsonschema 3.0.2 [notifiers (>=3.0.0)]
+    six 1.12.0 [jsonschema (>=1.11.0)]
+    setuptools 41.2.0 [jsonschema ()]
+    pyrsistent 0.15.3 [jsonschema (>=0.14.0)]
+    attrs 19.2.0 [jsonschema (>=17.4.0)]
+  requests 2.22.0 [notifiers (>=2.21.0)]
+    certifi 2019.9.11 [requests (>=2017.4.17)]
+    urllib3 1.25.6 [requests (!=1.25.0,!=1.25.1,<1.26,>=1.21.1)]
+    idna 2.8 [requests (<2.9,>=2.5)]
+    chardet 3.0.4 [requests (<3.1.0,>=3.0.2)]

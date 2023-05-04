@@ -1,0 +1,1731 @@
+{
+  "webexteamssdk": {
+    "version": "1.6.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.7.0,>=1.1.1"
+      }
+    ]
+  },
+  "ujson": {
+    "version": "5.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<6.0,>=1.35"
+      },
+      {
+        "from": "sanic",
+        "specifier": ">=1.35"
+      }
+    ]
+  },
+  "typing-utils": {
+    "version": "0.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.2.0,>=0.1.0"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5.0.0,>=3.7.4"
+      },
+      {
+        "from": "tensorflow",
+        "specifier": ">=3.6.6"
+      },
+      {
+        "from": "rasa-sdk",
+        "specifier": "<5.0.0,>=3.7.4"
+      },
+      {
+        "from": "pydantic",
+        "specifier": ">=4.1.0"
+      }
+    ]
+  },
+  "twilio": {
+    "version": "7.14.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<7.15,>=6.26"
+      }
+    ]
+  },
+  "tqdm": {
+    "version": "4.64.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5.0,>=4.31"
+      },
+      {
+        "from": "spacy",
+        "specifier": "<5.0.0,>=4.38.0"
+      }
+    ]
+  },
+  "terminaltables": {
+    "version": "3.1.10",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.2.0,>=3.1.0"
+      }
+    ]
+  },
+  "tensorflow-text": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.9.0,>=2.8.0"
+      }
+    ]
+  },
+  "tensorflow-addons": {
+    "version": "0.17.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.18.0,>=0.17.0"
+      }
+    ]
+  },
+  "tensorflow": {
+    "version": "2.8.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.9.0,>=2.8.2"
+      },
+      {
+        "from": "tensorflow-text",
+        "specifier": "<2.9,>=2.8.0"
+      }
+    ]
+  },
+  "tarsafe": {
+    "version": "0.0.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.0.4,>=0.0.3"
+      }
+    ]
+  },
+  "spacy": {
+    "version": "3.4.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.5,>=3.1"
+      }
+    ]
+  },
+  "slackclient": {
+    "version": "2.9.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0.0,>=2.0.0"
+      }
+    ]
+  },
+  "sklearn-crfsuite": {
+    "version": "0.3.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.4,>=0.3"
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=41.0.0"
+      },
+      {
+        "from": "tensorflow",
+        "specifier": ""
+      },
+      {
+        "from": "spacy",
+        "specifier": ""
+      },
+      {
+        "from": "apscheduler",
+        "specifier": ">=0.7"
+      },
+      {
+        "from": "thinc",
+        "specifier": ""
+      }
+    ]
+  },
+  "sentry-sdk": {
+    "version": "1.9.10",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.10.0,>=0.17.0"
+      }
+    ]
+  },
+  "scipy": {
+    "version": "1.8.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.9.0,>=1.4.1"
+      },
+      {
+        "from": "scikit-learn",
+        "specifier": ">=1.3.2"
+      }
+    ]
+  },
+  "scikit-learn": {
+    "version": "1.1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.2,>=0.22"
+      }
+    ]
+  },
+  "sanic-routing": {
+    "version": "0.7.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.8.0,>=0.7.2"
+      },
+      {
+        "from": "sanic",
+        "specifier": "~=0.7"
+      }
+    ]
+  },
+  "sanic-jwt": {
+    "version": "1.8.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.6.0"
+      }
+    ]
+  },
+  "sanic-cors": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.1.0,>=2.0.0"
+      }
+    ]
+  },
+  "sanic": {
+    "version": "21.12.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<21.13,>=21.12"
+      },
+      {
+        "from": "sanic-cors",
+        "specifier": ">=21.9.3"
+      },
+      {
+        "from": "rasa-sdk",
+        "specifier": "<22.0.0,>=21.12.0"
+      },
+      {
+        "from": "Sanic-Cors",
+        "specifier": ">=21.9.3"
+      }
+    ]
+  },
+  "ruamel.yaml": {
+    "version": "0.17.21",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.18.0,>=0.16.5"
+      },
+      {
+        "from": "pykwalify",
+        "specifier": ">=0.16.0"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0,>=2.23"
+      },
+      {
+        "from": "webexteamssdk",
+        "specifier": ">=2.4.2"
+      },
+      {
+        "from": "twilio",
+        "specifier": ">=2.0.0"
+      },
+      {
+        "from": "spacy",
+        "specifier": "<3.0.0,>=2.13.0"
+      },
+      {
+        "from": "fbmessenger",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "CacheControl",
+        "specifier": ""
+      },
+      {
+        "from": "requests-toolbelt",
+        "specifier": "<3.0.0,>=2.0.1"
+      }
+    ]
+  },
+  "regex": {
+    "version": "2022.7.25",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2022.10,>=2020.6"
+      }
+    ]
+  },
+  "redis": {
+    "version": "4.3.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5.0,>=3.4"
+      }
+    ]
+  },
+  "rasa-sdk": {
+    "version": "3.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.4.0,>=3.3.0"
+      }
+    ]
+  },
+  "randomname": {
+    "version": "0.1.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.2.0,>=0.1.5"
+      }
+    ]
+  },
+  "questionary": {
+    "version": "1.10.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.11.0,>=1.5.1"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2023.0,>=2019.1"
+      },
+      {
+        "from": "twilio",
+        "specifier": ""
+      },
+      {
+        "from": "apscheduler",
+        "specifier": ""
+      },
+      {
+        "from": "Babel",
+        "specifier": ">=2015.7"
+      }
+    ]
+  },
+  "python-socketio": {
+    "version": "5.7.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<6,>=4.4"
+      }
+    ]
+  },
+  "python-engineio": {
+    "version": "4.3.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "!=5.0.0,<6,>=4"
+      },
+      {
+        "from": "python-socketio",
+        "specifier": ">=4.3.0"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.9,>=2.8"
+      },
+      {
+        "from": "pykwalify",
+        "specifier": ">=2.8.0"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=2.7"
+      },
+      {
+        "from": "botocore",
+        "specifier": "<3.0.0,>=2.1"
+      }
+    ]
+  },
+  "pykwalify": {
+    "version": "1.8.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.9,>=1.7"
+      }
+    ]
+  },
+  "pydot": {
+    "version": "1.4.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.5,>=1.4"
+      }
+    ]
+  },
+  "psycopg2-binary": {
+    "version": "2.9.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.10.0,>=2.8.2"
+      }
+    ]
+  },
+  "protobuf": {
+    "version": "3.19.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.20,>=3.9.2"
+      },
+      {
+        "from": "tensorflow",
+        "specifier": "<3.20,>=3.9.2"
+      },
+      {
+        "from": "tensorflow-hub",
+        "specifier": ">=3.8.0"
+      }
+    ]
+  },
+  "prompt-toolkit": {
+    "version": "3.0.28",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0.29,>=3.0"
+      },
+      {
+        "from": "rasa-sdk",
+        "specifier": "<3.0.29,>=3.0"
+      }
+    ]
+  },
+  "pluggy": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.0.0"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "20.9",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<21.0,>=20.0"
+      },
+      {
+        "from": "tensorflow-addons",
+        "specifier": ""
+      },
+      {
+        "from": "spacy",
+        "specifier": ">=20.0"
+      },
+      {
+        "from": "redis",
+        "specifier": ">=20.4"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=20.0"
+      },
+      {
+        "from": "dask",
+        "specifier": ">=20.0"
+      },
+      {
+        "from": "Sanic-Cors",
+        "specifier": ">=21.3"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.24.0,>=1.19.2"
+      },
+      {
+        "from": "tensorflow",
+        "specifier": ">=1.20"
+      },
+      {
+        "from": "spacy",
+        "specifier": ">=1.15.0"
+      },
+      {
+        "from": "scipy",
+        "specifier": "<1.25.0,>=1.17.3"
+      },
+      {
+        "from": "scikit-learn",
+        "specifier": ">=1.17.3"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.17"
+      },
+      {
+        "from": "tensorflow-hub",
+        "specifier": ">=1.12.0"
+      },
+      {
+        "from": "opt-einsum",
+        "specifier": ">=1.7"
+      },
+      {
+        "from": "keras-preprocessing",
+        "specifier": ">=1.9.1"
+      },
+      {
+        "from": "h5py",
+        "specifier": ">=1.14.5"
+      },
+      {
+        "from": "thinc",
+        "specifier": ">=1.15.0"
+      },
+      {
+        "from": "blis",
+        "specifier": ">=1.15.0"
+      }
+    ]
+  },
+  "networkx": {
+    "version": "2.6.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.7,>=2.4"
+      }
+    ]
+  },
+  "matplotlib": {
+    "version": "3.5.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.6,>=3.1"
+      }
+    ]
+  },
+  "kafka-python": {
+    "version": "2.0.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0,>=1.4"
+      }
+    ]
+  },
+  "jsonschema": {
+    "version": "4.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4.17,>=3.2"
+      }
+    ]
+  },
+  "jsonpickle": {
+    "version": "2.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.3,>=1.3"
+      }
+    ]
+  },
+  "joblib": {
+    "version": "1.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.3.0,>=0.15.1"
+      },
+      {
+        "from": "scikit-learn",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "google-auth": {
+    "version": "2.14.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3"
+      }
+    ]
+  },
+  "fbmessenger": {
+    "version": "6.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<6.1.0,>=6.0.0"
+      }
+    ]
+  },
+  "dask": {
+    "version": "2022.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==2022.2.0"
+      }
+    ]
+  },
+  "colorhash": {
+    "version": "1.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.2.0,>=1.0.2"
+      }
+    ]
+  },
+  "coloredlogs": {
+    "version": "15.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<16,>=10"
+      },
+      {
+        "from": "rasa-sdk",
+        "specifier": "<16,>=10"
+      }
+    ]
+  },
+  "colorclass": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.3,>=2.2"
+      }
+    ]
+  },
+  "cloudpickle": {
+    "version": "2.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.3,>=1.2"
+      },
+      {
+        "from": "dask",
+        "specifier": ">=1.1.1"
+      }
+    ]
+  },
+  "boto3": {
+    "version": "1.26.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0,>=1.12"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<22.2,>=19.3"
+      },
+      {
+        "from": "jsonschema",
+        "specifier": ">=17.4.0"
+      },
+      {
+        "from": "aiohttp",
+        "specifier": ">=17.3.0"
+      }
+    ]
+  },
+  "apscheduler": {
+    "version": "3.9.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.10,>=3.6"
+      }
+    ]
+  },
+  "aiohttp": {
+    "version": "3.8.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "!=3.7.4.post0,<3.9,>=3.6"
+      },
+      {
+        "from": "slackclient",
+        "specifier": "<4.0.0,>3.5.2"
+      },
+      {
+        "from": "aiogram",
+        "specifier": "<3.9.0,>=3.8.0"
+      }
+    ]
+  },
+  "aiogram": {
+    "version": "2.19",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.20"
+      }
+    ]
+  },
+  "aio-pika": {
+    "version": "8.2.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<9.0.0,>=6.7.1"
+      }
+    ]
+  },
+  "absl-py": {
+    "version": "1.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.3,>=0.9"
+      },
+      {
+        "from": "tensorflow",
+        "specifier": ">=0.4.0"
+      }
+    ]
+  },
+  "SQLAlchemy": {
+    "version": "1.4.43",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.5.0,>=1.4.0"
+      }
+    ]
+  },
+  "CacheControl": {
+    "version": "0.12.11",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.13.0,>=0.12.9"
+      }
+    ]
+  },
+  "PyJWT": {
+    "version": "2.6.0",
+    "constraints": [
+      {
+        "from": "webexteamssdk",
+        "specifier": ""
+      },
+      {
+        "from": "twilio",
+        "specifier": "<3.0.0,>=2.0.0"
+      }
+    ]
+  },
+  "requests-toolbelt": {
+    "version": "0.10.1",
+    "constraints": [
+      {
+        "from": "webexteamssdk",
+        "specifier": ""
+      }
+    ]
+  },
+  "future": {
+    "version": "0.18.2",
+    "constraints": [
+      {
+        "from": "webexteamssdk",
+        "specifier": ""
+      }
+    ]
+  },
+  "tensorflow-hub": {
+    "version": "0.12.0",
+    "constraints": [
+      {
+        "from": "tensorflow-text",
+        "specifier": ">=0.8.0"
+      }
+    ]
+  },
+  "typeguard": {
+    "version": "2.13.3",
+    "constraints": [
+      {
+        "from": "tensorflow-addons",
+        "specifier": ">=2.7"
+      }
+    ]
+  },
+  "grpcio": {
+    "version": "1.50.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": "<2.0,>=1.24.3"
+      }
+    ]
+  },
+  "tensorflow-io-gcs-filesystem": {
+    "version": "0.27.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=0.23.1"
+      }
+    ]
+  },
+  "keras": {
+    "version": "2.8.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": "<2.9,>=2.8.0rc0"
+      }
+    ]
+  },
+  "tensorflow-estimator": {
+    "version": "2.8.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": "<2.9,>=2.8"
+      }
+    ]
+  },
+  "wrapt": {
+    "version": "1.14.1",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=1.11.0"
+      },
+      {
+        "from": "deprecated",
+        "specifier": "<2,>=1.10"
+      }
+    ]
+  },
+  "termcolor": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=1.12.0"
+      },
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      },
+      {
+        "from": "google-auth",
+        "specifier": ">=1.9.0"
+      },
+      {
+        "from": "apscheduler",
+        "specifier": ">=1.4.0"
+      },
+      {
+        "from": "grpcio",
+        "specifier": ">=1.5.2"
+      },
+      {
+        "from": "keras-preprocessing",
+        "specifier": ">=1.9.0"
+      },
+      {
+        "from": "google-pasta",
+        "specifier": ""
+      },
+      {
+        "from": "astunparse",
+        "specifier": "<2.0,>=1.6.1"
+      }
+    ]
+  },
+  "opt-einsum": {
+    "version": "3.3.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=2.3.2"
+      }
+    ]
+  },
+  "libclang": {
+    "version": "14.0.6",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=9.0.1"
+      }
+    ]
+  },
+  "keras-preprocessing": {
+    "version": "1.1.1",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=1.1.1"
+      }
+    ]
+  },
+  "h5py": {
+    "version": "3.6.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=2.9.0"
+      }
+    ]
+  },
+  "google-pasta": {
+    "version": "0.2.0",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=0.1.1"
+      }
+    ]
+  },
+  "gast": {
+    "version": "0.5.3",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=0.2.1"
+      }
+    ]
+  },
+  "flatbuffers": {
+    "version": "22.10.26",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=1.12"
+      }
+    ]
+  },
+  "astunparse": {
+    "version": "1.6.3",
+    "constraints": [
+      {
+        "from": "tensorflow",
+        "specifier": ">=1.6.0"
+      }
+    ]
+  },
+  "langcodes": {
+    "version": "3.3.0",
+    "constraints": [
+      {
+        "from": "spacy",
+        "specifier": "<4.0.0,>=3.2.0"
+      }
+    ]
+  },
+  "jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "spacy",
+        "specifier": ""
+      }
+    ]
+  },
+  "pydantic": {
+    "version": "1.10.2",
+    "constraints": [
+      {
+        "from": "spacy",
+        "specifier": "!=1.8,!=1.8.1,<1.11.0,>=1.7.4"
+      },
+      {
+        "from": "thinc",
+        "specifier": "!=1.8,!=1.8.1,<1.11.0,>=1.7.4"
+      },
+      {
+        "from": "confection",
+        "specifier": "!=1.8,!=1.8.1,<1.11.0,>=1.7.4"
+      }
+    ]
+  },
+  "pathy": {
+    "version": "0.6.2",
+    "constraints": [
+      {
+        "from": "spacy",
+        "specifier": ">=0.3.5"
+      }
+    ]
+  },
+  "typer": {
+    "version": "0.7.0",
+    "constraints": [
+      {
+        "from": "spacy",
+        "specifier": "<0.8.0,>=0.3.0"
+      },
+      {
+        "from": "pathy",
+        "specifier": "<1.0.0,>=0.3.0"
+      }
+    ]
+  },
+  "catalogue": {
+    "version": "2.0.8",
+    "constraints": [
+      {
+        "from": "spacy",
+        "specifier": "<2.1.0,>=2.0.6"
+      },
+      {
+        "from": "srsly",
+        "specifier": "<2.1.0,>=2.0.3"
+      },
+      {
+        "from": "thinc",
+        "specifier": "<2.1.0,>=2.0.4"
+      }
+    ]
+  },
+  "srsly": {
+    "version": "2.4.5",
+    "constraints": [
+      {
+        "from": "spacy",
+        "specifier": "<3.0.0,>=2.4.3"
+      },
+      {
+        "from": "thinc",
+        "specifier": "<3.0.0,>=2.4.0"
+      },
+      {
+        "from": "confection",
+        "specifier": "<3.0.0,>=2.4.0"
+      }
+    ]
+  },
+  "wasabi": {
+    "version": "0.10.1",
+    "constraints": [
+      {
+        "from": "spacy",
+        "specifier": "<1.1.0,>=0.9.1"
+      },
+      {
+        "from": "thinc",
+        "specifier": "<1.1.0,>=0.8.1"
+      },
+      {
+        "from": "spacy-loggers",
+        "specifier": "<1.1.0,>=0.8.1"
+      }
+    ]
+  },
+  "thinc": {
+    "version": "8.1.5",
+    "constraints": [
+      {
+        "from": "spacy",
+        "specifier": "<8.2.0,>=8.1.0"
+      }
+    ]
+  },
+  "preshed": {
+    "version": "3.0.7",
+    "constraints": [
+      {
+        "from": "spacy",
+        "specifier": "<3.1.0,>=3.0.2"
+      },
+      {
+        "from": "thinc",
+        "specifier": "<3.1.0,>=3.0.2"
+      }
+    ]
+  },
+  "cymem": {
+    "version": "2.0.6",
+    "constraints": [
+      {
+        "from": "spacy",
+        "specifier": "<2.1.0,>=2.0.2"
+      },
+      {
+        "from": "thinc",
+        "specifier": "<2.1.0,>=2.0.2"
+      },
+      {
+        "from": "preshed",
+        "specifier": "<2.1.0,>=2.0.2"
+      }
+    ]
+  },
+  "murmurhash": {
+    "version": "1.0.8",
+    "constraints": [
+      {
+        "from": "spacy",
+        "specifier": "<1.1.0,>=0.28.0"
+      },
+      {
+        "from": "thinc",
+        "specifier": "<1.1.0,>=1.0.2"
+      },
+      {
+        "from": "preshed",
+        "specifier": "<1.1.0,>=0.28.0"
+      }
+    ]
+  },
+  "spacy-loggers": {
+    "version": "1.0.2",
+    "constraints": [
+      {
+        "from": "spacy",
+        "specifier": "<2.0.0,>=1.0.0"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "sentry-sdk",
+        "specifier": ">=1.26.11"
+      },
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      },
+      {
+        "from": "botocore",
+        "specifier": "<1.27,>=1.25.4"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "sentry-sdk",
+        "specifier": ""
+      },
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      },
+      {
+        "from": "aiogram",
+        "specifier": ">=2021.10.8"
+      }
+    ]
+  },
+  "threadpoolctl": {
+    "version": "3.1.0",
+    "constraints": [
+      {
+        "from": "scikit-learn",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "pyjwt": {
+    "version": "2.6.0",
+    "constraints": [
+      {
+        "from": "sanic-jwt",
+        "specifier": "<3.0.0,>=2.1.0"
+      }
+    ]
+  },
+  "uvloop": {
+    "version": "0.16.0",
+    "constraints": [
+      {
+        "from": "sanic",
+        "specifier": ">=0.5.3"
+      }
+    ]
+  },
+  "multidict": {
+    "version": "5.2.0",
+    "constraints": [
+      {
+        "from": "sanic",
+        "specifier": "<6.0,>=5.0"
+      },
+      {
+        "from": "aiohttp",
+        "specifier": "<7.0,>=4.5"
+      },
+      {
+        "from": "yarl",
+        "specifier": ">=4.0"
+      }
+    ]
+  },
+  "websockets": {
+    "version": "10.4",
+    "constraints": [
+      {
+        "from": "sanic",
+        "specifier": ">=10.0"
+      }
+    ]
+  },
+  "aiofiles": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "sanic",
+        "specifier": ">=0.6.0"
+      }
+    ]
+  },
+  "httptools": {
+    "version": "0.4.0",
+    "constraints": [
+      {
+        "from": "sanic",
+        "specifier": ">=0.0.10"
+      }
+    ]
+  },
+  "ruamel.yaml.clib": {
+    "version": "0.2.7",
+    "constraints": [
+      {
+        "from": "ruamel.yaml",
+        "specifier": ">=0.2.6"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      },
+      {
+        "from": "yarl",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      },
+      {
+        "from": "aiohttp",
+        "specifier": "<3.0,>=2.0"
+      }
+    ]
+  },
+  "async-timeout": {
+    "version": "4.0.2",
+    "constraints": [
+      {
+        "from": "redis",
+        "specifier": ">=4.0.2"
+      },
+      {
+        "from": "aiohttp",
+        "specifier": "<5.0,>=4.0.0a3"
+      }
+    ]
+  },
+  "deprecated": {
+    "version": "1.2.13",
+    "constraints": [
+      {
+        "from": "redis",
+        "specifier": ">=1.2.3"
+      }
+    ]
+  },
+  "Sanic-Cors": {
+    "version": "2.2.0",
+    "constraints": [
+      {
+        "from": "rasa-sdk",
+        "specifier": "<3.0.0,>=2.0.0"
+      }
+    ]
+  },
+  "bidict": {
+    "version": "0.21.4",
+    "constraints": [
+      {
+        "from": "python-socketio",
+        "specifier": ">=0.21.0"
+      }
+    ]
+  },
+  "docopt": {
+    "version": "0.6.2",
+    "constraints": [
+      {
+        "from": "pykwalify",
+        "specifier": ">=0.6.2"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "pydot",
+        "specifier": ">=2.1.4"
+      },
+      {
+        "from": "packaging",
+        "specifier": ">=2.0.2"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=2.2.1"
+      }
+    ]
+  },
+  "wcwidth": {
+    "version": "0.2.5",
+    "constraints": [
+      {
+        "from": "prompt-toolkit",
+        "specifier": ""
+      }
+    ]
+  },
+  "pillow": {
+    "version": "9.3.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=6.2.0"
+      }
+    ]
+  },
+  "kiwisolver": {
+    "version": "1.4.4",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "fonttools": {
+    "version": "4.38.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=4.22.0"
+      }
+    ]
+  },
+  "cycler": {
+    "version": "0.11.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=0.10"
+      }
+    ]
+  },
+  "pyrsistent": {
+    "version": "0.19.2",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": "!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0"
+      }
+    ]
+  },
+  "rsa": {
+    "version": "4.9",
+    "constraints": [
+      {
+        "from": "google-auth",
+        "specifier": "<5,>=3.1.4"
+      }
+    ]
+  },
+  "pyasn1-modules": {
+    "version": "0.2.8",
+    "constraints": [
+      {
+        "from": "google-auth",
+        "specifier": ">=0.2.1"
+      }
+    ]
+  },
+  "cachetools": {
+    "version": "5.2.0",
+    "constraints": [
+      {
+        "from": "google-auth",
+        "specifier": "<6.0,>=2.0.0"
+      }
+    ]
+  },
+  "toolz": {
+    "version": "0.12.0",
+    "constraints": [
+      {
+        "from": "dask",
+        "specifier": ">=0.8.2"
+      },
+      {
+        "from": "partd",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyyaml": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "dask",
+        "specifier": ">=5.3.1"
+      }
+    ]
+  },
+  "partd": {
+    "version": "1.3.0",
+    "constraints": [
+      {
+        "from": "dask",
+        "specifier": ">=0.3.10"
+      }
+    ]
+  },
+  "fsspec": {
+    "version": "2022.11.0",
+    "constraints": [
+      {
+        "from": "dask",
+        "specifier": ">=0.6.0"
+      }
+    ]
+  },
+  "humanfriendly": {
+    "version": "10.0",
+    "constraints": [
+      {
+        "from": "coloredlogs",
+        "specifier": ">=9.1"
+      }
+    ]
+  },
+  "s3transfer": {
+    "version": "0.6.0",
+    "constraints": [
+      {
+        "from": "boto3",
+        "specifier": "<0.7.0,>=0.6.0"
+      }
+    ]
+  },
+  "jmespath": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "boto3",
+        "specifier": "<2.0.0,>=0.7.1"
+      },
+      {
+        "from": "botocore",
+        "specifier": "<2.0.0,>=0.7.1"
+      }
+    ]
+  },
+  "botocore": {
+    "version": "1.29.7",
+    "constraints": [
+      {
+        "from": "boto3",
+        "specifier": "<1.30.0,>=1.29.7"
+      },
+      {
+        "from": "s3transfer",
+        "specifier": "<2.0a.0,>=1.12.36"
+      }
+    ]
+  },
+  "tzlocal": {
+    "version": "4.2",
+    "constraints": [
+      {
+        "from": "apscheduler",
+        "specifier": "!=3.*,>=2.0"
+      }
+    ]
+  },
+  "aiosignal": {
+    "version": "1.3.1",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": ">=1.1.2"
+      }
+    ]
+  },
+  "frozenlist": {
+    "version": "1.3.3",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": ">=1.1.1"
+      },
+      {
+        "from": "aiosignal",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "yarl": {
+    "version": "1.8.1",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": "<2.0,>=1.0"
+      },
+      {
+        "from": "aio-pika",
+        "specifier": ""
+      }
+    ]
+  },
+  "Babel": {
+    "version": "2.9.1",
+    "constraints": [
+      {
+        "from": "aiogram",
+        "specifier": "<2.10.0,>=2.9.1"
+      }
+    ]
+  },
+  "aiormq": {
+    "version": "6.4.1",
+    "constraints": [
+      {
+        "from": "aio-pika",
+        "specifier": "~=6.4.0"
+      }
+    ]
+  },
+  "greenlet": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "SQLAlchemy",
+        "specifier": "!=0.4.17"
+      }
+    ]
+  },
+  "msgpack": {
+    "version": "1.0.4",
+    "constraints": [
+      {
+        "from": "CacheControl",
+        "specifier": ">=0.5.2"
+      }
+    ]
+  },
+  "wheel": {
+    "version": "0.38.4",
+    "constraints": [
+      {
+        "from": "astunparse",
+        "specifier": "<1.0,>=0.23.0"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "jinja2",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "smart-open": {
+    "version": "5.2.1",
+    "constraints": [
+      {
+        "from": "pathy",
+        "specifier": "<6.0.0,>=5.2.1"
+      }
+    ]
+  },
+  "click": {
+    "version": "8.1.3",
+    "constraints": [
+      {
+        "from": "typer",
+        "specifier": "<9.0.0,>=7.1.1"
+      }
+    ]
+  },
+  "confection": {
+    "version": "0.0.3",
+    "constraints": [
+      {
+        "from": "thinc",
+        "specifier": "<1.0.0,>=0.0.1"
+      }
+    ]
+  },
+  "blis": {
+    "version": "0.7.9",
+    "constraints": [
+      {
+        "from": "thinc",
+        "specifier": "<0.8.0,>=0.7.8"
+      }
+    ]
+  },
+  "pyasn1": {
+    "version": "0.4.8",
+    "constraints": [
+      {
+        "from": "rsa",
+        "specifier": ">=0.1.3"
+      },
+      {
+        "from": "pyasn1-modules",
+        "specifier": "<0.5.0,>=0.4.6"
+      }
+    ]
+  },
+  "locket": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "partd",
+        "specifier": ""
+      }
+    ]
+  },
+  "pytz-deprecation-shim": {
+    "version": "0.1.0.post0",
+    "constraints": [
+      {
+        "from": "tzlocal",
+        "specifier": ""
+      }
+    ]
+  },
+  "tzdata": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "pytz-deprecation-shim",
+        "specifier": ""
+      }
+    ]
+  }
+}

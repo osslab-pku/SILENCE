@@ -1,0 +1,4 @@
+slowapi==0.1.6
+  - limits [required: >=1.5,<2.0, installed: 1.6]
+    - six [required: >=1.4.1, installed: 1.16.0]
+

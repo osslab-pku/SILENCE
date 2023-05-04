@@ -1,0 +1,5 @@
+PySide6-Addons==6.4.0.1
+  - PySide6-Essentials [required: ==6.4.0.1, installed: 6.4.0.1]
+    - shiboken6 [required: ==6.4.0.1, installed: 6.4.0.1]
+  - shiboken6 [required: ==6.4.0.1, installed: 6.4.0.1]
+

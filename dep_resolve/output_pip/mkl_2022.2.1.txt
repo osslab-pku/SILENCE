@@ -1,0 +1,4 @@
+mkl==2022.2.1
+  - intel-openmp [required: ==2022.*, installed: 2022.2.1]
+  - tbb [required: ==2021.*, installed: 2021.9.0]
+

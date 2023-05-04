@@ -1,0 +1,100 @@
+{
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "gevent": {
+    "version": "22.10.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "greenlet": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "gevent",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "gevent",
+        "specifier": ""
+      },
+      {
+        "from": "zope.interface",
+        "specifier": ""
+      },
+      {
+        "from": "zope.event",
+        "specifier": ""
+      }
+    ]
+  },
+  "zope.interface": {
+    "version": "5.5.1",
+    "constraints": [
+      {
+        "from": "gevent",
+        "specifier": ""
+      }
+    ]
+  },
+  "zope.event": {
+    "version": "4.5.0",
+    "constraints": [
+      {
+        "from": "gevent",
+        "specifier": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "markdown-it-py": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0.0,>=1.0.0"
+      }
+    ]
+  },
+  "mdurl": {
+    "version": "0.1.2",
+    "constraints": [
+      {
+        "from": "markdown-it-py",
+        "specifier": "~=0.1"
+      }
+    ]
+  }
+}

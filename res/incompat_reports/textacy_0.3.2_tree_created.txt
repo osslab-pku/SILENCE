@@ -1,0 +1,18 @@
+textacy 0.3.2 (Apache-2.0) has 2 incompatibilities in [tree_created]:
+textacy 
+  spacy 1.2.0 [textacy (>=1.1.0)]
+  scipy 0.18.1 [textacy (>=0.17.0)]
+    numpy 1.11.2 [textacy (>=1.8.0)] [scipy (>=1.7.1)]
+  scikit-learn 0.18.1 [textacy (>=0.17.0)]
+  requests 2.12.0 [textacy (>=2.10.0)]
+  python-levenshtein 0.12.0 (INCOMPATIBLE! HAS GPL-3.0-only) [textacy (>=0.12.0)]
+  pyphen 0.9.4 [textacy (>=0.9.4)]
+  pyemd 0.3.0 [textacy (>=0.3.0)]
+  numpy 1.11.2 [textacy (>=1.8.0)] [scipy (>=1.7.1)]
+  networkx 1.11 [textacy (>=1.11)]
+  ijson 2.3 [textacy (>=2.3)]
+  fuzzywuzzy 0.14.0 (INCOMPATIBLE! HAS GPL-2.0-only) [textacy (>=0.12.0)]
+  ftfy 4.2.0 [textacy (>=4.2.0)]
+  cytoolz 0.8.0 [textacy (>=0.8.0)]
+  cld2-cffi 0.1.4 [textacy (>=0.1.4)]
+  cachetools 2.0.0 [textacy (>=2.0.0)]

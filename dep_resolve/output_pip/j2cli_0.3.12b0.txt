@@ -1,0 +1,4 @@
+j2cli==0.3.12b0
+  - jinja2 [required: >=2.7.2, installed: 3.1.2]
+    - MarkupSafe [required: >=2.0, installed: 2.1.2]
+

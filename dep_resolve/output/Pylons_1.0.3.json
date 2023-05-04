@@ -1,0 +1,232 @@
+{
+  "WebOb": {
+    "version": "1.8.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.1.1"
+      },
+      {
+        "from": "WebTest",
+        "specifier": ">=1.2"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.15"
+      },
+      {
+        "from": "Mako",
+        "specifier": ">=0.9.2"
+      }
+    ]
+  },
+  "Tempita": {
+    "version": "0.5.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.5.1"
+      }
+    ]
+  },
+  "WebTest": {
+    "version": "3.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.3.1"
+      }
+    ]
+  },
+  "WebError": {
+    "version": "0.13.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.10.3"
+      }
+    ]
+  },
+  "Mako": {
+    "version": "1.2.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.5.0"
+      }
+    ]
+  },
+  "nose": {
+    "version": "1.3.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.1.2"
+      }
+    ]
+  },
+  "decorator": {
+    "version": "5.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.3.2"
+      }
+    ]
+  },
+  "simplejson": {
+    "version": "3.17.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.2.1"
+      }
+    ]
+  },
+  "FormEncode": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.2.4"
+      }
+    ]
+  },
+  "PasteScript": {
+    "version": "3.2.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.7.4.2"
+      }
+    ]
+  },
+  "PasteDeploy": {
+    "version": "3.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.5.0"
+      },
+      {
+        "from": "PasteScript",
+        "specifier": ""
+      }
+    ]
+  },
+  "Paste": {
+    "version": "3.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.7.5.1"
+      },
+      {
+        "from": "PasteScript",
+        "specifier": ">=3.0"
+      }
+    ]
+  },
+  "Beaker": {
+    "version": "1.11.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.5.4"
+      }
+    ]
+  },
+  "WebHelpers": {
+    "version": "1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.6.4"
+      }
+    ]
+  },
+  "Routes": {
+    "version": "2.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.12.3"
+      }
+    ]
+  },
+  "beautifulsoup4": {
+    "version": "4.11.1",
+    "constraints": [
+      {
+        "from": "WebTest",
+        "specifier": ""
+      }
+    ]
+  },
+  "waitress": {
+    "version": "2.1.2",
+    "constraints": [
+      {
+        "from": "WebTest",
+        "specifier": ">=0.8.5"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "FormEncode",
+        "specifier": ""
+      },
+      {
+        "from": "PasteScript",
+        "specifier": ""
+      },
+      {
+        "from": "Paste",
+        "specifier": ">=1.4.0"
+      },
+      {
+        "from": "Routes",
+        "specifier": ""
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "PasteScript",
+        "specifier": ""
+      },
+      {
+        "from": "Paste",
+        "specifier": ""
+      }
+    ]
+  },
+  "repoze.lru": {
+    "version": "0.7",
+    "constraints": [
+      {
+        "from": "Routes",
+        "specifier": ">=0.3"
+      }
+    ]
+  },
+  "soupsieve": {
+    "version": "2.3.2.post1",
+    "constraints": [
+      {
+        "from": "beautifulsoup4",
+        "specifier": ">1.2"
+      }
+    ]
+  }
+}

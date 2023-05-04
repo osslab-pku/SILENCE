@@ -1,0 +1,20 @@
+{
+  "robotframework-pythonlibcore": {
+    "version": "4.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5.0.0,>=3.0.0"
+      }
+    ]
+  },
+  "robotframework": {
+    "version": "6.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<7.0.0,>=5.0.1"
+      }
+    ]
+  }
+}

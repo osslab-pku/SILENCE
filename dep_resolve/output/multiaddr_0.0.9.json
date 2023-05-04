@@ -1,0 +1,38 @@
+{
+  "netaddr": {
+    "version": "0.8.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "base58": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "varint": {
+    "version": "1.0.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

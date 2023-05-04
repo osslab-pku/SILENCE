@@ -1,0 +1,1258 @@
+{
+  "prometheus-client": {
+    "version": "0.14.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.4.2"
+      }
+    ]
+  },
+  "apache-airflow": {
+    "version": "2.4.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.10.4"
+      }
+    ]
+  },
+  "apache-airflow-providers-sqlite": {
+    "version": "3.2.1",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ""
+      }
+    ]
+  },
+  "apache-airflow-providers-imap": {
+    "version": "3.0.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ""
+      }
+    ]
+  },
+  "apache-airflow-providers-http": {
+    "version": "3.0.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ""
+      }
+    ]
+  },
+  "apache-airflow-providers-ftp": {
+    "version": "3.0.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ""
+      }
+    ]
+  },
+  "apache-airflow-providers-common-sql": {
+    "version": "1.2.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ""
+      },
+      {
+        "from": "apache-airflow-providers-sqlite",
+        "specifier": ">=1.2.0"
+      }
+    ]
+  },
+  "werkzeug": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "unicodecsv": {
+    "version": "0.14.1",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=0.14.1"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=4.0.0"
+      }
+    ]
+  },
+  "termcolor": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "tenacity": {
+    "version": "8.1.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=6.2.0"
+      }
+    ]
+  },
+  "tabulate": {
+    "version": "0.9.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=0.7.5"
+      }
+    ]
+  },
+  "sqlalchemy-jsonfield": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=1.0"
+      }
+    ]
+  },
+  "sqlalchemy": {
+    "version": "1.4.43",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=1.4"
+      },
+      {
+        "from": "sqlalchemy-jsonfield",
+        "specifier": ""
+      }
+    ]
+  },
+  "setproctitle": {
+    "version": "1.3.2",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=1.1.8"
+      }
+    ]
+  },
+  "rich": {
+    "version": "12.6.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=12.4.4"
+      }
+    ]
+  },
+  "python-slugify": {
+    "version": "6.1.2",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=5.0"
+      }
+    ]
+  },
+  "python-nvd3": {
+    "version": "0.15.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=0.15.0"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=2.3"
+      },
+      {
+        "from": "pendulum",
+        "specifier": "<3.0,>=2.6"
+      },
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<3,>=2.3"
+      },
+      {
+        "from": "croniter",
+        "specifier": ""
+      }
+    ]
+  },
+  "python-daemon": {
+    "version": "2.3.2",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=2.2.4"
+      }
+    ]
+  },
+  "pyjwt": {
+    "version": "2.6.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "pygments": {
+    "version": "2.13.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=2.0.1"
+      },
+      {
+        "from": "rich",
+        "specifier": "<3.0.0,>=2.6.0"
+      }
+    ]
+  },
+  "psutil": {
+    "version": "5.9.4",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=4.2.0"
+      }
+    ]
+  },
+  "pluggy": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=1.0"
+      }
+    ]
+  },
+  "pendulum": {
+    "version": "2.1.2",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "pathspec": {
+    "version": "0.9.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": "~=0.9.0"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=14.0"
+      },
+      {
+        "from": "marshmallow",
+        "specifier": ">=17.0"
+      }
+    ]
+  },
+  "mdit-py-plugins": {
+    "version": "0.3.1",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=0.3.0"
+      }
+    ]
+  },
+  "marshmallow-oneofschema": {
+    "version": "3.0.1",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=2.0.1"
+      }
+    ]
+  },
+  "markupsafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=1.1.1"
+      }
+    ]
+  },
+  "markdown-it-py": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=2.1.0"
+      },
+      {
+        "from": "mdit-py-plugins",
+        "specifier": "<3.0.0,>=1.0.0"
+      }
+    ]
+  },
+  "markdown": {
+    "version": "3.3.7",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=3.0"
+      }
+    ]
+  },
+  "lockfile": {
+    "version": "0.12.2",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=0.12.2"
+      },
+      {
+        "from": "python-daemon",
+        "specifier": ">=0.10"
+      }
+    ]
+  },
+  "linkify-it-py": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "lazy-object-proxy": {
+    "version": "1.8.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ""
+      }
+    ]
+  },
+  "jsonschema": {
+    "version": "4.17.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=3.2.0"
+      },
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<5,>=3"
+      }
+    ]
+  },
+  "jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  },
+  "itsdangerous": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "flask-wtf",
+        "specifier": ""
+      },
+      {
+        "from": "flask",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "Flask",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "Flask-WTF",
+        "specifier": ""
+      }
+    ]
+  },
+  "httpx": {
+    "version": "0.22.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ""
+      }
+    ]
+  },
+  "gunicorn": {
+    "version": "20.1.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=20.1.0"
+      }
+    ]
+  },
+  "graphviz": {
+    "version": "0.20.1",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=0.12"
+      }
+    ]
+  },
+  "flask-wtf": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=0.15"
+      }
+    ]
+  },
+  "flask-session": {
+    "version": "0.4.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=0.4.0"
+      }
+    ]
+  },
+  "flask-login": {
+    "version": "0.6.2",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=0.6.2"
+      }
+    ]
+  },
+  "flask-caching": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=1.5.0"
+      }
+    ]
+  },
+  "flask-appbuilder": {
+    "version": "4.1.4",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": "==4.1.4"
+      }
+    ]
+  },
+  "flask": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": "<2.3,>=2.2"
+      }
+    ]
+  },
+  "dill": {
+    "version": "0.3.6",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=0.2.2"
+      }
+    ]
+  },
+  "deprecated": {
+    "version": "1.2.13",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=1.2.13"
+      }
+    ]
+  },
+  "cryptography": {
+    "version": "38.0.3",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=0.9.3"
+      }
+    ]
+  },
+  "croniter": {
+    "version": "1.3.7",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=0.3.17"
+      }
+    ]
+  },
+  "cron-descriptor": {
+    "version": "1.2.31",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=1.2.24"
+      }
+    ]
+  },
+  "configupdater": {
+    "version": "3.1.1",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=3.1.1"
+      }
+    ]
+  },
+  "colorlog": {
+    "version": "4.7.2",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": "<5.0,>=4.0.2"
+      }
+    ]
+  },
+  "cattrs": {
+    "version": "22.2.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=22.1.0"
+      }
+    ]
+  },
+  "blinker": {
+    "version": "1.4",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ""
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=22.1.0"
+      },
+      {
+        "from": "jsonschema",
+        "specifier": ">=17.4.0"
+      },
+      {
+        "from": "cattrs",
+        "specifier": ">=20"
+      }
+    ]
+  },
+  "argcomplete": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": ">=1.10"
+      }
+    ]
+  },
+  "alembic": {
+    "version": "1.8.0",
+    "constraints": [
+      {
+        "from": "apache-airflow",
+        "specifier": "<2.0,>=1.5.1"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "apache-airflow-providers-http",
+        "specifier": ">=2.26.0"
+      }
+    ]
+  },
+  "sqlparse": {
+    "version": "0.4.3",
+    "constraints": [
+      {
+        "from": "apache-airflow-providers-common-sql",
+        "specifier": ">=0.4.2"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "werkzeug",
+        "specifier": ">=2.1.1"
+      },
+      {
+        "from": "jinja2",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "WTForms",
+        "specifier": ""
+      },
+      {
+        "from": "Werkzeug",
+        "specifier": ">=2.1.1"
+      },
+      {
+        "from": "Jinja2",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "Mako",
+        "specifier": ">=0.9.2"
+      }
+    ]
+  },
+  "greenlet": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "sqlalchemy",
+        "specifier": "!=0.4.17"
+      },
+      {
+        "from": "SQLAlchemy",
+        "specifier": "!=0.4.17"
+      }
+    ]
+  },
+  "commonmark": {
+    "version": "0.9.1",
+    "constraints": [
+      {
+        "from": "rich",
+        "specifier": "<0.10.0,>=0.9.0"
+      }
+    ]
+  },
+  "text-unidecode": {
+    "version": "1.3",
+    "constraints": [
+      {
+        "from": "python-slugify",
+        "specifier": ">=1.3"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      },
+      {
+        "from": "prison",
+        "specifier": ""
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "python-daemon",
+        "specifier": ""
+      },
+      {
+        "from": "gunicorn",
+        "specifier": ">=3.0"
+      }
+    ]
+  },
+  "docutils": {
+    "version": "0.19",
+    "constraints": [
+      {
+        "from": "python-daemon",
+        "specifier": ""
+      }
+    ]
+  },
+  "pytzdata": {
+    "version": "2020.1",
+    "constraints": [
+      {
+        "from": "pendulum",
+        "specifier": ">=2020.1"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "marshmallow": {
+    "version": "3.17.1",
+    "constraints": [
+      {
+        "from": "marshmallow-oneofschema",
+        "specifier": "<4.0.0,>=3.0.0"
+      },
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<4,>=3"
+      },
+      {
+        "from": "marshmallow-sqlalchemy",
+        "specifier": ">=3.0.0"
+      },
+      {
+        "from": "marshmallow-enum",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "mdurl": {
+    "version": "0.1.2",
+    "constraints": [
+      {
+        "from": "markdown-it-py",
+        "specifier": "~=0.1"
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "markdown",
+        "specifier": ">=4.4"
+      },
+      {
+        "from": "flask",
+        "specifier": ">=3.6.0"
+      },
+      {
+        "from": "Flask",
+        "specifier": ">=3.6.0"
+      }
+    ]
+  },
+  "uc-micro-py": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "linkify-it-py",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyrsistent": {
+    "version": "0.19.2",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": "!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0"
+      }
+    ]
+  },
+  "httpcore": {
+    "version": "0.14.7",
+    "constraints": [
+      {
+        "from": "httpx",
+        "specifier": "<0.15.0,>=0.14.5"
+      }
+    ]
+  },
+  "sniffio": {
+    "version": "1.3.0",
+    "constraints": [
+      {
+        "from": "httpx",
+        "specifier": ""
+      },
+      {
+        "from": "httpcore",
+        "specifier": "==1.*"
+      },
+      {
+        "from": "anyio",
+        "specifier": ">=1.1"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "3.0.0",
+    "constraints": [
+      {
+        "from": "httpx",
+        "specifier": ""
+      },
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "httpx",
+        "specifier": ""
+      },
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      },
+      {
+        "from": "httpcore",
+        "specifier": ""
+      }
+    ]
+  },
+  "WTForms": {
+    "version": "3.0.1",
+    "constraints": [
+      {
+        "from": "flask-wtf",
+        "specifier": ""
+      },
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<4"
+      },
+      {
+        "from": "Flask-WTF",
+        "specifier": ""
+      }
+    ]
+  },
+  "Flask": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "flask-wtf",
+        "specifier": ""
+      },
+      {
+        "from": "flask-session",
+        "specifier": ">=0.8"
+      },
+      {
+        "from": "flask-login",
+        "specifier": ">=1.0.4"
+      },
+      {
+        "from": "flask-caching",
+        "specifier": "<3"
+      },
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<3,>=2"
+      },
+      {
+        "from": "Flask-JWT-Extended",
+        "specifier": "<3.0,>=2.0"
+      },
+      {
+        "from": "Flask-WTF",
+        "specifier": ""
+      },
+      {
+        "from": "Flask-SQLAlchemy",
+        "specifier": ">=0.10"
+      },
+      {
+        "from": "Flask-Login",
+        "specifier": ">=1.0.4"
+      },
+      {
+        "from": "Flask-Babel",
+        "specifier": ""
+      }
+    ]
+  },
+  "cachelib": {
+    "version": "0.9.0",
+    "constraints": [
+      {
+        "from": "flask-session",
+        "specifier": ""
+      },
+      {
+        "from": "flask-caching",
+        "specifier": ">=0.9.0"
+      }
+    ]
+  },
+  "Werkzeug": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "flask-login",
+        "specifier": ">=1.0.1"
+      },
+      {
+        "from": "flask",
+        "specifier": ">=2.2.2"
+      },
+      {
+        "from": "Flask",
+        "specifier": ">=2.2.2"
+      },
+      {
+        "from": "Flask-JWT-Extended",
+        "specifier": ">=0.14"
+      },
+      {
+        "from": "Flask-Login",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "sqlalchemy-utils": {
+    "version": "0.38.3",
+    "constraints": [
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<1,>=0.32.21"
+      }
+    ]
+  },
+  "SQLAlchemy": {
+    "version": "1.4.43",
+    "constraints": [
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<1.5"
+      },
+      {
+        "from": "alembic",
+        "specifier": ">=1.3.0"
+      },
+      {
+        "from": "sqlalchemy-utils",
+        "specifier": ">=1.3"
+      },
+      {
+        "from": "marshmallow-sqlalchemy",
+        "specifier": ">=1.2.0"
+      },
+      {
+        "from": "Flask-SQLAlchemy",
+        "specifier": ">=0.8.0"
+      }
+    ]
+  },
+  "PyJWT": {
+    "version": "2.6.0",
+    "constraints": [
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<3.0.0,>=2.0.0"
+      },
+      {
+        "from": "Flask-JWT-Extended",
+        "specifier": "<3.0,>=2.0"
+      }
+    ]
+  },
+  "prison": {
+    "version": "0.2.1",
+    "constraints": [
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<1.0.0,>=0.2.1"
+      }
+    ]
+  },
+  "marshmallow-sqlalchemy": {
+    "version": "0.26.1",
+    "constraints": [
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<0.27.0,>=0.22.0"
+      }
+    ]
+  },
+  "marshmallow-enum": {
+    "version": "1.5.1",
+    "constraints": [
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<2,>=1.5.1"
+      }
+    ]
+  },
+  "Flask-JWT-Extended": {
+    "version": "4.4.4",
+    "constraints": [
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<5.0.0,>=4.0.0"
+      }
+    ]
+  },
+  "Flask-WTF": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<2,>=0.14.2"
+      }
+    ]
+  },
+  "Flask-SQLAlchemy": {
+    "version": "2.5.1",
+    "constraints": [
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<3,>=2.4"
+      }
+    ]
+  },
+  "Flask-Login": {
+    "version": "0.6.2",
+    "constraints": [
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<0.7,>=0.3"
+      }
+    ]
+  },
+  "Flask-Babel": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<3,>=1"
+      }
+    ]
+  },
+  "email-validator": {
+    "version": "1.2.1",
+    "constraints": [
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<2,>=1.0.5"
+      }
+    ]
+  },
+  "click": {
+    "version": "8.1.3",
+    "constraints": [
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<9,>=8"
+      },
+      {
+        "from": "flask",
+        "specifier": ">=8.0"
+      },
+      {
+        "from": "Flask",
+        "specifier": ">=8.0"
+      }
+    ]
+  },
+  "colorama": {
+    "version": "0.4.6",
+    "constraints": [
+      {
+        "from": "flask-appbuilder",
+        "specifier": "<1,>=0.3.9"
+      }
+    ]
+  },
+  "Jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "flask",
+        "specifier": ">=3.0"
+      },
+      {
+        "from": "Flask",
+        "specifier": ">=3.0"
+      },
+      {
+        "from": "Flask-Babel",
+        "specifier": ">=2.5"
+      }
+    ]
+  },
+  "wrapt": {
+    "version": "1.14.1",
+    "constraints": [
+      {
+        "from": "deprecated",
+        "specifier": "<2,>=1.10"
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "cryptography",
+        "specifier": ">=1.12"
+      }
+    ]
+  },
+  "exceptiongroup": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "cattrs",
+        "specifier": ""
+      }
+    ]
+  },
+  "Mako": {
+    "version": "1.2.3",
+    "constraints": [
+      {
+        "from": "alembic",
+        "specifier": ""
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      },
+      {
+        "from": "email-validator",
+        "specifier": ">=2.0.0"
+      },
+      {
+        "from": "anyio",
+        "specifier": ">=2.8"
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  },
+  "anyio": {
+    "version": "3.6.2",
+    "constraints": [
+      {
+        "from": "httpcore",
+        "specifier": "==3.*"
+      }
+    ]
+  },
+  "h11": {
+    "version": "0.11.0",
+    "constraints": [
+      {
+        "from": "httpcore",
+        "specifier": "<0.13,>=0.11"
+      }
+    ]
+  },
+  "Babel": {
+    "version": "2.11.0",
+    "constraints": [
+      {
+        "from": "Flask-Babel",
+        "specifier": ">=2.3"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "Flask-Babel",
+        "specifier": ""
+      },
+      {
+        "from": "Babel",
+        "specifier": ">=2015.7"
+      }
+    ]
+  },
+  "dnspython": {
+    "version": "2.2.1",
+    "constraints": [
+      {
+        "from": "email-validator",
+        "specifier": ">=1.15.0"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  }
+}

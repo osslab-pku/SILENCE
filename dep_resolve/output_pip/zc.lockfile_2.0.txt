@@ -1,0 +1,3 @@
+zc.lockfile==2.0
+  - setuptools [required: Any, installed: 66.0.0]
+

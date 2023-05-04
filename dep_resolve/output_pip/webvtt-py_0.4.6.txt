@@ -1,0 +1,3 @@
+webvtt-py==0.4.6
+  - docopt [required: Any, installed: 0.6.2]
+

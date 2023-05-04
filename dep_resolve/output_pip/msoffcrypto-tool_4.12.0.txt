@@ -1,0 +1,6 @@
+msoffcrypto-tool==4.12.0
+  - cryptography [required: >=2.3, installed: 40.0.2]
+    - cffi [required: >=1.12, installed: 1.15.1]
+      - pycparser [required: Any, installed: 2.21]
+  - olefile [required: >=0.45, installed: 0.46]
+

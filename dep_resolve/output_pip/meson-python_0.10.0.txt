@@ -1,0 +1,7 @@
+meson-python==0.10.0
+  - meson [required: >=0.62.0, installed: 1.1.0]
+  - ninja [required: Any, installed: 1.11.1]
+  - pyproject-metadata [required: >=0.5.0, installed: 0.7.1]
+    - packaging [required: >=19.0, installed: 23.1]
+  - tomli [required: >=1.0.0, installed: 2.0.1]
+

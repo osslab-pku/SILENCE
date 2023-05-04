@@ -1,0 +1,129 @@
+{
+  "property-cached": {
+    "version": "1.6.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.6.4"
+      }
+    ]
+  },
+  "statsmodels": {
+    "version": "0.13.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.11"
+      }
+    ]
+  },
+  "pandas": {
+    "version": "1.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.0"
+      },
+      {
+        "from": "statsmodels",
+        "specifier": ">=0.25"
+      }
+    ]
+  },
+  "scipy": {
+    "version": "1.9.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.3"
+      },
+      {
+        "from": "statsmodels",
+        "specifier": ">=1.3"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.17"
+      },
+      {
+        "from": "statsmodels",
+        "specifier": ">=1.17"
+      },
+      {
+        "from": "pandas",
+        "specifier": ">=1.20.3"
+      },
+      {
+        "from": "scipy",
+        "specifier": "<1.26.0,>=1.18.5"
+      },
+      {
+        "from": "patsy",
+        "specifier": ">=1.4"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "statsmodels",
+        "specifier": ">=21.3"
+      }
+    ]
+  },
+  "patsy": {
+    "version": "0.5.3",
+    "constraints": [
+      {
+        "from": "statsmodels",
+        "specifier": ">=0.5.2"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2020.1"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2.8.1"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "patsy",
+        "specifier": ""
+      },
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      }
+    ]
+  }
+}

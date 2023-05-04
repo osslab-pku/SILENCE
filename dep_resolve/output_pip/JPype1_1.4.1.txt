@@ -1,0 +1,3 @@
+JPype1==1.4.1
+  - packaging [required: Any, installed: 23.1]
+

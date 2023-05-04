@@ -1,0 +1,92 @@
+{
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "tornado": {
+    "version": "6.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=4.1"
+      }
+    ]
+  },
+  "pytest": {
+    "version": "7.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.6"
+      }
+    ]
+  },
+  "tomli": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "exceptiongroup": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ">=1.0.0rc8"
+      }
+    ]
+  },
+  "pluggy": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": "<2.0,>=0.12"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ""
+      }
+    ]
+  },
+  "iniconfig": {
+    "version": "1.1.1",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ""
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ">=19.2.0"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+tensorflow-probability==0.17.0
+  - absl-py [required: Any, installed: 1.4.0]
+  - cloudpickle [required: >=1.3, installed: 2.2.1]
+  - decorator [required: Any, installed: 5.1.1]
+  - dm-tree [required: Any, installed: 0.1.8]
+  - gast [required: >=0.3.2, installed: 0.5.3]
+  - numpy [required: >=1.13.3, installed: 1.24.2]
+  - six [required: >=1.10.0, installed: 1.16.0]
+

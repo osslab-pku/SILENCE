@@ -1,0 +1,277 @@
+{
+  "toml": {
+    "version": "0.10.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.11.0,>=0.10.2"
+      }
+    ]
+  },
+  "setoptconf-tmp": {
+    "version": "0.3.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.4.0,>=0.3.1"
+      }
+    ]
+  },
+  "requirements-detector": {
+    "version": "0.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.8,>=0.7"
+      }
+    ]
+  },
+  "pylint-plugin-utils": {
+    "version": "0.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.8,>=0.7"
+      },
+      {
+        "from": "pylint-django",
+        "specifier": ">=0.7"
+      }
+    ]
+  },
+  "pylint-flask": {
+    "version": "0.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==0.6"
+      }
+    ]
+  },
+  "pylint-django": {
+    "version": "2.5.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.6,>=2.5"
+      }
+    ]
+  },
+  "pylint-celery": {
+    "version": "0.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==0.3"
+      }
+    ]
+  },
+  "pylint": {
+    "version": "2.15.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.8.3"
+      },
+      {
+        "from": "pylint-plugin-utils",
+        "specifier": ">=1.7"
+      },
+      {
+        "from": "pylint-django",
+        "specifier": "<3,>=2.0"
+      }
+    ]
+  },
+  "pyflakes": {
+    "version": "2.5.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3,>=2.2.0"
+      },
+      {
+        "from": "flake8",
+        "specifier": "<2.6.0,>=2.5.0"
+      }
+    ]
+  },
+  "pydocstyle": {
+    "version": "6.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "pycodestyle": {
+    "version": "2.8.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.9.0,>=2.6.0"
+      },
+      {
+        "from": "flake8",
+        "specifier": "<2.10.0,>=2.9.0"
+      }
+    ]
+  },
+  "pep8-naming": {
+    "version": "0.10.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<=0.10.0,>=0.3.3"
+      }
+    ]
+  },
+  "mccabe": {
+    "version": "0.6.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.7.0,>=0.6.0"
+      },
+      {
+        "from": "pylint",
+        "specifier": "<0.8,>=0.6"
+      },
+      {
+        "from": "flake8",
+        "specifier": "<0.8.0,>=0.7.0"
+      }
+    ]
+  },
+  "dodgy": {
+    "version": "0.2.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.3.0,>=0.2.1"
+      }
+    ]
+  },
+  "PyYAML": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "tomli": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "pylint",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "pylint",
+        "specifier": ">=3.10.0"
+      },
+      {
+        "from": "astroid",
+        "specifier": ">=3.10"
+      }
+    ]
+  },
+  "tomlkit": {
+    "version": "0.11.6",
+    "constraints": [
+      {
+        "from": "pylint",
+        "specifier": ">=0.10.1"
+      }
+    ]
+  },
+  "isort": {
+    "version": "5.10.0",
+    "constraints": [
+      {
+        "from": "pylint",
+        "specifier": "<6,>=4.2.5"
+      }
+    ]
+  },
+  "astroid": {
+    "version": "2.12.12",
+    "constraints": [
+      {
+        "from": "pylint",
+        "specifier": "<=2.14.0-dev0,>=2.12.12"
+      }
+    ]
+  },
+  "platformdirs": {
+    "version": "2.5.3",
+    "constraints": [
+      {
+        "from": "pylint",
+        "specifier": ">=2.2.0"
+      }
+    ]
+  },
+  "dill": {
+    "version": "0.3.6",
+    "constraints": [
+      {
+        "from": "pylint",
+        "specifier": ">=0.2"
+      }
+    ]
+  },
+  "snowballstemmer": {
+    "version": "2.2.0",
+    "constraints": [
+      {
+        "from": "pydocstyle",
+        "specifier": ""
+      }
+    ]
+  },
+  "flake8-polyfill": {
+    "version": "1.0.2",
+    "constraints": [
+      {
+        "from": "pep8-naming",
+        "specifier": "<2,>=1.0.2"
+      }
+    ]
+  },
+  "wrapt": {
+    "version": "1.14.1",
+    "constraints": [
+      {
+        "from": "astroid",
+        "specifier": "<2,>=1.11"
+      }
+    ]
+  },
+  "lazy-object-proxy": {
+    "version": "1.8.0",
+    "constraints": [
+      {
+        "from": "astroid",
+        "specifier": ">=1.4.0"
+      }
+    ]
+  },
+  "flake8": {
+    "version": "5.0.4",
+    "constraints": [
+      {
+        "from": "flake8-polyfill",
+        "specifier": ""
+      }
+    ]
+  }
+}

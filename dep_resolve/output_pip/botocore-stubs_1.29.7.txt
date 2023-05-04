@@ -1,0 +1,3 @@
+botocore-stubs==1.29.7
+  - types-awscrt [required: Any, installed: 0.16.16]
+

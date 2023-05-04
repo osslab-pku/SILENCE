@@ -1,0 +1,4 @@
+autoflake==1.7.7
+  - pyflakes [required: >=1.1.0, installed: 3.0.1]
+  - tomli [required: >=2.0.1, installed: 2.0.1]
+

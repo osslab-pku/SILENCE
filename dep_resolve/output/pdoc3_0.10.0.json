@@ -1,0 +1,47 @@
+{
+  "markdown": {
+    "version": "3.3.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.0"
+      }
+    ]
+  },
+  "mako": {
+    "version": "1.2.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "markdown",
+        "specifier": ">=4.4"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "mako",
+        "specifier": ">=0.9.2"
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  }
+}

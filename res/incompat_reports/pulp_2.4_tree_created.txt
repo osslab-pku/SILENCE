@@ -1,0 +1,5 @@
+pulp 2.4 (BSD-3-Clause) has 1 incompatibilities in [tree_created]:
+pulp 
+  amply 0.1.4 (INCOMPATIBLE! HAS EPL-1.0) [pulp (>=0.1.2)]
+    pyparsing 2.4.7 [amply ()]
+    docutils 0.16 [amply (>=0.3)]

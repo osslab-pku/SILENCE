@@ -1,0 +1,38 @@
+{
+  "pyopenssl": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "cryptography": {
+    "version": "38.0.3",
+    "constraints": [
+      {
+        "from": "pyopenssl",
+        "specifier": "<39,>=38.0.0"
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "cryptography",
+        "specifier": ">=1.12"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  }
+}

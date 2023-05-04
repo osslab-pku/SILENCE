@@ -1,0 +1,5 @@
+colour-runner==0.1.1
+  - blessings [required: Any, installed: 1.7]
+    - six [required: Any, installed: 1.16.0]
+  - pygments [required: Any, installed: 2.15.1]
+

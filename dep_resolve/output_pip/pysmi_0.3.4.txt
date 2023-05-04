@@ -1,0 +1,3 @@
+pysmi==0.3.4
+  - ply [required: Any, installed: 3.11]
+

@@ -1,0 +1,5 @@
+cssselect2==0.6.0
+  - tinycss2 [required: Any, installed: 1.2.1]
+    - webencodings [required: >=0.4, installed: 0.5.1]
+  - webencodings [required: Any, installed: 0.5.1]
+

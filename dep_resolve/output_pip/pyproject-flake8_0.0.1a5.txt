@@ -1,0 +1,7 @@
+pyproject-flake8==0.0.1a5
+  - flake8 [required: <5.0.0, installed: 4.0.1]
+    - mccabe [required: >=0.6.0,<0.7.0, installed: 0.6.1]
+    - pycodestyle [required: >=2.8.0,<2.9.0, installed: 2.8.0]
+    - pyflakes [required: >=2.4.0,<2.5.0, installed: 2.4.0]
+  - tomli [required: Any, installed: 2.0.1]
+

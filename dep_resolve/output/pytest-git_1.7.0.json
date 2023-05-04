@@ -1,0 +1,177 @@
+{
+  "gitpython": {
+    "version": "3.1.28",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pytest-shutil": {
+    "version": "1.7.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pytest": {
+    "version": "7.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "pytest-shutil",
+        "specifier": ""
+      }
+    ]
+  },
+  "gitdb": {
+    "version": "4.0.9",
+    "constraints": [
+      {
+        "from": "gitpython",
+        "specifier": "<5,>=4.0.1"
+      }
+    ]
+  },
+  "termcolor": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "pytest-shutil",
+        "specifier": ""
+      }
+    ]
+  },
+  "mock": {
+    "version": "4.0.3",
+    "constraints": [
+      {
+        "from": "pytest-shutil",
+        "specifier": ""
+      }
+    ]
+  },
+  "path.py": {
+    "version": "12.5.0",
+    "constraints": [
+      {
+        "from": "pytest-shutil",
+        "specifier": ""
+      }
+    ]
+  },
+  "contextlib2": {
+    "version": "21.6.0",
+    "constraints": [
+      {
+        "from": "pytest-shutil",
+        "specifier": ""
+      }
+    ]
+  },
+  "execnet": {
+    "version": "1.9.0",
+    "constraints": [
+      {
+        "from": "pytest-shutil",
+        "specifier": ""
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "pytest-shutil",
+        "specifier": ""
+      }
+    ]
+  },
+  "tomli": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "exceptiongroup": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ">=1.0.0rc8"
+      }
+    ]
+  },
+  "pluggy": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": "<2.0,>=0.12"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ""
+      }
+    ]
+  },
+  "iniconfig": {
+    "version": "1.1.1",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ""
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ">=19.2.0"
+      }
+    ]
+  },
+  "smmap": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "gitdb",
+        "specifier": "<6,>=3.0.1"
+      }
+    ]
+  },
+  "path": {
+    "version": "16.5.0",
+    "constraints": [
+      {
+        "from": "path.py",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  }
+}

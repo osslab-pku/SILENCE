@@ -1,0 +1,4 @@
+stomp.py==8.1.0
+  - docopt [required: >=0.6.2,<0.7.0, installed: 0.6.2]
+  - websocket-client [required: >=1.2.3,<2.0.0, installed: 1.5.1]
+

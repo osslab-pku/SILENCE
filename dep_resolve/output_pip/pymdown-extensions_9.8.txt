@@ -1,0 +1,5 @@
+pymdown-extensions==9.8
+  - markdown [required: >=3.2, installed: 3.4.3]
+    - importlib-metadata [required: >=4.4, installed: 6.6.0]
+      - zipp [required: >=0.5, installed: 3.15.0]
+

@@ -1,0 +1,29 @@
+{
+  "terminado": {
+    "version": "0.17.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.8.3"
+      }
+    ]
+  },
+  "tornado": {
+    "version": "6.2",
+    "constraints": [
+      {
+        "from": "terminado",
+        "specifier": ">=6.1.0"
+      }
+    ]
+  },
+  "ptyprocess": {
+    "version": "0.6.0",
+    "constraints": [
+      {
+        "from": "terminado",
+        "specifier": ""
+      }
+    ]
+  }
+}

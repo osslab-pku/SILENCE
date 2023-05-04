@@ -1,0 +1,11 @@
+{
+  "kafka-python": {
+    "version": "2.0.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

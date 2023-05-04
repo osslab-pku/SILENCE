@@ -1,0 +1,4 @@
+playwright==1.27.0
+  - greenlet [required: ==1.1.3, installed: 1.1.3]
+  - pyee [required: ==8.1.0, installed: 8.1.0]
+

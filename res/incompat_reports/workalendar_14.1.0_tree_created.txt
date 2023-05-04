@@ -1,0 +1,11 @@
+workalendar 14.1.0 (MIT) has 1 incompatibilities in [tree_created]:
+workalendar 
+  skyfield-data 1.1.0 [workalendar ()]
+  skyfield 1.33 [workalendar ()]
+  setuptools 51.0.0 [workalendar (>=1.0)]
+  pytz 2020.4 [workalendar ()]
+  python-dateutil 2.8.1 [workalendar ()]
+    six 1.15.0 [python-dateutil (>=1.5)]
+  pyluach 1.2.1 [workalendar ()]
+  pyCalverter 1.6.1 [workalendar ()]
+  lunardate 0.2.0 (INCOMPATIBLE! HAS GPL-3.0-only) [workalendar ()]

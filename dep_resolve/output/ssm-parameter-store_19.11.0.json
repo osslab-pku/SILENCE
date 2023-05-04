@@ -1,0 +1,73 @@
+{
+  "boto3": {
+    "version": "1.26.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "s3transfer": {
+    "version": "0.6.0",
+    "constraints": [
+      {
+        "from": "boto3",
+        "specifier": "<0.7.0,>=0.6.0"
+      }
+    ]
+  },
+  "jmespath": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "boto3",
+        "specifier": "<2.0.0,>=0.7.1"
+      },
+      {
+        "from": "botocore",
+        "specifier": "<2.0.0,>=0.7.1"
+      }
+    ]
+  },
+  "botocore": {
+    "version": "1.29.7",
+    "constraints": [
+      {
+        "from": "boto3",
+        "specifier": "<1.30.0,>=1.29.7"
+      },
+      {
+        "from": "s3transfer",
+        "specifier": "<2.0a.0,>=1.12.36"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "botocore",
+        "specifier": "<1.27,>=1.25.4"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "botocore",
+        "specifier": "<3.0.0,>=2.1"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      }
+    ]
+  }
+}

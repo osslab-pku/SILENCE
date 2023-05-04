@@ -1,0 +1,170 @@
+{
+  "scipy": {
+    "version": "1.9.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.7.3"
+      }
+    ]
+  },
+  "pandas": {
+    "version": "1.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.1.2"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.20.3"
+      },
+      {
+        "from": "scipy",
+        "specifier": "<1.26.0,>=1.18.5"
+      },
+      {
+        "from": "pandas",
+        "specifier": ">=1.20.3"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.19"
+      },
+      {
+        "from": "contourpy",
+        "specifier": ">=1.16"
+      }
+    ]
+  },
+  "multiprocess": {
+    "version": "0.70.14",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "matplotlib": {
+    "version": "3.6.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.2.2"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2020.1"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2.8.1"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=2.7"
+      }
+    ]
+  },
+  "dill": {
+    "version": "0.3.6",
+    "constraints": [
+      {
+        "from": "multiprocess",
+        "specifier": ">=0.3.6"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=2.2.1"
+      },
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "pillow": {
+    "version": "9.3.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=6.2.0"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=20.0"
+      }
+    ]
+  },
+  "kiwisolver": {
+    "version": "1.4.4",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "fonttools": {
+    "version": "4.38.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=4.22.0"
+      }
+    ]
+  },
+  "cycler": {
+    "version": "0.11.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=0.10"
+      }
+    ]
+  },
+  "contourpy": {
+    "version": "1.0.6",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      }
+    ]
+  }
+}

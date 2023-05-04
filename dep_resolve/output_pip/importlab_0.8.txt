@@ -1,0 +1,3 @@
+importlab==0.8
+  - networkx [required: >=2, installed: 3.1]
+

@@ -1,0 +1,7 @@
+astatine==0.3.2
+  - asttokens [required: >=1.1, installed: 2.2.1]
+    - six [required: Any, installed: 1.16.0]
+  - domdf-python-tools [required: >=2.7.0, installed: 3.6.1]
+    - natsort [required: >=7.0.1, installed: 8.3.1]
+    - typing-extensions [required: >=3.7.4.1, installed: 4.5.0]
+

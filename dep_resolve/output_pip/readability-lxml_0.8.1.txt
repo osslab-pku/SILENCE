@@ -1,0 +1,5 @@
+readability-lxml==0.8.1
+  - chardet [required: Any, installed: 5.1.0]
+  - cssselect [required: Any, installed: 1.2.0]
+  - lxml [required: Any, installed: 4.9.2]
+

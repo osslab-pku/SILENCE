@@ -1,0 +1,51 @@
+{
+  "scipy": {
+    "version": "1.9.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "progressbar2": {
+    "version": "4.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "scipy",
+        "specifier": "<1.26.0,>=1.18.5"
+      }
+    ]
+  },
+  "future": {
+    "version": "0.18.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "python-utils": {
+    "version": "3.4.5",
+    "constraints": [
+      {
+        "from": "progressbar2",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  }
+}

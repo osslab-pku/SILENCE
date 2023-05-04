@@ -1,0 +1,38 @@
+{
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.5"
+      }
+    ]
+  },
+  "domdf-python-tools": {
+    "version": "3.5.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.6.0"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "domdf-python-tools",
+        "specifier": ">=3.7.4.1"
+      }
+    ]
+  },
+  "natsort": {
+    "version": "8.2.0",
+    "constraints": [
+      {
+        "from": "domdf-python-tools",
+        "specifier": ">=7.0.1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+konlpy==0.6.0rc1
+  - JPype1 [required: >=0.7.0, installed: 1.4.1]
+    - packaging [required: Any, installed: 23.1]
+

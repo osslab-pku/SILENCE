@@ -1,0 +1,9 @@
+oletools 0.60 (BSD-3-Clause) has 1 incompatibilities in [tree_created]:
+oletools 
+  msoffcrypto-tool 4.8.0 [oletools ()] [oletools ()]
+  pcodedmp 1.2.6 (INCOMPATIBLE! HAS GPL-3.0-only) [oletools (>=1.2.5)] [oletools (>=1.2.5)]
+    oletools 0.60 [pcodedmp (>=0.54)]
+  colorclass 2.2.0 [oletools ()] [oletools ()]
+  easygui 0.98.2 [oletools ()] [oletools ()]
+  olefile 0.46 [oletools (>=0.46)] [oletools (>=0.46)]
+  pyparsing 2.4.7 [oletools (<3,>=2.1.0)] [oletools (<3,>=2.1.0)]

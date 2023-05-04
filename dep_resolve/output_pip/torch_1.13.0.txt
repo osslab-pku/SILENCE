@@ -1,0 +1,14 @@
+torch==1.13.0
+  - nvidia-cublas-cu11 [required: ==11.10.3.66, installed: 11.10.3.66]
+    - setuptools [required: Any, installed: 66.0.0]
+    - wheel [required: Any, installed: 0.38.4]
+  - nvidia-cuda-nvrtc-cu11 [required: ==11.7.99, installed: 11.7.99]
+  - nvidia-cuda-runtime-cu11 [required: ==11.7.99, installed: 11.7.99]
+    - setuptools [required: Any, installed: 66.0.0]
+    - wheel [required: Any, installed: 0.38.4]
+  - nvidia-cudnn-cu11 [required: ==8.5.0.96, installed: 8.5.0.96]
+    - nvidia-cublas-cu11 [required: Any, installed: 11.10.3.66]
+      - setuptools [required: Any, installed: 66.0.0]
+      - wheel [required: Any, installed: 0.38.4]
+  - typing-extensions [required: Any, installed: 4.5.0]
+

@@ -1,0 +1,29 @@
+{
+  "marshmallow": {
+    "version": "3.17.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "marshmallow",
+        "specifier": ">=17.0"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  }
+}

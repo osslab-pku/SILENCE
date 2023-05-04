@@ -1,0 +1,24 @@
+{
+  "scipy": {
+    "version": "1.9.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.9"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.6"
+      },
+      {
+        "from": "scipy",
+        "specifier": "<1.26.0,>=1.18.5"
+      }
+    ]
+  }
+}

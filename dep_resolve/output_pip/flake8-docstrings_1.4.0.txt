@@ -1,0 +1,8 @@
+flake8-docstrings==1.4.0
+  - flake8 [required: >=3, installed: 6.0.0]
+    - mccabe [required: >=0.7.0,<0.8.0, installed: 0.7.0]
+    - pycodestyle [required: >=2.10.0,<2.11.0, installed: 2.10.0]
+    - pyflakes [required: >=3.0.0,<3.1.0, installed: 3.0.1]
+  - pydocstyle [required: >=2.1, installed: 6.3.0]
+    - snowballstemmer [required: >=2.2.0, installed: 2.2.0]
+

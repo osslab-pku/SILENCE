@@ -1,0 +1,3 @@
+rustworkx==0.12.0
+  - numpy [required: >=1.16.0, installed: 1.24.3]
+

@@ -1,0 +1,11 @@
+{
+  "simplejson": {
+    "version": "3.17.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==3.17.2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,676 @@
+{
+  "azureml-telemetry": {
+    "version": "1.47.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.47.0"
+      }
+    ]
+  },
+  "azureml-core": {
+    "version": "1.47.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.47.0"
+      },
+      {
+        "from": "azureml-telemetry",
+        "specifier": "~=1.47.0"
+      }
+    ]
+  },
+  "azureml-train-restclients-hyperdrive": {
+    "version": "1.47.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.47.0"
+      }
+    ]
+  },
+  "applicationinsights": {
+    "version": "0.11.10",
+    "constraints": [
+      {
+        "from": "azureml-telemetry",
+        "specifier": ""
+      }
+    ]
+  },
+  "jmespath": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<2.0.0"
+      }
+    ]
+  },
+  "pyopenssl": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<23.0.0"
+      }
+    ]
+  },
+  "adal": {
+    "version": "1.2.7",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<=1.2.7,>=1.2.0"
+      },
+      {
+        "from": "msrestazure",
+        "specifier": "<2.0.0,>=0.6.0"
+      }
+    ]
+  },
+  "PyJWT": {
+    "version": "2.6.0",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<3.0.0"
+      },
+      {
+        "from": "adal",
+        "specifier": "<3,>=1.0.0"
+      }
+    ]
+  },
+  "docker": {
+    "version": "6.0.1",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<7.0.0"
+      }
+    ]
+  },
+  "contextlib2": {
+    "version": "21.6.0",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<22.0.0"
+      }
+    ]
+  },
+  "jsonpickle": {
+    "version": "2.2.0",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<3.0.0"
+      }
+    ]
+  },
+  "SecretStorage": {
+    "version": "3.3.3",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<4.0.0"
+      }
+    ]
+  },
+  "ndg-httpsclient": {
+    "version": "0.5.1",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<=0.5.1"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<3.0.0,>=2.7.3"
+      },
+      {
+        "from": "adal",
+        "specifier": "<3,>=2.1.0"
+      }
+    ]
+  },
+  "cryptography": {
+    "version": "38.0.3",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "!=1.9,!=2.0.*,!=2.1.*,!=2.2.*,<41"
+      },
+      {
+        "from": "pyopenssl",
+        "specifier": "<39,>=38.0.0"
+      },
+      {
+        "from": "adal",
+        "specifier": ">=1.1.0"
+      },
+      {
+        "from": "SecretStorage",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "paramiko",
+        "specifier": ">=2.5"
+      },
+      {
+        "from": "msal",
+        "specifier": "<41,>=0.6"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<22.0,>=20.0"
+      },
+      {
+        "from": "docker",
+        "specifier": ">=14.0"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<2.0.0,>=1.23"
+      },
+      {
+        "from": "docker",
+        "specifier": ">=1.26.0"
+      },
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "msrestazure": {
+    "version": "0.6.4",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<=0.6.4,>=0.4.33"
+      },
+      {
+        "from": "azureml-train-restclients-hyperdrive",
+        "specifier": ">=0.4.33"
+      },
+      {
+        "from": "azure-graphrbac",
+        "specifier": "<2.0.0,>=0.4.32"
+      }
+    ]
+  },
+  "msrest": {
+    "version": "0.7.1",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<=0.7.1,>=0.5.1"
+      },
+      {
+        "from": "azureml-train-restclients-hyperdrive",
+        "specifier": ">=0.5.1"
+      },
+      {
+        "from": "msrestazure",
+        "specifier": "<2.0.0,>=0.6.0"
+      },
+      {
+        "from": "azure-graphrbac",
+        "specifier": ">=0.5.0"
+      },
+      {
+        "from": "azure-mgmt-authorization",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-keyvault",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-storage",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-containerregistry",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-resource",
+        "specifier": ">=0.7.1"
+      }
+    ]
+  },
+  "azure-common": {
+    "version": "1.1.28",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<2.0.0,>=1.1.12"
+      },
+      {
+        "from": "azure-graphrbac",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-authorization",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-keyvault",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-storage",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-containerregistry",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-resource",
+        "specifier": "~=1.1"
+      }
+    ]
+  },
+  "azure-graphrbac": {
+    "version": "0.61.1",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<1.0.0,>=0.40.0"
+      }
+    ]
+  },
+  "azure-mgmt-authorization": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<3,>=0.40.0"
+      }
+    ]
+  },
+  "azure-mgmt-keyvault": {
+    "version": "10.1.0",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<11.0.0,>=0.40.0"
+      }
+    ]
+  },
+  "azure-mgmt-storage": {
+    "version": "20.1.0",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<21.0.0,>=16.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-containerregistry": {
+    "version": "9.1.0",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<11,>=8.2.0"
+      }
+    ]
+  },
+  "azure-mgmt-resource": {
+    "version": "21.2.1",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<22.0.0,>=15.0.0"
+      }
+    ]
+  },
+  "paramiko": {
+    "version": "2.12.0",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<3.0.0,>=2.0.8"
+      }
+    ]
+  },
+  "humanfriendly": {
+    "version": "10.0",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<11.0,>=4.7"
+      }
+    ]
+  },
+  "argcomplete": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<3"
+      }
+    ]
+  },
+  "pkginfo": {
+    "version": "1.8.3",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "azure-core": {
+    "version": "1.26.1",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<2.0.0"
+      },
+      {
+        "from": "msrest",
+        "specifier": ">=1.24.0"
+      },
+      {
+        "from": "azure-mgmt-core",
+        "specifier": "<2.0.0,>=1.24.0"
+      }
+    ]
+  },
+  "msal-extensions": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<=1.0.0,>=0.3.0"
+      }
+    ]
+  },
+  "msal": {
+    "version": "1.20.0",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<2.0.0,>=1.15.0"
+      },
+      {
+        "from": "msal-extensions",
+        "specifier": "<2.0.0,>=0.4.1"
+      }
+    ]
+  },
+  "pathspec": {
+    "version": "0.10.1",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": "<1.0.0"
+      }
+    ]
+  },
+  "backports.tempfile": {
+    "version": "1.0",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "azureml-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "azureml-train-restclients-hyperdrive",
+        "specifier": ">=2.19.1"
+      },
+      {
+        "from": "adal",
+        "specifier": "<3,>=2.0.0"
+      },
+      {
+        "from": "docker",
+        "specifier": ">=2.26.0"
+      },
+      {
+        "from": "msrest",
+        "specifier": "~=2.16"
+      },
+      {
+        "from": "azure-core",
+        "specifier": ">=2.18.4"
+      },
+      {
+        "from": "msal",
+        "specifier": "<3,>=2.0.0"
+      },
+      {
+        "from": "requests-oauthlib",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "websocket-client": {
+    "version": "1.4.2",
+    "constraints": [
+      {
+        "from": "docker",
+        "specifier": ">=0.32.0"
+      }
+    ]
+  },
+  "jeepney": {
+    "version": "0.8.0",
+    "constraints": [
+      {
+        "from": "SecretStorage",
+        "specifier": ">=0.6"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      },
+      {
+        "from": "msrestazure",
+        "specifier": ""
+      },
+      {
+        "from": "paramiko",
+        "specifier": ""
+      },
+      {
+        "from": "azure-core",
+        "specifier": ">=1.11.0"
+      },
+      {
+        "from": "isodate",
+        "specifier": ""
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "cryptography",
+        "specifier": ">=1.12"
+      },
+      {
+        "from": "pynacl",
+        "specifier": ">=1.4.1"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "requests-oauthlib": {
+    "version": "1.3.1",
+    "constraints": [
+      {
+        "from": "msrest",
+        "specifier": ">=0.5.0"
+      }
+    ]
+  },
+  "isodate": {
+    "version": "0.6.1",
+    "constraints": [
+      {
+        "from": "msrest",
+        "specifier": ">=0.6.0"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "msrest",
+        "specifier": ">=2017.4.17"
+      },
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "azure-mgmt-core": {
+    "version": "1.3.2",
+    "constraints": [
+      {
+        "from": "azure-mgmt-authorization",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-keyvault",
+        "specifier": "<2.0.0,>=1.3.1"
+      },
+      {
+        "from": "azure-mgmt-storage",
+        "specifier": "<2.0.0,>=1.3.1"
+      },
+      {
+        "from": "azure-mgmt-containerregistry",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-resource",
+        "specifier": "<2.0.0,>=1.3.2"
+      }
+    ]
+  },
+  "pynacl": {
+    "version": "1.5.0",
+    "constraints": [
+      {
+        "from": "paramiko",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "bcrypt": {
+    "version": "4.0.1",
+    "constraints": [
+      {
+        "from": "paramiko",
+        "specifier": ">=3.1.3"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "azure-core",
+        "specifier": ">=4.0.1"
+      }
+    ]
+  },
+  "portalocker": {
+    "version": "2.6.0",
+    "constraints": [
+      {
+        "from": "msal-extensions",
+        "specifier": "<3,>=1.0"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  },
+  "oauthlib": {
+    "version": "3.2.2",
+    "constraints": [
+      {
+        "from": "requests-oauthlib",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+authlib 0.10 (AGPL-3.0-or-later) has 1 incompatibilities in [tree_created]:
+authlib 
+  cryptography 2.3.1 [authlib ()]
+  requests 2.19.1 [authlib ()]
+    certifi 2018.8.24 [requests (>=2017.4.17)]
+    urllib3 1.23 [requests (<1.24,>=1.21.1)]
+    idna 2.7 [requests (<2.8,>=2.5)]
+    chardet 3.0.4 (INCOMPATIBLE! HAS LGPL-3.0-only) [requests (<3.1.0,>=3.0.2)]

@@ -1,0 +1,11 @@
+{
+  "fsspec": {
+    "version": "2022.11.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

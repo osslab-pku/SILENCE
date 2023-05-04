@@ -1,0 +1,41 @@
+{
+  "qdldl": {
+    "version": "0.1.5.post2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "scipy": {
+    "version": "1.9.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.13.2"
+      },
+      {
+        "from": "qdldl",
+        "specifier": ">=0.13.2"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.7"
+      },
+      {
+        "from": "qdldl",
+        "specifier": ">=1.7"
+      },
+      {
+        "from": "scipy",
+        "specifier": "<1.26.0,>=1.18.5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+python-certifi-win32==1.6.1
+  - certifi [required: Any, installed: 2022.12.7]
+  - setuptools-scm [required: Any, installed: 7.1.0]
+    - packaging [required: >=20.0, installed: 23.1]
+    - setuptools [required: Any, installed: 66.0.0]
+    - tomli [required: >=1.0.0, installed: 2.0.1]
+    - typing-extensions [required: Any, installed: 4.5.0]
+  - wrapt [required: >=1.10.4, installed: 1.15.0]
+

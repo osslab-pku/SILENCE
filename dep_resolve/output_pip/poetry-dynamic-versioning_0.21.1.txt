@@ -1,0 +1,7 @@
+poetry-dynamic-versioning==0.21.1
+  - dunamai [required: >=1.14.0,<2.0.0, installed: 1.16.0]
+    - packaging [required: >=20.9, installed: 23.1]
+  - jinja2 [required: >=2.11.1,<4, installed: 3.1.2]
+    - MarkupSafe [required: >=2.0, installed: 2.1.2]
+  - tomlkit [required: >=0.4, installed: 0.11.7]
+

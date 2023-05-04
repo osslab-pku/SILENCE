@@ -1,0 +1,12 @@
+nox-poetry==1.0.2
+  - nox [required: >=2020.8.22, installed: 2023.4.22]
+    - argcomplete [required: >=1.9.4,<4.0, installed: 3.0.8]
+    - colorlog [required: >=2.6.1,<7.0.0, installed: 6.7.0]
+    - packaging [required: >=20.9, installed: 23.1]
+    - virtualenv [required: >=14, installed: 20.22.0]
+      - distlib [required: >=0.3.6,<1, installed: 0.3.6]
+      - filelock [required: >=3.11,<4, installed: 3.12.0]
+      - platformdirs [required: >=3.2,<4, installed: 3.2.0]
+  - packaging [required: >=20.9, installed: 23.1]
+  - tomlkit [required: >=0.7, installed: 0.11.7]
+

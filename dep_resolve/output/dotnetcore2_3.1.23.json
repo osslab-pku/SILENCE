@@ -1,0 +1,11 @@
+{
+  "distro": {
+    "version": "1.8.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.2.0"
+      }
+    ]
+  }
+}

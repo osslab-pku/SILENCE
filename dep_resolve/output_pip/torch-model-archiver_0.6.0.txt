@@ -1,0 +1,4 @@
+torch-model-archiver==0.6.0
+  - enum-compat [required: Any, installed: 0.0.3]
+  - future [required: Any, installed: 0.18.3]
+

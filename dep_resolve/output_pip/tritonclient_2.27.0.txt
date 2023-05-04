@@ -1,0 +1,4 @@
+tritonclient==2.27.0
+  - numpy [required: >=1.19.1, installed: 1.24.3]
+  - python-rapidjson [required: >=0.9.1, installed: 1.10]
+

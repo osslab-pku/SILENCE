@@ -1,0 +1,7 @@
+temporalio==0.1b1
+  - dacite [required: >=1.6.0,<2.0.0, installed: 1.8.0]
+  - grpcio [required: >=1.47.0,<2.0.0, installed: 1.51.3]
+  - protobuf [required: >=3.20.1,<4.0.0, installed: 3.20.3]
+  - types-protobuf [required: >=3.19.21,<4.0.0, installed: 3.20.4.6]
+  - typing-extensions [required: >=4.2.0,<5.0.0, installed: 4.5.0]
+

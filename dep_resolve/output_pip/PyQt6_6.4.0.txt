@@ -1,0 +1,4 @@
+PyQt6==6.4.0
+  - PyQt6-Qt6 [required: >=6.4.0, installed: 6.5.0]
+  - PyQt6-sip [required: >=13.4,<14, installed: 13.5.1]
+

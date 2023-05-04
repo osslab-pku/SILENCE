@@ -1,0 +1,15 @@
+tardis-client==1.3.3
+  - aiofiles [required: >=0.8.0,<0.9.0, installed: 0.8.0]
+  - aiohttp [required: >=3.8.1,<4.0.0, installed: 3.8.4]
+    - aiosignal [required: >=1.1.2, installed: 1.3.1]
+      - frozenlist [required: >=1.1.0, installed: 1.3.3]
+    - async-timeout [required: >=4.0.0a3,<5.0, installed: 4.0.2]
+    - attrs [required: >=17.3.0, installed: 23.1.0]
+    - charset-normalizer [required: >=2.0,<4.0, installed: 3.1.0]
+    - frozenlist [required: >=1.1.1, installed: 1.3.3]
+    - multidict [required: >=4.5,<7.0, installed: 6.0.4]
+    - yarl [required: >=1.0,<2.0, installed: 1.9.1]
+      - idna [required: >=2.0, installed: 3.4]
+      - multidict [required: >=4.0, installed: 6.0.4]
+  - sortedcontainers [required: >=2.1,<3.0, installed: 2.4.0]
+

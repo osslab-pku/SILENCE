@@ -1,0 +1,6 @@
+datefinder==0.7.3
+  - python-dateutil [required: >=2.4.2, installed: 2.8.2]
+    - six [required: >=1.5, installed: 1.16.0]
+  - pytz [required: Any, installed: 2023.3]
+  - regex [required: >=2017.02.08, installed: 2023.3.23]
+

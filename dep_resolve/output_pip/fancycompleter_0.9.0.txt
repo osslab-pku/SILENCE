@@ -1,0 +1,3 @@
+fancycompleter==0.9.0
+  - pyrepl [required: >=0.8.2, installed: 0.9.0]
+

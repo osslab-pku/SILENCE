@@ -1,0 +1,16 @@
+pytest-shutil==1.7.0
+  - contextlib2 [required: Any, installed: 21.6.0]
+  - execnet [required: Any, installed: 1.9.0]
+  - mock [required: Any, installed: 5.0.1]
+  - path.py [required: Any, installed: 12.5.0]
+    - path [required: Any, installed: 16.6.0]
+  - pytest [required: Any, installed: 7.2.2]
+    - attrs [required: >=19.2.0, installed: 22.2.0]
+    - exceptiongroup [required: >=1.0.0rc8, installed: 1.1.0]
+    - iniconfig [required: Any, installed: 2.0.0]
+    - packaging [required: Any, installed: 23.0]
+    - pluggy [required: >=0.12,<2.0, installed: 1.0.0]
+    - tomli [required: >=1.0.0, installed: 2.0.1]
+  - six [required: Any, installed: 1.16.0]
+  - termcolor [required: Any, installed: 2.2.0]
+

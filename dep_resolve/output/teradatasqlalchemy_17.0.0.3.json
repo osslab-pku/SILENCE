@@ -1,0 +1,38 @@
+{
+  "teradatasql": {
+    "version": "17.20.0.11",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=17.0.0.2"
+      }
+    ]
+  },
+  "sqlalchemy": {
+    "version": "1.4.43",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.2.11"
+      }
+    ]
+  },
+  "pycryptodome": {
+    "version": "3.15.0",
+    "constraints": [
+      {
+        "from": "teradatasql",
+        "specifier": ""
+      }
+    ]
+  },
+  "greenlet": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "sqlalchemy",
+        "specifier": "!=0.4.17"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+django-timezone-field==5.0
+  - pytz [required: Any, installed: 2023.3]
+

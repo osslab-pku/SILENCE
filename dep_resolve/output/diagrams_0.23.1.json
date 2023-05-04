@@ -1,0 +1,29 @@
+{
+  "jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4.0,>=2.10"
+      }
+    ]
+  },
+  "graphviz": {
+    "version": "0.19.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.20.0,>=0.13.2"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "jinja2",
+        "specifier": ">=2.0"
+      }
+    ]
+  }
+}

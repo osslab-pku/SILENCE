@@ -1,0 +1,12 @@
+joblib
+matplotlib
+numpy
+pandas
+plotly
+pymongo
+tqdm
+requests
+jupyterlab
+scancode-toolkit
+seaborn
+z3-solver

@@ -1,0 +1,6 @@
+pysnmp==4.4.12
+  - pyasn1 [required: >=0.2.3, installed: 0.5.0]
+  - pycryptodomex [required: Any, installed: 3.17]
+  - pysmi [required: Any, installed: 0.3.4]
+    - ply [required: Any, installed: 3.11]
+

@@ -1,0 +1,11 @@
+{
+  "ply": {
+    "version": "3.11",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4.0,>=3.11"
+      }
+    ]
+  }
+}

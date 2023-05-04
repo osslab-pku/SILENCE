@@ -1,0 +1,3 @@
+pyston-autoload==2.3.5
+  - pyston [required: ==2.3.5, installed: 2.3.5]
+

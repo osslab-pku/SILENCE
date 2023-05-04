@@ -1,0 +1,10 @@
+eyes-images==5.13.0
+  - attrs [required: >=19.2.0,<23, installed: 22.2.0]
+  - eyes-common [required: ==5.0.0, installed: 5.0.0]
+  - eyes-core [required: ==5.0.0, installed: 5.0.0]
+  - eyes-universal [required: >=3,<4, installed: 3.2.2]
+  - marshmallow [required: <3, installed: 2.21.0]
+  - six [required: Any, installed: 1.16.0]
+  - websocket-client [required: <=0.59, installed: 0.59.0]
+    - six [required: Any, installed: 1.16.0]
+

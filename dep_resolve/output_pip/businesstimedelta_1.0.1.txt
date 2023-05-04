@@ -1,0 +1,10 @@
+businesstimedelta==1.0.1
+  - holidays [required: Any, installed: 0.23]
+    - convertdate [required: >=2.3.0, installed: 2.4.0]
+      - pymeeus [required: >=0.3.13,<=1, installed: 0.5.12]
+    - hijri-converter [required: Any, installed: 2.2.4]
+    - korean-lunar-calendar [required: Any, installed: 0.3.1]
+    - python-dateutil [required: Any, installed: 2.8.2]
+      - six [required: >=1.5, installed: 1.16.0]
+  - pytz [required: Any, installed: 2023.3]
+

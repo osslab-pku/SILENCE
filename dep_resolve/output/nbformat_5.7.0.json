@@ -1,0 +1,69 @@
+{
+  "traitlets": {
+    "version": "5.5.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=5.1"
+      },
+      {
+        "from": "jupyter-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "jupyter-core": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "jsonschema": {
+    "version": "4.17.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.6"
+      }
+    ]
+  },
+  "fastjsonschema": {
+    "version": "2.15.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "platformdirs": {
+    "version": "2.5.3",
+    "constraints": [
+      {
+        "from": "jupyter-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyrsistent": {
+    "version": "0.19.2",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": "!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": ">=17.4.0"
+      }
+    ]
+  }
+}

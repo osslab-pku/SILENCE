@@ -1,0 +1,5 @@
+robotframework-excellib==2.0.1
+  - openpyxl [required: >=2.4.1, installed: 3.1.2]
+    - et-xmlfile [required: Any, installed: 1.1.0]
+  - robotframework [required: >=3.0.3, installed: 6.0.2]
+

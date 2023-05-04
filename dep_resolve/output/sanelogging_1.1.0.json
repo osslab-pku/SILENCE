@@ -1,0 +1,51 @@
+{
+  "datetime": {
+    "version": "4.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "datetime",
+        "specifier": ""
+      }
+    ]
+  },
+  "colorlog": {
+    "version": "6.5.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "zope.interface": {
+    "version": "5.5.1",
+    "constraints": [
+      {
+        "from": "datetime",
+        "specifier": ""
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "zope.interface",
+        "specifier": ""
+      }
+    ]
+  }
+}

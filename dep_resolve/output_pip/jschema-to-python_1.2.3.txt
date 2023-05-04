@@ -1,0 +1,5 @@
+jschema-to-python==1.2.3
+  - attrs [required: Any, installed: 23.1.0]
+  - jsonpickle [required: Any, installed: 3.0.1]
+  - pbr [required: Any, installed: 5.11.1]
+

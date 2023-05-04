@@ -1,0 +1,4 @@
+jupyter-core==5.0.0
+  - platformdirs [required: Any, installed: 3.2.0]
+  - traitlets [required: Any, installed: 5.9.0]
+

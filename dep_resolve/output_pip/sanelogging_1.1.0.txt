@@ -1,0 +1,8 @@
+sanelogging==1.1.0
+  - colorlog [required: Any, installed: 6.7.0]
+  - datetime [required: Any, installed: 5.1]
+    - pytz [required: Any, installed: 2023.3]
+    - zope.interface [required: Any, installed: 6.0]
+      - setuptools [required: Any, installed: 66.0.0]
+  - pytz [required: Any, installed: 2023.3]
+

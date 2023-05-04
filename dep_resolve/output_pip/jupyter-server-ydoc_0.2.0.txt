@@ -1,0 +1,10 @@
+jupyter-server-ydoc==0.2.0
+  - jupyter-ydoc [required: >=0.2.0,<0.4.0, installed: 0.3.1]
+    - importlib-metadata [required: >=3.6, installed: 6.6.0]
+      - zipp [required: >=0.5, installed: 3.15.0]
+    - y-py [required: >=0.5.3,<0.6.0, installed: 0.5.9]
+  - ypy-websocket [required: >=0.3.2,<0.4.0, installed: 0.3.2]
+    - aiofiles [required: >=0.8.0,<1, installed: 0.8.0]
+    - aiosqlite [required: >=0.17.0,<1, installed: 0.19.0]
+    - y-py [required: >=0.5.3,<0.6.0, installed: 0.5.9]
+

@@ -1,0 +1,20 @@
+{
+  "pyudorandom": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "accumulation-tree": {
+    "version": "0.6.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

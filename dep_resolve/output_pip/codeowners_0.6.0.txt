@@ -1,0 +1,3 @@
+codeowners==0.6.0
+  - typing-extensions [required: >=3.7, installed: 4.5.0]
+

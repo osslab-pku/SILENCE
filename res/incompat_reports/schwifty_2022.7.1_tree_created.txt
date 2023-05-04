@@ -1,0 +1,4 @@
+schwifty 2022.7.1 (MIT) has 1 incompatibilities in [tree_created]:
+schwifty 
+  pycountry 22.3.5 (INCOMPATIBLE! HAS GPL-2.0-only) [schwifty ()]
+  iso3166 2.1.1 [schwifty ()]

@@ -1,0 +1,5 @@
+pillow-heif==0.7.2
+  - cffi [required: >=1.14.6, installed: 1.15.1]
+    - pycparser [required: Any, installed: 2.21]
+  - pillow [required: >=6.2.0, installed: 9.5.0]
+

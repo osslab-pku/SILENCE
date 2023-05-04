@@ -1,0 +1,100 @@
+{
+  "pip": {
+    "version": "22.3.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "importlib-resources": {
+    "version": "5.10.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "executor": {
+    "version": "23.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-resources",
+        "specifier": ">=3.1.0"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "executor",
+        "specifier": ">=1.9.0"
+      }
+    ]
+  },
+  "property-manager": {
+    "version": "3.0",
+    "constraints": [
+      {
+        "from": "executor",
+        "specifier": ">=3.0"
+      }
+    ]
+  },
+  "humanfriendly": {
+    "version": "10.0",
+    "constraints": [
+      {
+        "from": "executor",
+        "specifier": ">=8.0"
+      },
+      {
+        "from": "property-manager",
+        "specifier": ">=8.0"
+      },
+      {
+        "from": "coloredlogs",
+        "specifier": ">=9.1"
+      }
+    ]
+  },
+  "fasteners": {
+    "version": "0.17.3",
+    "constraints": [
+      {
+        "from": "executor",
+        "specifier": ">=0.14.1"
+      }
+    ]
+  },
+  "coloredlogs": {
+    "version": "15.0.1",
+    "constraints": [
+      {
+        "from": "executor",
+        "specifier": ">=3.5"
+      }
+    ]
+  },
+  "verboselogs": {
+    "version": "1.7",
+    "constraints": [
+      {
+        "from": "property-manager",
+        "specifier": ">=1.1"
+      }
+    ]
+  }
+}

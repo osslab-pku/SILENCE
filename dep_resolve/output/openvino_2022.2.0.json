@@ -1,0 +1,11 @@
+{
+  "numpy": {
+    "version": "1.23.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<=1.23.1,>=1.16.6"
+      }
+    ]
+  }
+}

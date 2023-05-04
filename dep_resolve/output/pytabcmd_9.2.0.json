@@ -1,0 +1,11 @@
+{
+  "configparser": {
+    "version": "5.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

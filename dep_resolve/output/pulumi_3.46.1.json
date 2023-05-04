@@ -1,0 +1,60 @@
+{
+  "pyyaml": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=6.0"
+      }
+    ]
+  },
+  "semver": {
+    "version": "2.13.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=2.8"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.12"
+      },
+      {
+        "from": "grpcio",
+        "specifier": ">=1.5.2"
+      }
+    ]
+  },
+  "dill": {
+    "version": "0.3.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.3"
+      }
+    ]
+  },
+  "grpcio": {
+    "version": "1.47.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==1.47"
+      }
+    ]
+  },
+  "protobuf": {
+    "version": "4.21.9",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=4.21"
+      }
+    ]
+  }
+}

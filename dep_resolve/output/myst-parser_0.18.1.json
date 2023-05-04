@@ -1,0 +1,293 @@
+{
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "sphinx": {
+    "version": "5.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<6,>=4"
+      }
+    ]
+  },
+  "pyyaml": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "mdit-py-plugins": {
+    "version": "0.3.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.3.1"
+      }
+    ]
+  },
+  "markdown-it-py": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0.0,>=1.0.0"
+      },
+      {
+        "from": "mdit-py-plugins",
+        "specifier": "<3.0.0,>=1.0.0"
+      }
+    ]
+  },
+  "jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "docutils": {
+    "version": "0.19",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.20,>=0.15"
+      },
+      {
+        "from": "sphinx",
+        "specifier": "<0.20,>=0.14"
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=4.8"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=21.0"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=2.5.0"
+      }
+    ]
+  },
+  "imagesize": {
+    "version": "1.4.1",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=1.3"
+      }
+    ]
+  },
+  "alabaster": {
+    "version": "0.7.12",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": "<0.8,>=0.7"
+      }
+    ]
+  },
+  "babel": {
+    "version": "2.11.0",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=2.9"
+      }
+    ]
+  },
+  "snowballstemmer": {
+    "version": "2.2.0",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "Pygments": {
+    "version": "2.13.0",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=2.12"
+      }
+    ]
+  },
+  "Jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=3.0"
+      }
+    ]
+  },
+  "sphinxcontrib-qthelp": {
+    "version": "1.0.2",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ""
+      }
+    ]
+  },
+  "sphinxcontrib-serializinghtml": {
+    "version": "1.1.5",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=1.1.5"
+      }
+    ]
+  },
+  "sphinxcontrib-htmlhelp": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "sphinxcontrib-jsmath": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ""
+      }
+    ]
+  },
+  "sphinxcontrib-devhelp": {
+    "version": "1.0.2",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ""
+      }
+    ]
+  },
+  "sphinxcontrib-applehelp": {
+    "version": "1.0.2",
+    "constraints": [
+      {
+        "from": "sphinx",
+        "specifier": ""
+      }
+    ]
+  },
+  "mdurl": {
+    "version": "0.1.2",
+    "constraints": [
+      {
+        "from": "markdown-it-py",
+        "specifier": "~=0.1"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "jinja2",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "Jinja2",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "babel",
+        "specifier": ">=2015.7"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "django": {
+    "version": "4.1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.2"
+      }
+    ]
+  },
+  "sqlparse": {
+    "version": "0.4.3",
+    "constraints": [
+      {
+        "from": "django",
+        "specifier": ">=0.2.2"
+      }
+    ]
+  },
+  "asgiref": {
+    "version": "3.5.2",
+    "constraints": [
+      {
+        "from": "django",
+        "specifier": "<4,>=3.5.2"
+      }
+    ]
+  }
+}

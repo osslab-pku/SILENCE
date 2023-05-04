@@ -1,0 +1,7 @@
+django-user-agents==0.4.0
+  - django [required: Any, installed: 4.2]
+    - asgiref [required: >=3.6.0,<4, installed: 3.6.0]
+    - sqlparse [required: >=0.3.1, installed: 0.4.4]
+  - user-agents [required: Any, installed: 2.2.0]
+    - ua-parser [required: >=0.10.0, installed: 0.16.1]
+

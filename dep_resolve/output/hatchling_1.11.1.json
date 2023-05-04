@@ -1,0 +1,56 @@
+{
+  "tomli": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.2.2"
+      }
+    ]
+  },
+  "pluggy": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "pathspec": {
+    "version": "0.10.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.10.1"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=21.3"
+      }
+    ]
+  },
+  "editables": {
+    "version": "0.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.3"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  }
+}

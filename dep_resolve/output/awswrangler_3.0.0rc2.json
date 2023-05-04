@@ -1,0 +1,517 @@
+{
+  "backoff": {
+    "version": "2.2.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0.0,>=2.0.0"
+      }
+    ]
+  },
+  "gremlinpython": {
+    "version": "3.6.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4.0.0,>=3.5.2"
+      }
+    ]
+  },
+  "opensearch-py": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0.0,>=2.0.0"
+      }
+    ]
+  },
+  "progressbar2": {
+    "version": "4.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5.0.0,>=4.0.0"
+      }
+    ]
+  },
+  "jsonpath-ng": {
+    "version": "1.5.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.5.3"
+      }
+    ]
+  },
+  "requests-aws4auth": {
+    "version": "1.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.1.1"
+      }
+    ]
+  },
+  "openpyxl": {
+    "version": "3.0.10",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.1.0,>=3.0.0"
+      }
+    ]
+  },
+  "pg8000": {
+    "version": "1.29.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.29.0"
+      }
+    ]
+  },
+  "pymysql": {
+    "version": "1.0.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.0.0"
+      }
+    ]
+  },
+  "redshift-connector": {
+    "version": "2.0.909",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.1.0,>=2.0.889"
+      }
+    ]
+  },
+  "pyarrow": {
+    "version": "8.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<8.1.0,>=6.0.0"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.22.4"
+      },
+      {
+        "from": "pyarrow",
+        "specifier": ">=1.16.6"
+      },
+      {
+        "from": "pandas",
+        "specifier": ">=1.20.3"
+      }
+    ]
+  },
+  "pandas": {
+    "version": "1.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "!=1.5.0,<2.0.0,<=1.5.1,>=1.2.0"
+      }
+    ]
+  },
+  "botocore": {
+    "version": "1.29.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.27.11"
+      },
+      {
+        "from": "redshift-connector",
+        "specifier": "<2.0.0,>=1.12.201"
+      },
+      {
+        "from": "boto3",
+        "specifier": "<1.30.0,>=1.29.7"
+      },
+      {
+        "from": "s3transfer",
+        "specifier": "<2.0a.0,>=1.12.36"
+      }
+    ]
+  },
+  "boto3": {
+    "version": "1.26.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.24.11"
+      },
+      {
+        "from": "redshift-connector",
+        "specifier": "<2.0.0,>=1.9.201"
+      }
+    ]
+  },
+  "isodate": {
+    "version": "0.6.1",
+    "constraints": [
+      {
+        "from": "gremlinpython",
+        "specifier": "<1.0.0,>=0.6.0"
+      }
+    ]
+  },
+  "aenum": {
+    "version": "3.1.11",
+    "constraints": [
+      {
+        "from": "gremlinpython",
+        "specifier": "<4.0.0,>=1.4.5"
+      }
+    ]
+  },
+  "aiohttp": {
+    "version": "3.8.1",
+    "constraints": [
+      {
+        "from": "gremlinpython",
+        "specifier": "<=3.8.1,>=3.8.0"
+      }
+    ]
+  },
+  "nest-asyncio": {
+    "version": "1.5.6",
+    "constraints": [
+      {
+        "from": "gremlinpython",
+        "specifier": ""
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "opensearch-py",
+        "specifier": "<3.0.0,>=2.4.0"
+      },
+      {
+        "from": "requests-aws4auth",
+        "specifier": ""
+      },
+      {
+        "from": "redshift-connector",
+        "specifier": "<3.0.0,>=2.23.0"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "opensearch-py",
+        "specifier": ""
+      },
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "opensearch-py",
+        "specifier": "<2,>=1.21.1"
+      },
+      {
+        "from": "botocore",
+        "specifier": "<1.27,>=1.25.4"
+      },
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "python-utils": {
+    "version": "3.4.5",
+    "constraints": [
+      {
+        "from": "progressbar2",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "jsonpath-ng",
+        "specifier": ""
+      },
+      {
+        "from": "requests-aws4auth",
+        "specifier": ""
+      },
+      {
+        "from": "isodate",
+        "specifier": ""
+      },
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      }
+    ]
+  },
+  "decorator": {
+    "version": "5.1.1",
+    "constraints": [
+      {
+        "from": "jsonpath-ng",
+        "specifier": ""
+      }
+    ]
+  },
+  "ply": {
+    "version": "3.11",
+    "constraints": [
+      {
+        "from": "jsonpath-ng",
+        "specifier": ""
+      }
+    ]
+  },
+  "et-xmlfile": {
+    "version": "1.1.0",
+    "constraints": [
+      {
+        "from": "openpyxl",
+        "specifier": ""
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "pg8000",
+        "specifier": ">=2.8.2"
+      },
+      {
+        "from": "pandas",
+        "specifier": ">=2.8.1"
+      },
+      {
+        "from": "botocore",
+        "specifier": "<3.0.0,>=2.1"
+      }
+    ]
+  },
+  "scramp": {
+    "version": "1.4.4",
+    "constraints": [
+      {
+        "from": "pg8000",
+        "specifier": ">=1.4.3"
+      },
+      {
+        "from": "redshift-connector",
+        "specifier": "<1.5.0,>=1.2.0"
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "redshift-connector",
+        "specifier": ""
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "redshift-connector",
+        "specifier": ""
+      }
+    ]
+  },
+  "lxml": {
+    "version": "4.9.1",
+    "constraints": [
+      {
+        "from": "redshift-connector",
+        "specifier": ">=4.6.5"
+      }
+    ]
+  },
+  "beautifulsoup4": {
+    "version": "4.11.1",
+    "constraints": [
+      {
+        "from": "redshift-connector",
+        "specifier": "<5.0.0,>=4.7.0"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "redshift-connector",
+        "specifier": ">=2020.1"
+      },
+      {
+        "from": "pandas",
+        "specifier": ">=2020.1"
+      }
+    ]
+  },
+  "jmespath": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "botocore",
+        "specifier": "<2.0.0,>=0.7.1"
+      },
+      {
+        "from": "boto3",
+        "specifier": "<2.0.0,>=0.7.1"
+      }
+    ]
+  },
+  "s3transfer": {
+    "version": "0.6.0",
+    "constraints": [
+      {
+        "from": "boto3",
+        "specifier": "<0.7.0,>=0.6.0"
+      }
+    ]
+  },
+  "aiosignal": {
+    "version": "1.3.1",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": ">=1.1.2"
+      }
+    ]
+  },
+  "frozenlist": {
+    "version": "1.3.3",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": ">=1.1.1"
+      },
+      {
+        "from": "aiosignal",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "yarl": {
+    "version": "1.8.1",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": "<2.0,>=1.0"
+      }
+    ]
+  },
+  "async-timeout": {
+    "version": "4.0.2",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": "<5.0,>=4.0.0a3"
+      }
+    ]
+  },
+  "multidict": {
+    "version": "6.0.2",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": "<7.0,>=4.5"
+      },
+      {
+        "from": "yarl",
+        "specifier": ">=4.0"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": "<3.0,>=2.0"
+      },
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "aiohttp",
+        "specifier": ">=17.3.0"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      },
+      {
+        "from": "yarl",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "asn1crypto": {
+    "version": "1.5.1",
+    "constraints": [
+      {
+        "from": "scramp",
+        "specifier": ">=1.5.1"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "soupsieve": {
+    "version": "2.3.2.post1",
+    "constraints": [
+      {
+        "from": "beautifulsoup4",
+        "specifier": ">1.2"
+      }
+    ]
+  }
+}

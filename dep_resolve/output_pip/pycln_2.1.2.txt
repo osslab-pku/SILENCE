@@ -1,0 +1,13 @@
+pycln==2.1.2
+  - libcst [required: >=0.3.10,<0.5.0, installed: 0.4.9]
+    - pyyaml [required: >=5.2, installed: 6.0]
+    - typing-extensions [required: >=3.7.4.2, installed: 4.5.0]
+    - typing-inspect [required: >=0.4.0, installed: 0.8.0]
+      - mypy-extensions [required: >=0.3.0, installed: 1.0.0]
+      - typing-extensions [required: >=3.7.4, installed: 4.5.0]
+  - pathspec [required: >=0.9.0,<0.10.0, installed: 0.9.0]
+  - pyyaml [required: >=5.3.1,<7.0.0, installed: 6.0]
+  - tomlkit [required: >=0.11.1,<0.12.0, installed: 0.11.7]
+  - typer [required: >=0.4.1,<0.8.0, installed: 0.7.0]
+    - click [required: >=7.1.1,<9.0.0, installed: 8.1.3]
+

@@ -1,0 +1,351 @@
+{
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4.5,>=4.3"
+      }
+    ]
+  },
+  "zstandard": {
+    "version": "0.19.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.20,>=0.11"
+      }
+    ]
+  },
+  "publicsuffix2": {
+    "version": "2.20191219",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3,>=2.20190812"
+      }
+    ]
+  },
+  "wsproto": {
+    "version": "1.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.3,>=1.0"
+      }
+    ]
+  },
+  "urwid": {
+    "version": "2.1.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.2,>=2.1.1"
+      }
+    ]
+  },
+  "tornado": {
+    "version": "6.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<7,>=6.1"
+      }
+    ]
+  },
+  "sortedcontainers": {
+    "version": "2.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.5,>=2.3"
+      }
+    ]
+  },
+  "ruamel.yaml": {
+    "version": "0.17.21",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.18,>=0.16"
+      }
+    ]
+  },
+  "pyperclip": {
+    "version": "1.8.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.9,>=1.6.0"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.1,>=2.4.2"
+      }
+    ]
+  },
+  "pyOpenSSL": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<22.2,>=22.1"
+      }
+    ]
+  },
+  "protobuf": {
+    "version": "4.21.9",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5,>=3.14"
+      }
+    ]
+  },
+  "passlib": {
+    "version": "1.7.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.8,>=1.6.5"
+      }
+    ]
+  },
+  "msgpack": {
+    "version": "1.0.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.1.0,>=1.0.0"
+      }
+    ]
+  },
+  "mitmproxy-wireguard": {
+    "version": "0.1.17",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.2,>=0.1.6"
+      }
+    ]
+  },
+  "ldap3": {
+    "version": "2.9.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.10,>=2.8"
+      }
+    ]
+  },
+  "kaitaistruct": {
+    "version": "0.10",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.11,>=0.10"
+      }
+    ]
+  },
+  "hyperframe": {
+    "version": "6.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<7,>=6.0"
+      },
+      {
+        "from": "h2",
+        "specifier": "<7,>=6.0"
+      }
+    ]
+  },
+  "h2": {
+    "version": "4.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5,>=4.1"
+      }
+    ]
+  },
+  "h11": {
+    "version": "0.14.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.15,>=0.11"
+      },
+      {
+        "from": "wsproto",
+        "specifier": "<1,>=0.9.0"
+      }
+    ]
+  },
+  "flask": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.3,>=1.1.1"
+      }
+    ]
+  },
+  "cryptography": {
+    "version": "38.0.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<38.1,>=38.0"
+      },
+      {
+        "from": "pyOpenSSL",
+        "specifier": "<39,>=38.0.0"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2019.9.11"
+      }
+    ]
+  },
+  "Brotli": {
+    "version": "1.0.9",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.1,>=1.0"
+      }
+    ]
+  },
+  "asgiref": {
+    "version": "3.5.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.6,>=3.2.10"
+      }
+    ]
+  },
+  "ruamel.yaml.clib": {
+    "version": "0.2.7",
+    "constraints": [
+      {
+        "from": "ruamel.yaml",
+        "specifier": ">=0.2.6"
+      }
+    ]
+  },
+  "pyasn1": {
+    "version": "0.4.8",
+    "constraints": [
+      {
+        "from": "ldap3",
+        "specifier": ">=0.4.6"
+      }
+    ]
+  },
+  "hpack": {
+    "version": "4.0.0",
+    "constraints": [
+      {
+        "from": "h2",
+        "specifier": "<5,>=4.0"
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "flask",
+        "specifier": ">=3.6.0"
+      }
+    ]
+  },
+  "click": {
+    "version": "8.1.3",
+    "constraints": [
+      {
+        "from": "flask",
+        "specifier": ">=8.0"
+      }
+    ]
+  },
+  "itsdangerous": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "flask",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "Jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "flask",
+        "specifier": ">=3.0"
+      }
+    ]
+  },
+  "Werkzeug": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "flask",
+        "specifier": ">=2.2.2"
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "cryptography",
+        "specifier": ">=1.12"
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "Jinja2",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "Werkzeug",
+        "specifier": ">=2.1.1"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  }
+}

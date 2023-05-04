@@ -1,0 +1,69 @@
+{
+  "paramiko": {
+    "version": "2.12.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "paramiko",
+        "specifier": ""
+      }
+    ]
+  },
+  "pynacl": {
+    "version": "1.5.0",
+    "constraints": [
+      {
+        "from": "paramiko",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "cryptography": {
+    "version": "38.0.3",
+    "constraints": [
+      {
+        "from": "paramiko",
+        "specifier": ">=2.5"
+      }
+    ]
+  },
+  "bcrypt": {
+    "version": "4.0.1",
+    "constraints": [
+      {
+        "from": "paramiko",
+        "specifier": ">=3.1.3"
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "pynacl",
+        "specifier": ">=1.4.1"
+      },
+      {
+        "from": "cryptography",
+        "specifier": ">=1.12"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  }
+}

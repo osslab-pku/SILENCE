@@ -1,0 +1,234 @@
+{
+  "pyyaml": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<7.0.0,>=5.1.0"
+      }
+    ]
+  },
+  "jsonschema": {
+    "version": "4.17.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "azure-identity": {
+    "version": "1.7.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==1.7.0"
+      }
+    ]
+  },
+  "cloudpickle": {
+    "version": "2.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0.0,>=1.1.0"
+      }
+    ]
+  },
+  "azureml-dataprep-rslex": {
+    "version": "2.14.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=2.14.0dev0"
+      }
+    ]
+  },
+  "azureml-dataprep-native": {
+    "version": "38.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<39.0.0,>=38.0.0"
+      }
+    ]
+  },
+  "dotnetcore2": {
+    "version": "3.1.23",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4.0.0,>=3.0.0"
+      }
+    ]
+  },
+  "pyrsistent": {
+    "version": "0.19.2",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": "!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": ">=17.4.0"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "azure-identity",
+        "specifier": ">=1.12.0"
+      },
+      {
+        "from": "azure-core",
+        "specifier": ">=1.11.0"
+      }
+    ]
+  },
+  "msal-extensions": {
+    "version": "0.3.1",
+    "constraints": [
+      {
+        "from": "azure-identity",
+        "specifier": "~=0.3.0"
+      }
+    ]
+  },
+  "msal": {
+    "version": "1.20.0",
+    "constraints": [
+      {
+        "from": "azure-identity",
+        "specifier": "<2.0.0,>=1.12.0"
+      },
+      {
+        "from": "msal-extensions",
+        "specifier": "<2.0.0,>=0.4.1"
+      }
+    ]
+  },
+  "cryptography": {
+    "version": "38.0.3",
+    "constraints": [
+      {
+        "from": "azure-identity",
+        "specifier": ">=2.5"
+      },
+      {
+        "from": "msal",
+        "specifier": "<41,>=0.6"
+      }
+    ]
+  },
+  "azure-core": {
+    "version": "1.26.1",
+    "constraints": [
+      {
+        "from": "azure-identity",
+        "specifier": "<2.0.0,>=1.11.0"
+      }
+    ]
+  },
+  "distro": {
+    "version": "1.8.0",
+    "constraints": [
+      {
+        "from": "dotnetcore2",
+        "specifier": ">=1.2.0"
+      }
+    ]
+  },
+  "portalocker": {
+    "version": "2.6.0",
+    "constraints": [
+      {
+        "from": "msal-extensions",
+        "specifier": "<3,>=1.0"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "msal",
+        "specifier": "<3,>=2.0.0"
+      },
+      {
+        "from": "azure-core",
+        "specifier": ">=2.18.4"
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "cryptography",
+        "specifier": ">=1.12"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "azure-core",
+        "specifier": ">=4.0.1"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  }
+}

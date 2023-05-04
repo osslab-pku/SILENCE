@@ -1,0 +1,7 @@
+teradatasqlalchemy==17.0.0.3
+  - sqlalchemy [required: >=1.2.11, installed: 2.0.10]
+    - greenlet [required: !=0.4.17, installed: 2.0.2]
+    - typing-extensions [required: >=4.2.0, installed: 4.5.0]
+  - teradatasql [required: >=17.0.0.2, installed: 17.20.0.19]
+    - pycryptodome [required: Any, installed: 3.17]
+

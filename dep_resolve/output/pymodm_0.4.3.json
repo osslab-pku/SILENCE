@@ -1,0 +1,20 @@
+{
+  "ipaddress": {
+    "version": "1.0.23",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pymongo": {
+    "version": "3.13.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4.0,>=3.4"
+      }
+    ]
+  }
+}

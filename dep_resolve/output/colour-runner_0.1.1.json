@@ -1,0 +1,29 @@
+{
+  "pygments": {
+    "version": "2.13.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "blessings": {
+    "version": "1.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "blessings",
+        "specifier": ""
+      }
+    ]
+  }
+}

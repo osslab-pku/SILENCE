@@ -1,0 +1,33 @@
+{
+  "protobuf": {
+    "version": "3.20.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4,>=3.13"
+      },
+      {
+        "from": "googleapis-common-protos",
+        "specifier": "<5.0.0dev,>=3.15.0"
+      }
+    ]
+  },
+  "googleapis-common-protos": {
+    "version": "1.56.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2,>=1.52.0"
+      }
+    ]
+  },
+  "absl-py": {
+    "version": "1.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=0.9"
+      }
+    ]
+  }
+}

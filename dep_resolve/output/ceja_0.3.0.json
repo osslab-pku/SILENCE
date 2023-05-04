@@ -1,0 +1,11 @@
+{
+  "jellyfish": {
+    "version": "0.8.9",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.9.0,>=0.8.2"
+      }
+    ]
+  }
+}

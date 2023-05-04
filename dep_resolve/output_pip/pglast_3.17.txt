@@ -1,0 +1,3 @@
+pglast==3.17
+  - setuptools [required: Any, installed: 66.0.0]
+

@@ -1,0 +1,16 @@
+fbprophet 0.4 (BSD-3-Clause) has 2 incompatibilities in [tree_created]:
+fbprophet 
+  holidays 0.9.8 [fbprophet (>=0.9.5)]
+  convertdate 2.1.3 [fbprophet (>=2.1.2)]
+    pytz 2018.7 [convertdate (<2020,>=2014.10)]
+    ephem 3.7.6.0 [convertdate (<3.8,>=3.7.5.3)]
+  lunardate 0.2.0 (INCOMPATIBLE! HAS GPL-3.0-only) [fbprophet (>=0.1.5)]
+  matplotlib 3.0.2 [fbprophet (>=2.0.0)]
+  pandas 0.23.4 [fbprophet (>=0.20.1)]
+    numpy 1.15.4 [fbprophet (>=1.10.0)] [pandas (>=1.9.0)] [pystan (>=1.7)]
+    python-dateutil 2.7.5 [pandas (>=2.5.0)]
+      six 1.12.0 [python-dateutil (>=1.5)]
+  numpy 1.15.4 [fbprophet (>=1.10.0)] [pandas (>=1.9.0)] [pystan (>=1.7)]
+  pystan 2.18.0.0 (INCOMPATIBLE! HAS GPL-3.0-only) [fbprophet (>=2.14)]
+    Cython 0.29.2 [fbprophet (>=0.22)] [pystan (!=0.25.1,>=0.22)]
+  Cython 0.29.2 [fbprophet (>=0.22)] [pystan (!=0.25.1,>=0.22)]

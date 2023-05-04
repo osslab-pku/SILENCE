@@ -1,0 +1,3 @@
+yaml-config==0.1.5
+  - PyYAML [required: >=3.13, installed: 6.0]
+

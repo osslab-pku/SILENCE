@@ -1,0 +1,3 @@
+cibuildwheel 1.1.0 (BSD-3-Clause) has 1 incompatibilities in [tree_created]:
+cibuildwheel 
+  bashlex 0.14 (INCOMPATIBLE! HAS GPL-3.0-or-later) [cibuildwheel (!=0.13)]

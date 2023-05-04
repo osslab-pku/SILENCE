@@ -1,0 +1,38 @@
+{
+  "pydantic": {
+    "version": "1.10.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.8.2"
+      }
+    ]
+  },
+  "SQLAlchemy": {
+    "version": "1.4.43",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.5.0,>=1.4.17"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "pydantic",
+        "specifier": ">=4.1.0"
+      }
+    ]
+  },
+  "greenlet": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "SQLAlchemy",
+        "specifier": "!=0.4.17"
+      }
+    ]
+  }
+}

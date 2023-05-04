@@ -1,0 +1,4 @@
+flake8-import-order==0.18.1
+  - pycodestyle [required: Any, installed: 2.10.0]
+  - setuptools [required: Any, installed: 66.0.0]
+

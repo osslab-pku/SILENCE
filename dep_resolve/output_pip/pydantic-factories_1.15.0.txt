@@ -1,0 +1,8 @@
+pydantic-factories==1.15.0
+  - faker [required: Any, installed: 18.4.0]
+    - python-dateutil [required: >=2.4, installed: 2.8.2]
+      - six [required: >=1.5, installed: 1.16.0]
+  - pydantic [required: >=1.10.0, installed: 1.10.7]
+    - typing-extensions [required: >=4.2.0, installed: 4.5.0]
+  - typing-extensions [required: Any, installed: 4.5.0]
+

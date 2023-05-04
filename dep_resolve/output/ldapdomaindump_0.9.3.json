@@ -1,0 +1,38 @@
+{
+  "ldap3": {
+    "version": "2.9.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "!=2.5.0,!=2.5.2,!=2.6,>=2.5"
+      }
+    ]
+  },
+  "future": {
+    "version": "0.18.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "dnspython": {
+    "version": "2.2.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyasn1": {
+    "version": "0.4.8",
+    "constraints": [
+      {
+        "from": "ldap3",
+        "specifier": ">=0.4.6"
+      }
+    ]
+  }
+}

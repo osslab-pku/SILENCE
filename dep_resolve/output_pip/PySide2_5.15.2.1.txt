@@ -1,0 +1,3 @@
+PySide2==5.15.2.1
+  - shiboken2 [required: ==5.15.2.1, installed: 5.15.2.1]
+

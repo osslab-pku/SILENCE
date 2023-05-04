@@ -1,0 +1,167 @@
+{
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5.0.0,>=4.3.0"
+      }
+    ]
+  },
+  "werkzeug": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "openapi-spec-validator": {
+    "version": "0.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.6.0,>=0.5.0"
+      }
+    ]
+  },
+  "openapi-schema-validator": {
+    "version": "0.3.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.4.0,>=0.3.0"
+      },
+      {
+        "from": "openapi-spec-validator",
+        "specifier": "<0.4.0,>=0.3.2"
+      }
+    ]
+  },
+  "parse": {
+    "version": "1.19.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "more-itertools": {
+    "version": "9.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "isodate": {
+    "version": "0.6.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pathable": {
+    "version": "0.4.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.5.0,>=0.4.0"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "werkzeug",
+        "specifier": ">=2.1.1"
+      }
+    ]
+  },
+  "lazy-object-proxy": {
+    "version": "1.8.0",
+    "constraints": [
+      {
+        "from": "openapi-spec-validator",
+        "specifier": "<2.0.0,>=1.7.1"
+      }
+    ]
+  },
+  "importlib-resources": {
+    "version": "5.10.0",
+    "constraints": [
+      {
+        "from": "openapi-spec-validator",
+        "specifier": "<6.0.0,>=5.8.0"
+      }
+    ]
+  },
+  "PyYAML": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "openapi-spec-validator",
+        "specifier": ">=5.1"
+      }
+    ]
+  },
+  "jsonschema": {
+    "version": "4.17.0",
+    "constraints": [
+      {
+        "from": "openapi-spec-validator",
+        "specifier": "<5.0.0,>=4.0.0"
+      },
+      {
+        "from": "openapi-schema-validator",
+        "specifier": "<5.0.0,>=4.0.0"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "openapi-schema-validator",
+        "specifier": ">=19.2.0"
+      },
+      {
+        "from": "jsonschema",
+        "specifier": ">=17.4.0"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "isodate",
+        "specifier": ""
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-resources",
+        "specifier": ">=3.1.0"
+      }
+    ]
+  },
+  "pyrsistent": {
+    "version": "0.19.2",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": "!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0"
+      }
+    ]
+  }
+}

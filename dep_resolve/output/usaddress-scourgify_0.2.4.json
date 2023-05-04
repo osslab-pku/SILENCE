@@ -1,0 +1,47 @@
+{
+  "yaml-config": {
+    "version": "0.1.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.1.2"
+      }
+    ]
+  },
+  "frozendict": {
+    "version": "2.3.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.2"
+      }
+    ]
+  },
+  "usaddress": {
+    "version": "0.5.10",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.5.9"
+      }
+    ]
+  },
+  "geocoder": {
+    "version": "1.38.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.22.6"
+      }
+    ]
+  },
+  "PyYAML": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "yaml-config",
+        "specifier": ">=3.13"
+      }
+    ]
+  }
+}

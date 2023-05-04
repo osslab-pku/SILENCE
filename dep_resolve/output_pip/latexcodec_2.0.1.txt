@@ -1,0 +1,3 @@
+latexcodec==2.0.1
+  - six [required: >=1.4.1, installed: 1.16.0]
+

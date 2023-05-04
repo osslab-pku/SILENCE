@@ -1,0 +1,13 @@
+notifiers 1.0.3 (MIT) has 1 incompatibilities in [tree_created]:
+notifiers 
+  urllib3 1.23 [notifiers (==1.23)] [requests (<1.25,>=1.21.1)]
+  rfc3987 1.3.8 (INCOMPATIBLE! HAS GPL-3.0-or-later) [notifiers (==1.3.8)]
+  requests 2.20.1 [notifiers (==2.20.1)]
+    idna 2.7 [notifiers (==2.7)] [requests (<2.8,>=2.5)]
+    chardet 3.0.4 [notifiers (==3.0.4)] [requests (<3.1.0,>=3.0.2)]
+    certifi 2018.4.16 [notifiers (==2018.4.16)] [requests (>=2017.4.17)]
+  jsonschema 2.6.0 [notifiers (==2.6.0)]
+  idna 2.7 [notifiers (==2.7)] [requests (<2.8,>=2.5)]
+  click 7.0 [notifiers (==7.0)]
+  chardet 3.0.4 [notifiers (==3.0.4)] [requests (<3.1.0,>=3.0.2)]
+  certifi 2018.4.16 [notifiers (==2018.4.16)] [requests (>=2017.4.17)]

@@ -1,0 +1,51 @@
+{
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "django-storages": {
+    "version": "1.13.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.6"
+      }
+    ]
+  },
+  "Django": {
+    "version": "4.1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.2"
+      },
+      {
+        "from": "django-storages",
+        "specifier": ">=3.2"
+      }
+    ]
+  },
+  "sqlparse": {
+    "version": "0.4.3",
+    "constraints": [
+      {
+        "from": "Django",
+        "specifier": ">=0.2.2"
+      }
+    ]
+  },
+  "asgiref": {
+    "version": "3.5.2",
+    "constraints": [
+      {
+        "from": "Django",
+        "specifier": "<4,>=3.5.2"
+      }
+    ]
+  }
+}

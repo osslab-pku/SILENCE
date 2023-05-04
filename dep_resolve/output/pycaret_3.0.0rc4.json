@@ -1,0 +1,1231 @@
+{
+  "yellowbrick": {
+    "version": "1.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.4"
+      }
+    ]
+  },
+  "tqdm": {
+    "version": "4.64.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=4.62.0"
+      }
+    ]
+  },
+  "tbats": {
+    "version": "1.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "statsmodels": {
+    "version": "0.13.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.12.1"
+      },
+      {
+        "from": "sktime",
+        "specifier": ">=0.12.1"
+      },
+      {
+        "from": "pmdarima",
+        "specifier": "!=0.12.0,>=0.11"
+      },
+      {
+        "from": "category-encoders",
+        "specifier": ">=0.9.0"
+      }
+    ]
+  },
+  "sktime": {
+    "version": "0.13.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.13.2"
+      }
+    ]
+  },
+  "scipy": {
+    "version": "1.8.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.9.0"
+      },
+      {
+        "from": "yellowbrick",
+        "specifier": ">=1.0.0"
+      },
+      {
+        "from": "tbats",
+        "specifier": ""
+      },
+      {
+        "from": "statsmodels",
+        "specifier": ">=1.3"
+      },
+      {
+        "from": "sktime",
+        "specifier": "<1.9.0"
+      },
+      {
+        "from": "scikit-plot",
+        "specifier": ">=0.9"
+      },
+      {
+        "from": "scikit-learn",
+        "specifier": ">=1.3.2"
+      },
+      {
+        "from": "pmdarima",
+        "specifier": ">=1.3.2"
+      },
+      {
+        "from": "lightgbm",
+        "specifier": ""
+      },
+      {
+        "from": "imbalanced-learn",
+        "specifier": ">=1.3.2"
+      },
+      {
+        "from": "category-encoders",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "scikit-plot": {
+    "version": "0.3.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.3.7"
+      }
+    ]
+  },
+  "scikit-learn": {
+    "version": "1.1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.0"
+      },
+      {
+        "from": "yellowbrick",
+        "specifier": ">=1.0.0"
+      },
+      {
+        "from": "tbats",
+        "specifier": ""
+      },
+      {
+        "from": "sktime",
+        "specifier": "<1.2.0,>=0.24.0"
+      },
+      {
+        "from": "scikit-plot",
+        "specifier": ">=0.18"
+      },
+      {
+        "from": "pmdarima",
+        "specifier": ">=0.22"
+      },
+      {
+        "from": "lightgbm",
+        "specifier": "!=0.22.0"
+      },
+      {
+        "from": "imbalanced-learn",
+        "specifier": ">=1.1.0"
+      },
+      {
+        "from": "category-encoders",
+        "specifier": ">=0.20.0"
+      }
+    ]
+  },
+  "schemdraw": {
+    "version": "0.15",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.14"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.27.1"
+      },
+      {
+        "from": "jupyter-dash",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyod": {
+    "version": "1.0.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.9.8"
+      }
+    ]
+  },
+  "psutil": {
+    "version": "5.9.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=5.9.0"
+      },
+      {
+        "from": "ipykernel",
+        "specifier": ""
+      }
+    ]
+  },
+  "pmdarima": {
+    "version": "1.8.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "!=1.8.1,<2.0.0,>=1.8.0"
+      },
+      {
+        "from": "tbats",
+        "specifier": ""
+      }
+    ]
+  },
+  "plotly": {
+    "version": "5.11.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=5.0.0"
+      },
+      {
+        "from": "plotly-resampler",
+        "specifier": "<6.0.0,>=5.5.0"
+      },
+      {
+        "from": "dash",
+        "specifier": ">=5.0.0"
+      }
+    ]
+  },
+  "plotly-resampler": {
+    "version": "0.8.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.7.2.2"
+      }
+    ]
+  },
+  "pandas": {
+    "version": "1.4.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.5.0,>=1.3.0"
+      },
+      {
+        "from": "statsmodels",
+        "specifier": ">=0.25"
+      },
+      {
+        "from": "sktime",
+        "specifier": "<1.6.0,>=1.1.0"
+      },
+      {
+        "from": "pmdarima",
+        "specifier": ">=0.19"
+      },
+      {
+        "from": "plotly-resampler",
+        "specifier": "<2.0.0,>=1.3.5"
+      },
+      {
+        "from": "category-encoders",
+        "specifier": ">=1.0.5"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.22.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.23,>=1.21"
+      },
+      {
+        "from": "yellowbrick",
+        "specifier": ">=1.16.0"
+      },
+      {
+        "from": "tbats",
+        "specifier": ""
+      },
+      {
+        "from": "statsmodels",
+        "specifier": ">=1.17"
+      },
+      {
+        "from": "sktime",
+        "specifier": "<1.23,>=1.21.0"
+      },
+      {
+        "from": "scipy",
+        "specifier": "<1.25.0,>=1.17.3"
+      },
+      {
+        "from": "scikit-learn",
+        "specifier": ">=1.17.3"
+      },
+      {
+        "from": "pmdarima",
+        "specifier": ">=1.19.3"
+      },
+      {
+        "from": "plotly-resampler",
+        "specifier": ">=1.14"
+      },
+      {
+        "from": "pandas",
+        "specifier": ">=1.18.5"
+      },
+      {
+        "from": "numba",
+        "specifier": "<1.22,>=1.18"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.19"
+      },
+      {
+        "from": "lightgbm",
+        "specifier": ""
+      },
+      {
+        "from": "imbalanced-learn",
+        "specifier": ">=1.17.3"
+      },
+      {
+        "from": "category-encoders",
+        "specifier": ">=1.14.0"
+      },
+      {
+        "from": "patsy",
+        "specifier": ">=1.4"
+      },
+      {
+        "from": "contourpy",
+        "specifier": ">=1.16"
+      }
+    ]
+  },
+  "numba": {
+    "version": "0.55.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.55.0"
+      },
+      {
+        "from": "sktime",
+        "specifier": ">=0.53"
+      }
+    ]
+  },
+  "matplotlib": {
+    "version": "3.6.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.3.0"
+      },
+      {
+        "from": "yellowbrick",
+        "specifier": "!=3.0.0,>=2.0.2"
+      },
+      {
+        "from": "scikit-plot",
+        "specifier": ">=1.4.0"
+      }
+    ]
+  },
+  "markupsafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.0.1"
+      }
+    ]
+  },
+  "lightgbm": {
+    "version": "3.3.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  },
+  "kaleido": {
+    "version": "0.2.1.post1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.2.1"
+      }
+    ]
+  },
+  "joblib": {
+    "version": "1.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.1.0"
+      },
+      {
+        "from": "scikit-plot",
+        "specifier": ">=0.10"
+      },
+      {
+        "from": "scikit-learn",
+        "specifier": ">=1.0.0"
+      },
+      {
+        "from": "pmdarima",
+        "specifier": ">=0.11"
+      },
+      {
+        "from": "imbalanced-learn",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.2"
+      }
+    ]
+  },
+  "ipywidgets": {
+    "version": "8.0.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=7.6.5"
+      }
+    ]
+  },
+  "ipython": {
+    "version": "8.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=5.5.0"
+      },
+      {
+        "from": "ipywidgets",
+        "specifier": ">=6.1.0"
+      },
+      {
+        "from": "jupyter-dash",
+        "specifier": ""
+      },
+      {
+        "from": "ipykernel",
+        "specifier": ">=7.23.1"
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=4.12.0"
+      },
+      {
+        "from": "Flask",
+        "specifier": ">=3.6.0"
+      },
+      {
+        "from": "flask",
+        "specifier": ">=3.6.0"
+      }
+    ]
+  },
+  "imbalanced-learn": {
+    "version": "0.9.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.8.1"
+      }
+    ]
+  },
+  "category-encoders": {
+    "version": "2.5.1.post0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.4.0"
+      }
+    ]
+  },
+  "cycler": {
+    "version": "0.11.0",
+    "constraints": [
+      {
+        "from": "yellowbrick",
+        "specifier": ">=0.10.0"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=0.10"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "statsmodels",
+        "specifier": ">=21.3"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=20.0"
+      },
+      {
+        "from": "ipykernel",
+        "specifier": ""
+      }
+    ]
+  },
+  "patsy": {
+    "version": "0.5.3",
+    "constraints": [
+      {
+        "from": "statsmodels",
+        "specifier": ">=0.5.2"
+      },
+      {
+        "from": "category-encoders",
+        "specifier": ">=0.5.1"
+      }
+    ]
+  },
+  "deprecated": {
+    "version": "1.2.13",
+    "constraints": [
+      {
+        "from": "sktime",
+        "specifier": ">=1.2.13"
+      }
+    ]
+  },
+  "threadpoolctl": {
+    "version": "3.1.0",
+    "constraints": [
+      {
+        "from": "scikit-learn",
+        "specifier": ">=2.0.0"
+      },
+      {
+        "from": "imbalanced-learn",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      },
+      {
+        "from": "pmdarima",
+        "specifier": ""
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "pmdarima",
+        "specifier": "!=50.0.0,>=38.6.0"
+      },
+      {
+        "from": "numba",
+        "specifier": ""
+      }
+    ]
+  },
+  "Cython": {
+    "version": "0.29.32",
+    "constraints": [
+      {
+        "from": "pmdarima",
+        "specifier": "!=0.29.18,>=0.29"
+      }
+    ]
+  },
+  "tenacity": {
+    "version": "8.1.0",
+    "constraints": [
+      {
+        "from": "plotly",
+        "specifier": ">=6.2.0"
+      }
+    ]
+  },
+  "Werkzeug": {
+    "version": "2.1.2",
+    "constraints": [
+      {
+        "from": "plotly-resampler",
+        "specifier": "==2.1.2"
+      },
+      {
+        "from": "Flask",
+        "specifier": ">=2.2.2"
+      },
+      {
+        "from": "flask",
+        "specifier": ">=2.2.2"
+      }
+    ]
+  },
+  "orjson": {
+    "version": "3.8.1",
+    "constraints": [
+      {
+        "from": "plotly-resampler",
+        "specifier": "<4.0.0,>=3.8.0"
+      }
+    ]
+  },
+  "Flask-Cors": {
+    "version": "3.0.10",
+    "constraints": [
+      {
+        "from": "plotly-resampler",
+        "specifier": "<4.0.0,>=3.0.10"
+      }
+    ]
+  },
+  "trace-updater": {
+    "version": "0.0.9",
+    "constraints": [
+      {
+        "from": "plotly-resampler",
+        "specifier": ">=0.0.8"
+      }
+    ]
+  },
+  "dash": {
+    "version": "2.7.0",
+    "constraints": [
+      {
+        "from": "plotly-resampler",
+        "specifier": "<3.0.0,>=2.2.0"
+      },
+      {
+        "from": "jupyter-dash",
+        "specifier": ""
+      }
+    ]
+  },
+  "jupyter-dash": {
+    "version": "0.4.2",
+    "constraints": [
+      {
+        "from": "plotly-resampler",
+        "specifier": ">=0.4.2"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2020.1"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2.8.1"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=2.7"
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ">=2.8.2"
+      }
+    ]
+  },
+  "llvmlite": {
+    "version": "0.38.1",
+    "constraints": [
+      {
+        "from": "numba",
+        "specifier": "<0.39,>=0.38.0rc1"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=2.2.1"
+      },
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "pillow": {
+    "version": "9.3.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=6.2.0"
+      }
+    ]
+  },
+  "kiwisolver": {
+    "version": "1.4.4",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "fonttools": {
+    "version": "4.38.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=4.22.0"
+      }
+    ]
+  },
+  "contourpy": {
+    "version": "1.0.6",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "wheel": {
+    "version": "0.38.4",
+    "constraints": [
+      {
+        "from": "lightgbm",
+        "specifier": ""
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "jinja2",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "Jinja2",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "jupyterlab-widgets": {
+    "version": "3.0.3",
+    "constraints": [
+      {
+        "from": "ipywidgets",
+        "specifier": "~=3.0"
+      }
+    ]
+  },
+  "widgetsnbextension": {
+    "version": "4.0.3",
+    "constraints": [
+      {
+        "from": "ipywidgets",
+        "specifier": "~=4.0"
+      }
+    ]
+  },
+  "traitlets": {
+    "version": "5.5.0",
+    "constraints": [
+      {
+        "from": "ipywidgets",
+        "specifier": ">=4.3.1"
+      },
+      {
+        "from": "ipython",
+        "specifier": ">=5"
+      },
+      {
+        "from": "ipykernel",
+        "specifier": ">=5.1.0"
+      },
+      {
+        "from": "matplotlib-inline",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "ipykernel": {
+    "version": "6.17.1",
+    "constraints": [
+      {
+        "from": "ipywidgets",
+        "specifier": ">=4.5.1"
+      },
+      {
+        "from": "jupyter-dash",
+        "specifier": ""
+      }
+    ]
+  },
+  "pexpect": {
+    "version": "4.8.0",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ">4.3"
+      }
+    ]
+  },
+  "stack-data": {
+    "version": "0.6.0",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ""
+      }
+    ]
+  },
+  "pygments": {
+    "version": "2.13.0",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ">=2.4.0"
+      }
+    ]
+  },
+  "prompt-toolkit": {
+    "version": "3.0.32",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": "<3.1.0,>3.0.1"
+      }
+    ]
+  },
+  "pickleshare": {
+    "version": "0.7.5",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ""
+      }
+    ]
+  },
+  "matplotlib-inline": {
+    "version": "0.1.3",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ""
+      },
+      {
+        "from": "ipykernel",
+        "specifier": ">=0.1"
+      }
+    ]
+  },
+  "jedi": {
+    "version": "0.18.1",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ">=0.16"
+      }
+    ]
+  },
+  "decorator": {
+    "version": "5.1.1",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ""
+      }
+    ]
+  },
+  "backcall": {
+    "version": "0.2.0",
+    "constraints": [
+      {
+        "from": "ipython",
+        "specifier": ""
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "patsy",
+        "specifier": ""
+      },
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      },
+      {
+        "from": "asttokens",
+        "specifier": ""
+      }
+    ]
+  },
+  "wrapt": {
+    "version": "1.14.1",
+    "constraints": [
+      {
+        "from": "deprecated",
+        "specifier": "<2,>=1.10"
+      }
+    ]
+  },
+  "dash-table": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "dash",
+        "specifier": "==5.0.0"
+      }
+    ]
+  },
+  "dash-core-components": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "dash",
+        "specifier": "==2.0.0"
+      }
+    ]
+  },
+  "dash-html-components": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "dash",
+        "specifier": "==2.0.0"
+      }
+    ]
+  },
+  "Flask": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "dash",
+        "specifier": ">=1.0.4"
+      }
+    ]
+  },
+  "nest-asyncio": {
+    "version": "1.5.6",
+    "constraints": [
+      {
+        "from": "jupyter-dash",
+        "specifier": ""
+      },
+      {
+        "from": "ipykernel",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ">=1.5.4"
+      }
+    ]
+  },
+  "ansi2html": {
+    "version": "1.8.0",
+    "constraints": [
+      {
+        "from": "jupyter-dash",
+        "specifier": ""
+      }
+    ]
+  },
+  "retrying": {
+    "version": "1.3.3",
+    "constraints": [
+      {
+        "from": "jupyter-dash",
+        "specifier": ""
+      }
+    ]
+  },
+  "flask": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "jupyter-dash",
+        "specifier": ""
+      }
+    ]
+  },
+  "tornado": {
+    "version": "6.2",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ">=6.1"
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ">=6.2"
+      }
+    ]
+  },
+  "pyzmq": {
+    "version": "24.0.1",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ">=17"
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ">=23.0"
+      }
+    ]
+  },
+  "jupyter-client": {
+    "version": "7.4.5",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ">=6.1.12"
+      }
+    ]
+  },
+  "debugpy": {
+    "version": "1.6.3",
+    "constraints": [
+      {
+        "from": "ipykernel",
+        "specifier": ">=1.0"
+      }
+    ]
+  },
+  "ptyprocess": {
+    "version": "0.6.0",
+    "constraints": [
+      {
+        "from": "pexpect",
+        "specifier": ">=0.5"
+      }
+    ]
+  },
+  "pure-eval": {
+    "version": "0.2.1",
+    "constraints": [
+      {
+        "from": "stack-data",
+        "specifier": ""
+      }
+    ]
+  },
+  "asttokens": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "stack-data",
+        "specifier": ">=2.1.0"
+      }
+    ]
+  },
+  "executing": {
+    "version": "1.2.0",
+    "constraints": [
+      {
+        "from": "stack-data",
+        "specifier": ">=1.2.0"
+      }
+    ]
+  },
+  "wcwidth": {
+    "version": "0.2.5",
+    "constraints": [
+      {
+        "from": "prompt-toolkit",
+        "specifier": ""
+      }
+    ]
+  },
+  "parso": {
+    "version": "0.8.3",
+    "constraints": [
+      {
+        "from": "jedi",
+        "specifier": "<0.9.0,>=0.8.0"
+      }
+    ]
+  },
+  "click": {
+    "version": "8.1.3",
+    "constraints": [
+      {
+        "from": "Flask",
+        "specifier": ">=8.0"
+      },
+      {
+        "from": "flask",
+        "specifier": ">=8.0"
+      }
+    ]
+  },
+  "itsdangerous": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "Flask",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "flask",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "Jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "Flask",
+        "specifier": ">=3.0"
+      },
+      {
+        "from": "flask",
+        "specifier": ">=3.0"
+      }
+    ]
+  },
+  "jupyter-core": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "jupyter-client",
+        "specifier": ">=4.9.2"
+      }
+    ]
+  },
+  "entrypoints": {
+    "version": "0.4",
+    "constraints": [
+      {
+        "from": "jupyter-client",
+        "specifier": ""
+      }
+    ]
+  },
+  "platformdirs": {
+    "version": "2.5.3",
+    "constraints": [
+      {
+        "from": "jupyter-core",
+        "specifier": ""
+      }
+    ]
+  }
+}

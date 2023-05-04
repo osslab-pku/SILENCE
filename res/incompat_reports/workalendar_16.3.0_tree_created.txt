@@ -1,0 +1,9 @@
+workalendar 16.3.0 (MIT) has 1 incompatibilities in [tree_created]:
+workalendar 
+  pyluach 1.4.0 [workalendar ()]
+  convertdate 2.3.1 [workalendar ()]
+    pymeeus 0.5.5 [convertdate (!=0.3.8,<=1,>=0.3.6)]
+    pytz 2021.3 [convertdate (>=2014.10)]
+  lunardate 0.2.0 (INCOMPATIBLE! HAS GPL-3.0-only) [workalendar ()]
+  python-dateutil 2.8.2 [workalendar ()]
+    six 1.16.0 [python-dateutil (>=1.5)]

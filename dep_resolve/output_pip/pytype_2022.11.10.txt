@@ -1,0 +1,18 @@
+pytype==2022.11.10
+  - attrs [required: >=21.4.0, installed: 22.2.0]
+  - importlab [required: >=0.8, installed: 0.8]
+    - networkx [required: >=2, installed: 2.8.3]
+  - libcst [required: >=0.4.5, installed: 0.4.9]
+    - pyyaml [required: >=5.2, installed: 6.0]
+    - typing-extensions [required: >=3.7.4.2, installed: 4.5.0]
+    - typing-inspect [required: >=0.4.0, installed: 0.8.0]
+      - mypy-extensions [required: >=0.3.0, installed: 1.0.0]
+      - typing-extensions [required: >=3.7.4, installed: 4.5.0]
+  - networkx [required: <2.8.4, installed: 2.8.3]
+  - ninja [required: >=1.10.0.post2, installed: 1.11.1]
+  - pydot [required: >=1.4.2, installed: 1.4.2]
+    - pyparsing [required: >=2.1.4, installed: 3.0.9]
+  - tabulate [required: >=0.8.10, installed: 0.9.0]
+  - toml [required: >=0.10.2, installed: 0.10.2]
+  - typing-extensions [required: >=4.3.0, installed: 4.5.0]
+

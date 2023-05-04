@@ -1,0 +1,4 @@
+rich==12.6.0
+  - commonmark [required: >=0.9.0,<0.10.0, installed: 0.9.1]
+  - pygments [required: >=2.6.0,<3.0.0, installed: 2.15.1]
+

@@ -1,0 +1,5 @@
+opentelemetry-api==1.14.0
+  - deprecated [required: >=1.2.6, installed: 1.2.13]
+    - wrapt [required: >=1.10,<2, installed: 1.15.0]
+  - setuptools [required: >=16.0, installed: 66.0.0]
+

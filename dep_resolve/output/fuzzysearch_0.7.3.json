@@ -1,0 +1,11 @@
+{
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=19.3"
+      }
+    ]
+  }
+}

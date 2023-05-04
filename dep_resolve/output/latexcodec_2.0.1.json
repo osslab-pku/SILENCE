@@ -1,0 +1,11 @@
+{
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.4.1"
+      }
+    ]
+  }
+}

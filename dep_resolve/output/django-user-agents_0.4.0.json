@@ -1,0 +1,47 @@
+{
+  "user-agents": {
+    "version": "2.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "django": {
+    "version": "4.1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "ua-parser": {
+    "version": "0.16.0",
+    "constraints": [
+      {
+        "from": "user-agents",
+        "specifier": ">=0.10.0"
+      }
+    ]
+  },
+  "sqlparse": {
+    "version": "0.4.3",
+    "constraints": [
+      {
+        "from": "django",
+        "specifier": ">=0.2.2"
+      }
+    ]
+  },
+  "asgiref": {
+    "version": "3.5.2",
+    "constraints": [
+      {
+        "from": "django",
+        "specifier": "<4,>=3.5.2"
+      }
+    ]
+  }
+}

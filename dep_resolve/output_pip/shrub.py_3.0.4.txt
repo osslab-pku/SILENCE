@@ -1,0 +1,8 @@
+shrub.py==3.0.4
+  - git-url-parse [required: >=1,<2, installed: 1.2.2]
+    - pbr [required: Any, installed: 5.11.1]
+  - pydantic [required: >=1.8,<2.0, installed: 1.10.7]
+    - typing-extensions [required: >=4.2.0, installed: 4.5.0]
+  - PyYaml [required: >=5.1,<6.0, installed: 5.4.1]
+  - typing-extensions [required: >=4,<5, installed: 4.5.0]
+

@@ -1,0 +1,282 @@
+{
+  "certbot": {
+    "version": "1.32.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "zope.interface": {
+    "version": "5.5.1",
+    "constraints": [
+      {
+        "from": "certbot",
+        "specifier": ""
+      },
+      {
+        "from": "zope.component",
+        "specifier": ">=5.3.0a1"
+      }
+    ]
+  },
+  "zope.component": {
+    "version": "5.0.1",
+    "constraints": [
+      {
+        "from": "certbot",
+        "specifier": ""
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "certbot",
+        "specifier": ">=41.6.0"
+      },
+      {
+        "from": "zope.interface",
+        "specifier": ""
+      },
+      {
+        "from": "zope.component",
+        "specifier": ""
+      },
+      {
+        "from": "josepy",
+        "specifier": ">=1.0"
+      },
+      {
+        "from": "acme",
+        "specifier": ">=41.6.0"
+      },
+      {
+        "from": "zope.hookable",
+        "specifier": ""
+      },
+      {
+        "from": "zope.event",
+        "specifier": ""
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "certbot",
+        "specifier": ">=2019.3"
+      },
+      {
+        "from": "pyrfc3339",
+        "specifier": ""
+      },
+      {
+        "from": "acme",
+        "specifier": ">=2019.3"
+      }
+    ]
+  },
+  "pyrfc3339": {
+    "version": "1.1",
+    "constraints": [
+      {
+        "from": "certbot",
+        "specifier": ""
+      },
+      {
+        "from": "acme",
+        "specifier": ""
+      }
+    ]
+  },
+  "parsedatetime": {
+    "version": "2.6",
+    "constraints": [
+      {
+        "from": "certbot",
+        "specifier": ">=2.4"
+      }
+    ]
+  },
+  "josepy": {
+    "version": "1.13.0",
+    "constraints": [
+      {
+        "from": "certbot",
+        "specifier": ">=1.13.0"
+      },
+      {
+        "from": "acme",
+        "specifier": ">=1.13.0"
+      }
+    ]
+  },
+  "distro": {
+    "version": "1.8.0",
+    "constraints": [
+      {
+        "from": "certbot",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "cryptography": {
+    "version": "38.0.3",
+    "constraints": [
+      {
+        "from": "certbot",
+        "specifier": ">=2.5.0"
+      },
+      {
+        "from": "josepy",
+        "specifier": ">=1.5"
+      },
+      {
+        "from": "acme",
+        "specifier": ">=2.5.0"
+      },
+      {
+        "from": "PyOpenSSL",
+        "specifier": "<39,>=38.0.0"
+      }
+    ]
+  },
+  "configobj": {
+    "version": "5.0.6",
+    "constraints": [
+      {
+        "from": "certbot",
+        "specifier": ">=5.0.6"
+      }
+    ]
+  },
+  "ConfigArgParse": {
+    "version": "1.5.3",
+    "constraints": [
+      {
+        "from": "certbot",
+        "specifier": ">=0.9.3"
+      }
+    ]
+  },
+  "acme": {
+    "version": "1.32.0",
+    "constraints": [
+      {
+        "from": "certbot",
+        "specifier": ">=1.32.0"
+      }
+    ]
+  },
+  "zope.hookable": {
+    "version": "5.3",
+    "constraints": [
+      {
+        "from": "zope.component",
+        "specifier": ">=4.2.0"
+      }
+    ]
+  },
+  "zope.event": {
+    "version": "4.5.0",
+    "constraints": [
+      {
+        "from": "zope.component",
+        "specifier": ""
+      }
+    ]
+  },
+  "PyOpenSSL": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "josepy",
+        "specifier": ">=0.13"
+      },
+      {
+        "from": "acme",
+        "specifier": ">=17.5.0"
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "cryptography",
+        "specifier": ">=1.12"
+      }
+    ]
+  },
+  "requests-toolbelt": {
+    "version": "0.10.1",
+    "constraints": [
+      {
+        "from": "acme",
+        "specifier": ">=0.3.0"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "acme",
+        "specifier": ">=2.20.0"
+      },
+      {
+        "from": "requests-toolbelt",
+        "specifier": "<3.0.0,>=2.0.1"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  }
+}

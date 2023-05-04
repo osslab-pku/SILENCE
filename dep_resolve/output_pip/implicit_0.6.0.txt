@@ -1,0 +1,6 @@
+implicit==0.6.0
+  - numpy [required: Any, installed: 1.24.3]
+  - scipy [required: >=0.16, installed: 1.10.1]
+    - numpy [required: >=1.19.5,<1.27.0, installed: 1.24.3]
+  - tqdm [required: >=4.27, installed: 4.65.0]
+

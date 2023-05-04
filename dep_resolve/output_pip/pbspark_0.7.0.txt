@@ -1,0 +1,5 @@
+pbspark==0.7.0
+  - protobuf [required: >=3.20.0, installed: 4.22.3]
+  - pyspark [required: >=3.2.0, installed: 3.4.0]
+    - py4j [required: ==0.10.9.7, installed: 0.10.9.7]
+

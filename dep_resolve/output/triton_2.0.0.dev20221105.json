@@ -1,0 +1,38 @@
+{
+  "torch": {
+    "version": "1.13.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "filelock": {
+    "version": "3.8.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "cmake": {
+    "version": "3.24.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "torch",
+        "specifier": ""
+      }
+    ]
+  }
+}

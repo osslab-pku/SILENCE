@@ -1,0 +1,4 @@
+google==3.0.0
+  - beautifulsoup4 [required: Any, installed: 4.12.2]
+    - soupsieve [required: >1.2, installed: 2.4.1]
+

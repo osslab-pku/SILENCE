@@ -1,0 +1,9 @@
+BTrees==4.11.1
+  - persistent [required: >=4.1.0, installed: 5.0]
+    - cffi [required: Any, installed: 1.15.1]
+      - pycparser [required: Any, installed: 2.21]
+    - zope.interface [required: Any, installed: 6.0]
+      - setuptools [required: Any, installed: 66.0.0]
+  - zope.interface [required: >=5.0.0, installed: 6.0]
+    - setuptools [required: Any, installed: 66.0.0]
+

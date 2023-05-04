@@ -1,0 +1,11 @@
+{
+  "pamqp": {
+    "version": "2.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3,>=2"
+      }
+    ]
+  }
+}

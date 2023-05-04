@@ -1,0 +1,5 @@
+gpiozero 0.9.0 (BSD-3-Clause) has 2 incompatibilities in [tree_created]:
+gpiozero 
+  spidev 3.0 (INCOMPATIBLE! HAS GPL-2.0-only) [gpiozero ()]
+  w1thermsensor 0.2.2 (INCOMPATIBLE! HAS GPL-2.0-only) [gpiozero ()]
+  RPi.GPIO 0.5.11 [gpiozero ()]

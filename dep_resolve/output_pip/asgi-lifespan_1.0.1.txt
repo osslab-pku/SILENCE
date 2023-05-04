@@ -1,0 +1,3 @@
+asgi-lifespan==1.0.1
+  - sniffio [required: Any, installed: 1.3.0]
+

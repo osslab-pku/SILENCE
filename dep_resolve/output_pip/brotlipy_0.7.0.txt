@@ -1,0 +1,4 @@
+brotlipy==0.7.0
+  - cffi [required: >=1.0.0, installed: 1.15.1]
+    - pycparser [required: Any, installed: 2.21]
+

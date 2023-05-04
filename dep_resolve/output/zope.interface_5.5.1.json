@@ -1,0 +1,11 @@
+{
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+PyQt5==5.15.7
+  - PyQt5-Qt5 [required: >=5.15.0, installed: 5.15.2]
+  - PyQt5-sip [required: >=12.11,<13, installed: 12.12.1]
+

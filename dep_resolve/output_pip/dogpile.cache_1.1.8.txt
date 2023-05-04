@@ -1,0 +1,5 @@
+dogpile.cache==1.1.8
+  - decorator [required: >=4.0.0, installed: 5.1.1]
+  - stevedore [required: >=3.0.0, installed: 5.0.0]
+    - pbr [required: >=2.0.0,!=2.1.0, installed: 5.11.1]
+

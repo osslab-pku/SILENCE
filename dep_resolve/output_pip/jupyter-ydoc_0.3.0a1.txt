@@ -1,0 +1,5 @@
+jupyter-ydoc==0.3.0a1
+  - importlib-metadata [required: >=3.6, installed: 6.6.0]
+    - zipp [required: >=0.5, installed: 3.15.0]
+  - y-py [required: >=0.5.3,<0.6.0, installed: 0.5.9]
+

@@ -1,0 +1,5 @@
+ortools==9.4.1874
+  - absl-py [required: >=0.13, installed: 1.4.0]
+  - numpy [required: >=1.13.3, installed: 1.24.3]
+  - protobuf [required: >=3.19.4, installed: 4.22.3]
+

@@ -1,0 +1,428 @@
+{
+  "w3lib": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "scrapy",
+        "specifier": ">=1.17.0"
+      },
+      {
+        "from": "parsel",
+        "specifier": ">=1.19.0"
+      },
+      {
+        "from": "itemloaders",
+        "specifier": ">=1.17.0"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "protego",
+        "specifier": ""
+      },
+      {
+        "from": "service-identity",
+        "specifier": ""
+      },
+      {
+        "from": "requests-file",
+        "specifier": ""
+      },
+      {
+        "from": "Automat",
+        "specifier": ""
+      }
+    ]
+  },
+  "scrapy": {
+    "version": "2.7.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "PyDispatcher": {
+    "version": "2.0.5",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ">=2.0.5"
+      }
+    ]
+  },
+  "lxml": {
+    "version": "4.9.1",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ">=4.3.0"
+      },
+      {
+        "from": "parsel",
+        "specifier": ""
+      }
+    ]
+  },
+  "tldextract": {
+    "version": "3.4.0",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ""
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ""
+      },
+      {
+        "from": "parsel",
+        "specifier": ""
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ""
+      },
+      {
+        "from": "zope.interface",
+        "specifier": ""
+      }
+    ]
+  },
+  "itemadapter": {
+    "version": "0.7.0",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ">=0.1.0"
+      },
+      {
+        "from": "itemloaders",
+        "specifier": ">=0.1.0"
+      }
+    ]
+  },
+  "protego": {
+    "version": "0.2.1",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ">=0.1.15"
+      }
+    ]
+  },
+  "zope.interface": {
+    "version": "5.5.1",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ">=5.1.0"
+      },
+      {
+        "from": "Twisted",
+        "specifier": ">=4.4.2"
+      }
+    ]
+  },
+  "service-identity": {
+    "version": "21.1.0",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ">=18.1.0"
+      }
+    ]
+  },
+  "queuelib": {
+    "version": "1.6.2",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ">=1.4.2"
+      }
+    ]
+  },
+  "pyOpenSSL": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ">=21.0.0"
+      }
+    ]
+  },
+  "parsel": {
+    "version": "1.7.0",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ">=1.5.0"
+      },
+      {
+        "from": "itemloaders",
+        "specifier": ">=1.5.0"
+      }
+    ]
+  },
+  "itemloaders": {
+    "version": "1.0.5",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "cssselect": {
+    "version": "1.2.0",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ">=0.9.1"
+      },
+      {
+        "from": "parsel",
+        "specifier": ">=0.9"
+      }
+    ]
+  },
+  "cryptography": {
+    "version": "38.0.3",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ">=3.3"
+      },
+      {
+        "from": "service-identity",
+        "specifier": ""
+      },
+      {
+        "from": "pyOpenSSL",
+        "specifier": "<39,>=38.0.0"
+      }
+    ]
+  },
+  "Twisted": {
+    "version": "22.10.0",
+    "constraints": [
+      {
+        "from": "scrapy",
+        "specifier": ">=18.9.0"
+      }
+    ]
+  },
+  "filelock": {
+    "version": "3.8.0",
+    "constraints": [
+      {
+        "from": "tldextract",
+        "specifier": ">=3.0.8"
+      }
+    ]
+  },
+  "requests-file": {
+    "version": "1.5.1",
+    "constraints": [
+      {
+        "from": "tldextract",
+        "specifier": ">=1.4"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "tldextract",
+        "specifier": ">=2.1.0"
+      },
+      {
+        "from": "requests-file",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "tldextract",
+        "specifier": ""
+      },
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "pyasn1": {
+    "version": "0.4.8",
+    "constraints": [
+      {
+        "from": "service-identity",
+        "specifier": ""
+      },
+      {
+        "from": "pyasn1-modules",
+        "specifier": "<0.5.0,>=0.4.6"
+      }
+    ]
+  },
+  "pyasn1-modules": {
+    "version": "0.2.8",
+    "constraints": [
+      {
+        "from": "service-identity",
+        "specifier": ""
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "service-identity",
+        "specifier": ">=19.1.0"
+      },
+      {
+        "from": "Twisted",
+        "specifier": ">=19.2.0"
+      },
+      {
+        "from": "Automat",
+        "specifier": ">=19.2.0"
+      }
+    ]
+  },
+  "jmespath": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "itemloaders",
+        "specifier": ">=0.9.5"
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "cryptography",
+        "specifier": ">=1.12"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "Twisted",
+        "specifier": ">=3.6.5"
+      }
+    ]
+  },
+  "hyperlink": {
+    "version": "20.0.1",
+    "constraints": [
+      {
+        "from": "Twisted",
+        "specifier": ">=17.1.1"
+      }
+    ]
+  },
+  "Automat": {
+    "version": "22.10.0",
+    "constraints": [
+      {
+        "from": "Twisted",
+        "specifier": ">=0.8.0"
+      }
+    ]
+  },
+  "incremental": {
+    "version": "21.3.0",
+    "constraints": [
+      {
+        "from": "Twisted",
+        "specifier": ">=21.3.0"
+      }
+    ]
+  },
+  "constantly": {
+    "version": "15.1.0",
+    "constraints": [
+      {
+        "from": "Twisted",
+        "specifier": ">=15.1"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  }
+}

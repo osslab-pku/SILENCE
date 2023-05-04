@@ -1,0 +1,3 @@
+awslambdaric==2.0.3
+  - simplejson [required: ==3.17.2, installed: 3.17.2]
+

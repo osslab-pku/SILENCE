@@ -1,0 +1,5 @@
+jiwer 2.5.1 (Apache-2.0) has 1 incompatibilities in [tree_created]:
+jiwer 
+  levenshtein 0.20.2 (INCOMPATIBLE! HAS GPL-3.0-only) [jiwer (==0.20.2)]
+    rapidfuzz 2.6.1 [levenshtein (<3.0.0,>=2.3.0)]
+      jarowinkler 1.2.1 [rapidfuzz (<2.0.0,>=1.2.0)]

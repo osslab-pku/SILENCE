@@ -1,0 +1,56 @@
+{
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5.0.0,>=4.2.0"
+      }
+    ]
+  },
+  "types-protobuf": {
+    "version": "3.20.4.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4.0.0,>=3.19.21"
+      }
+    ]
+  },
+  "protobuf": {
+    "version": "3.20.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4.0.0,>=3.20.1"
+      }
+    ]
+  },
+  "grpcio": {
+    "version": "1.50.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.47.0"
+      }
+    ]
+  },
+  "dacite": {
+    "version": "1.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.6.0"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "grpcio",
+        "specifier": ">=1.5.2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+elastic-apm==6.13.1
+  - certifi [required: Any, installed: 2022.12.7]
+  - urllib3 [required: Any, installed: 1.26.15]
+  - wrapt [required: >=1.14.1, installed: 1.15.0]
+

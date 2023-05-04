@@ -1,0 +1,6 @@
+ldapdomaindump==0.9.3
+  - dnspython [required: Any, installed: 2.3.0]
+  - future [required: Any, installed: 0.18.3]
+  - ldap3 [required: >=2.5,!=2.6,!=2.5.2,!=2.5.0, installed: 2.9.1]
+    - pyasn1 [required: >=0.4.6, installed: 0.5.0]
+

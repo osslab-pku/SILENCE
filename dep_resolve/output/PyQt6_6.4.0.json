@@ -1,0 +1,11 @@
+{
+  "PyQt6-sip": {
+    "version": "13.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<14,>=13.4"
+      }
+    ]
+  }
+}

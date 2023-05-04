@@ -1,0 +1,6 @@
+sqlalchemy-filters==0.12.0
+  - six [required: >=1.10.0, installed: 1.16.0]
+  - sqlalchemy [required: >=1.0.16, installed: 2.0.10]
+    - greenlet [required: !=0.4.17, installed: 2.0.2]
+    - typing-extensions [required: >=4.2.0, installed: 4.5.0]
+

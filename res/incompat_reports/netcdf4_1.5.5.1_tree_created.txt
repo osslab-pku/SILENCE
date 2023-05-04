@@ -1,0 +1,5 @@
+netcdf4 1.5.5.1 (MIT) has 1 incompatibilities in [tree_created]:
+netcdf4 
+  cftime 1.3.0 (INCOMPATIBLE! HAS GPL-3.0-only) [netcdf4 ()]
+    numpy 1.19.4 [netcdf4 (>=1.9)] [cftime ()]
+  numpy 1.19.4 [netcdf4 (>=1.9)] [cftime ()]

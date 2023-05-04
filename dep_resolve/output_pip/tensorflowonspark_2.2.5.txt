@@ -1,0 +1,4 @@
+tensorflowonspark==2.2.5
+  - packaging [required: Any, installed: 23.1]
+  - setuptools [required: >38.0, installed: 66.0.0]
+

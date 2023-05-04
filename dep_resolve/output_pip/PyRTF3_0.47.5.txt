@@ -1,0 +1,3 @@
+PyRTF3==0.47.5
+  - PyParsing [required: Any, installed: 3.0.9]
+

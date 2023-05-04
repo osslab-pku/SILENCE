@@ -1,0 +1,3 @@
+untangle==1.2.1
+  - defusedxml [required: >=0.7.1,<0.8.0, installed: 0.7.1]
+

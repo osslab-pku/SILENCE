@@ -1,0 +1,47 @@
+{
+  "SQLAlchemy": {
+    "version": "1.4.43",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "docopt": {
+    "version": "0.6.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "tablib": {
+    "version": "3.2.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.11.4"
+      }
+    ]
+  },
+  "openpyxl": {
+    "version": "2.4.11",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.5.0"
+      }
+    ]
+  },
+  "greenlet": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "SQLAlchemy",
+        "specifier": "!=0.4.17"
+      }
+    ]
+  }
+}

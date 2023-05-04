@@ -1,0 +1,11 @@
+{
+  "pyasn1": {
+    "version": "0.4.8",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.1.3"
+      }
+    ]
+  }
+}

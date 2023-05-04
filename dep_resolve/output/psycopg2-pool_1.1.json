@@ -1,0 +1,11 @@
+{
+  "psycopg2-binary": {
+    "version": "2.9.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

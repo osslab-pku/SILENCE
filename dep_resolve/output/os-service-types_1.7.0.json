@@ -1,0 +1,11 @@
+{
+  "pbr": {
+    "version": "5.11.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "!=2.1.0,>=2.0.0"
+      }
+    ]
+  }
+}

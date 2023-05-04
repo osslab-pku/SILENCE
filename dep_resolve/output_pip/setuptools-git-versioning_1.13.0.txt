@@ -1,0 +1,7 @@
+setuptools-git-versioning==1.13.0
+  - deprecated [required: Any, installed: 1.2.13]
+    - wrapt [required: >=1.10,<2, installed: 1.15.0]
+  - packaging [required: Any, installed: 23.1]
+  - setuptools [required: Any, installed: 66.0.0]
+  - toml [required: >=0.10.2, installed: 0.10.2]
+

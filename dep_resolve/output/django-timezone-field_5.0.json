@@ -1,0 +1,11 @@
+{
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+pyknp==0.6.1
+  - six [required: Any, installed: 1.16.0]
+

@@ -1,0 +1,10 @@
+records==0.5.3
+  - docopt [required: Any, installed: 0.6.2]
+  - openpyxl [required: <2.5.0, installed: 2.4.11]
+    - et-xmlfile [required: Any, installed: 1.1.0]
+    - jdcal [required: Any, installed: 1.4.1]
+  - SQLAlchemy [required: Any, installed: 2.0.10]
+    - greenlet [required: !=0.4.17, installed: 2.0.2]
+    - typing-extensions [required: >=4.2.0, installed: 4.5.0]
+  - tablib [required: >=0.11.4, installed: 3.4.0]
+

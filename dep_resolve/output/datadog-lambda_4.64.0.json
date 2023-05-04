@@ -1,0 +1,180 @@
+{
+  "ddtrace": {
+    "version": "1.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.4.1"
+      }
+    ]
+  },
+  "wrapt": {
+    "version": "1.14.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.11.2"
+      }
+    ]
+  },
+  "bytecode": {
+    "version": "0.13.0",
+    "constraints": [
+      {
+        "from": "ddtrace",
+        "specifier": ""
+      }
+    ]
+  },
+  "protobuf": {
+    "version": "4.21.9",
+    "constraints": [
+      {
+        "from": "ddtrace",
+        "specifier": ">=3"
+      },
+      {
+        "from": "ddsketch",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "ddtrace",
+        "specifier": ">=20"
+      },
+      {
+        "from": "jsonschema",
+        "specifier": ">=17.4.0"
+      },
+      {
+        "from": "cattrs",
+        "specifier": ">=20"
+      }
+    ]
+  },
+  "forbiddenfruit": {
+    "version": "0.1.4",
+    "constraints": [
+      {
+        "from": "ddtrace",
+        "specifier": ">=0.1.4"
+      }
+    ]
+  },
+  "envier": {
+    "version": "0.3.0",
+    "constraints": [
+      {
+        "from": "ddtrace",
+        "specifier": ""
+      }
+    ]
+  },
+  "xmltodict": {
+    "version": "0.13.0",
+    "constraints": [
+      {
+        "from": "ddtrace",
+        "specifier": ">=0.12"
+      }
+    ]
+  },
+  "jsonschema": {
+    "version": "4.17.0",
+    "constraints": [
+      {
+        "from": "ddtrace",
+        "specifier": ""
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "ddtrace",
+        "specifier": ""
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "ddtrace",
+        "specifier": ">=1.12.0"
+      },
+      {
+        "from": "ddsketch",
+        "specifier": ""
+      }
+    ]
+  },
+  "cattrs": {
+    "version": "22.2.0",
+    "constraints": [
+      {
+        "from": "ddtrace",
+        "specifier": ""
+      }
+    ]
+  },
+  "tenacity": {
+    "version": "8.1.0",
+    "constraints": [
+      {
+        "from": "ddtrace",
+        "specifier": ">=5"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "ddtrace",
+        "specifier": ">=17.1"
+      }
+    ]
+  },
+  "ddsketch": {
+    "version": "2.0.4",
+    "constraints": [
+      {
+        "from": "ddtrace",
+        "specifier": ">=2.0.1"
+      }
+    ]
+  },
+  "pyrsistent": {
+    "version": "0.19.2",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": "!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0"
+      }
+    ]
+  },
+  "exceptiongroup": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "cattrs",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  }
+}

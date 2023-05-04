@@ -1,0 +1,7 @@
+robotframework-faker==5.0.0
+  - faker [required: Any, installed: 18.4.0]
+    - python-dateutil [required: >=2.4, installed: 2.8.2]
+      - six [required: >=1.5, installed: 1.16.0]
+  - robotframework [required: Any, installed: 6.0.2]
+  - wrapt [required: Any, installed: 1.15.0]
+

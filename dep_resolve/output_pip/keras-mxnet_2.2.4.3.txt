@@ -1,0 +1,16 @@
+keras-mxnet==2.2.4.3
+  - h5py [required: Any, installed: 3.8.0]
+    - numpy [required: >=1.14.5, installed: 1.24.2]
+  - keras-applications [required: >=1.0.6, installed: 1.0.8]
+    - h5py [required: Any, installed: 3.8.0]
+      - numpy [required: >=1.14.5, installed: 1.24.2]
+    - numpy [required: >=1.9.1, installed: 1.24.2]
+  - keras-preprocessing [required: >=1.0.5, installed: 1.1.2]
+    - numpy [required: >=1.9.1, installed: 1.24.2]
+    - six [required: >=1.9.0, installed: 1.16.0]
+  - numpy [required: >=1.9.1, installed: 1.24.2]
+  - pyyaml [required: Any, installed: 6.0]
+  - scipy [required: >=0.14, installed: 1.10.1]
+    - numpy [required: >=1.19.5,<1.27.0, installed: 1.24.2]
+  - six [required: >=1.9.0, installed: 1.16.0]
+

@@ -1,0 +1,6 @@
+apeye-core==1.0.0
+  - domdf-python-tools [required: >=2.6.0, installed: 3.6.1]
+    - natsort [required: >=7.0.1, installed: 8.3.1]
+    - typing-extensions [required: >=3.7.4.1, installed: 4.5.0]
+  - idna [required: >=2.5, installed: 3.4]
+

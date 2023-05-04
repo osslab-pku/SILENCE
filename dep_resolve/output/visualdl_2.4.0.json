@@ -1,0 +1,372 @@
+{
+  "pandas": {
+    "version": "1.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "matplotlib": {
+    "version": "3.6.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.14.0"
+      },
+      {
+        "from": "bce-python-sdk",
+        "specifier": ">=1.4.0"
+      },
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "protobuf": {
+    "version": "4.21.9",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.11.0"
+      }
+    ]
+  },
+  "Pillow": {
+    "version": "9.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=7.0.0"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "pandas",
+        "specifier": ">=1.20.3"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.19"
+      },
+      {
+        "from": "contourpy",
+        "specifier": ">=1.16"
+      }
+    ]
+  },
+  "Flask-Babel": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "flask": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.1.1"
+      }
+    ]
+  },
+  "bce-python-sdk": {
+    "version": "0.8.74",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2020.1"
+      },
+      {
+        "from": "Flask-Babel",
+        "specifier": ""
+      },
+      {
+        "from": "Babel",
+        "specifier": ">=2015.7"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2.8.1"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=2.7"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=2.2.1"
+      },
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "pillow": {
+    "version": "9.3.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=6.2.0"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=20.0"
+      }
+    ]
+  },
+  "kiwisolver": {
+    "version": "1.4.4",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "fonttools": {
+    "version": "4.38.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=4.22.0"
+      }
+    ]
+  },
+  "cycler": {
+    "version": "0.11.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=0.10"
+      }
+    ]
+  },
+  "contourpy": {
+    "version": "1.0.6",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "Jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "Flask-Babel",
+        "specifier": ">=2.5"
+      },
+      {
+        "from": "flask",
+        "specifier": ">=3.0"
+      },
+      {
+        "from": "Flask",
+        "specifier": ">=3.0"
+      }
+    ]
+  },
+  "Babel": {
+    "version": "2.11.0",
+    "constraints": [
+      {
+        "from": "Flask-Babel",
+        "specifier": ">=2.3"
+      }
+    ]
+  },
+  "Flask": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "Flask-Babel",
+        "specifier": ""
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "flask",
+        "specifier": ">=3.6.0"
+      },
+      {
+        "from": "Flask",
+        "specifier": ">=3.6.0"
+      }
+    ]
+  },
+  "click": {
+    "version": "8.1.3",
+    "constraints": [
+      {
+        "from": "flask",
+        "specifier": ">=8.0"
+      },
+      {
+        "from": "Flask",
+        "specifier": ">=8.0"
+      }
+    ]
+  },
+  "itsdangerous": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "flask",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "Flask",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "Werkzeug": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "flask",
+        "specifier": ">=2.2.2"
+      },
+      {
+        "from": "Flask",
+        "specifier": ">=2.2.2"
+      }
+    ]
+  },
+  "future": {
+    "version": "0.18.2",
+    "constraints": [
+      {
+        "from": "bce-python-sdk",
+        "specifier": ">=0.6.0"
+      }
+    ]
+  },
+  "pycryptodome": {
+    "version": "3.15.0",
+    "constraints": [
+      {
+        "from": "bce-python-sdk",
+        "specifier": ">=3.8.0"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "Jinja2",
+        "specifier": ">=2.0"
+      },
+      {
+        "from": "Werkzeug",
+        "specifier": ">=2.1.1"
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  }
+}

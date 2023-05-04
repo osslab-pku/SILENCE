@@ -1,0 +1,5 @@
+dateutils==0.6.12
+  - python-dateutil [required: Any, installed: 2.8.2]
+    - six [required: >=1.5, installed: 1.16.0]
+  - pytz [required: Any, installed: 2023.3]
+

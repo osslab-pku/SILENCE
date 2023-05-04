@@ -1,0 +1,29 @@
+{
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=4.4"
+      }
+    ]
+  },
+  "cloudpickle": {
+    "version": "2.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  }
+}

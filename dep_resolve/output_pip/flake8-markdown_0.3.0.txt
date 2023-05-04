@@ -1,0 +1,6 @@
+flake8-markdown==0.3.0
+  - flake8 [required: >=3.0,<5.0, installed: 4.0.1]
+    - mccabe [required: >=0.6.0,<0.7.0, installed: 0.6.1]
+    - pycodestyle [required: >=2.8.0,<2.9.0, installed: 2.8.0]
+    - pyflakes [required: >=2.4.0,<2.5.0, installed: 2.4.0]
+

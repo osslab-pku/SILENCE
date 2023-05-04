@@ -1,0 +1,5 @@
+pythonnet==3.0.1
+  - clr-loader [required: >=0.2.2,<0.3.0, installed: 0.2.5]
+    - cffi [required: >=1.13, installed: 1.15.1]
+      - pycparser [required: Any, installed: 2.21]
+

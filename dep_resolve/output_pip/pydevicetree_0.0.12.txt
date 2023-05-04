@@ -1,0 +1,7 @@
+pydevicetree==0.0.12
+  - mypy [required: Any, installed: 1.2.0]
+    - mypy-extensions [required: >=1.0.0, installed: 1.0.0]
+    - tomli [required: >=1.1.0, installed: 2.0.1]
+    - typing-extensions [required: >=3.10, installed: 4.5.0]
+  - pyparsing [required: Any, installed: 3.0.9]
+

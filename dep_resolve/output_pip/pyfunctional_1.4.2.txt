@@ -1,0 +1,4 @@
+pyfunctional==1.4.2
+  - dill [required: >=0.3.2,<0.4.0, installed: 0.3.6]
+  - tabulate [required: <=1.0.0, installed: 0.9.0]
+

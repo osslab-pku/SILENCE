@@ -1,0 +1,11 @@
+{
+  "msgpack": {
+    "version": "0.6.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.0.0"
+      }
+    ]
+  }
+}

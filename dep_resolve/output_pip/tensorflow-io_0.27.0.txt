@@ -1,0 +1,3 @@
+tensorflow-io==0.27.0
+  - tensorflow-io-gcs-filesystem [required: ==0.27.0, installed: 0.27.0]
+

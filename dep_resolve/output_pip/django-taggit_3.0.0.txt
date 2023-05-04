@@ -1,0 +1,5 @@
+django-taggit==3.0.0
+  - Django [required: >=3.2, installed: 4.2]
+    - asgiref [required: >=3.6.0,<4, installed: 3.6.0]
+    - sqlparse [required: >=0.3.1, installed: 0.4.4]
+

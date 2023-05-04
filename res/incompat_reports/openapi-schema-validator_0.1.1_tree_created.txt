@@ -1,0 +1,9 @@
+openapi-schema-validator 0.1.1 (BSD-3-Clause) has 1 incompatibilities in [tree_created]:
+openapi-schema-validator 
+  strict-rfc3339 0.7 (INCOMPATIBLE! HAS GPL-3.0-only) [openapi-schema-validator ()]
+  six 1.14.0 [openapi-schema-validator ()] [jsonschema (>=1.11.0)]
+  jsonschema 3.2.0 [openapi-schema-validator ()]
+    setuptools 45.2.0 [jsonschema ()]
+    pyrsistent 0.15.7 [jsonschema (>=0.14.0)]
+    attrs 19.3.0 [jsonschema (>=17.4.0)]
+  isodate 0.6.0 [openapi-schema-validator ()]

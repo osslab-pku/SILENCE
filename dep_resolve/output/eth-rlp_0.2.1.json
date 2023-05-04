@@ -1,0 +1,69 @@
+{
+  "rlp": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3,>=0.6.0"
+      }
+    ]
+  },
+  "hexbytes": {
+    "version": "0.2.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1,>=0.1.0"
+      }
+    ]
+  },
+  "eth-utils": {
+    "version": "1.10.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2,>=1.0.1"
+      },
+      {
+        "from": "rlp",
+        "specifier": "<2,>=1.0.2"
+      }
+    ]
+  },
+  "cytoolz": {
+    "version": "0.12.0",
+    "constraints": [
+      {
+        "from": "eth-utils",
+        "specifier": "<1.0.0,>=0.10.1"
+      }
+    ]
+  },
+  "eth-typing": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "eth-utils",
+        "specifier": "<3.0.0,>=2.2.1"
+      }
+    ]
+  },
+  "eth-hash": {
+    "version": "0.3.3",
+    "constraints": [
+      {
+        "from": "eth-utils",
+        "specifier": "<0.4.0,>=0.3.1"
+      }
+    ]
+  },
+  "toolz": {
+    "version": "0.12.0",
+    "constraints": [
+      {
+        "from": "cytoolz",
+        "specifier": ">=0.8.0"
+      }
+    ]
+  }
+}

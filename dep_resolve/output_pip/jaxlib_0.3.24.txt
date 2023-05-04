@@ -1,0 +1,5 @@
+jaxlib==0.3.24
+  - numpy [required: >=1.20, installed: 1.24.3]
+  - scipy [required: >=1.5, installed: 1.10.1]
+    - numpy [required: >=1.19.5,<1.27.0, installed: 1.24.3]
+

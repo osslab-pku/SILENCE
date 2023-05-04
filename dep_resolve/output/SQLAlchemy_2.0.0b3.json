@@ -1,0 +1,20 @@
+{
+  "greenlet": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "!=0.4.17"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=4.2.0"
+      }
+    ]
+  }
+}

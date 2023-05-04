@@ -1,0 +1,4 @@
+retry==0.9.2
+  - decorator [required: >=3.4.2, installed: 5.1.1]
+  - py [required: >=1.4.26,<2.0.0, installed: 1.11.0]
+

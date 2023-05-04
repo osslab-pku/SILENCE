@@ -1,0 +1,748 @@
+{
+  "tf-slim": {
+    "version": "1.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "tf-nightly": {
+    "version": "2.11.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "tensorflow-text-nightly": {
+    "version": "0.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "tensorflow-model-optimization": {
+    "version": "0.7.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.4.1"
+      }
+    ]
+  },
+  "tensorflow-hub": {
+    "version": "0.12.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.6.0"
+      },
+      {
+        "from": "tensorflow-text-nightly",
+        "specifier": ">=0.8.0"
+      }
+    ]
+  },
+  "tensorflow-datasets": {
+    "version": "4.7.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "tensorflow-addons": {
+    "version": "0.18.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "tensorflow-model-optimization",
+        "specifier": "~=1.10"
+      },
+      {
+        "from": "tensorflow-datasets",
+        "specifier": ""
+      },
+      {
+        "from": "oauth2client",
+        "specifier": ">=1.6.1"
+      },
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      },
+      {
+        "from": "google-auth-httplib2",
+        "specifier": ""
+      },
+      {
+        "from": "google-auth",
+        "specifier": ">=1.9.0"
+      }
+    ]
+  },
+  "seqeval": {
+    "version": "1.2.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "sentencepiece": {
+    "version": "0.1.97",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "scipy": {
+    "version": "1.9.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.19.1"
+      }
+    ]
+  },
+  "sacrebleu": {
+    "version": "2.3.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyyaml": {
+    "version": "5.4.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<6.0,>=5.1"
+      }
+    ]
+  },
+  "pycocotools": {
+    "version": "2.0.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "py-cpuinfo": {
+    "version": "9.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.3.0"
+      }
+    ]
+  },
+  "psutil": {
+    "version": "5.9.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=5.4.3"
+      }
+    ]
+  },
+  "pandas": {
+    "version": "1.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.22.0"
+      }
+    ]
+  },
+  "opencv-python-headless": {
+    "version": "4.6.0.66",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "oauth2client": {
+    "version": "4.1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.20"
+      },
+      {
+        "from": "tensorflow-model-optimization",
+        "specifier": "~=1.14"
+      },
+      {
+        "from": "tensorflow-hub",
+        "specifier": ">=1.12.0"
+      },
+      {
+        "from": "tensorflow-datasets",
+        "specifier": ""
+      },
+      {
+        "from": "scipy",
+        "specifier": "<1.26.0,>=1.18.5"
+      },
+      {
+        "from": "sacrebleu",
+        "specifier": ">=1.17"
+      },
+      {
+        "from": "pandas",
+        "specifier": ">=1.20.3"
+      },
+      {
+        "from": "opencv-python-headless",
+        "specifier": ">=1.19.3"
+      },
+      {
+        "from": "opencv-python-headless",
+        "specifier": ">=1.17.3"
+      },
+      {
+        "from": "opencv-python-headless",
+        "specifier": ">=1.14.5"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.19"
+      },
+      {
+        "from": "contourpy",
+        "specifier": ">=1.16"
+      }
+    ]
+  },
+  "matplotlib": {
+    "version": "3.6.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "kaggle": {
+    "version": "1.5.10",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.3.9"
+      }
+    ]
+  },
+  "immutabledict": {
+    "version": "2.2.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "google-api-python-client": {
+    "version": "2.65.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.6.7"
+      }
+    ]
+  },
+  "gin-config": {
+    "version": "0.5.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "Pillow": {
+    "version": "9.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "Cython": {
+    "version": "0.29.32",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "absl-py": {
+    "version": "1.2.0",
+    "constraints": [
+      {
+        "from": "tf-slim",
+        "specifier": ">=0.2.2"
+      },
+      {
+        "from": "tensorflow-datasets",
+        "specifier": ""
+      },
+      {
+        "from": "tensorflow-metadata",
+        "specifier": "<2.0.0,>=0.9"
+      }
+    ]
+  },
+  "dm-tree": {
+    "version": "0.1.7",
+    "constraints": [
+      {
+        "from": "tensorflow-model-optimization",
+        "specifier": "~=0.1.1"
+      }
+    ]
+  },
+  "protobuf": {
+    "version": "4.21.9",
+    "constraints": [
+      {
+        "from": "tensorflow-hub",
+        "specifier": ">=3.8.0"
+      },
+      {
+        "from": "tensorflow-datasets",
+        "specifier": ">=3.12.2"
+      },
+      {
+        "from": "tensorflow-metadata",
+        "specifier": "<4,>=3.13"
+      },
+      {
+        "from": "google-api-core",
+        "specifier": "!=3.20.0,!=3.20.1,!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<5.0.0dev,>=3.19.5"
+      },
+      {
+        "from": "googleapis-common-protos",
+        "specifier": "<5.0.0dev,>=3.15.0"
+      }
+    ]
+  },
+  "tqdm": {
+    "version": "4.64.1",
+    "constraints": [
+      {
+        "from": "tensorflow-datasets",
+        "specifier": ""
+      }
+    ]
+  },
+  "toml": {
+    "version": "0.10.2",
+    "constraints": [
+      {
+        "from": "tensorflow-datasets",
+        "specifier": ""
+      }
+    ]
+  },
+  "termcolor": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "tensorflow-datasets",
+        "specifier": ""
+      }
+    ]
+  },
+  "tensorflow-metadata": {
+    "version": "1.11.0",
+    "constraints": [
+      {
+        "from": "tensorflow-datasets",
+        "specifier": ""
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "tensorflow-datasets",
+        "specifier": ">=2.19.0"
+      },
+      {
+        "from": "google-api-core",
+        "specifier": "<3.0.0dev,>=2.18.0"
+      }
+    ]
+  },
+  "promise": {
+    "version": "2.3",
+    "constraints": [
+      {
+        "from": "tensorflow-datasets",
+        "specifier": ""
+      }
+    ]
+  },
+  "dill": {
+    "version": "0.3.6",
+    "constraints": [
+      {
+        "from": "tensorflow-datasets",
+        "specifier": ""
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "tensorflow-addons",
+        "specifier": ""
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=20.0"
+      }
+    ]
+  },
+  "typeguard": {
+    "version": "2.13.3",
+    "constraints": [
+      {
+        "from": "tensorflow-addons",
+        "specifier": ">=2.7"
+      }
+    ]
+  },
+  "lxml": {
+    "version": "4.9.1",
+    "constraints": [
+      {
+        "from": "sacrebleu",
+        "specifier": ""
+      }
+    ]
+  },
+  "colorama": {
+    "version": "0.4.6",
+    "constraints": [
+      {
+        "from": "sacrebleu",
+        "specifier": ""
+      }
+    ]
+  },
+  "tabulate": {
+    "version": "0.9.0",
+    "constraints": [
+      {
+        "from": "sacrebleu",
+        "specifier": ">=0.8.9"
+      }
+    ]
+  },
+  "regex": {
+    "version": "2022.10.31",
+    "constraints": [
+      {
+        "from": "sacrebleu",
+        "specifier": ""
+      }
+    ]
+  },
+  "portalocker": {
+    "version": "2.6.0",
+    "constraints": [
+      {
+        "from": "sacrebleu",
+        "specifier": ""
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2020.1"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2.8.1"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=2.7"
+      }
+    ]
+  },
+  "rsa": {
+    "version": "4.9",
+    "constraints": [
+      {
+        "from": "oauth2client",
+        "specifier": ">=3.1.4"
+      },
+      {
+        "from": "google-auth",
+        "specifier": "<5,>=3.1.4"
+      }
+    ]
+  },
+  "pyasn1-modules": {
+    "version": "0.2.8",
+    "constraints": [
+      {
+        "from": "oauth2client",
+        "specifier": ">=0.0.5"
+      },
+      {
+        "from": "google-auth",
+        "specifier": ">=0.2.1"
+      }
+    ]
+  },
+  "pyasn1": {
+    "version": "0.4.8",
+    "constraints": [
+      {
+        "from": "oauth2client",
+        "specifier": ">=0.1.7"
+      },
+      {
+        "from": "rsa",
+        "specifier": ">=0.1.3"
+      },
+      {
+        "from": "pyasn1-modules",
+        "specifier": "<0.5.0,>=0.4.6"
+      }
+    ]
+  },
+  "httplib2": {
+    "version": "0.21.0",
+    "constraints": [
+      {
+        "from": "oauth2client",
+        "specifier": ">=0.9.1"
+      },
+      {
+        "from": "google-api-python-client",
+        "specifier": "<1dev,>=0.15.0"
+      },
+      {
+        "from": "google-auth-httplib2",
+        "specifier": ">=0.15.0"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=2.2.1"
+      },
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      },
+      {
+        "from": "httplib2",
+        "specifier": "!=3.0.0,!=3.0.1,!=3.0.2,!=3.0.3,<4,>=2.4.2"
+      }
+    ]
+  },
+  "pillow": {
+    "version": "9.3.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=6.2.0"
+      }
+    ]
+  },
+  "kiwisolver": {
+    "version": "1.4.4",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "fonttools": {
+    "version": "4.38.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=4.22.0"
+      }
+    ]
+  },
+  "cycler": {
+    "version": "0.11.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=0.10"
+      }
+    ]
+  },
+  "contourpy": {
+    "version": "1.0.6",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "uritemplate": {
+    "version": "4.1.1",
+    "constraints": [
+      {
+        "from": "google-api-python-client",
+        "specifier": "<5,>=3.0.1"
+      }
+    ]
+  },
+  "google-api-core": {
+    "version": "2.10.2",
+    "constraints": [
+      {
+        "from": "google-api-python-client",
+        "specifier": "!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.5"
+      }
+    ]
+  },
+  "google-auth-httplib2": {
+    "version": "0.1.0",
+    "constraints": [
+      {
+        "from": "google-api-python-client",
+        "specifier": ">=0.1.0"
+      }
+    ]
+  },
+  "google-auth": {
+    "version": "2.14.1",
+    "constraints": [
+      {
+        "from": "google-api-python-client",
+        "specifier": "<3.0.0dev,>=1.19.0"
+      },
+      {
+        "from": "google-api-core",
+        "specifier": "<3.0dev,>=1.25.0"
+      },
+      {
+        "from": "google-auth-httplib2",
+        "specifier": ""
+      }
+    ]
+  },
+  "googleapis-common-protos": {
+    "version": "1.56.3",
+    "constraints": [
+      {
+        "from": "tensorflow-metadata",
+        "specifier": "<2,>=1.52.0"
+      },
+      {
+        "from": "google-api-core",
+        "specifier": "<2.0dev,>=1.56.2"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "cachetools": {
+    "version": "5.2.0",
+    "constraints": [
+      {
+        "from": "google-auth",
+        "specifier": "<6.0,>=2.0.0"
+      }
+    ]
+  }
+}

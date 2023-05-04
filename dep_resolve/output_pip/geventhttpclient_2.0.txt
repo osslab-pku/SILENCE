@@ -1,0 +1,12 @@
+geventhttpclient==2.0
+  - brotli [required: Any, installed: 1.0.9]
+  - certifi [required: Any, installed: 2022.12.7]
+  - gevent [required: >=0.13, installed: 22.10.2]
+    - greenlet [required: >=2.0.0, installed: 2.0.2]
+    - setuptools [required: Any, installed: 66.0.0]
+    - zope.event [required: Any, installed: 4.6]
+      - setuptools [required: Any, installed: 66.0.0]
+    - zope.interface [required: Any, installed: 6.0]
+      - setuptools [required: Any, installed: 66.0.0]
+  - six [required: Any, installed: 1.16.0]
+

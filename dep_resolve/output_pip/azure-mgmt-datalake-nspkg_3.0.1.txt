@@ -1,0 +1,4 @@
+azure-mgmt-datalake-nspkg==3.0.1
+  - azure-mgmt-nspkg [required: >=3.0.0, installed: 3.0.2]
+    - azure-nspkg [required: >=3.0.0, installed: 3.0.2]
+

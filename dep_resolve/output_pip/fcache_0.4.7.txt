@@ -1,0 +1,3 @@
+fcache==0.4.7
+  - appdirs [required: Any, installed: 1.4.4]
+

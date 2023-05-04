@@ -1,0 +1,29 @@
+{
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.10.0"
+      }
+    ]
+  },
+  "psutil": {
+    "version": "5.9.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pybind11": {
+    "version": "2.6.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.6.2"
+      }
+    ]
+  }
+}

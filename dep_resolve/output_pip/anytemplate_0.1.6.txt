@@ -1,0 +1,6 @@
+anytemplate==0.1.6
+  - anyconfig [required: Any, installed: 0.13.0]
+    - setuptools [required: Any, installed: 66.0.0]
+  - jinja2 [required: Any, installed: 3.1.2]
+    - MarkupSafe [required: >=2.0, installed: 2.1.2]
+

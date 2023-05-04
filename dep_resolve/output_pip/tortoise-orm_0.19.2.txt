@@ -1,0 +1,7 @@
+tortoise-orm==0.19.2
+  - aiosqlite [required: >=0.16.0,<0.18.0, installed: 0.17.0]
+    - typing-extensions [required: >=3.7.2, installed: 4.5.0]
+  - iso8601 [required: >=1.0.2,<2.0.0, installed: 1.1.0]
+  - pypika-tortoise [required: >=0.1.6,<0.2.0, installed: 0.1.6]
+  - pytz [required: Any, installed: 2023.3]
+

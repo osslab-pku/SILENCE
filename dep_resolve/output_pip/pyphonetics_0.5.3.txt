@@ -1,0 +1,3 @@
+pyphonetics==0.5.3
+  - unidecode [required: >=1,<2, installed: 1.3.6]
+

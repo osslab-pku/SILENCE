@@ -1,0 +1,10 @@
+scp==0.14.4
+  - paramiko [required: Any, installed: 3.1.0]
+    - bcrypt [required: >=3.2, installed: 4.0.1]
+    - cryptography [required: >=3.3, installed: 40.0.2]
+      - cffi [required: >=1.12, installed: 1.15.1]
+        - pycparser [required: Any, installed: 2.21]
+    - pynacl [required: >=1.5, installed: 1.5.0]
+      - cffi [required: >=1.4.1, installed: 1.15.1]
+        - pycparser [required: Any, installed: 2.21]
+

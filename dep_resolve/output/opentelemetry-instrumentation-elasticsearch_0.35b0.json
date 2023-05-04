@@ -1,0 +1,72 @@
+{
+  "wrapt": {
+    "version": "1.14.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.0.0"
+      },
+      {
+        "from": "opentelemetry-instrumentation",
+        "specifier": "<2.0.0,>=1.0.0"
+      },
+      {
+        "from": "deprecated",
+        "specifier": "<2,>=1.10"
+      }
+    ]
+  },
+  "opentelemetry-semantic-conventions": {
+    "version": "0.35b0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==0.35b0"
+      }
+    ]
+  },
+  "opentelemetry-instrumentation": {
+    "version": "0.35b0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==0.35b0"
+      }
+    ]
+  },
+  "opentelemetry-api": {
+    "version": "1.14.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.12"
+      },
+      {
+        "from": "opentelemetry-instrumentation",
+        "specifier": "~=1.4"
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "opentelemetry-instrumentation",
+        "specifier": ">=16.0"
+      },
+      {
+        "from": "opentelemetry-api",
+        "specifier": ">=16.0"
+      }
+    ]
+  },
+  "deprecated": {
+    "version": "1.2.13",
+    "constraints": [
+      {
+        "from": "opentelemetry-api",
+        "specifier": ">=1.2.6"
+      }
+    ]
+  }
+}

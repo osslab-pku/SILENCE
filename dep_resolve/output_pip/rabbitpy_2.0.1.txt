@@ -1,0 +1,3 @@
+rabbitpy==2.0.1
+  - pamqp [required: >=2,<3, installed: 2.3.0]
+

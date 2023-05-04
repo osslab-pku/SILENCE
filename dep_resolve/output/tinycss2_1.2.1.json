@@ -1,0 +1,11 @@
+{
+  "webencodings": {
+    "version": "0.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.4"
+      }
+    ]
+  }
+}

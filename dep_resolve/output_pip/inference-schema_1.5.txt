@@ -1,0 +1,6 @@
+inference-schema==1.5
+  - python-dateutil [required: >=2.5.3, installed: 2.8.2]
+    - six [required: >=1.5, installed: 1.16.0]
+  - pytz [required: >=2017.2, installed: 2023.3]
+  - wrapt [required: >=1.11.1,<=1.12.1, installed: 1.12.1]
+

@@ -1,0 +1,20 @@
+{
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pycodestyle": {
+    "version": "2.9.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

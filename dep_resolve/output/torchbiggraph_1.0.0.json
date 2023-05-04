@@ -1,0 +1,69 @@
+{
+  "tqdm": {
+    "version": "4.64.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "torch": {
+    "version": "1.13.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1"
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "h5py",
+        "specifier": ">=1.14.5"
+      }
+    ]
+  },
+  "h5py": {
+    "version": "3.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.8"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=18.2"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "torch",
+        "specifier": ""
+      }
+    ]
+  }
+}

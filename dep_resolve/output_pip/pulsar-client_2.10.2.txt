@@ -1,0 +1,4 @@
+pulsar-client==2.10.2
+  - certifi [required: Any, installed: 2022.12.7]
+  - six [required: Any, installed: 1.16.0]
+

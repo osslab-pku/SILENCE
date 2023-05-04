@@ -1,0 +1,5 @@
+qdldl==0.1.5.post2
+  - numpy [required: >=1.7, installed: 1.24.3]
+  - scipy [required: >=0.13.2, installed: 1.10.1]
+    - numpy [required: >=1.19.5,<1.27.0, installed: 1.24.3]
+

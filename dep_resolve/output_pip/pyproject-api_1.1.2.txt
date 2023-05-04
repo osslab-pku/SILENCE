@@ -1,0 +1,4 @@
+pyproject-api==1.1.2
+  - packaging [required: >=21.3, installed: 23.1]
+  - tomli [required: >=2.0.1, installed: 2.0.1]
+

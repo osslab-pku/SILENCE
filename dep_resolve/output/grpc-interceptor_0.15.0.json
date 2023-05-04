@@ -1,0 +1,20 @@
+{
+  "grpcio": {
+    "version": "1.50.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.32.0"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "grpcio",
+        "specifier": ">=1.5.2"
+      }
+    ]
+  }
+}

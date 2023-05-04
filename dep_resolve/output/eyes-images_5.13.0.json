@@ -1,0 +1,69 @@
+{
+  "websocket-client": {
+    "version": "0.59.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<=0.59"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "websocket-client",
+        "specifier": ""
+      }
+    ]
+  },
+  "marshmallow": {
+    "version": "2.21.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3"
+      }
+    ]
+  },
+  "eyes-universal": {
+    "version": "3.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4,>=3"
+      }
+    ]
+  },
+  "eyes-core": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==5.0.0"
+      }
+    ]
+  },
+  "eyes-common": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==5.0.0"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<23,>=19.2.0"
+      }
+    ]
+  }
+}

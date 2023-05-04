@@ -1,0 +1,95 @@
+{
+  "Pillow": {
+    "version": "9.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=9.1.0"
+      }
+    ]
+  },
+  "Pyphen": {
+    "version": "0.13.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.9.1"
+      }
+    ]
+  },
+  "cssselect2": {
+    "version": "0.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.1"
+      }
+    ]
+  },
+  "tinycss2": {
+    "version": "1.2.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.0.0"
+      },
+      {
+        "from": "cssselect2",
+        "specifier": ""
+      }
+    ]
+  },
+  "html5lib": {
+    "version": "1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.1"
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.6"
+      }
+    ]
+  },
+  "webencodings": {
+    "version": "0.5",
+    "constraints": [
+      {
+        "from": "cssselect2",
+        "specifier": ""
+      },
+      {
+        "from": "tinycss2",
+        "specifier": ">=0.4"
+      },
+      {
+        "from": "html5lib",
+        "specifier": ""
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "html5lib",
+        "specifier": ">=1.9"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  }
+}

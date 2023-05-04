@@ -1,0 +1,4 @@
+ruamel.yaml.jinja2==0.2.7
+  - ruamel.yaml [required: >=0.16.1, installed: 0.17.21]
+    - ruamel.yaml.clib [required: >=0.2.6, installed: 0.2.7]
+

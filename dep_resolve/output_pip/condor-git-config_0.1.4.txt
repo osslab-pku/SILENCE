@@ -1,0 +1,3 @@
+condor-git-config==0.1.4
+  - filelock [required: Any, installed: 3.12.0]
+

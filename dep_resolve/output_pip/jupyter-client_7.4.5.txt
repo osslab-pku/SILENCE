@@ -1,0 +1,12 @@
+jupyter-client==7.4.5
+  - entrypoints [required: Any, installed: 0.4]
+  - jupyter-core [required: >=4.9.2, installed: 5.2.0]
+    - platformdirs [required: >=2.5, installed: 3.1.0]
+    - traitlets [required: >=5.3, installed: 5.9.0]
+  - nest-asyncio [required: >=1.5.4, installed: 1.5.6]
+  - python-dateutil [required: >=2.8.2, installed: 2.8.2]
+    - six [required: >=1.5, installed: 1.16.0]
+  - pyzmq [required: >=23.0, installed: 25.0.0]
+  - tornado [required: >=6.2, installed: 6.2]
+  - traitlets [required: Any, installed: 5.9.0]
+

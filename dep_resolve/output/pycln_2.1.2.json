@@ -1,0 +1,91 @@
+{
+  "libcst": {
+    "version": "0.4.9",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.5.0,>=0.3.10"
+      }
+    ]
+  },
+  "tomlkit": {
+    "version": "0.11.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.12.0,>=0.11.1"
+      }
+    ]
+  },
+  "pathspec": {
+    "version": "0.9.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.10.0,>=0.9.0"
+      }
+    ]
+  },
+  "pyyaml": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<7.0.0,>=5.3.1"
+      },
+      {
+        "from": "libcst",
+        "specifier": ">=5.2"
+      }
+    ]
+  },
+  "typer": {
+    "version": "0.7.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.8.0,>=0.4.1"
+      }
+    ]
+  },
+  "typing-inspect": {
+    "version": "0.7.1",
+    "constraints": [
+      {
+        "from": "libcst",
+        "specifier": ">=0.4.0"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "libcst",
+        "specifier": ">=3.7.4.2"
+      },
+      {
+        "from": "typing-inspect",
+        "specifier": ">=3.7.4"
+      }
+    ]
+  },
+  "click": {
+    "version": "8.1.3",
+    "constraints": [
+      {
+        "from": "typer",
+        "specifier": "<9.0.0,>=7.1.1"
+      }
+    ]
+  },
+  "mypy-extensions": {
+    "version": "0.4.3",
+    "constraints": [
+      {
+        "from": "typing-inspect",
+        "specifier": ">=0.3.0"
+      }
+    ]
+  }
+}

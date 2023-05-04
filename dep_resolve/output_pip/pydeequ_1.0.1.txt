@@ -1,0 +1,9 @@
+pydeequ==1.0.1
+  - numpy [required: >=1.14.1, installed: 1.24.3]
+  - pandas [required: >=0.23.0, installed: 2.0.0]
+    - numpy [required: >=1.20.3, installed: 1.24.3]
+    - python-dateutil [required: >=2.8.2, installed: 2.8.2]
+      - six [required: >=1.5, installed: 1.16.0]
+    - pytz [required: >=2020.1, installed: 2023.3]
+    - tzdata [required: >=2022.1, installed: 2023.3]
+

@@ -1,0 +1,47 @@
+{
+  "jsonschema": {
+    "version": "4.17.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5,>=4"
+      }
+    ]
+  },
+  "jsonpatch": {
+    "version": "1.31",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2,>=1"
+      }
+    ]
+  },
+  "pyrsistent": {
+    "version": "0.19.2",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": "!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": ">=17.4.0"
+      }
+    ]
+  },
+  "jsonpointer": {
+    "version": "2.3",
+    "constraints": [
+      {
+        "from": "jsonpatch",
+        "specifier": ">=1.9"
+      }
+    ]
+  }
+}

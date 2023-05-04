@@ -1,0 +1,56 @@
+{
+  "types-cachetools": {
+    "version": "5.2.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<6.0.0,>=5.2.1"
+      }
+    ]
+  },
+  "mypy": {
+    "version": "0.982",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.983,>=0.982"
+      }
+    ]
+  },
+  "cachetools": {
+    "version": "5.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<6.0.0,>=5.2.0"
+      }
+    ]
+  },
+  "tomli": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "mypy",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "mypy-extensions": {
+    "version": "0.4.3",
+    "constraints": [
+      {
+        "from": "mypy",
+        "specifier": ">=0.4.3"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "mypy",
+        "specifier": ">=3.10"
+      }
+    ]
+  }
+}

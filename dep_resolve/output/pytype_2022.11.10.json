@@ -1,0 +1,131 @@
+{
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=4.3.0"
+      },
+      {
+        "from": "libcst",
+        "specifier": ">=3.7.4.2"
+      },
+      {
+        "from": "typing-inspect",
+        "specifier": ">=3.7.4"
+      }
+    ]
+  },
+  "toml": {
+    "version": "0.10.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.10.2"
+      }
+    ]
+  },
+  "tabulate": {
+    "version": "0.9.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.8.10"
+      }
+    ]
+  },
+  "pydot": {
+    "version": "1.4.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.4.2"
+      }
+    ]
+  },
+  "ninja": {
+    "version": "1.11.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.10.0.post2"
+      }
+    ]
+  },
+  "networkx": {
+    "version": "2.8.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.8.4"
+      },
+      {
+        "from": "importlab",
+        "specifier": ">=2"
+      }
+    ]
+  },
+  "libcst": {
+    "version": "0.4.9",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.4.5"
+      }
+    ]
+  },
+  "importlab": {
+    "version": "0.8",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.8"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=21.4.0"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "pydot",
+        "specifier": ">=2.1.4"
+      }
+    ]
+  },
+  "pyyaml": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "libcst",
+        "specifier": ">=5.2"
+      }
+    ]
+  },
+  "typing-inspect": {
+    "version": "0.7.1",
+    "constraints": [
+      {
+        "from": "libcst",
+        "specifier": ">=0.4.0"
+      }
+    ]
+  },
+  "mypy-extensions": {
+    "version": "0.4.3",
+    "constraints": [
+      {
+        "from": "typing-inspect",
+        "specifier": ">=0.3.0"
+      }
+    ]
+  }
+}

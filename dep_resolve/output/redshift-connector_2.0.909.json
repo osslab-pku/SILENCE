@@ -1,0 +1,198 @@
+{
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "botocore": {
+    "version": "1.29.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.12.201"
+      },
+      {
+        "from": "boto3",
+        "specifier": "<1.30.0,>=1.29.7"
+      },
+      {
+        "from": "s3transfer",
+        "specifier": "<2.0a.0,>=1.12.36"
+      }
+    ]
+  },
+  "lxml": {
+    "version": "4.9.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=4.6.5"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0.0,>=2.23.0"
+      }
+    ]
+  },
+  "boto3": {
+    "version": "1.26.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.9.201"
+      }
+    ]
+  },
+  "beautifulsoup4": {
+    "version": "4.11.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5.0.0,>=4.7.0"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2020.1"
+      }
+    ]
+  },
+  "scramp": {
+    "version": "1.4.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.5.0,>=1.2.0"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "botocore",
+        "specifier": "<1.27,>=1.25.4"
+      },
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "botocore",
+        "specifier": "<3.0.0,>=2.1"
+      }
+    ]
+  },
+  "jmespath": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "botocore",
+        "specifier": "<2.0.0,>=0.7.1"
+      },
+      {
+        "from": "boto3",
+        "specifier": "<2.0.0,>=0.7.1"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "s3transfer": {
+    "version": "0.6.0",
+    "constraints": [
+      {
+        "from": "boto3",
+        "specifier": "<0.7.0,>=0.6.0"
+      }
+    ]
+  },
+  "soupsieve": {
+    "version": "2.3.2.post1",
+    "constraints": [
+      {
+        "from": "beautifulsoup4",
+        "specifier": ">1.2"
+      }
+    ]
+  },
+  "asn1crypto": {
+    "version": "1.5.1",
+    "constraints": [
+      {
+        "from": "scramp",
+        "specifier": ">=1.5.1"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      }
+    ]
+  }
+}

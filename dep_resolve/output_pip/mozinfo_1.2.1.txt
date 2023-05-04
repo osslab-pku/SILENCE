@@ -1,0 +1,5 @@
+mozinfo==1.2.1
+  - distro [required: ==1.4.0, installed: 1.4.0]
+  - mozfile [required: >=0.12, installed: 3.0.0]
+    - six [required: >=1.13.0, installed: 1.16.0]
+

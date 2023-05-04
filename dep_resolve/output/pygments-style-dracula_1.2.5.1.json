@@ -1,0 +1,11 @@
+{
+  "pygments": {
+    "version": "2.13.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.5"
+      }
+    ]
+  }
+}

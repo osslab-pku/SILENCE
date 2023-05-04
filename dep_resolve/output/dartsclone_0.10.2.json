@@ -1,0 +1,11 @@
+{
+  "Cython": {
+    "version": "0.29.32",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

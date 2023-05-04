@@ -1,0 +1,8 @@
+opentracing-instrumentation==3.3.1
+  - contextlib2 [required: Any, installed: 21.6.0]
+  - future [required: Any, installed: 0.18.3]
+  - opentracing [required: >=2,<3, installed: 2.4.0]
+  - six [required: Any, installed: 1.16.0]
+  - tornado [required: >=4.1,<6, installed: 5.1.1]
+  - wrapt [required: Any, installed: 1.15.0]
+

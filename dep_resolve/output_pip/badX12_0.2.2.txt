@@ -1,0 +1,4 @@
+badx12==0.2.2
+  - click [required: ==7.0, installed: 7.0]
+  - dicttoxml [required: ==1.7.4, installed: 1.7.4]
+

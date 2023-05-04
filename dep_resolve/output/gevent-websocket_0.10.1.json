@@ -1,0 +1,55 @@
+{
+  "gevent": {
+    "version": "22.10.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "greenlet": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "gevent",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "gevent",
+        "specifier": ""
+      },
+      {
+        "from": "zope.interface",
+        "specifier": ""
+      },
+      {
+        "from": "zope.event",
+        "specifier": ""
+      }
+    ]
+  },
+  "zope.interface": {
+    "version": "5.5.1",
+    "constraints": [
+      {
+        "from": "gevent",
+        "specifier": ""
+      }
+    ]
+  },
+  "zope.event": {
+    "version": "4.5.0",
+    "constraints": [
+      {
+        "from": "gevent",
+        "specifier": ""
+      }
+    ]
+  }
+}

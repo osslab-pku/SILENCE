@@ -1,0 +1,10 @@
+ansible-lint 4.3.7 (MIT) has 1 incompatibilities in [tree_created]:
+ansible-lint 
+  ruamel.yaml 0.16.12 [ansible-lint (<1,>=0.15.37)]
+  rich 9.0.1 [ansible-lint ()]
+    colorama 0.4.4 [rich (<0.5.0,>=0.4.0)]
+    commonmark 0.9.1 [rich (<0.10.0,>=0.9.0)]
+    pygments 2.7.2 [rich (<3.0.0,>=2.6.0)]
+    typing-extensions 3.7.4.3 [rich (<4.0.0,>=3.7.4)]
+  pyyaml 5.3.1 [ansible-lint ()]
+  ansible 2.10.1 (INCOMPATIBLE! HAS GPL-3.0-or-later) [ansible-lint (>=2.8)]

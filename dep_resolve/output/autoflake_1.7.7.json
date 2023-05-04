@@ -1,0 +1,20 @@
+{
+  "tomli": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.0.1"
+      }
+    ]
+  },
+  "pyflakes": {
+    "version": "2.5.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "termcolor": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "mock": {
+    "version": "4.0.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "path.py": {
+    "version": "12.5.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pytest": {
+    "version": "7.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "contextlib2": {
+    "version": "21.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "execnet": {
+    "version": "1.9.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "path": {
+    "version": "16.5.0",
+    "constraints": [
+      {
+        "from": "path.py",
+        "specifier": ""
+      }
+    ]
+  },
+  "tomli": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "exceptiongroup": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ">=1.0.0rc8"
+      }
+    ]
+  },
+  "pluggy": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": "<2.0,>=0.12"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ""
+      }
+    ]
+  },
+  "iniconfig": {
+    "version": "1.1.1",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ""
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ">=19.2.0"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  }
+}

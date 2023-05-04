@@ -1,0 +1,6 @@
+multiaddr==0.0.9
+  - base58 [required: Any, installed: 2.1.1]
+  - netaddr [required: Any, installed: 0.8.0]
+  - six [required: Any, installed: 1.16.0]
+  - varint [required: Any, installed: 1.0.2]
+

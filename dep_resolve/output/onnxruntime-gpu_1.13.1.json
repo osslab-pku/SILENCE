@@ -1,0 +1,83 @@
+{
+  "sympy": {
+    "version": "1.11",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "protobuf": {
+    "version": "4.21.9",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.21.6"
+      }
+    ]
+  },
+  "flatbuffers": {
+    "version": "22.10.26",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "coloredlogs": {
+    "version": "15.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "mpmath": {
+    "version": "1.2.1",
+    "constraints": [
+      {
+        "from": "sympy",
+        "specifier": ">=0.19"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "humanfriendly": {
+    "version": "10.0",
+    "constraints": [
+      {
+        "from": "coloredlogs",
+        "specifier": ">=9.1"
+      }
+    ]
+  }
+}

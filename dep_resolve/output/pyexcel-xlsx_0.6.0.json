@@ -1,0 +1,38 @@
+{
+  "pyexcel-io": {
+    "version": "0.6.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.6.2"
+      }
+    ]
+  },
+  "openpyxl": {
+    "version": "3.0.10",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.6.1"
+      }
+    ]
+  },
+  "lml": {
+    "version": "0.0.9",
+    "constraints": [
+      {
+        "from": "pyexcel-io",
+        "specifier": ">=0.0.4"
+      }
+    ]
+  },
+  "et-xmlfile": {
+    "version": "1.1.0",
+    "constraints": [
+      {
+        "from": "openpyxl",
+        "specifier": ""
+      }
+    ]
+  }
+}

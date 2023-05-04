@@ -1,0 +1,256 @@
+{
+  "codecov": {
+    "version": "2.1.11",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.0.15"
+      }
+    ]
+  },
+  "coverage": {
+    "version": "6.5.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=4.5.2"
+      },
+      {
+        "from": "codecov",
+        "specifier": ""
+      }
+    ]
+  },
+  "tox": {
+    "version": "3.27.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  },
+  "pygments": {
+    "version": "2.13.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.2.0"
+      },
+      {
+        "from": "colour-runner",
+        "specifier": ""
+      }
+    ]
+  },
+  "deepdiff": {
+    "version": "6.2.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.3.0"
+      }
+    ]
+  },
+  "colour-runner": {
+    "version": "0.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.0.5"
+      }
+    ]
+  },
+  "termcolor": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "coloredlogs": {
+    "version": "15.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=10.0"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.11.0"
+      },
+      {
+        "from": "tox",
+        "specifier": ">=1.14.0"
+      },
+      {
+        "from": "blessings",
+        "specifier": ""
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "codecov",
+        "specifier": ">=2.7.9"
+      }
+    ]
+  },
+  "tomli": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "tox",
+        "specifier": ">=2.0.1"
+      }
+    ]
+  },
+  "virtualenv": {
+    "version": "20.16.6",
+    "constraints": [
+      {
+        "from": "tox",
+        "specifier": "!=20.0.0,!=20.0.1,!=20.0.2,!=20.0.3,!=20.0.4,!=20.0.5,!=20.0.6,!=20.0.7,>=16.0.0"
+      }
+    ]
+  },
+  "py": {
+    "version": "1.11.0",
+    "constraints": [
+      {
+        "from": "tox",
+        "specifier": ">=1.4.17"
+      }
+    ]
+  },
+  "pluggy": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "tox",
+        "specifier": ">=0.12.0"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "tox",
+        "specifier": ">=14"
+      }
+    ]
+  },
+  "filelock": {
+    "version": "3.8.0",
+    "constraints": [
+      {
+        "from": "tox",
+        "specifier": ">=3.0.0"
+      },
+      {
+        "from": "virtualenv",
+        "specifier": "<4,>=3.4.1"
+      }
+    ]
+  },
+  "ordered-set": {
+    "version": "4.1.0",
+    "constraints": [
+      {
+        "from": "deepdiff",
+        "specifier": "<4.2.0,>=4.0.2"
+      }
+    ]
+  },
+  "blessings": {
+    "version": "1.7",
+    "constraints": [
+      {
+        "from": "colour-runner",
+        "specifier": ""
+      }
+    ]
+  },
+  "humanfriendly": {
+    "version": "10.0",
+    "constraints": [
+      {
+        "from": "coloredlogs",
+        "specifier": ">=9.1"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "platformdirs": {
+    "version": "2.5.3",
+    "constraints": [
+      {
+        "from": "virtualenv",
+        "specifier": "<3,>=2.4"
+      }
+    ]
+  },
+  "distlib": {
+    "version": "0.3.6",
+    "constraints": [
+      {
+        "from": "virtualenv",
+        "specifier": "<1,>=0.3.6"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  }
+}

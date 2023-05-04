@@ -1,0 +1,11 @@
+{
+  "PyParsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

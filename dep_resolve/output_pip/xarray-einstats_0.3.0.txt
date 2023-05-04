@@ -1,0 +1,14 @@
+xarray-einstats==0.3.0
+  - numpy [required: >=1.19, installed: 1.24.3]
+  - scipy [required: >=1.5, installed: 1.10.1]
+    - numpy [required: >=1.19.5,<1.27.0, installed: 1.24.3]
+  - xarray [required: >=0.16, installed: 2023.4.2]
+    - numpy [required: >=1.21, installed: 1.24.3]
+    - packaging [required: >=21.3, installed: 23.1]
+    - pandas [required: >=1.4, installed: 2.0.0]
+      - numpy [required: >=1.20.3, installed: 1.24.3]
+      - python-dateutil [required: >=2.8.2, installed: 2.8.2]
+        - six [required: >=1.5, installed: 1.16.0]
+      - pytz [required: >=2020.1, installed: 2023.3]
+      - tzdata [required: >=2022.1, installed: 2023.3]
+

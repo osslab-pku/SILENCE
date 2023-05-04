@@ -1,0 +1,14 @@
+testcontainers==3.7.0
+  - deprecation [required: Any, installed: 2.1.0]
+    - packaging [required: Any, installed: 23.1]
+  - docker [required: >=4.0.0, installed: 6.0.1]
+    - packaging [required: >=14.0, installed: 23.1]
+    - requests [required: >=2.26.0, installed: 2.28.2]
+      - certifi [required: >=2017.4.17, installed: 2022.12.7]
+      - charset-normalizer [required: >=2,<4, installed: 3.1.0]
+      - idna [required: >=2.5,<4, installed: 3.4]
+      - urllib3 [required: >=1.21.1,<1.27, installed: 1.26.15]
+    - urllib3 [required: >=1.26.0, installed: 1.26.15]
+    - websocket-client [required: >=0.32.0, installed: 1.5.1]
+  - wrapt [required: Any, installed: 1.15.0]
+

@@ -1,0 +1,172 @@
+{
+  "pytest": {
+    "version": "7.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=4.6"
+      }
+    ]
+  },
+  "pylint": {
+    "version": "2.15.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "tomli": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ">=1.0.0"
+      },
+      {
+        "from": "pylint",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "exceptiongroup": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ">=1.0.0rc8"
+      }
+    ]
+  },
+  "pluggy": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": "<2.0,>=0.12"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ""
+      }
+    ]
+  },
+  "iniconfig": {
+    "version": "1.1.1",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ""
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "pytest",
+        "specifier": ">=19.2.0"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "pylint",
+        "specifier": ">=3.10.0"
+      },
+      {
+        "from": "astroid",
+        "specifier": ">=3.10"
+      }
+    ]
+  },
+  "tomlkit": {
+    "version": "0.11.6",
+    "constraints": [
+      {
+        "from": "pylint",
+        "specifier": ">=0.10.1"
+      }
+    ]
+  },
+  "mccabe": {
+    "version": "0.7.0",
+    "constraints": [
+      {
+        "from": "pylint",
+        "specifier": "<0.8,>=0.6"
+      }
+    ]
+  },
+  "isort": {
+    "version": "5.10.0",
+    "constraints": [
+      {
+        "from": "pylint",
+        "specifier": "<6,>=4.2.5"
+      }
+    ]
+  },
+  "astroid": {
+    "version": "2.12.12",
+    "constraints": [
+      {
+        "from": "pylint",
+        "specifier": "<=2.14.0-dev0,>=2.12.12"
+      }
+    ]
+  },
+  "platformdirs": {
+    "version": "2.5.3",
+    "constraints": [
+      {
+        "from": "pylint",
+        "specifier": ">=2.2.0"
+      }
+    ]
+  },
+  "dill": {
+    "version": "0.3.6",
+    "constraints": [
+      {
+        "from": "pylint",
+        "specifier": ">=0.2"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "wrapt": {
+    "version": "1.14.1",
+    "constraints": [
+      {
+        "from": "astroid",
+        "specifier": "<2,>=1.11"
+      }
+    ]
+  },
+  "lazy-object-proxy": {
+    "version": "1.8.0",
+    "constraints": [
+      {
+        "from": "astroid",
+        "specifier": ">=1.4.0"
+      }
+    ]
+  }
+}

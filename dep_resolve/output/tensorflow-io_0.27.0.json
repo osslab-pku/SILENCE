@@ -1,0 +1,11 @@
+{
+  "tensorflow-io-gcs-filesystem": {
+    "version": "0.27.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==0.27.0"
+      }
+    ]
+  }
+}

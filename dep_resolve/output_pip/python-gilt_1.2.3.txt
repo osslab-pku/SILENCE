@@ -1,0 +1,7 @@
+python-gilt==1.2.3
+  - click [required: Any, installed: 8.1.3]
+  - colorama [required: Any, installed: 0.4.6]
+  - fasteners [required: Any, installed: 0.18]
+  - PyYAML [required: Any, installed: 6.0]
+  - sh [required: Any, installed: 2.0.2]
+

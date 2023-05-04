@@ -1,0 +1,3 @@
+yaspin==2.2.0
+  - termcolor-whl [required: ==1.1.2, installed: 1.1.2]
+

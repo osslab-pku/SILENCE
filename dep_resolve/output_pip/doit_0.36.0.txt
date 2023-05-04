@@ -1,0 +1,5 @@
+doit==0.36.0
+  - cloudpickle [required: Any, installed: 2.2.1]
+  - importlib-metadata [required: >=4.4, installed: 6.6.0]
+    - zipp [required: >=0.5, installed: 3.15.0]
+

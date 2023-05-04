@@ -1,0 +1,5 @@
+reprint==0.6.0
+  - backports.shutil-get-terminal-size [required: Any, installed: 1.0.0]
+  - colorama [required: Any, installed: 0.4.6]
+  - six [required: Any, installed: 1.16.0]
+

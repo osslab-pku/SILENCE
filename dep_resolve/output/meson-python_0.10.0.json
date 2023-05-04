@@ -1,0 +1,56 @@
+{
+  "tomli": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "pyproject-metadata": {
+    "version": "0.6.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.5.0"
+      }
+    ]
+  },
+  "ninja": {
+    "version": "1.11.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "meson": {
+    "version": "0.64.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.62.0"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "pyproject-metadata",
+        "specifier": ">=19.0"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+schwifty 2021.10.2 (MIT) has 1 incompatibilities in [tree_created]:
+schwifty 
+  pycountry 20.7.3 (INCOMPATIBLE! HAS GPL-2.0-only) [schwifty ()]
+  iso3166 2.0.2 [schwifty ()]

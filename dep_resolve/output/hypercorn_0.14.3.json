@@ -1,0 +1,69 @@
+{
+  "wsproto": {
+    "version": "1.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.14.0"
+      }
+    ]
+  },
+  "toml": {
+    "version": "0.10.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "priority": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "h2": {
+    "version": "4.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.1.0"
+      }
+    ]
+  },
+  "h11": {
+    "version": "0.14.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "wsproto",
+        "specifier": "<1,>=0.9.0"
+      }
+    ]
+  },
+  "hpack": {
+    "version": "4.0.0",
+    "constraints": [
+      {
+        "from": "h2",
+        "specifier": "<5,>=4.0"
+      }
+    ]
+  },
+  "hyperframe": {
+    "version": "6.0.0",
+    "constraints": [
+      {
+        "from": "h2",
+        "specifier": "<7,>=6.0"
+      }
+    ]
+  }
+}

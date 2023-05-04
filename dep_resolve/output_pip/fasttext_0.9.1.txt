@@ -1,0 +1,5 @@
+fasttext==0.9.1
+  - numpy [required: Any, installed: 1.24.3]
+  - pybind11 [required: >=2.2, installed: 2.10.4]
+  - setuptools [required: >=0.7.0, installed: 66.0.0]
+

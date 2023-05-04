@@ -1,0 +1,3 @@
+biopython==1.79
+  - numpy [required: Any, installed: 1.24.3]
+

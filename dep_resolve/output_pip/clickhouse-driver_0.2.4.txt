@@ -1,0 +1,6 @@
+clickhouse-driver==0.2.4
+  - pytz [required: Any, installed: 2023.3]
+  - tzlocal [required: Any, installed: 4.3]
+    - pytz-deprecation-shim [required: Any, installed: 0.1.0.post0]
+      - tzdata [required: Any, installed: 2023.3]
+

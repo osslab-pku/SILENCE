@@ -1,0 +1,11 @@
+{
+  "plumbum": {
+    "version": "1.8.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

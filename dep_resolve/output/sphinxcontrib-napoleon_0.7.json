@@ -1,0 +1,24 @@
+{
+  "pockets": {
+    "version": "0.9.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.3"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.5.2"
+      },
+      {
+        "from": "pockets",
+        "specifier": ">=1.5.2"
+      }
+    ]
+  }
+}

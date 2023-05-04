@@ -1,0 +1,288 @@
+{
+  "future": {
+    "version": "0.18.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "datetime-distance",
+        "specifier": ""
+      },
+      {
+        "from": "dedupe-variable-datetime",
+        "specifier": ""
+      }
+    ]
+  },
+  "dedupe": {
+    "version": "2.0.19",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "dedupe-variable-datetime",
+        "specifier": ""
+      }
+    ]
+  },
+  "datetime-distance": {
+    "version": "0.1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "dedupe-variable-datetime",
+        "specifier": ""
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "dedupe",
+        "specifier": ""
+      }
+    ]
+  },
+  "Levenshtein-search": {
+    "version": "1.4.5",
+    "constraints": [
+      {
+        "from": "dedupe",
+        "specifier": "==1.4.5"
+      }
+    ]
+  },
+  "zope.index": {
+    "version": "5.2.0",
+    "constraints": [
+      {
+        "from": "dedupe",
+        "specifier": ""
+      }
+    ]
+  },
+  "BTrees": {
+    "version": "4.11.1",
+    "constraints": [
+      {
+        "from": "dedupe",
+        "specifier": ">=4.1.4"
+      },
+      {
+        "from": "zope.index",
+        "specifier": ">=4.4.1"
+      }
+    ]
+  },
+  "haversine": {
+    "version": "2.7.0",
+    "constraints": [
+      {
+        "from": "dedupe",
+        "specifier": ">=0.4.1"
+      }
+    ]
+  },
+  "simplecosine": {
+    "version": "1.2",
+    "constraints": [
+      {
+        "from": "dedupe",
+        "specifier": ">=1.2"
+      }
+    ]
+  },
+  "highered": {
+    "version": "0.2.1",
+    "constraints": [
+      {
+        "from": "dedupe",
+        "specifier": ">=0.2.0"
+      }
+    ]
+  },
+  "doublemetaphone": {
+    "version": "1.1",
+    "constraints": [
+      {
+        "from": "dedupe",
+        "specifier": ""
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "dedupe",
+        "specifier": ">=1.20"
+      },
+      {
+        "from": "simplecosine",
+        "specifier": ""
+      },
+      {
+        "from": "scikit-learn",
+        "specifier": ">=1.17.3"
+      },
+      {
+        "from": "scipy",
+        "specifier": "<1.26.0,>=1.18.5"
+      }
+    ]
+  },
+  "dedupe-variable-datetime": {
+    "version": "0.1.5",
+    "constraints": [
+      {
+        "from": "dedupe",
+        "specifier": ""
+      }
+    ]
+  },
+  "categorical-distance": {
+    "version": "1.9",
+    "constraints": [
+      {
+        "from": "dedupe",
+        "specifier": ">=1.9"
+      }
+    ]
+  },
+  "affinegap": {
+    "version": "1.12",
+    "constraints": [
+      {
+        "from": "dedupe",
+        "specifier": ">=1.3"
+      }
+    ]
+  },
+  "scikit-learn": {
+    "version": "1.1.3",
+    "constraints": [
+      {
+        "from": "dedupe",
+        "specifier": ""
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "datetime-distance",
+        "specifier": ">=2.6.0"
+      }
+    ]
+  },
+  "zope.interface": {
+    "version": "5.5.1",
+    "constraints": [
+      {
+        "from": "zope.index",
+        "specifier": ""
+      },
+      {
+        "from": "BTrees",
+        "specifier": ">=5.0.0"
+      },
+      {
+        "from": "persistent",
+        "specifier": ""
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "zope.index",
+        "specifier": ""
+      },
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "zope.index",
+        "specifier": ""
+      },
+      {
+        "from": "zope.interface",
+        "specifier": ""
+      }
+    ]
+  },
+  "persistent": {
+    "version": "4.9.2",
+    "constraints": [
+      {
+        "from": "zope.index",
+        "specifier": ""
+      },
+      {
+        "from": "BTrees",
+        "specifier": ">=4.1.0"
+      }
+    ]
+  },
+  "threadpoolctl": {
+    "version": "3.1.0",
+    "constraints": [
+      {
+        "from": "scikit-learn",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "joblib": {
+    "version": "1.1.1",
+    "constraints": [
+      {
+        "from": "scikit-learn",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "scipy": {
+    "version": "1.9.3",
+    "constraints": [
+      {
+        "from": "scikit-learn",
+        "specifier": ">=1.3.2"
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "persistent",
+        "specifier": ""
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  }
+}

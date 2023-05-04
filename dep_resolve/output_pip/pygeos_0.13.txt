@@ -1,0 +1,3 @@
+pygeos==0.13
+  - numpy [required: >=1.13, installed: 1.24.3]
+

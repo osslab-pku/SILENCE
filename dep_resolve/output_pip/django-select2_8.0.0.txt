@@ -1,0 +1,9 @@
+django-select2==8.0.0
+  - django [required: >=3.2, installed: 4.2]
+    - asgiref [required: >=3.6.0,<4, installed: 3.6.0]
+    - sqlparse [required: >=0.3.1, installed: 0.4.4]
+  - django-appconf [required: >=0.6.0, installed: 1.0.5]
+    - django [required: Any, installed: 4.2]
+      - asgiref [required: >=3.6.0,<4, installed: 3.6.0]
+      - sqlparse [required: >=0.3.1, installed: 0.4.4]
+

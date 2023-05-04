@@ -1,0 +1,14 @@
+ropwr 0.2.0 (Apache-2.0) has 1 incompatibilities in [tree_created]:
+ropwr 
+  scikit-learn 0.24.1 [ropwr (>=0.22)]
+    numpy 1.20.2 [ropwr (>=1.16)] [scikit-learn (>=1.13.3)] [cvxpy (>=1.15)] [scipy (<1.23.0,>=1.16.5)] [ecos (>=1.6)] [osqp (>=1.7)] [qdldl (>=1.7)]
+    threadpoolctl 2.1.0 [scikit-learn (>=2.0.0)]
+    joblib 1.0.1 [scikit-learn (>=0.11)]
+    scipy 1.6.2 [scikit-learn (>=0.19.1)] [cvxpy (>=1.1.0)] [ecos (>=0.9)] [osqp (>=0.13.2)] [qdldl (>=0.13.2)]
+  numpy 1.20.2 [ropwr (>=1.16)] [scikit-learn (>=1.13.3)] [cvxpy (>=1.15)] [scipy (<1.23.0,>=1.16.5)] [ecos (>=1.6)] [osqp (>=1.7)] [qdldl (>=1.7)]
+  cvxpy 1.1.12 [ropwr (>=1.0)]
+    scipy 1.6.2 [scikit-learn (>=0.19.1)] [cvxpy (>=1.1.0)] [ecos (>=0.9)] [osqp (>=0.13.2)] [qdldl (>=0.13.2)]
+    scs 2.1.3 [cvxpy (>=1.1.6)]
+    ecos 2.0.7.post1 (INCOMPATIBLE! HAS GPL-3.0-only) [cvxpy (>=2)]
+    osqp 0.6.2.post0 [cvxpy (>=0.4.1)]
+      qdldl 0.1.5.post0 [osqp ()]

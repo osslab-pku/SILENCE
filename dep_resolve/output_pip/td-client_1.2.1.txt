@@ -1,0 +1,6 @@
+td-client==1.2.1
+  - msgpack [required: >=0.6.2, installed: 1.0.5]
+  - python-dateutil [required: Any, installed: 2.8.2]
+    - six [required: >=1.5, installed: 1.16.0]
+  - urllib3 [required: Any, installed: 1.26.15]
+

@@ -1,0 +1,10 @@
+onnxruntime-gpu==1.13.1
+  - coloredlogs [required: Any, installed: 15.0.1]
+    - humanfriendly [required: >=9.1, installed: 10.0]
+  - flatbuffers [required: Any, installed: 23.3.3]
+  - numpy [required: >=1.21.6, installed: 1.24.2]
+  - packaging [required: Any, installed: 23.0]
+  - protobuf [required: Any, installed: 4.22.0]
+  - sympy [required: Any, installed: 1.11.1]
+    - mpmath [required: >=0.19, installed: 1.2.1]
+

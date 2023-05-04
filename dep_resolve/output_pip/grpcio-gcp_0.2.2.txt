@@ -1,0 +1,3 @@
+grpcio-gcp==0.2.2
+  - grpcio [required: >=1.12.0, installed: 1.54.0]
+

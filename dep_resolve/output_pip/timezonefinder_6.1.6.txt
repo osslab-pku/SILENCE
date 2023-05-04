@@ -1,0 +1,7 @@
+timezonefinder==6.1.6
+  - cffi [required: >=1,<2, installed: 1.15.1]
+    - pycparser [required: Any, installed: 2.21]
+  - h3 [required: >=3,<4, installed: 3.7.6]
+  - numpy [required: >=1,<2, installed: 1.24.3]
+  - setuptools [required: >=65.5, installed: 66.0.0]
+

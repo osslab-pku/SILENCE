@@ -1,0 +1,7 @@
+web.py==0.61
+  - cheroot [required: Any, installed: 9.0.0]
+    - jaraco.functools [required: Any, installed: 3.6.0]
+      - more-itertools [required: Any, installed: 9.1.0]
+    - more-itertools [required: >=2.6, installed: 9.1.0]
+    - six [required: >=1.11.0, installed: 1.16.0]
+

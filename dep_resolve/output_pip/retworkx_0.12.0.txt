@@ -1,0 +1,5 @@
+retworkx==0.12.0
+  - numpy [required: >=1.16.0, installed: 1.24.3]
+  - rustworkx [required: ==0.12.0, installed: 0.12.0]
+    - numpy [required: >=1.16.0, installed: 1.24.3]
+

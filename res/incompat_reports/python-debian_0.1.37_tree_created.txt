@@ -1,0 +1,4 @@
+python-debian 0.1.37 (GPL-2.0-or-later) has 1 incompatibilities in [tree_created]:
+python-debian 
+  six 1.14.0 [python-debian ()]
+  chardet 3.0.4 (INCOMPATIBLE! HAS LGPL-3.0-only) [python-debian ()]

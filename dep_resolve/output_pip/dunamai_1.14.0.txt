@@ -1,0 +1,3 @@
+dunamai==1.14.0
+  - packaging [required: >=20.9, installed: 23.1]
+

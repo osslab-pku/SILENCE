@@ -1,0 +1,29 @@
+{
+  "y-py": {
+    "version": "0.5.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.6.0,>=0.5.3"
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.6"
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+netCDF4==1.6.1
+  - cftime [required: Any, installed: 1.6.2]
+    - numpy [required: >1.13.3, installed: 1.24.3]
+  - numpy [required: >=1.9, installed: 1.24.3]
+

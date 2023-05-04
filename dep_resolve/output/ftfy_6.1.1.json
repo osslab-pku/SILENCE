@@ -1,0 +1,11 @@
+{
+  "wcwidth": {
+    "version": "0.2.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.2.5"
+      }
+    ]
+  }
+}

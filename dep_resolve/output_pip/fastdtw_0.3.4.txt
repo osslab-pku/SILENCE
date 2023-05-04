@@ -1,0 +1,3 @@
+fastdtw==0.3.4
+  - numpy [required: Any, installed: 1.24.3]
+

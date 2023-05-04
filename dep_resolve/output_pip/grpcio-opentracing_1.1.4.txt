@@ -1,0 +1,5 @@
+grpcio-opentracing==1.1.4
+  - grpcio [required: >=1.1.3,<2.0, installed: 1.54.0]
+  - opentracing [required: >=1.2.2, installed: 2.4.0]
+  - six [required: >=1.10, installed: 1.16.0]
+

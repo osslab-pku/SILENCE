@@ -1,0 +1,5 @@
+click-configfile==0.2.3
+  - click [required: >=6.6, installed: 8.1.3]
+  - configparser [required: >=3.5.0, installed: 5.3.0]
+  - six [required: >=1.10, installed: 1.16.0]
+

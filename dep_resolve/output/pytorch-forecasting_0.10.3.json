@@ -1,0 +1,764 @@
+{
+  "statsmodels": {
+    "version": "0.13.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "matplotlib": {
+    "version": "3.6.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "scikit-learn": {
+    "version": "1.1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.2,>=0.24"
+      }
+    ]
+  },
+  "pandas": {
+    "version": "1.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "statsmodels",
+        "specifier": ">=0.25"
+      }
+    ]
+  },
+  "scipy": {
+    "version": "1.9.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0,>=1.8"
+      },
+      {
+        "from": "statsmodels",
+        "specifier": ">=1.3"
+      },
+      {
+        "from": "scikit-learn",
+        "specifier": ">=1.3.2"
+      },
+      {
+        "from": "optuna",
+        "specifier": "!=1.4.0"
+      }
+    ]
+  },
+  "optuna": {
+    "version": "2.10.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0.0,>=2.3.0"
+      }
+    ]
+  },
+  "pytorch-lightning": {
+    "version": "1.8.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=1.2.4"
+      }
+    ]
+  },
+  "torch": {
+    "version": "1.13.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0,>=1.7"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "statsmodels",
+        "specifier": ">=1.17"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.19"
+      },
+      {
+        "from": "scikit-learn",
+        "specifier": ">=1.17.3"
+      },
+      {
+        "from": "pandas",
+        "specifier": ">=1.20.3"
+      },
+      {
+        "from": "scipy",
+        "specifier": "<1.26.0,>=1.18.5"
+      },
+      {
+        "from": "optuna",
+        "specifier": ""
+      },
+      {
+        "from": "pytorch-lightning",
+        "specifier": ">=1.17.2"
+      },
+      {
+        "from": "patsy",
+        "specifier": ">=1.4"
+      },
+      {
+        "from": "contourpy",
+        "specifier": ">=1.16"
+      },
+      {
+        "from": "cmaes",
+        "specifier": ""
+      },
+      {
+        "from": "tensorboard",
+        "specifier": ">=1.12.0"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "statsmodels",
+        "specifier": ">=21.3"
+      },
+      {
+        "from": "matplotlib",
+        "specifier": ">=20.0"
+      },
+      {
+        "from": "optuna",
+        "specifier": ">=20.0"
+      },
+      {
+        "from": "pytorch-lightning",
+        "specifier": ">=17.0"
+      }
+    ]
+  },
+  "patsy": {
+    "version": "0.5.3",
+    "constraints": [
+      {
+        "from": "statsmodels",
+        "specifier": ">=0.5.2"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=2.7"
+      },
+      {
+        "from": "pandas",
+        "specifier": ">=2.8.1"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=2.2.1"
+      },
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "pillow": {
+    "version": "9.3.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=6.2.0"
+      }
+    ]
+  },
+  "kiwisolver": {
+    "version": "1.4.4",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "fonttools": {
+    "version": "4.38.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=4.22.0"
+      }
+    ]
+  },
+  "cycler": {
+    "version": "0.11.0",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=0.10"
+      }
+    ]
+  },
+  "contourpy": {
+    "version": "1.0.6",
+    "constraints": [
+      {
+        "from": "matplotlib",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "threadpoolctl": {
+    "version": "3.1.0",
+    "constraints": [
+      {
+        "from": "scikit-learn",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "joblib": {
+    "version": "1.1.1",
+    "constraints": [
+      {
+        "from": "scikit-learn",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2020.1"
+      }
+    ]
+  },
+  "PyYAML": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "optuna",
+        "specifier": ""
+      },
+      {
+        "from": "pytorch-lightning",
+        "specifier": ">=5.4"
+      },
+      {
+        "from": "cliff",
+        "specifier": ">=3.12"
+      }
+    ]
+  },
+  "tqdm": {
+    "version": "4.64.1",
+    "constraints": [
+      {
+        "from": "optuna",
+        "specifier": ""
+      },
+      {
+        "from": "pytorch-lightning",
+        "specifier": ">=4.57.0"
+      }
+    ]
+  },
+  "sqlalchemy": {
+    "version": "1.4.43",
+    "constraints": [
+      {
+        "from": "optuna",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "colorlog": {
+    "version": "6.5.0",
+    "constraints": [
+      {
+        "from": "optuna",
+        "specifier": ""
+      }
+    ]
+  },
+  "cmaes": {
+    "version": "0.9.0",
+    "constraints": [
+      {
+        "from": "optuna",
+        "specifier": ">=0.8.2"
+      }
+    ]
+  },
+  "cliff": {
+    "version": "4.0.0",
+    "constraints": [
+      {
+        "from": "optuna",
+        "specifier": ""
+      }
+    ]
+  },
+  "alembic": {
+    "version": "1.8.0",
+    "constraints": [
+      {
+        "from": "optuna",
+        "specifier": ""
+      }
+    ]
+  },
+  "lightning-utilities": {
+    "version": "0.3.0",
+    "constraints": [
+      {
+        "from": "pytorch-lightning",
+        "specifier": "==0.3.*"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "pytorch-lightning",
+        "specifier": ">=4.0.0"
+      },
+      {
+        "from": "torch",
+        "specifier": ""
+      }
+    ]
+  },
+  "torchmetrics": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "pytorch-lightning",
+        "specifier": ">=0.7.0"
+      }
+    ]
+  },
+  "tensorboard": {
+    "version": "2.11.0",
+    "constraints": [
+      {
+        "from": "pytorch-lightning",
+        "specifier": ">=2.9.1"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "patsy",
+        "specifier": ""
+      },
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      },
+      {
+        "from": "google-auth",
+        "specifier": ">=1.9.0"
+      },
+      {
+        "from": "grpcio",
+        "specifier": ">=1.5.2"
+      }
+    ]
+  },
+  "greenlet": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "sqlalchemy",
+        "specifier": "!=0.4.17"
+      },
+      {
+        "from": "SQLAlchemy",
+        "specifier": "!=0.4.17"
+      }
+    ]
+  },
+  "stevedore": {
+    "version": "4.1.1",
+    "constraints": [
+      {
+        "from": "cliff",
+        "specifier": ">=2.0.1"
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "cliff",
+        "specifier": ">=4.4"
+      },
+      {
+        "from": "markdown",
+        "specifier": ">=4.4"
+      }
+    ]
+  },
+  "cmd2": {
+    "version": "2.4.1",
+    "constraints": [
+      {
+        "from": "cliff",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "autopage": {
+    "version": "0.4.0",
+    "constraints": [
+      {
+        "from": "cliff",
+        "specifier": ">=0.4.0"
+      }
+    ]
+  },
+  "PrettyTable": {
+    "version": "3.5.0",
+    "constraints": [
+      {
+        "from": "cliff",
+        "specifier": ">=0.7.2"
+      }
+    ]
+  },
+  "Mako": {
+    "version": "1.2.3",
+    "constraints": [
+      {
+        "from": "alembic",
+        "specifier": ""
+      }
+    ]
+  },
+  "SQLAlchemy": {
+    "version": "1.4.43",
+    "constraints": [
+      {
+        "from": "alembic",
+        "specifier": ">=1.3.0"
+      }
+    ]
+  },
+  "fire": {
+    "version": "0.4.0",
+    "constraints": [
+      {
+        "from": "lightning-utilities",
+        "specifier": ""
+      }
+    ]
+  },
+  "wheel": {
+    "version": "0.38.4",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": ">=0.26"
+      }
+    ]
+  },
+  "werkzeug": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "tensorboard-plugin-wit": {
+    "version": "1.8.1",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": ">=1.6.0"
+      }
+    ]
+  },
+  "tensorboard-data-server": {
+    "version": "0.6.1",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": "<0.7.0,>=0.6.0"
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": ">=41.0.0"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": "<3,>=2.21.0"
+      },
+      {
+        "from": "requests-oauthlib",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "protobuf": {
+    "version": "3.20.3",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": "<4,>=3.9.2"
+      }
+    ]
+  },
+  "markdown": {
+    "version": "3.3.7",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": ">=2.6.8"
+      }
+    ]
+  },
+  "google-auth-oauthlib": {
+    "version": "0.4.6",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": "<0.5,>=0.4.1"
+      }
+    ]
+  },
+  "google-auth": {
+    "version": "2.14.1",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": "<3,>=1.6.3"
+      },
+      {
+        "from": "google-auth-oauthlib",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "grpcio": {
+    "version": "1.50.0",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": ">=1.24.3"
+      }
+    ]
+  },
+  "absl-py": {
+    "version": "1.2.0",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": ">=0.4"
+      }
+    ]
+  },
+  "pbr": {
+    "version": "5.11.0",
+    "constraints": [
+      {
+        "from": "stevedore",
+        "specifier": "!=2.1.0,>=2.0.0"
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  },
+  "wcwidth": {
+    "version": "0.2.5",
+    "constraints": [
+      {
+        "from": "cmd2",
+        "specifier": ">=0.1.7"
+      },
+      {
+        "from": "PrettyTable",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyperclip": {
+    "version": "1.8.2",
+    "constraints": [
+      {
+        "from": "cmd2",
+        "specifier": ">=1.6"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "cmd2",
+        "specifier": ">=16.3.0"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "Mako",
+        "specifier": ">=0.9.2"
+      },
+      {
+        "from": "werkzeug",
+        "specifier": ">=2.1.1"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "requests-oauthlib": {
+    "version": "1.3.1",
+    "constraints": [
+      {
+        "from": "google-auth-oauthlib",
+        "specifier": ">=0.7.0"
+      }
+    ]
+  },
+  "rsa": {
+    "version": "4.9",
+    "constraints": [
+      {
+        "from": "google-auth",
+        "specifier": "<5,>=3.1.4"
+      }
+    ]
+  },
+  "pyasn1-modules": {
+    "version": "0.2.8",
+    "constraints": [
+      {
+        "from": "google-auth",
+        "specifier": ">=0.2.1"
+      }
+    ]
+  },
+  "cachetools": {
+    "version": "5.2.0",
+    "constraints": [
+      {
+        "from": "google-auth",
+        "specifier": "<6.0,>=2.0.0"
+      }
+    ]
+  },
+  "oauthlib": {
+    "version": "3.2.2",
+    "constraints": [
+      {
+        "from": "requests-oauthlib",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  },
+  "pyasn1": {
+    "version": "0.4.8",
+    "constraints": [
+      {
+        "from": "rsa",
+        "specifier": ">=0.1.3"
+      },
+      {
+        "from": "pyasn1-modules",
+        "specifier": "<0.5.0,>=0.4.6"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "pytzdata": {
+    "version": "2020.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2020.1"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.0,>=2.6"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      }
+    ]
+  }
+}

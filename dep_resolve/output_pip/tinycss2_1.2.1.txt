@@ -1,0 +1,3 @@
+tinycss2==1.2.1
+  - webencodings [required: >=0.4, installed: 0.5.1]
+

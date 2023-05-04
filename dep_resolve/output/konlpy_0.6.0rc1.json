@@ -1,0 +1,29 @@
+{
+  "JPype1": {
+    "version": "1.4.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.7.0"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "JPype1",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  }
+}

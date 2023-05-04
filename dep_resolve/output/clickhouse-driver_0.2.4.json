@@ -1,0 +1,38 @@
+{
+  "tzlocal": {
+    "version": "4.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pytz-deprecation-shim": {
+    "version": "0.1.0.post0",
+    "constraints": [
+      {
+        "from": "tzlocal",
+        "specifier": ""
+      }
+    ]
+  },
+  "tzdata": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "pytz-deprecation-shim",
+        "specifier": ""
+      }
+    ]
+  }
+}

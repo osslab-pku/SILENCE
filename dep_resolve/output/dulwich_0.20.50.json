@@ -1,0 +1,11 @@
+{
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.25"
+      }
+    ]
+  }
+}

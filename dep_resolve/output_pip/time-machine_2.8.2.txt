@@ -1,0 +1,4 @@
+time-machine==2.8.2
+  - python-dateutil [required: Any, installed: 2.8.2]
+    - six [required: >=1.5, installed: 1.16.0]
+

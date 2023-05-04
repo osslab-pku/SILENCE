@@ -1,0 +1,42 @@
+{
+  "django-appconf": {
+    "version": "1.0.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.6.0"
+      }
+    ]
+  },
+  "django": {
+    "version": "4.1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.2"
+      },
+      {
+        "from": "django-appconf",
+        "specifier": ""
+      }
+    ]
+  },
+  "sqlparse": {
+    "version": "0.4.3",
+    "constraints": [
+      {
+        "from": "django",
+        "specifier": ">=0.2.2"
+      }
+    ]
+  },
+  "asgiref": {
+    "version": "3.5.2",
+    "constraints": [
+      {
+        "from": "django",
+        "specifier": "<4,>=3.5.2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "traitlets": {
+    "version": "5.5.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=5.0"
+      },
+      {
+        "from": "nbformat",
+        "specifier": ">=5.1"
+      },
+      {
+        "from": "nbclient",
+        "specifier": ">=5.2.2"
+      },
+      {
+        "from": "jupyter-core",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ""
+      }
+    ]
+  },
+  "tinycss2": {
+    "version": "1.2.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pygments": {
+    "version": "2.13.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.4.1"
+      }
+    ]
+  },
+  "pandocfilters": {
+    "version": "1.5.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.4.1"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "nbformat": {
+    "version": "5.7.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=5.1"
+      },
+      {
+        "from": "nbclient",
+        "specifier": ">=5.0"
+      }
+    ]
+  },
+  "nbclient": {
+    "version": "0.7.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.5.0"
+      }
+    ]
+  },
+  "mistune": {
+    "version": "2.0.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3,>=2.0.3"
+      }
+    ]
+  },
+  "markupsafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "jupyterlab-pygments": {
+    "version": "0.2.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "jupyter-core": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=4.7"
+      },
+      {
+        "from": "nbformat",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ">=4.9.2"
+      }
+    ]
+  },
+  "jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.0"
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.6"
+      }
+    ]
+  },
+  "defusedxml": {
+    "version": "0.7.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "bleach": {
+    "version": "5.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "beautifulsoup4": {
+    "version": "4.11.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "webencodings": {
+    "version": "0.5",
+    "constraints": [
+      {
+        "from": "tinycss2",
+        "specifier": ">=0.4"
+      },
+      {
+        "from": "bleach",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "jsonschema": {
+    "version": "4.17.0",
+    "constraints": [
+      {
+        "from": "nbformat",
+        "specifier": ">=2.6"
+      }
+    ]
+  },
+  "fastjsonschema": {
+    "version": "2.15.3",
+    "constraints": [
+      {
+        "from": "nbformat",
+        "specifier": ""
+      }
+    ]
+  },
+  "nest-asyncio": {
+    "version": "1.5.6",
+    "constraints": [
+      {
+        "from": "nbclient",
+        "specifier": ""
+      },
+      {
+        "from": "jupyter-client",
+        "specifier": ">=1.5.4"
+      }
+    ]
+  },
+  "jupyter-client": {
+    "version": "7.4.5",
+    "constraints": [
+      {
+        "from": "nbclient",
+        "specifier": ">=6.1.5"
+      }
+    ]
+  },
+  "platformdirs": {
+    "version": "2.5.3",
+    "constraints": [
+      {
+        "from": "jupyter-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "jinja2",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "bleach",
+        "specifier": ">=1.9.0"
+      },
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      }
+    ]
+  },
+  "soupsieve": {
+    "version": "2.3.2.post1",
+    "constraints": [
+      {
+        "from": "beautifulsoup4",
+        "specifier": ">1.2"
+      }
+    ]
+  },
+  "pyrsistent": {
+    "version": "0.19.2",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": "!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": ">=17.4.0"
+      }
+    ]
+  },
+  "tornado": {
+    "version": "6.2",
+    "constraints": [
+      {
+        "from": "jupyter-client",
+        "specifier": ">=6.2"
+      }
+    ]
+  },
+  "pyzmq": {
+    "version": "24.0.1",
+    "constraints": [
+      {
+        "from": "jupyter-client",
+        "specifier": ">=23.0"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "jupyter-client",
+        "specifier": ">=2.8.2"
+      }
+    ]
+  },
+  "entrypoints": {
+    "version": "0.4",
+    "constraints": [
+      {
+        "from": "jupyter-client",
+        "specifier": ""
+      }
+    ]
+  }
+}

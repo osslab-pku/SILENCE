@@ -1,0 +1,47 @@
+{
+  "domdf-python-tools": {
+    "version": "3.5.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.7.0"
+      }
+    ]
+  },
+  "asttokens": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.1"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "domdf-python-tools",
+        "specifier": ">=3.7.4.1"
+      }
+    ]
+  },
+  "natsort": {
+    "version": "8.2.0",
+    "constraints": [
+      {
+        "from": "domdf-python-tools",
+        "specifier": ">=7.0.1"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "asttokens",
+        "specifier": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "smmap": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.0.1"
+      }
+    ]
+  }
+}

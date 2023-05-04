@@ -1,0 +1,10 @@
+PyKMIP==0.8.0
+  - cryptography [required: Any, installed: 40.0.2]
+    - cffi [required: >=1.12, installed: 1.15.1]
+      - pycparser [required: Any, installed: 2.21]
+  - enum34 [required: Any, installed: 1.1.10]
+  - six [required: Any, installed: 1.16.0]
+  - sqlalchemy [required: Any, installed: 2.0.10]
+    - greenlet [required: !=0.4.17, installed: 2.0.2]
+    - typing-extensions [required: >=4.2.0, installed: 4.5.0]
+

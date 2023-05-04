@@ -1,0 +1,4 @@
+graphframes==0.6
+  - nose [required: Any, installed: 1.3.7]
+  - numpy [required: Any, installed: 1.24.3]
+

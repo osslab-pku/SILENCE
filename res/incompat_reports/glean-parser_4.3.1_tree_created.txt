@@ -1,0 +1,12 @@
+glean-parser 4.3.1 (MPL-2.0) has 1 incompatibilities in [tree_created]:
+glean-parser 
+  yamllint 1.26.3 (INCOMPATIBLE! HAS GPL-3.0-only) [glean-parser (>=1.18.0)]
+  PyYAML 6.0 [glean-parser (>=5.3.1)]
+  jsonschema 4.1.2 [glean-parser (>=3.0.2)]
+    pyrsistent 0.18.0 [jsonschema (!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0)]
+    attrs 21.2.0 [jsonschema (>=17.4.0)]
+  Jinja2 3.0.2 [glean-parser (>=2.10.1)]
+    MarkupSafe 2.0.1 [Jinja2 (>=2.0)]
+  diskcache 5.2.1 [glean-parser (>=4)]
+  Click 8.0.3 [glean-parser (>=7)]
+  appdirs 1.4.4 [glean-parser (>=1.4)]

@@ -1,0 +1,5 @@
+yt-dlp 2021.12.27 (Unlicense) has 1 incompatibilities in [tree_created]:
+yt-dlp 
+  websockets 10.1 [yt-dlp ()]
+  pycryptodomex 3.12.0 [yt-dlp ()]
+  mutagen 1.45.1 (INCOMPATIBLE! HAS GPL-2.0-or-later) [yt-dlp ()]

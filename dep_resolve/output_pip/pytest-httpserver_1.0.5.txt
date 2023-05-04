@@ -1,0 +1,4 @@
+pytest-httpserver==1.0.5
+  - Werkzeug [required: >=2.0.0, installed: 2.2.3]
+    - MarkupSafe [required: >=2.1.1, installed: 2.1.2]
+

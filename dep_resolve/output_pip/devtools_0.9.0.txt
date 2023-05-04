@@ -1,0 +1,5 @@
+devtools==0.9.0
+  - asttokens [required: >=2.0.0,<3.0.0, installed: 2.2.1]
+    - six [required: Any, installed: 1.16.0]
+  - executing [required: >=0.8.0,<1.0.0, installed: 0.10.0]
+

@@ -1,0 +1,7 @@
+diff-cover==6.5.1
+  - chardet [required: >=3.0.0, installed: 5.1.0]
+  - Jinja2 [required: >=2.7.1, installed: 3.1.2]
+    - MarkupSafe [required: >=2.0, installed: 2.1.2]
+  - pluggy [required: >=0.13.1,<2, installed: 1.0.0]
+  - Pygments [required: >=2.9.0,<3.0.0, installed: 2.15.1]
+

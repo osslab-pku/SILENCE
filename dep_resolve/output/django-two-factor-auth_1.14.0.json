@@ -1,0 +1,90 @@
+{
+  "django-formtools": {
+    "version": "2.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "django-phonenumber-field": {
+    "version": "6.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<7,>=1.1.0"
+      }
+    ]
+  },
+  "qrcode": {
+    "version": "7.3.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<7.99,>=4.0.0"
+      }
+    ]
+  },
+  "django-otp": {
+    "version": "1.1.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.8.0"
+      }
+    ]
+  },
+  "Django": {
+    "version": "4.1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.2"
+      },
+      {
+        "from": "django-formtools",
+        "specifier": ">=2.2"
+      },
+      {
+        "from": "django-phonenumber-field",
+        "specifier": ">=2.2"
+      }
+    ]
+  },
+  "django": {
+    "version": "4.1.3",
+    "constraints": [
+      {
+        "from": "django-otp",
+        "specifier": ">=2.2"
+      }
+    ]
+  },
+  "sqlparse": {
+    "version": "0.4.3",
+    "constraints": [
+      {
+        "from": "Django",
+        "specifier": ">=0.2.2"
+      },
+      {
+        "from": "django",
+        "specifier": ">=0.2.2"
+      }
+    ]
+  },
+  "asgiref": {
+    "version": "3.5.2",
+    "constraints": [
+      {
+        "from": "Django",
+        "specifier": "<4,>=3.5.2"
+      },
+      {
+        "from": "django",
+        "specifier": "<4,>=3.5.2"
+      }
+    ]
+  }
+}

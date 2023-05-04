@@ -1,0 +1,4 @@
+cattrs==22.2.0
+  - attrs [required: >=20, installed: 23.1.0]
+  - exceptiongroup [required: Any, installed: 1.1.1]
+

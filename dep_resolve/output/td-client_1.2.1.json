@@ -1,0 +1,38 @@
+{
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "msgpack": {
+    "version": "1.0.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.6.2"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      }
+    ]
+  }
+}

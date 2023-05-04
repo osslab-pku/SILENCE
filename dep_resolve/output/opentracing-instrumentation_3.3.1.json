@@ -1,0 +1,56 @@
+{
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "opentracing": {
+    "version": "2.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "contextlib2": {
+    "version": "21.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "tornado": {
+    "version": "5.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<6,>=4.1"
+      }
+    ]
+  },
+  "wrapt": {
+    "version": "1.14.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "future": {
+    "version": "0.18.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

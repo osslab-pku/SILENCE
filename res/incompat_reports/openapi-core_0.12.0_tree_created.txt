@@ -1,0 +1,12 @@
+openapi-core 0.12.0 (BSD-3-Clause) has 1 incompatibilities in [tree_created]:
+openapi-core 
+  attrs 19.1.0 [openapi-core ()] [jsonschema (>=17.4.0)]
+  isodate 0.6.0 [openapi-core ()]
+  strict-rfc3339 0.7 (INCOMPATIBLE! HAS GPL-3.0-only) [openapi-core ()]
+  lazy-object-proxy 1.4.2 [openapi-core ()]
+  six 1.12.0 [openapi-core ()] [openapi-spec-validator ()] [jsonschema (>=1.11.0)]
+  openapi-spec-validator 0.2.8 [openapi-core ()]
+    PyYAML 5.1.2 [openapi-spec-validator (>=5.1)]
+    jsonschema 3.0.2 [openapi-spec-validator ()]
+      setuptools 41.2.0 [jsonschema ()]
+      pyrsistent 0.15.3 [jsonschema (>=0.14.0)]

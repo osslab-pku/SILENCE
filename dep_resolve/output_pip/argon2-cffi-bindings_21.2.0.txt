@@ -1,0 +1,4 @@
+argon2-cffi-bindings==21.2.0
+  - cffi [required: >=1.0.1, installed: 1.15.1]
+    - pycparser [required: Any, installed: 2.21]
+

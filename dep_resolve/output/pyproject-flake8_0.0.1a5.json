@@ -1,0 +1,47 @@
+{
+  "flake8": {
+    "version": "4.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5.0.0"
+      }
+    ]
+  },
+  "tomli": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyflakes": {
+    "version": "2.4.0",
+    "constraints": [
+      {
+        "from": "flake8",
+        "specifier": "<2.5.0,>=2.4.0"
+      }
+    ]
+  },
+  "pycodestyle": {
+    "version": "2.8.0",
+    "constraints": [
+      {
+        "from": "flake8",
+        "specifier": "<2.9.0,>=2.8.0"
+      }
+    ]
+  },
+  "mccabe": {
+    "version": "0.6.1",
+    "constraints": [
+      {
+        "from": "flake8",
+        "specifier": "<0.7.0,>=0.6.0"
+      }
+    ]
+  }
+}

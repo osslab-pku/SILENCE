@@ -1,0 +1,8 @@
+inquirer==2.10.0
+  - blessed [required: >=1.19.0, installed: 1.20.0]
+    - six [required: >=1.9.0, installed: 1.16.0]
+    - wcwidth [required: >=0.1.4, installed: 0.2.6]
+  - python-editor [required: >=1.0.4, installed: 1.0.4]
+  - readchar [required: >=3.0.6, installed: 4.0.5]
+    - setuptools [required: >=41.0, installed: 66.0.0]
+

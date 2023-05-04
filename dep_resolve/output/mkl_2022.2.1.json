@@ -1,0 +1,20 @@
+{
+  "tbb": {
+    "version": "2021.7.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==2021.*"
+      }
+    ]
+  },
+  "intel-openmp": {
+    "version": "2022.2.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==2022.*"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "ypy-websocket": {
+    "version": "0.3.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.4.0,>=0.3.2"
+      }
+    ]
+  },
+  "jupyter-ydoc": {
+    "version": "0.2.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.4.0,>=0.2.0"
+      }
+    ]
+  },
+  "aiosqlite": {
+    "version": "0.17.0",
+    "constraints": [
+      {
+        "from": "ypy-websocket",
+        "specifier": "<1,>=0.17.0"
+      }
+    ]
+  },
+  "aiofiles": {
+    "version": "0.8.0",
+    "constraints": [
+      {
+        "from": "ypy-websocket",
+        "specifier": "<1,>=0.8.0"
+      }
+    ]
+  },
+  "y-py": {
+    "version": "0.5.4",
+    "constraints": [
+      {
+        "from": "ypy-websocket",
+        "specifier": "<0.6.0,>=0.5.3"
+      },
+      {
+        "from": "jupyter-ydoc",
+        "specifier": "<0.6.0,>=0.5.3"
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "jupyter-ydoc",
+        "specifier": ">=3.6"
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  }
+}

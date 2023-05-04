@@ -1,0 +1,16 @@
+pytest-bdd==6.1.1
+  - Mako [required: Any, installed: 1.2.4]
+    - MarkupSafe [required: >=0.9.2, installed: 2.1.2]
+  - parse [required: Any, installed: 1.19.0]
+  - parse-type [required: Any, installed: 0.6.0]
+    - parse [required: >=1.18.0, installed: 1.19.0]
+    - six [required: >=1.11, installed: 1.16.0]
+  - pytest [required: >=6.2.0, installed: 7.2.2]
+    - attrs [required: >=19.2.0, installed: 22.2.0]
+    - exceptiongroup [required: >=1.0.0rc8, installed: 1.1.0]
+    - iniconfig [required: Any, installed: 2.0.0]
+    - packaging [required: Any, installed: 23.0]
+    - pluggy [required: >=0.12,<2.0, installed: 1.0.0]
+    - tomli [required: >=1.0.0, installed: 2.0.1]
+  - typing-extensions [required: Any, installed: 4.5.0]
+

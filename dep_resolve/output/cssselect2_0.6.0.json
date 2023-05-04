@@ -1,0 +1,24 @@
+{
+  "webencodings": {
+    "version": "0.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "tinycss2",
+        "specifier": ">=0.4"
+      }
+    ]
+  },
+  "tinycss2": {
+    "version": "1.2.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

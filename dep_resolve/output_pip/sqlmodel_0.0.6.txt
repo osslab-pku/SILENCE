@@ -1,0 +1,8 @@
+sqlmodel==0.0.6
+  - pydantic [required: >=1.8.2,<2.0.0, installed: 1.10.7]
+    - typing-extensions [required: >=4.2.0, installed: 4.5.0]
+  - SQLAlchemy [required: >=1.4.17,<1.5.0, installed: 1.4.47]
+    - greenlet [required: !=0.4.17, installed: 2.0.2]
+  - sqlalchemy2-stubs [required: Any, installed: 0.0.2a34]
+    - typing-extensions [required: >=3.7.4, installed: 4.5.0]
+

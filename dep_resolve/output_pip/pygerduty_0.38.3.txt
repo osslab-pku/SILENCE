@@ -1,0 +1,3 @@
+pygerduty==0.38.3
+  - six [required: Any, installed: 1.16.0]
+

@@ -1,0 +1,6 @@
+LunarCalendar==0.0.9
+  - ephem [required: >=3.7.5.3, installed: 4.1.4]
+  - python-dateutil [required: >=2.6.1, installed: 2.8.2]
+    - six [required: >=1.5, installed: 1.16.0]
+  - pytz [required: Any, installed: 2023.3]
+

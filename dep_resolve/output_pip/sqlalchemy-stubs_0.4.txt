@@ -1,0 +1,7 @@
+sqlalchemy-stubs==0.4
+  - mypy [required: >=0.790, installed: 1.2.0]
+    - mypy-extensions [required: >=1.0.0, installed: 1.0.0]
+    - tomli [required: >=1.1.0, installed: 2.0.1]
+    - typing-extensions [required: >=3.10, installed: 4.5.0]
+  - typing-extensions [required: >=3.7.4, installed: 4.5.0]
+

@@ -1,0 +1,11 @@
+{
+  "types-setuptools": {
+    "version": "57.4.18",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<58.0.0,>=57.4.4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+jupyter-events==0.3.0
+  - jsonschema [required: Any, installed: 4.17.3]
+    - attrs [required: >=17.4.0, installed: 23.1.0]
+    - pyrsistent [required: >=0.14.0,!=0.17.2,!=0.17.1,!=0.17.0, installed: 0.19.3]
+  - python-json-logger [required: Any, installed: 2.0.7]
+  - pyyaml [required: Any, installed: 6.0]
+  - traitlets [required: Any, installed: 5.9.0]
+

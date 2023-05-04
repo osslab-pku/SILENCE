@@ -1,0 +1,37 @@
+{
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.11"
+      },
+      {
+        "from": "parse-type",
+        "specifier": ">=1.11"
+      }
+    ]
+  },
+  "parse-type": {
+    "version": "0.5.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.4.2"
+      }
+    ]
+  },
+  "parse": {
+    "version": "1.19.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.8.2"
+      },
+      {
+        "from": "parse-type",
+        "specifier": ">=1.8.4"
+      }
+    ]
+  }
+}

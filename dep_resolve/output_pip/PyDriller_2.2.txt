@@ -1,0 +1,8 @@
+PyDriller==2.2
+  - gitpython [required: Any, installed: 3.1.31]
+    - gitdb [required: >=4.0.1,<5, installed: 4.0.10]
+      - smmap [required: >=3.0.1,<6, installed: 5.0.0]
+  - lizard [required: Any, installed: 1.17.10]
+  - pytz [required: Any, installed: 2023.3]
+  - types-pytz [required: Any, installed: 2023.3.0.0]
+

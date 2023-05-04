@@ -1,0 +1,4 @@
+sentry-sdk==1.10.1
+  - certifi [required: Any, installed: 2022.12.7]
+  - urllib3 [required: >=1.26.11, installed: 1.26.15]
+

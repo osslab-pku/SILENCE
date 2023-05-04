@@ -1,0 +1,5 @@
+evergreen-lint==0.1.4
+  - click [required: >=7.0,<8.0, installed: 7.1.2]
+  - PyYAML [required: >=3.0.0, installed: 6.0]
+  - typing-extensions [required: >=3.10.0,<4.0.0, installed: 3.10.0.2]
+

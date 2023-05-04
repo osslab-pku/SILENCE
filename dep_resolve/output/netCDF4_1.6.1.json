@@ -1,0 +1,24 @@
+{
+  "cftime": {
+    "version": "1.6.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.9"
+      },
+      {
+        "from": "cftime",
+        "specifier": ">1.13.3"
+      }
+    ]
+  }
+}

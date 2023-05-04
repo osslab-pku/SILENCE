@@ -1,0 +1,11 @@
+{
+  "appdirs": {
+    "version": "1.4.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+jsonpath-rw-ext==1.2.2
+  - jsonpath-rw [required: >=1.2.0, installed: 1.4.0]
+    - decorator [required: Any, installed: 5.1.1]
+    - ply [required: Any, installed: 3.11]
+    - six [required: Any, installed: 1.16.0]
+  - pbr [required: >=1.8, installed: 5.11.1]
+

@@ -1,0 +1,5 @@
+ansible-lint 4.0.0 (MIT) has 1 incompatibilities in [tree_created]:
+ansible-lint 
+  six 1.12.0 [ansible-lint ()]
+  pyyaml 3.13 [ansible-lint ()]
+  ansible 2.7.5 (INCOMPATIBLE! HAS GPL-3.0-or-later) [ansible-lint ()]

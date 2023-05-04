@@ -1,0 +1,437 @@
+{
+  "websocket-client": {
+    "version": "1.4.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "!=1.0.0,>=0.35.0"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      },
+      {
+        "from": "botocore",
+        "specifier": "<1.27,>=1.25.4"
+      }
+    ]
+  },
+  "swagger-spec-validator": {
+    "version": "3.0.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.7.4"
+      },
+      {
+        "from": "bravado-core",
+        "specifier": ">=2.0.1"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.12.0"
+      },
+      {
+        "from": "bravado",
+        "specifier": ""
+      },
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      },
+      {
+        "from": "bravado-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "requests-oauthlib": {
+    "version": "1.3.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.20.0"
+      },
+      {
+        "from": "requests-oauthlib",
+        "specifier": ">=2.0.0"
+      },
+      {
+        "from": "bravado",
+        "specifier": ">=2.17"
+      },
+      {
+        "from": "bravado-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "psutil": {
+    "version": "5.9.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pandas": {
+    "version": "1.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "oauthlib": {
+    "version": "3.2.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.1.0"
+      },
+      {
+        "from": "requests-oauthlib",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  },
+  "future": {
+    "version": "0.18.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.17.1"
+      }
+    ]
+  },
+  "click": {
+    "version": "8.1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=7.0"
+      }
+    ]
+  },
+  "bravado": {
+    "version": "11.0.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<12.0.0,>=11.0.0"
+      }
+    ]
+  },
+  "boto3": {
+    "version": "1.26.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.16.0"
+      }
+    ]
+  },
+  "PyJWT": {
+    "version": "2.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "Pillow": {
+    "version": "9.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.1.6"
+      }
+    ]
+  },
+  "GitPython": {
+    "version": "3.1.28",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.0.8"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "swagger-spec-validator",
+        "specifier": ""
+      },
+      {
+        "from": "bravado",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyyaml": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "swagger-spec-validator",
+        "specifier": ""
+      },
+      {
+        "from": "bravado",
+        "specifier": ""
+      },
+      {
+        "from": "bravado-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "jsonschema": {
+    "version": "4.17.0",
+    "constraints": [
+      {
+        "from": "swagger-spec-validator",
+        "specifier": ""
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=1.20.3"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2020.1"
+      },
+      {
+        "from": "bravado-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "pandas",
+        "specifier": ">=2.8.1"
+      },
+      {
+        "from": "bravado",
+        "specifier": ""
+      },
+      {
+        "from": "bravado-core",
+        "specifier": ""
+      },
+      {
+        "from": "botocore",
+        "specifier": "<3.0.0,>=2.1"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "monotonic": {
+    "version": "1.6",
+    "constraints": [
+      {
+        "from": "bravado",
+        "specifier": ""
+      }
+    ]
+  },
+  "simplejson": {
+    "version": "3.17.6",
+    "constraints": [
+      {
+        "from": "bravado",
+        "specifier": ""
+      },
+      {
+        "from": "bravado-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "msgpack": {
+    "version": "1.0.4",
+    "constraints": [
+      {
+        "from": "bravado",
+        "specifier": ""
+      },
+      {
+        "from": "bravado-core",
+        "specifier": ">=0.5.2"
+      }
+    ]
+  },
+  "bravado-core": {
+    "version": "5.17.1",
+    "constraints": [
+      {
+        "from": "bravado",
+        "specifier": ">=5.16.1"
+      }
+    ]
+  },
+  "s3transfer": {
+    "version": "0.6.0",
+    "constraints": [
+      {
+        "from": "boto3",
+        "specifier": "<0.7.0,>=0.6.0"
+      }
+    ]
+  },
+  "jmespath": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "boto3",
+        "specifier": "<2.0.0,>=0.7.1"
+      },
+      {
+        "from": "botocore",
+        "specifier": "<2.0.0,>=0.7.1"
+      }
+    ]
+  },
+  "botocore": {
+    "version": "1.29.7",
+    "constraints": [
+      {
+        "from": "boto3",
+        "specifier": "<1.30.0,>=1.29.7"
+      },
+      {
+        "from": "s3transfer",
+        "specifier": "<2.0a.0,>=1.12.36"
+      }
+    ]
+  },
+  "gitdb": {
+    "version": "4.0.9",
+    "constraints": [
+      {
+        "from": "GitPython",
+        "specifier": "<5,>=4.0.1"
+      }
+    ]
+  },
+  "pyrsistent": {
+    "version": "0.19.2",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": "!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": ">=17.4.0"
+      }
+    ]
+  },
+  "jsonref": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "bravado-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "smmap": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "gitdb",
+        "specifier": "<6,>=3.0.1"
+      }
+    ]
+  }
+}

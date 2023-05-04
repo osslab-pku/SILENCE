@@ -1,0 +1,3 @@
+userpath==1.8.0
+  - click [required: Any, installed: 8.1.3]
+

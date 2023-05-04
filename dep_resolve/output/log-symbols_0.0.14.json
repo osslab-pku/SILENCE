@@ -1,0 +1,11 @@
+{
+  "colorama": {
+    "version": "0.4.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.3.9"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=4.8"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=21.0"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.5.0"
+      }
+    ]
+  },
+  "imagesize": {
+    "version": "1.4.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.3"
+      }
+    ]
+  },
+  "alabaster": {
+    "version": "0.7.12",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.8,>=0.7"
+      }
+    ]
+  },
+  "babel": {
+    "version": "2.11.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.9"
+      }
+    ]
+  },
+  "snowballstemmer": {
+    "version": "2.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "docutils": {
+    "version": "0.19",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<0.20,>=0.18"
+      }
+    ]
+  },
+  "Pygments": {
+    "version": "2.13.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.12"
+      }
+    ]
+  },
+  "Jinja2": {
+    "version": "3.1.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.0"
+      }
+    ]
+  },
+  "sphinxcontrib-qthelp": {
+    "version": "1.0.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "sphinxcontrib-serializinghtml": {
+    "version": "1.1.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.1.5"
+      }
+    ]
+  },
+  "sphinxcontrib-htmlhelp": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "sphinxcontrib-jsmath": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "sphinxcontrib-devhelp": {
+    "version": "1.0.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "sphinxcontrib-applehelp": {
+    "version": "1.0.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "pytz": {
+    "version": "2022.6",
+    "constraints": [
+      {
+        "from": "babel",
+        "specifier": ">=2015.7"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "Jinja2",
+        "specifier": ">=2.0"
+      }
+    ]
+  }
+}

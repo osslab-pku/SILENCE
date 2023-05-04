@@ -1,0 +1,3 @@
+teradatasql==17.20.0.11
+  - pycryptodome [required: Any, installed: 3.17]
+

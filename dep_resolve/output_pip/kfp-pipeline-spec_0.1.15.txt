@@ -1,0 +1,3 @@
+kfp-pipeline-spec==0.1.15
+  - protobuf [required: >=3.13.0,<4, installed: 3.20.3]
+

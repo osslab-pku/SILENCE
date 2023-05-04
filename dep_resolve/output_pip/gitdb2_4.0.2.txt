@@ -1,0 +1,4 @@
+gitdb2==4.0.2
+  - gitdb [required: >=4.0.1, installed: 4.0.10]
+    - smmap [required: >=3.0.1,<6, installed: 5.0.0]
+

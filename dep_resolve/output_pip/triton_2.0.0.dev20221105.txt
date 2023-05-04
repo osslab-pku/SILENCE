@@ -1,0 +1,17 @@
+triton==2.0.0.dev20221105
+  - cmake [required: Any, installed: 3.26.3]
+  - filelock [required: Any, installed: 3.12.0]
+  - torch [required: Any, installed: 1.13.1]
+    - nvidia-cublas-cu11 [required: ==11.10.3.66, installed: 11.10.3.66]
+      - setuptools [required: Any, installed: 66.0.0]
+      - wheel [required: Any, installed: 0.38.4]
+    - nvidia-cuda-nvrtc-cu11 [required: ==11.7.99, installed: 11.7.99]
+    - nvidia-cuda-runtime-cu11 [required: ==11.7.99, installed: 11.7.99]
+      - setuptools [required: Any, installed: 66.0.0]
+      - wheel [required: Any, installed: 0.38.4]
+    - nvidia-cudnn-cu11 [required: ==8.5.0.96, installed: 8.5.0.96]
+      - nvidia-cublas-cu11 [required: Any, installed: 11.10.3.66]
+        - setuptools [required: Any, installed: 66.0.0]
+        - wheel [required: Any, installed: 0.38.4]
+    - typing-extensions [required: Any, installed: 4.5.0]
+

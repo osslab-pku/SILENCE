@@ -1,0 +1,141 @@
+{
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.20.0"
+      }
+    ]
+  },
+  "keyring": {
+    "version": "23.11.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=16.0"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "jeepney": {
+    "version": "0.8.0",
+    "constraints": [
+      {
+        "from": "keyring",
+        "specifier": ">=0.4.2"
+      },
+      {
+        "from": "SecretStorage",
+        "specifier": ">=0.6"
+      }
+    ]
+  },
+  "SecretStorage": {
+    "version": "3.3.3",
+    "constraints": [
+      {
+        "from": "keyring",
+        "specifier": ">=3.2"
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "keyring",
+        "specifier": ">=4.11.4"
+      }
+    ]
+  },
+  "jaraco.classes": {
+    "version": "3.2.3",
+    "constraints": [
+      {
+        "from": "keyring",
+        "specifier": ""
+      }
+    ]
+  },
+  "cryptography": {
+    "version": "38.0.3",
+    "constraints": [
+      {
+        "from": "SecretStorage",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  },
+  "more-itertools": {
+    "version": "9.0.0",
+    "constraints": [
+      {
+        "from": "jaraco.classes",
+        "specifier": ""
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "cryptography",
+        "specifier": ">=1.12"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  }
+}

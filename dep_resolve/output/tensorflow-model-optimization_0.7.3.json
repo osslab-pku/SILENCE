@@ -1,0 +1,29 @@
+{
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.10"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.14"
+      }
+    ]
+  },
+  "dm-tree": {
+    "version": "0.1.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.1.1"
+      }
+    ]
+  }
+}

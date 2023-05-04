@@ -1,0 +1,51 @@
+{
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2,>=1.10"
+      },
+      {
+        "from": "grpcio",
+        "specifier": ">=1.5.2"
+      }
+    ]
+  },
+  "protobuf": {
+    "version": "3.20.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4,>=3.13"
+      }
+    ]
+  },
+  "grpcio": {
+    "version": "1.50.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2,>=1.8.6"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "21.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<22,>=20.3"
+      }
+    ]
+  },
+  "absl-py": {
+    "version": "1.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0.0,>=0.9"
+      }
+    ]
+  }
+}

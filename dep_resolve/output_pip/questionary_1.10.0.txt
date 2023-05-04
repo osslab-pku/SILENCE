@@ -1,0 +1,4 @@
+questionary==1.10.0
+  - prompt-toolkit [required: >=2.0,<4.0, installed: 3.0.38]
+    - wcwidth [required: Any, installed: 0.2.6]
+

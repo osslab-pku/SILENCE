@@ -1,0 +1,3 @@
+opentelemetry-proto==1.14.0
+  - protobuf [required: ~=3.13, installed: 3.20.3]
+

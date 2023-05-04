@@ -1,0 +1,29 @@
+{
+  "click": {
+    "version": "7.1.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<8.0,>=7.0"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "3.10.0.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<4.0.0,>=3.10.0"
+      }
+    ]
+  },
+  "PyYAML": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  }
+}

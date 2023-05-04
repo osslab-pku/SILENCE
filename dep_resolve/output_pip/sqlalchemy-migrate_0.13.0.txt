@@ -1,0 +1,10 @@
+sqlalchemy-migrate==0.13.0
+  - decorator [required: Any, installed: 5.1.1]
+  - pbr [required: >=1.8, installed: 5.11.1]
+  - six [required: >=1.7.0, installed: 1.16.0]
+  - SQLAlchemy [required: >=0.9.6, installed: 2.0.5.post1]
+    - greenlet [required: !=0.4.17, installed: 2.0.2]
+    - typing-extensions [required: >=4.2.0, installed: 4.5.0]
+  - sqlparse [required: Any, installed: 0.4.3]
+  - Tempita [required: >=0.4, installed: 0.5.2]
+

@@ -1,0 +1,14 @@
+pytest-factoryboy==2.5.0
+  - factory-boy [required: >=2.10.0, installed: 3.2.1]
+    - Faker [required: >=0.7.0, installed: 18.4.0]
+      - python-dateutil [required: >=2.4, installed: 2.8.2]
+        - six [required: >=1.5, installed: 1.16.0]
+  - inflection [required: Any, installed: 0.5.1]
+  - pytest [required: >=5.0.0, installed: 7.3.1]
+    - exceptiongroup [required: >=1.0.0rc8, installed: 1.1.1]
+    - iniconfig [required: Any, installed: 2.0.0]
+    - packaging [required: Any, installed: 23.1]
+    - pluggy [required: >=0.12,<2.0, installed: 1.0.0]
+    - tomli [required: >=1.0.0, installed: 2.0.1]
+  - typing-extensions [required: Any, installed: 4.5.0]
+

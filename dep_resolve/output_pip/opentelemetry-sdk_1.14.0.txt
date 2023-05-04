@@ -1,0 +1,9 @@
+opentelemetry-sdk==1.14.0
+  - opentelemetry-api [required: ==1.14.0, installed: 1.14.0]
+    - deprecated [required: >=1.2.6, installed: 1.2.13]
+      - wrapt [required: >=1.10,<2, installed: 1.15.0]
+    - setuptools [required: >=16.0, installed: 66.0.0]
+  - opentelemetry-semantic-conventions [required: ==0.35b0, installed: 0.35b0]
+  - setuptools [required: >=16.0, installed: 66.0.0]
+  - typing-extensions [required: >=3.7.4, installed: 4.5.0]
+

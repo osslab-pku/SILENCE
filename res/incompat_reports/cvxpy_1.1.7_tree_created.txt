@@ -1,0 +1,9 @@
+cvxpy 1.1.7 (Apache-2.0) has 1 incompatibilities in [tree_created]:
+cvxpy 
+  scipy 1.5.3 [cvxpy (>=1.1.0)] [scs (>=0.13.2)] [ecos (>=0.9)] [osqp (>=0.13.2)]
+    numpy 1.19.2 [cvxpy (>=1.15)] [scipy (>=1.14.5)] [scs (>=1.7)] [ecos (>=1.6)] [osqp (>=1.7)]
+  numpy 1.19.2 [cvxpy (>=1.15)] [scipy (>=1.14.5)] [scs (>=1.7)] [ecos (>=1.6)] [osqp (>=1.7)]
+  scs 2.1.2 [cvxpy (>=1.1.6)]
+  ecos 2.0.7.post1 (INCOMPATIBLE! HAS GPL-3.0-only) [cvxpy (>=2)]
+  osqp 0.6.1 [cvxpy (>=0.4.1)]
+    future 0.18.2 [osqp ()]

@@ -1,0 +1,6 @@
+hyper==0.7.0
+  - h2 [required: >=2.4,<3.0, installed: 2.6.2]
+    - hpack [required: >=2.2,<4, installed: 3.0.0]
+    - hyperframe [required: >=3.1,<6,!=4.0.0, installed: 3.2.0]
+  - hyperframe [required: >=3.2,<4.0, installed: 3.2.0]
+

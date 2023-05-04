@@ -1,0 +1,17 @@
+azure-iot-device 2.0.0 (MIT) has 1 incompatibilities in [tree_created]:
+azure-iot-device 
+  janus 0.4.0 [azure-iot-device (<1.0.0,>=0.4.0)]
+  urllib3 1.25.7 [azure-iot-device (!=1.25.0,!=1.25.1,<1.26,>1.21.1)] [requests-unixsocket (>=1.8)] [requests (!=1.25.0,!=1.25.1,<1.26,>=1.21.1)]
+  requests-unixsocket 0.2.0 [azure-iot-device (<1.0.0,>=0.1.5)]
+    requests 2.22.0 [azure-iot-device (<3.0.0,>=2.20.0)] [requests-unixsocket (>=1.1)]
+      certifi 2019.11.28 [requests (>=2017.4.17)]
+      idna 2.8 [requests (<2.9,>=2.5)]
+      chardet 3.0.4 [requests (<3.1.0,>=3.0.2)]
+  requests 2.22.0 [azure-iot-device (<3.0.0,>=2.20.0)] [requests-unixsocket (>=1.1)]
+    certifi 2019.11.28 [requests (>=2017.4.17)]
+    idna 2.8 [requests (<2.9,>=2.5)]
+    chardet 3.0.4 [requests (<3.1.0,>=3.0.2)]
+  transitions 0.7.1 [azure-iot-device (<1.0.0,>=0.6.8)]
+    six 1.12.0 [azure-iot-device (<2.0.0,>=1.12.0)] [transitions ()]
+  paho-mqtt 1.5.0 (INCOMPATIBLE! HAS EPL-1.0) [azure-iot-device (<2.0.0,>=1.4.0)]
+  six 1.12.0 [azure-iot-device (<2.0.0,>=1.12.0)] [transitions ()]

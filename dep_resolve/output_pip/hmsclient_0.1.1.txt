@@ -1,0 +1,5 @@
+hmsclient==0.1.1
+  - click [required: Any, installed: 8.1.3]
+  - thrift [required: Any, installed: 0.16.0]
+    - six [required: >=1.7.2, installed: 1.16.0]
+

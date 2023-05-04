@@ -1,0 +1,7 @@
+yt-dlp 2022.5.18 (Unlicense) has 1 incompatibilities in [tree_created]:
+yt-dlp 
+  brotli 1.0.9 [yt-dlp ()]
+  certifi 2021.10.8 [yt-dlp ()]
+  websockets 10.3 [yt-dlp ()]
+  pycryptodomex 3.14.1 [yt-dlp ()]
+  mutagen 1.45.1 (INCOMPATIBLE! HAS GPL-2.0-or-later) [yt-dlp ()]

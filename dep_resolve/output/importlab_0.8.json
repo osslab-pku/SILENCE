@@ -1,0 +1,11 @@
+{
+  "networkx": {
+    "version": "2.8.8",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2"
+      }
+    ]
+  }
+}

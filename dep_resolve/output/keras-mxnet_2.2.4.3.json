@@ -1,0 +1,89 @@
+{
+  "keras-preprocessing": {
+    "version": "1.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.0.5"
+      }
+    ]
+  },
+  "keras-applications": {
+    "version": "1.0.8",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.0.6"
+      }
+    ]
+  },
+  "h5py": {
+    "version": "3.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "keras-applications",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyyaml": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.9.0"
+      },
+      {
+        "from": "keras-preprocessing",
+        "specifier": ">=1.9.0"
+      }
+    ]
+  },
+  "scipy": {
+    "version": "1.9.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.14"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.9.1"
+      },
+      {
+        "from": "keras-preprocessing",
+        "specifier": ">=1.9.1"
+      },
+      {
+        "from": "keras-applications",
+        "specifier": ">=1.9.1"
+      },
+      {
+        "from": "h5py",
+        "specifier": ">=1.14.5"
+      },
+      {
+        "from": "scipy",
+        "specifier": "<1.26.0,>=1.18.5"
+      }
+    ]
+  }
+}

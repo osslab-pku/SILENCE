@@ -1,0 +1,14 @@
+awscliv2==2.1.1
+  - executor [required: Any, installed: 23.2]
+    - coloredlogs [required: >=3.5, installed: 15.0.1]
+      - humanfriendly [required: >=9.1, installed: 10.0]
+    - fasteners [required: >=0.14.1, installed: 0.18]
+    - humanfriendly [required: >=8.0, installed: 10.0]
+    - property-manager [required: >=3.0, installed: 3.0]
+      - humanfriendly [required: >=8.0, installed: 10.0]
+      - verboselogs [required: >=1.1, installed: 1.7]
+    - six [required: >=1.9.0, installed: 1.16.0]
+  - importlib-resources [required: Any, installed: 5.12.0]
+    - zipp [required: >=3.1.0, installed: 3.15.0]
+  - pip [required: Any, installed: 23.0.1]
+

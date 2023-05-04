@@ -1,0 +1,3 @@
+dotnetcore2==3.1.23
+  - distro [required: >=1.2.0, installed: 1.8.0]
+

@@ -1,0 +1,5 @@
+tink==1.6.1
+  - absl-py [required: Any, installed: 1.4.0]
+  - protobuf [required: Any, installed: 4.22.3]
+  - six [required: Any, installed: 1.16.0]
+

@@ -1,0 +1,5 @@
+sphinxcontrib-napoleon==0.7
+  - pockets [required: >=0.3, installed: 0.9.1]
+    - six [required: >=1.5.2, installed: 1.16.0]
+  - six [required: >=1.5.2, installed: 1.16.0]
+

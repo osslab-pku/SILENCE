@@ -1,0 +1,8 @@
+sphinx-autoapi 0.5.0 (BSD-3-Clause) has 1 incompatibilities in [tree_created]:
+sphinx-autoapi 
+  unidecode 0.04.21 (INCOMPATIBLE! HAS GPL-3.0-only) [sphinx-autoapi ()]
+  sphinxcontrib-dotnetdomain 0.3 [sphinx-autoapi ()]
+  sphinx 1.6.5 [sphinx-autoapi ()]
+  wheel 0.24.0 [sphinx-autoapi (==0.24.0)]
+  pydocstyle 2.1.1 [sphinx-autoapi ()]
+  PyYAML 3.12 [sphinx-autoapi ()]

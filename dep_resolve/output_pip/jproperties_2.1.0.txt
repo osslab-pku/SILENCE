@@ -1,0 +1,3 @@
+jproperties==2.1.0
+  - six [required: ~=1.12, installed: 1.16.0]
+

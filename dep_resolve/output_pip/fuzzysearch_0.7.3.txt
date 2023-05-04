@@ -1,0 +1,3 @@
+fuzzysearch==0.7.3
+  - attrs [required: >=19.3, installed: 23.1.0]
+

@@ -1,0 +1,17 @@
+seleniumbase 1.1.13 (MIT) has 1 incompatibilities in [tree_created]:
+seleniumbase 
+  ipdb 0.8.1 (INCOMPATIBLE! HAS GPL-3.0-only) [seleniumbase (==0.8.1)]
+  boto 2.38.0 [seleniumbase (==2.38.0)]
+  simplejson 3.7.3 [seleniumbase (==3.7.3)]
+  chardet 2.3.0 [seleniumbase (==2.3.0)]
+  unittest2 1.1.0 [seleniumbase (==1.1.0)]
+  urllib3 1.10.4 [seleniumbase (==1.10.4)]
+  requests 2.7.0 [seleniumbase (==2.7.0)]
+  flake8 2.5.0 [seleniumbase (==2.5.0)]
+    mccabe 0.3.1 [flake8 (<0.4,>=0.2.1)]
+    pep8 1.5.7 [flake8 (!=1.6.0,!=1.6.1,!=1.6.2,>=1.5.7)]
+    pyflakes 1.0.0 [flake8 (<1.1,>=0.8.1)]
+  pytest 2.8.3 [seleniumbase (==2.8.3)]
+    py 1.4.31 [pytest (>=1.4.29)]
+  nose 1.3.7 [seleniumbase (==1.3.7)]
+  selenium 2.48.0 [seleniumbase (==2.48.0)]

@@ -1,0 +1,4 @@
+property-manager==3.0
+  - humanfriendly [required: >=8.0, installed: 10.0]
+  - verboselogs [required: >=1.1, installed: 1.7]
+

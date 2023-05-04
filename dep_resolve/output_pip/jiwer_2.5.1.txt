@@ -1,0 +1,4 @@
+jiwer==2.5.1
+  - levenshtein [required: ==0.20.2, installed: 0.20.2]
+    - rapidfuzz [required: >=2.3.0,<3.0.0, installed: 2.15.1]
+

@@ -1,0 +1,4 @@
+parse-type==0.5.2
+  - parse [required: >=1.8.4, installed: 1.19.0]
+  - six [required: >=1.11, installed: 1.16.0]
+

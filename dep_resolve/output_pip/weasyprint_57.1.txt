@@ -1,0 +1,17 @@
+weasyprint==57.1
+  - cffi [required: >=0.6, installed: 1.15.1]
+    - pycparser [required: Any, installed: 2.21]
+  - cssselect2 [required: >=0.1, installed: 0.7.0]
+    - tinycss2 [required: Any, installed: 1.2.1]
+      - webencodings [required: >=0.4, installed: 0.5.1]
+    - webencodings [required: Any, installed: 0.5.1]
+  - fonttools [required: >=4.0.0, installed: 4.39.0]
+  - html5lib [required: >=1.1, installed: 1.1]
+    - six [required: >=1.9, installed: 1.16.0]
+    - webencodings [required: Any, installed: 0.5.1]
+  - Pillow [required: >=9.1.0, installed: 9.4.0]
+  - pydyf [required: >=0.5.0, installed: 0.5.0]
+  - Pyphen [required: >=0.9.1, installed: 0.13.2]
+  - tinycss2 [required: >=1.0.0, installed: 1.2.1]
+    - webencodings [required: >=0.4, installed: 0.5.1]
+

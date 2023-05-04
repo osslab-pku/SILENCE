@@ -1,0 +1,9 @@
+pytest-logger==0.5.1
+  - future [required: Any, installed: 0.18.3]
+  - pytest [required: >=3.2, installed: 7.3.1]
+    - exceptiongroup [required: >=1.0.0rc8, installed: 1.1.1]
+    - iniconfig [required: Any, installed: 2.0.0]
+    - packaging [required: Any, installed: 23.1]
+    - pluggy [required: >=0.12,<2.0, installed: 1.0.0]
+    - tomli [required: >=1.0.0, installed: 2.0.1]
+

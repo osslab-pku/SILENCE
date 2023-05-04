@@ -1,0 +1,11 @@
+cibuildwheel 2.11.2 (BSD-3-Clause) has 1 incompatibilities in [tree_created]:
+cibuildwheel 
+  typing-extensions 4.4.0 [cibuildwheel (>=4.1.0)]
+  tomli 2.0.1 [cibuildwheel ()]
+  platformdirs 2.5.2 [cibuildwheel ()]
+  packaging 21.3 [cibuildwheel (>=20.9)]
+    pyparsing 3.0.9 [packaging (!=3.0.5,>=2.0.2)]
+  filelock 3.8.0 [cibuildwheel ()]
+  certifi 2022.9.24 [cibuildwheel ()]
+  bracex 2.3.post1 [cibuildwheel ()]
+  bashlex 0.16 (INCOMPATIBLE! HAS GPL-3.0-or-later) [cibuildwheel (!=0.13)]

@@ -1,0 +1,12 @@
+apeye==1.2.0
+  - domdf-python-tools [required: >=2.6.0, installed: 3.6.1]
+    - natsort [required: >=7.0.1, installed: 8.3.1]
+    - typing-extensions [required: >=3.7.4.1, installed: 4.5.0]
+  - idna [required: >=2.5, installed: 3.4]
+  - platformdirs [required: >=2.3.0, installed: 3.2.0]
+  - requests [required: >=2.24.0, installed: 2.28.2]
+    - certifi [required: >=2017.4.17, installed: 2022.12.7]
+    - charset-normalizer [required: >=2,<4, installed: 3.1.0]
+    - idna [required: >=2.5,<4, installed: 3.4]
+    - urllib3 [required: >=1.21.1,<1.27, installed: 1.26.15]
+

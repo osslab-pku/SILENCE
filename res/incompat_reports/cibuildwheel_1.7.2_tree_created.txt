@@ -1,0 +1,5 @@
+cibuildwheel 1.7.2 (BSD-3-Clause) has 1 incompatibilities in [tree_created]:
+cibuildwheel 
+  certifi 2020.12.5 [cibuildwheel ()]
+  toml 0.10.2 [cibuildwheel ()]
+  bashlex 0.15 (INCOMPATIBLE! HAS GPL-3.0-or-later) [cibuildwheel (!=0.13)]

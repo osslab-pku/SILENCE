@@ -1,0 +1,5 @@
+ntc-templates==3.1.0
+  - textfsm [required: >=1.1.0,<2.0.0, installed: 1.1.3]
+    - future [required: Any, installed: 0.18.3]
+    - six [required: Any, installed: 1.16.0]
+

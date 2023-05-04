@@ -1,0 +1,42 @@
+{
+  "cheroot": {
+    "version": "8.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "more-itertools": {
+    "version": "9.0.0",
+    "constraints": [
+      {
+        "from": "cheroot",
+        "specifier": ">=2.6"
+      },
+      {
+        "from": "jaraco.functools",
+        "specifier": ""
+      }
+    ]
+  },
+  "jaraco.functools": {
+    "version": "3.5.2",
+    "constraints": [
+      {
+        "from": "cheroot",
+        "specifier": ""
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "cheroot",
+        "specifier": ">=1.11.0"
+      }
+    ]
+  }
+}

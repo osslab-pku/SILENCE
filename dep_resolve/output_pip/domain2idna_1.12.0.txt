@@ -1,0 +1,4 @@
+domain2idna==1.12.0
+  - colorama [required: Any, installed: 0.4.6]
+  - setuptools [required: Any, installed: 66.0.0]
+

@@ -1,0 +1,4 @@
+html5lib==1.1
+  - six [required: >=1.9, installed: 1.16.0]
+  - webencodings [required: Any, installed: 0.5.1]
+

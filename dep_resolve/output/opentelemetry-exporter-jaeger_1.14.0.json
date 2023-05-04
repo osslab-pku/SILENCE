@@ -1,0 +1,144 @@
+{
+  "opentelemetry-exporter-jaeger-thrift": {
+    "version": "1.14.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==1.14.0"
+      }
+    ]
+  },
+  "opentelemetry-exporter-jaeger-proto-grpc": {
+    "version": "1.14.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==1.14.0"
+      }
+    ]
+  },
+  "thrift": {
+    "version": "0.16.0",
+    "constraints": [
+      {
+        "from": "opentelemetry-exporter-jaeger-thrift",
+        "specifier": ">=0.10.0"
+      }
+    ]
+  },
+  "opentelemetry-sdk": {
+    "version": "1.14.0",
+    "constraints": [
+      {
+        "from": "opentelemetry-exporter-jaeger-thrift",
+        "specifier": "~=1.11"
+      },
+      {
+        "from": "opentelemetry-exporter-jaeger-proto-grpc",
+        "specifier": "~=1.11"
+      }
+    ]
+  },
+  "opentelemetry-api": {
+    "version": "1.14.0",
+    "constraints": [
+      {
+        "from": "opentelemetry-exporter-jaeger-thrift",
+        "specifier": "~=1.3"
+      },
+      {
+        "from": "opentelemetry-exporter-jaeger-proto-grpc",
+        "specifier": "~=1.3"
+      },
+      {
+        "from": "opentelemetry-sdk",
+        "specifier": "==1.14.0"
+      }
+    ]
+  },
+  "grpcio": {
+    "version": "1.50.0",
+    "constraints": [
+      {
+        "from": "opentelemetry-exporter-jaeger-proto-grpc",
+        "specifier": "<2.0.0,>=1.0.0"
+      }
+    ]
+  },
+  "googleapis-common-protos": {
+    "version": "1.56.1",
+    "constraints": [
+      {
+        "from": "opentelemetry-exporter-jaeger-proto-grpc",
+        "specifier": "<1.56.3,~=1.52"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "opentelemetry-sdk",
+        "specifier": ">=3.7.4"
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "opentelemetry-sdk",
+        "specifier": ">=16.0"
+      },
+      {
+        "from": "opentelemetry-api",
+        "specifier": ">=16.0"
+      }
+    ]
+  },
+  "opentelemetry-semantic-conventions": {
+    "version": "0.35b0",
+    "constraints": [
+      {
+        "from": "opentelemetry-sdk",
+        "specifier": "==0.35b0"
+      }
+    ]
+  },
+  "deprecated": {
+    "version": "1.2.13",
+    "constraints": [
+      {
+        "from": "opentelemetry-api",
+        "specifier": ">=1.2.6"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "grpcio",
+        "specifier": ">=1.5.2"
+      }
+    ]
+  },
+  "protobuf": {
+    "version": "4.21.9",
+    "constraints": [
+      {
+        "from": "googleapis-common-protos",
+        "specifier": ">=3.15.0"
+      }
+    ]
+  },
+  "wrapt": {
+    "version": "1.14.1",
+    "constraints": [
+      {
+        "from": "deprecated",
+        "specifier": "<2,>=1.10"
+      }
+    ]
+  }
+}

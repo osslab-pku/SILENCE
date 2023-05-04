@@ -1,0 +1,65 @@
+{
+  "Tempita": {
+    "version": "0.5.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.4"
+      }
+    ]
+  },
+  "sqlparse": {
+    "version": "0.4.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.7.0"
+      }
+    ]
+  },
+  "decorator": {
+    "version": "5.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "SQLAlchemy": {
+    "version": "1.4.43",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.9.6"
+      }
+    ]
+  },
+  "pbr": {
+    "version": "5.11.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.8"
+      }
+    ]
+  },
+  "greenlet": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "SQLAlchemy",
+        "specifier": "!=0.4.17"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+mdit-py-plugins==0.3.1
+  - markdown-it-py [required: >=1.0.0,<3.0.0, installed: 2.2.0]
+    - mdurl [required: ~=0.1, installed: 0.1.2]
+

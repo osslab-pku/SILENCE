@@ -1,0 +1,3 @@
+ceja==0.3.0
+  - jellyfish [required: >=0.8.2,<0.9.0, installed: 0.8.9]
+

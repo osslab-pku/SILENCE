@@ -1,0 +1,18 @@
+schedula 0.1.16 (EUPL-1.1) has 3 incompatibilities in [tree_created]:
+schedula 
+  sphinx 1.6.4 [schedula ()]
+  requests 2.18.4 (INCOMPATIBLE! HAS Apache-2.0) [schedula ()]
+    urllib3 1.22 [requests (<1.23,>=1.21.1)]
+    idna 2.6 [requests (<2.7,>=2.5)]
+    chardet 3.0.4 (INCOMPATIBLE! HAS LGPL-3.0-only) [requests (<3.1.0,>=3.0.2)]
+    certifi 2017.7.27.1 (INCOMPATIBLE! HAS MPL-2.0) [requests (>=2017.4.17)]
+  regex 2017.09.23 [schedula ()]
+  openpyxl 2.4.8 [schedula (>=2.4.0)]
+  lxml 4.0.0 [schedula ()]
+  graphviz 0.8 [schedula ()]
+  flask 0.12.2 [schedula ()]
+  docopt 0.6.2 [schedula ()]
+  dill 0.2.7.1 [schedula (>=0.2.7.1)]
+  decorator 4.1.1 [schedula ()]
+  bs4 0.0.1 [schedula ()]
+  Pygments 2.2.0 [schedula ()]

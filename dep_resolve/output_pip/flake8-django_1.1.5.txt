@@ -1,0 +1,6 @@
+flake8-django==1.1.5
+  - flake8 [required: >=3.8.4,<6, installed: 5.0.4]
+    - mccabe [required: >=0.7.0,<0.8.0, installed: 0.7.0]
+    - pycodestyle [required: >=2.9.0,<2.10.0, installed: 2.9.1]
+    - pyflakes [required: >=2.5.0,<2.6.0, installed: 2.5.0]
+

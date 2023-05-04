@@ -1,0 +1,5 @@
+pycep-parser==0.3.8
+  - lark [required: >=1.1.2, installed: 1.1.5]
+  - regex [required: >=2022.1.18, installed: 2023.3.23]
+  - typing-extensions [required: >=3.10.0, installed: 4.5.0]
+

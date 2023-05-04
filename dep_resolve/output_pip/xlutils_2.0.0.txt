@@ -1,0 +1,4 @@
+xlutils==2.0.0
+  - xlrd [required: >=0.7.2, installed: 2.0.1]
+  - xlwt [required: >=0.7.4, installed: 1.3.0]
+

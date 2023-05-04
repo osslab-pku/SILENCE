@@ -1,0 +1,11 @@
+py7zr 0.18.12 (LGPL-2.1-or-later) has 1 incompatibilities in [tree_created]:
+py7zr 
+  brotli 1.0.9 [py7zr (>=1.0.9)]
+  zipfile-deflate64 0.2.0 (INCOMPATIBLE! HAS Apache-2.0) [py7zr (>=0.2.0)]
+  multivolumefile 0.2.3 [py7zr (>=0.2.3)]
+  pybcj 1.0.1 [py7zr (>=0.6.0)]
+  pyppmd 0.18.3 [py7zr (<0.19.0,>=0.18.1)]
+  pyzstd 0.15.3 [py7zr (>=0.14.4)]
+  psutil 5.9.3 [py7zr ()]
+  pycryptodomex 3.15.0 [py7zr (>=3.6.6)]
+  texttable 1.6.4 [py7zr ()]

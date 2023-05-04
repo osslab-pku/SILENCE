@@ -1,0 +1,59 @@
+{
+  "scipy": {
+    "version": "1.9.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.17.0"
+      },
+      {
+        "from": "scikit-learn",
+        "specifier": ">=1.3.2"
+      }
+    ]
+  },
+  "scikit-learn": {
+    "version": "1.1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.17.1"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.10.4"
+      },
+      {
+        "from": "scipy",
+        "specifier": "<1.26.0,>=1.18.5"
+      },
+      {
+        "from": "scikit-learn",
+        "specifier": ">=1.17.3"
+      }
+    ]
+  },
+  "threadpoolctl": {
+    "version": "3.1.0",
+    "constraints": [
+      {
+        "from": "scikit-learn",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "joblib": {
+    "version": "1.1.1",
+    "constraints": [
+      {
+        "from": "scikit-learn",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  }
+}

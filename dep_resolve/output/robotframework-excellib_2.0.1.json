@@ -1,0 +1,29 @@
+{
+  "robotframework": {
+    "version": "6.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.0.3"
+      }
+    ]
+  },
+  "openpyxl": {
+    "version": "3.0.10",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.4.1"
+      }
+    ]
+  },
+  "et-xmlfile": {
+    "version": "1.1.0",
+    "constraints": [
+      {
+        "from": "openpyxl",
+        "specifier": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+sarif-om==1.0.4
+  - attrs [required: Any, installed: 23.1.0]
+  - pbr [required: Any, installed: 5.11.1]
+

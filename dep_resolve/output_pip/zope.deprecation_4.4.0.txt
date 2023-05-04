@@ -1,0 +1,3 @@
+zope.deprecation==4.4.0
+  - setuptools [required: Any, installed: 66.0.0]
+

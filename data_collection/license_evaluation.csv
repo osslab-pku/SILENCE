@@ -1,0 +1,410 @@
+_id,name,version,release_date,license,license_classifier,license_clean,license_clean_source,label
+640702b32668befcf8fe9b0c,mypy-boto3-meteringmarketplace,1.17.78,2021/5/21,MIT License,MIT,MIT,1,1
+640701ed2668befcf88a1e7b,matbench-genmetrics,0.2.1,2022/7/29,MIT,,MIT,1,1
+640702592668befcf8e9186c,sqlalchemy-dremio,1.2.0,2021/8/20,Apache Software License,Apache-2.0,Apache-2.0,1,1
+640701f72668befcf89346f8,neo4j-doc-manager,0.1.2,2016/6/3,Apache Software License,Apache-2.0,Apache-2.0,1,1
+640701892668befcf833ed25,cirq-dev,0.6.0.dev20191012010346,2019/10/12,Apache 2,,Apache-2.0,1,1
+640701c82668befcf86a8d86,jina,2.0.5.dev12,2021/7/8,Apache 2.0,Apache-2.0,Apache-2.0,1,1
+640702122668befcf8aa14b9,cdktf-cdktf-provider-local,0.2.85,2021/12/27,MPL-2.0,,MPL-2.0,1,1
+6407020a2668befcf8a39b27,minitage.paste,1.3.157,2010/3/12,BSD,BSD-3-Clause,BSD-3-Clause,1,1
+640701f32668befcf88f5035,hacs-frontend,2.02E+13,2019/12/22,,,Unrecognizable,,1
+640702612668befcf8efe281,mypy-boto3-dynamodb,1.10.43.0,2019/12/19,MIT License,MIT,MIT,1,1
+640702832668befcf8fb8636,mypy-boto3-health,1.17.58.0,2021/4/27,MIT License,MIT,MIT,1,1
+640701d52668befcf87585a3,dj-paypal,0.12.0,2019/2/13,,MIT,MIT,2,1
+640702072668befcf8a13dba,pulumi-kubernetes,3.0.0a1643149517,2022/1/25,Apache-2.0,,Apache-2.0,1,1
+640701e52668befcf8833dca,fcbf,0.1.1,2022/9/21,MIT,MIT,MIT,1,1
+640702262668befcf8bc5275,python-flax-id,1.0.0,2018/4/24,Other/Proprietary License,Other,Unrecognizable,,1
+640701bc2668befcf8605bb8,flopt,0.5.1,2021/11/12,MIT,MIT,MIT,1,1
+640702102668befcf8a86915,onegov.applications,2018.2.11,2018/2/13,GPLv2,GPL-2.0-only,GPL-2.0-only,1,1
+640701a52668befcf84c4862,weatherinfo,1.07,2020/8/5,MIT,MIT,MIT,1,1
+640701cf2668befcf87032f1,disnake-jishaku,2.6.1,2021/11/18,MIT,MIT,MIT,1,1
+640701a52668befcf84c6654,ae-literal,0.0.5,2019/10/12,,GPL-3.0-or-later,GPL-3.0-or-later,2,1
+640702592668befcf8e88717,sphinx-autodoc-typehints,1.0.3,2015/11/19,MIT,MIT,MIT,1,1
+640701992668befcf8414fe1,click-web,0.6.6,2019/2/21,MIT,MIT,MIT,1,1
+640702312668befcf8c57c4e,pytest-mesh,1.0.10,2022/7/19,,,Unrecognizable,,1
+640702662668befcf8f3c677,webgui-jupyter-widgets,0.1.6,2021/9/9,LGPLv2.1,LGPL-2.1-only,LGPL-2.1-only,1,1
+640701c62668befcf8687f6e,flowmachine,1.4.0.post0.dev112,2020/4/6,,MPL-2.0,MPL-2.0,2,1
+640702172668befcf8af3c55,milk,0.5,2012/11/5,MIT,,MIT,1,1
+6407024a2668befcf8dba3cf,rucio-clients,1.20.15,2021/4/26,"Apache License, Version 2.0",Apache-2.0,Apache-2.0,1,1
+640702692668befcf8f681c5,valorant-free-points-undetected-cheat-v-8861,4.544,2022/8/26,,,Unrecognizable,,1
+6407022c2668befcf8c11474,pmb-py,0.1.9,2021/8/25,,,Unrecognizable,,1
+640701a72668befcf84e37d4,cloudshell-app-helper,1.0.8,2020/6/16,,Apache-2.0,Apache-2.0,2,1
+640701d72668befcf8772f49,eternalswarm.mind,0.2.5,2021/1/29,,,Unrecognizable,,1
+6407019a2668befcf8424363,checkov,1.0.292,2020/5/14,Apache License 2.0,,Apache-2.0,1,1
+640702512668befcf8e1e452,seven_cloudapp_frame,1.0.0.166,2021/9/22,MIT,,MIT,1,1
+640701932668befcf83c213a,cupy,7.0.0b1,2019/6/21,MIT License,,MIT,1,1
+640702c92668befcf8ffdc51,tencentcloud-sdk-python-tcex,3.0.333,2021/1/27,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+640702442668befcf8d649fd,teamscale-client,1.3.0,2016/6/9,Apache,,Apache-2.0,1,1
+640701dd2668befcf87c35c7,enochecker-core,0.5.0,2020/7/12,,MIT,MIT,2,1
+640702062668befcf8a01819,duckietown-world-daffy,5.0.5,2019/10/15,,,Unrecognizable,,0
+6407021f2668befcf8b63dd7,odoo9-addons-oca-l10n-italy,9.0.20211016.0,2021/10/16,,,Unrecognizable,,1
+6407019a2668befcf842b98e,carbontracker,1.1.4,2020/10/7,MIT,,MIT,1,1
+640701e32668befcf8821c06,fitting_utilities,0.1.0,2015/10/4,MIT,MIT,MIT,1,1
+640701fb2668befcf896c1c0,lccc_mapper,0.0.1,2012/5/21,BSD,,BSD-3-Clause,1,1
+640701d92668befcf878b1e9,indico_toolkit,1.0.3,2021/6/16,,MIT,MIT,2,1
+6407022f2668befcf8c37dfb,state-signals,0.1.1,2021/8/10,GPL,Other,GPL-3.0-only,1,1
+640702372668befcf8cb24ae,pymath2,6.1.1,2018/11/11,MIT,,MIT,1,1
+640701b82668befcf85cd6a7,fabba,0.3.2,2021/9/10,BSD 3-Clause,,BSD-3-Clause,1,1
+6407021d2668befcf8b440a5,multivenv,1.0.0a34,2022/8/2,MIT,,MIT,1,1
+640702072668befcf8a1588b,pulumi-kubernetes,3.22.0,2022/10/21,Apache-2.0,,Apache-2.0,1,1
+640701fe2668befcf898ce6e,nonocaptcha,1.2.10,2018/6/28,GPL-3.0,GPL-3.0-only,GPL-3.0-only,1,1
+640702142668befcf8ac84a3,mypy-boto3-acm,1.17.83,2021/5/27,MIT License,MIT,MIT,1,1
+640701c92668befcf86aeeb1,jina,0.8.16,2020/12/28,Apache 2.0,Apache-2.0,Apache-2.0,1,1
+640701902668befcf8395573,codeforlife-portal,5.2.4,2021/10/1,,,AGPL-3.0-only,3,1
+640702672668befcf8f52fb6,torchio,0.17.36,2020/9/17,MIT license,MIT,MIT,1,1
+6407021c2668befcf8b346c1,poker_stats,0.1.0.dev2,2017/11/26,MIT,MIT,MIT,1,1
+640701822668befcf82d49c8,brutalmaze,0.6.3,2018/3/19,GPLv3+,AGPL-3.0-or-later,GPL-3.0-or-later,1,1
+640701982668befcf840ea66,twibooru-py,0.1.0,2020/10/15,Simplified BSD License,BSD-3-Clause,BSD-3-Clause,1,0
+6407024e2668befcf8df5adf,toucan-connectors,0.25.2,2019/11/19,BSD,BSD-3-Clause,BSD-3-Clause,1,1
+640702a32668befcf8fdb3b4,tencentcloud-sdk-python-lp,3.0.589,2022/2/28,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+640701f12668befcf88db655,deepchem,2.4.0rc1.dev20200719004625,2020/7/19,MIT,MIT,MIT,1,1
+6407024b2668befcf8dcee8e,tecton,0.1.3,2021/10/28,Tecton Proprietary,Other,Unrecognizable,,0
+640702762668befcf8fa4799,mypy-boto3-firehose,1.14.61.0,2020/9/15,MIT License,MIT,MIT,1,1
+640702622668befcf8f0361c,renovosolutions.aws-cdk-certbot,0.1.14,2021/10/27,Apache-2.0,,Apache-2.0,,1
+6407023f2668befcf8d232f9,tinker-access-client,2017.2.10.312,2017/2/10,,,Unrecognizable,,1
+640702332668befcf8c73dc9,raet,0.3.6,2014/10/9,Apache2,,Apache-2.0,1,1
+6407017e2668befcf82a1010,clipcap,1.0.0,2022/5/29,MIT,MIT,MIT,1,1
+6407022f2668befcf8c3c4de,server_project,0.0.1,2021/12/11,,,Unrecognizable,,1
+6407020c2668befcf8a58e71,onedash,0.0.7,2020/6/11,,,GPL-3.0-only,3,1
+6407027d2668befcf8fb0972,tencentcloud-sdk-python-dbbrain,3.0.327,2021/1/19,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+640701de2668befcf87cea85,klue-microservice-deploy,0.0.43,2017/10/5,BSD,BSD-3-Clause,BSD-3-Clause,1,0
+640701c42668befcf866eda1,hallucinations,0.1.4,2019/9/23,MIT,MIT,MIT,1,1
+640702512668befcf8e202b4,pyramid-twitcher,0.3.3,2017/4/27,Apache License 2.0,,Apache-2.0,1,1
+640701dc2668befcf87af53f,h2o-pysparkling-2.3,3.28.0.2-1,2020/1/23,Apache v2,Apache-2.0,Apache-2.0,1,1
+6407024a2668befcf8db419e,rpi-ad7606,0.1.2.4,2018/4/19,MIT,,MIT,1,1
+640701902668befcf8397fe8,aiodav,0.1.1,2021/5/12,MIT License,MIT,MIT,1,1
+640701b42668befcf8594e1e,alibabacloud-iotcc20210513-py2,2.1.4,2022/5/7,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+640702222668befcf8b83344,pyobjc-framework-coredata,6.2,2020/3/25,MIT License,MIT,MIT,1,1
+640701bd2668befcf8612eed,hestia-earth-validation,0.10.4,2022/4/6,GPL-3.0-or-later,,GPL-3.0-or-later,1,1
+640701c22668befcf8659eb1,dcarte,0.3.5,2022/1/16,,,Unrecognizable,,1
+640702672668befcf8f4c3a1,watchmen-storage-s3,16.2.6,2022/9/7,MIT,MIT,MIT,1,1
+640701a62668befcf84d186e,flask-bootstrap,3.3.5.6,2015/7/24,BSD,BSD-3-Clause,BSD-3-Clause,1,1
+640702672668befcf8f4b90f,tchannel,0.23.1,2016/4/14,MIT,MIT,MIT,1,1
+6407021a2668befcf8b1cdae,my-blog-26072022,1,2022/7/26,,,Unrecognizable,,1
+640701ff2668befcf89a0ecb,key-spyder,1.2a5,2022/4/29,,,Unrecognizable,,1
+640701982668befcf8406bf2,assemblyline-client,4.0.0b5,2020/3/6,MIT,MIT,MIT,1,1
+640701952668befcf83dc646,cliche,0.2.11,2020/4/3,MIT,GPL-3.0-only,MIT,1,1
+640701da2668befcf879af10,jiratools,1.3.0,2019/4/12,MIT,,MIT,1,1
+640702112668befcf8a93796,mxnet-cu100mkl,1.6.0b20190812,2019/8/11,Apache 2.0,,Apache-2.0,1,1
+6407020b2668befcf8a473f1,odoo10-addon-website-multi-theme,10.0.1.1.1,2018/4/20,LGPL-3,LGPL-3.0-only,LGPL-3.0-only,1,1
+6407019c2668befcf844c79c,openfisca-us,0.84.3,2022/6/26,http://www.fsf.org/licensing/licenses/agpl-3.0.html,AGPL-3.0-only,AGPL-3.0-only,1,1
+640701d52668befcf8751367,himoon,0.12.5,2022/1/28,,Apache-2.0,Apache-2.0,2,1
+6407021d2668befcf8b3f048,piqcer-client-python,1.0.1,2020/12/25,MIT,,MIT,1,1
+640701d22668befcf87283fe,kube-manifest-lint,0.1.0,2020/1/16,GPL-3.0+,GPL-3.0-or-later,GPL-3.0-or-later,1,1
+6407024a2668befcf8dbf9eb,snipsskills,0.1.4.935,2017/9/6,MIT,,MIT,1,1
+640701a12668befcf848c8c9,aoe2scenarioparser,0.1.19,2021/8/15,,GPL-3.0-only,GPL-3.0-only,2,1
+6407021c2668befcf8b2f3e5,luggage,0.1.0,2013/12/10,UNKNOWN,MIT,MIT,2,1
+640701de2668befcf87cd499,etherbase-predeployed,1.1.0a4,2022/7/12,,AGPL-3.0-only,AGPL-3.0-only,2,1
+6407026a2668befcf8f79b6a,waveforms,1.5.25,2022/3/25,MIT,,MIT,1,1
+640702192668befcf8b11dd1,nextcord-unaliased,2.0.0a7,2022/2/5,MIT,MIT,MIT,1,1
+640701b82668befcf85c80d1,bowtie,0.2.2,2017/2/20,,MIT,MIT,2,1
+640702662668befcf8f3c832,truedata-ws,0.0.311,2020/12/9,,GPL-3.0-only,GPL-3.0-only,2,1
+6407022c2668befcf8c16ba9,pymagnitude,0.0.21,2018/2/25,MIT,MIT,MIT,1,1
+6407021b2668befcf8b2e5a6,pybliometrics,2.3.1,2020/3/29,MIT,MIT,MIT,1,1
+640702282668befcf8bd6632,pyemddf,1.3.0,2022/1/14,The MIT License,,MIT,1,1
+640701d12668befcf871a63b,djangoldp-account,0.0.22,2019/3/25,MIT,,MIT,1,1
+640701fe2668befcf89958d6,opcua-tools,0.0.77,2022/5/13,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+640701982668befcf8408637,opendssdirect.py,0.1.3,2017/7/21,MIT,MIT,MIT,1,1
+6407022a2668befcf8bf97f9,pymacaroons,0.1.0,2014/9/9,MIT,MIT,MIT,1,1
+640702652668befcf8f36bf1,vitriolic,3.1.0a6,2022/7/30,BSD,,BSD-3-Clause,1,1
+640701ed2668befcf88a08e8,instrumented-soap,2.0.0,2020/2/19,ISC,ISC,ISC,1,1
+640701d92668befcf878e7ac,django-jsoneditor,0.1.8b1,2021/5/26,,,LGPL-3.0-only,3,1
+640702242668befcf8ba507d,plussize,0.2,2019/1/18,MIT,,MIT,1,1
+640701c32668befcf8667ed0,ee-extra,0.0.11,2022/3/5,Apache 2.0,Apache-2.0,Apache-2.0,1,1
+640701d22668befcf87253d0,dgp-server,0.0.82,2020/7/13,MIT,MIT,MIT,1,1
+640701b22668befcf8578579,pyswitchbee,0.0.3,2022/4/11,,,Unrecognizable,,1
+640701b32668befcf858ddff,deepkit,0.1.0,2019/8/29,MIT,,MIT,1,1
+640702712668befcf8f97621,xbmc-json,0.0.4.dev,2013/11/3,WTFPL,,WTFPL,1,1
+640701b32668befcf8583c56,anna-tasks,1.0.11,2019/5/6,,,Unrecognizable,,1
+640701872668befcf8320294,bbrest,0.3.8,2019/11/5,,,MIT,3,1
+6407022f2668befcf8c40517,mypy-boto3-ce,1.11.16.0,2020/2/12,MIT License,MIT,MIT,1,1
+6407023c2668befcf8cf4ae0,pymchelper,0.11.0,2018/5/2,MIT,MIT,MIT,1,1
+640701c92668befcf86ad32c,freessl,1.1,2019/12/31,MIT,,MIT,1,1
+640702072668befcf8a13996,liquer-framework,0.6.2,2021/11/28,,MIT,MIT,2,1
+640701912668befcf83afd45,dtnester,1.1.0,2015/12/30,UNKNOWN,,Unrecognizable,,1
+640701972668befcf8401191,appier,1.1.27,2016/1/6,"Apache License, Version 2.0",Apache-2.0,Apache-2.0,1,1
+640702422668befcf8d4e1c1,sneakysnek,0.0.2,2018/1/29,MIT,MIT,MIT,1,1
+640702592668befcf8e901a5,simpy-helpers,1.0.1,2020/5/23,,MIT,MIT,2,1
+640701a32668befcf84a1e0d,cnb,0.9.1,2015/12/10,UNKNOWN,MIT,MIT,2,1
+640701a82668befcf84ee566,aixm-py36,0.3.1.7,2020/4/28,BSD License,,BSD-3-Clause,1,1
+640701892668befcf83373f8,collective.venue,2.1.2,2015/10/6,GPL,,GPL-3.0-only,1,1
+640702ac2668befcf8fe32df,mypy-boto3-mediaconnect,1.17.97,2021/6/17,MIT License,MIT,MIT,1,1
+640701952668befcf83db9e9,confnet,0.0.3,2022/11/8,GPL license,,Unrecognizable,,0
+640702482668befcf8da2579,robotframework-bjrobot,0.3.4,2017/1/22,Apache License 2.0,,Apache-2.0,1,0
+640702812668befcf8fb63d1,tencentcloud-sdk-python-dnspod,3.0.416,2021/6/8,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+6407021a2668befcf8b132e3,lucyfer,0.3.16,2020/1/17,,MIT,MIT,2,1
+640702442668befcf8d624e5,rpaframework,10.0.3,2021/5/15,Apache-2.0,Apache-2.0,Apache-2.0,1,1
+640701ef2668befcf88bbe2c,groupdocs-python,1.2.4,2013/1/22,Apache License (2.0),Apache-2.0,Apache-2.0,1,1
+6407029b2668befcf8fd3da0,tencentcloud-sdk-python-iot,3.0.580,2022/2/16,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+6407024a2668befcf8dbaadf,swarming,1.0.0,2021/9/28,GNU General Public License v3.0,GPL-3.0-only,GPL-3.0-only,1,1
+640702152668befcf8ad543e,cdktf-cdktf-provider-newrelic,0.3.81,2022/2/8,MPL-2.0,,MPL-2.0,1,1
+640701ce2668befcf86eaf29,gdsfactory,4.0.12,2022/2/7,MIT,,MIT,1,1
+640702142668befcf8aca17c,plantlabeller,0.1.2,2019/8/13,MIT Licence,,MIT,1,1
+640702692668befcf8f6e497,whampy,0.2.0a2,2019/12/19,BSD 3-Clause,,BSD-3-Clause,1,1
+640701c12668befcf864cd19,idrivetools,0.1.2,2020/11/21,,,Unrecognizable,,1
+640702c62668befcf8ffa841,mypy-boto3-pricing,1.17.70.post1,2021/5/10,MIT License,MIT,MIT,1,1
+640701bb2668befcf85f8aec,django-magento,1.2.0,2021/7/20,MIT,,MIT,1,1
+640702432668befcf8d514fa,trytond-party-siret,2.8.1,2015/2/25,GPL-3,,GPL-3.0-only,1,1
+640702282668befcf8bdf2e2,muscle-tuning,0.1.10,2021/12/23,BSD 3-Clause,,BSD-3-Clause,1,1
+640702772668befcf8fa61f5,mypy-boto3-fms,1.17.95,2021/6/15,MIT License,MIT,MIT,1,1
+640701f72668befcf892fb91,infra-enver,1.0.1,2022/1/12,MIT,,MIT,1,1
+640702252668befcf8bb5fd8,pyluna-common,0.2.1,2022/4/18,Apache License version 2.0,Apache-2.0,Apache-2.0,1,1
+640701ce2668befcf86e9611,estev.ao-cli,0.1.0,2020/6/24,,,Unrecognizable,,1
+640702002668befcf89aaf73,neon-utils,0.15.1a6,2022/2/25,BSD-3-Clause,,BSD-3-Clause,1,1
+6407020c2668befcf8a55308,pygitrepo,0.0.20,2018/5/5,MIT,MIT,MIT,1,1
+6407023d2668befcf8d02e96,rains,0.0.9,2021/12/8,,MIT,MIT,2,0
+640702382668befcf8cb5a3a,pyalink-flink-1.10,1.5.4,2022/4/22,"Apache License, Version 2.0",Apache-2.0,Apache-2.0,1,1
+640702492668befcf8da5e1c,sunsynk,0.2.3,2022/8/23,MIT,,MIT,1,1
+640702642668befcf8f249f6,valhalla,0.1.3,2014/1/9,MIT,MIT,MIT,1,1
+640701e52668befcf8831178,django-twilio-sms-2,1.0.0,2014/10/28,MIT,MIT,MIT,1,1
+640701952668befcf83e426c,aws-cdk.asset-kubectl-v21,0.0.3,2022/10/18,Apache-2.0,,Apache-2.0,1,1
+640701db2668befcf87abeb2,flutterpluginname,1.4,2020/7/20,MIT,MIT,MIT,1,1
+6407022f2668befcf8c405dc,prefopt,0.0.1.dev0,2018/1/21,MIT,MIT,MIT,1,1
+6407019e2668befcf84665d2,cymysql,0.8.0,2015/3/4,MIT,MIT,MIT,1,1
+6407020a2668befcf8a3bbd6,logworm,0.0.6,2013/2/18,Apache 2.0,,Apache-2.0,1,1
+640702272668befcf8bd438b,rapid-framework,1.2.8,2018/5/2,,,Unrecognizable,,0
+640702342668befcf8c884b4,paramiko,1.16.3,2016/7/26,LGPL,,LGPL-3.0-only,1,0
+640701de2668befcf87d6ee2,dialogic,0.3.4,2021/4/8,MIT,MIT,MIT,1,0
+640702b62668befcf8febde5,tencentcloud-sdk-python-rkp,3.0.639,2022/5/22,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+640701b42668befcf8591f21,simplefolderstructure,0.1.2,2021/10/24,Apache License 2.0,,Apache-2.0,1,1
+640701c42668befcf866b9e4,idv-teleport,1.2,2018/5/16,MIT,MIT,MIT,1,1
+640701822668befcf82dd504,apistellar,1.3.0,2019/4/17,MIT,MIT,MIT,1,1
+640702522668befcf8e25419,tencentcloud-sdk-python-batch,3.0.540,2021/12/6,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+640701cc2668befcf86d93eb,gardener-cicd-base,1.1072.0,2021/1/21,,,Unrecognizable,,1
+6407019f2668befcf846d62a,compressed-rtf,1.0.2,2018/4/23,MIT,MIT,MIT,1,1
+6407024a2668befcf8dbadca,mypy-boto3-comprehend,1.14.32.0,2020/7/30,MIT License,MIT,MIT,1,1
+640701bd2668befcf860de99,hestia-earth-schema,7.6.1,2022/3/29,GPL-3.0-or-later,,GPL-3.0-or-later,1,0
+640701e92668befcf886c731,guide-search,0.0.82,2018/3/16,MIT,BSD-3-Clause,MIT,1,1
+640702642668befcf8f29798,watchmen-model,16.0.45,2022/6/17,MIT,MIT,MIT,1,1
+640701ae2668befcf854216d,geospark-test,0.0.4,2020/12/31,MIT,,MIT,1,1
+640701de2668befcf87cc75d,dm-reverb-nightly,0.3.0.dev20210527,2021/5/27,Apache 2.0,,Apache-2.0,1,1
+640701f92668befcf894b0b3,kervi,0.20.6,2019/2/7,,MIT,MIT,2,1
+6407026b2668befcf8f7fce7,z3c.sqlalchemy,1.1.15,2008/5/8,ZPL (see LICENSE.txt),ZPL-2.0,ZPL-2.0,2,1
+640701902668befcf8394ff6,cirq-web,0.16.0.dev20220711175641,2022/7/11,Apache 2,,Apache-2.0,1,1
+6407019a2668befcf842b3e7,aliyun-python-sdk-live,3.9.12,2021/11/29,Apache,Apache-2.0,Apache-2.0,1,1
+640702612668befcf8efb6f1,tencentcloud-sdk-python-cbs,3.0.739,2022/9/23,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+640701a72668befcf84e10a4,antsibull-docs,1.6.0,2022/9/25,GPL-3.0-or-later,GPL-3.0-or-later,GPL-3.0-or-later,1,1
+640702da2668befcf800dee2,mypy-boto3-schemas,1.12.46.0,2020/4/24,MIT License,MIT,MIT,1,1
+640702482668befcf8d9bedc,mypy-boto3-cognito-idp,1.18.37,2021/9/7,MIT License,MIT,MIT,1,1
+640701bc2668befcf86070e7,daedalus-5g,0.1.5,2021/7/15,Apache-2,Apache-2.0,Apache-2.0,1,1
+6407018b2668befcf8351a33,rssmw,5.0.44.58,2022/3/19,MIT,MIT,MIT,1,1
+6407026d2668befcf8f851be,wavesynth,1.0.1,2021/8/13,BSD 3-Clause License,BSD-3-Clause,BSD-3-Clause,1,1
+640702232668befcf8b9d4bc,public-meetings,0.1.0rc1,2019/12/4,,,MIT,3,1
+640702352668befcf8c98a96,pysurfex-experiment,0.0.1a2,2020/12/10,BSD-3,BSD-3-Clause,BSD-3-Clause,1,1
+640702182668befcf8afa1cb,pyixload,1.4.1,2019/7/11,Apache Software License,Apache-2.0,Apache-2.0,1,1
+6407022c2668befcf8c125e7,pvmodule,0.0.24,2022/10/31,,,Apache-2.0,3,1
+640702432668befcf8d55fd5,release-automation,0.0.7,2021/11/24,,,Unrecognizable,,1
+640701932668befcf83c316c,im-client,1.5.10,2021/11/24,"GPL version 3, http://www.gnu.org/licenses/gpl-3.0.txt",,GPL-3.0-only,1,1
+640701852668befcf830700d,canrevan,1.1.3,2020/6/1,Apache-2.0,,Apache-2.0,1,1
+640701a12668befcf848b1f3,duste,0.0.1,2022/5/12,MIT,MIT,MIT,1,1
+640702362668befcf8c9bed2,pytorch-transformers-pvt-nightly,1.2.0.dev201909061000,2019/9/6,Apache,Apache-2.0,Apache-2.0,1,1
+640701b32668befcf858a902,clancylab-squid,2.0.23,2019/8/12,,Other,Unrecognizable,,1
+6407022d2668befcf8c24243,resoto-plugin-aws,2.4.3,2022/10/7,Apache 2.0,Apache-2.0,Apache-2.0,1,1
+640702832668befcf8fb9284,tfmesos,0.0.9,2018/3/14,BSD License,BSD-3-Clause,BSD-3-Clause,1,1
+640702242668befcf8ba656c,pyehub,1.2.1,2019/7/10,,,Unrecognizable,,1
+640701a02668befcf8478258,crawlmp,0.2.2,2021/12/6,MIT,,MIT,1,1
+640701ef2668befcf88bb92b,marceloapd-ic-toolkit,0.1.1,2022/7/1,,,Unrecognizable,,1
+640701982668befcf8407fcf,mopidy-iris,3.36.0,2019/4/22,"Apache License, Version 2.0",Apache-2.0,Apache-2.0,1,1
+640701e82668befcf8864ac3,fastapi-users,8.1.3,2021/12/7,,MIT,MIT,2,1
+6407028e2668befcf8fc6a1f,tencentcloud-sdk-python-fmu,3.0.302,2020/12/1,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+6407019f2668befcf846904b,csvcubed-devtools,0.1.0,2022/4/25,Apache-2.0,Apache-2.0,Apache-2.0,1,1
+640701882668befcf832e430,bradocs4py,1.0.0,2018/12/14,MIT,MIT,MIT,1,1
+6407022d2668befcf8c207ea,pywale,2.28.1,2022/11/5,Apache 2.0,,Apache-2.0,1,1
+640701842668befcf82f2c76,backend.ai-agent,19.9.14,2020/2/16,LGPLv3,LGPL-3.0-or-later,LGPL-3.0-only,1,1
+640701b52668befcf85a3d84,dlds-discrete,0.0.5,2022/5/31,,MIT,MIT,2,1
+640701b22668befcf857ce79,frake-extractor,1.0.0,2021/4/26,MIT,MIT,MIT,1,1
+6407024e2668befcf8def5da,pytest-aiofiles,0.1.1.dev1,2017/3/15,,AGPL-3.0-or-later,AGPL-3.0-or-later,2,1
+640701a12668befcf8488eb7,shake-files,0.3,2011/10/18,MIT license (http://www.opensource.org/licenses/mit-license.php),MIT,MIT,1,1
+640702082668befcf8a1f1a1,pipechain,0.1.0,2021/10/26,MIT,MIT,MIT,1,1
+640701ba2668befcf85e5f3d,dohq-tfs,1.0.26,2017/10/11,MIT,MIT,MIT,1,1
+640702502668befcf8e13e75,pyasic,0.14.4,2022/8/5,,,Apache-2.0,3,1
+640702662668befcf8f41ab0,upbge-stubs,0.3.0.24.dev1327185385,2021/10/11,,GPL-3.0-or-later,GPL-3.0-or-later,2,1
+6407018f2668befcf839070b,bento-tools,1.0.0,2022/6/9,MIT,MIT,MIT,1,1
+640702432668befcf8d50c0d,resultr,0.1.5,2018/7/13,MIT,MIT,MIT,1,1
+640701842668befcf82f74a5,cubicweb-sherpa,0.2.0,2017/2/23,GPL,,GPL-3.0-only,1,1
+6407021b2668befcf8b221d3,ml-evaluation-framework,0.0b56,2020/7/13,DSB 3-clause,,BSD-3-Clause,3,1
+640701f92668befcf894918d,malexport,0.1.0,2022/7/24,MIT,MIT,MIT,1,1
+640702312668befcf8c60d0b,qsmcli,0.5.2,2020/7/7,,MIT,MIT,2,1
+6407019a2668befcf842e88e,connectable,1.0.0,2015/10/10,MIT,MIT,MIT,1,1
+640702942668befcf8fcd596,tencentcloud-sdk-python-habo,3.0.596,2022/3/9,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+640701c92668befcf86acb41,django-fixes,1.8.2.dev1,2015/11/6,BSD 3-Clause,,BSD-3-Clause,1,1
+640701922668befcf83b3a60,thesilentpypi,0.0.42,2022/9/7,,,Unrecognizable,,1
+640701bd2668befcf860f628,gutsygit,0.5.3,2021/5/29,Apache-2.0,Apache-2.0,Apache-2.0,1,0
+640701922668befcf83bb2f5,monei,1.0.1,2021/11/29,,MIT,MIT,2,1
+640702392668befcf8cccb9e,upload-machine,0.0.8,2022/10/9,MIT Licence,,MIT,1,1
+640701d52668befcf874fb50,gradify,0.3.2,2021/6/29,MIT,MIT,MIT,1,1
+640701e22668befcf8813045,htcollector,0.1.4,2022/8/15,GPLv3,GPL-3.0-only,GPL-3.0-only,1,1
+640701fc2668befcf89738b2,orm-cloud,1.0.1-alpha.5,2019/6/13,Apache 2.0,Apache-2.0,Apache-2.0,1,1
+640701b12668befcf85697dd,alibabacloud-gateway-sls,0.0.1,2021/12/16,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+6407018f2668befcf8390492,arcane-snapchat,0.1.0,2021/7/9,,,Unrecognizable,,1
+6407020f2668befcf8a824d0,pipenv,11.3.3,2018/3/11,MIT,MIT,MIT,1,1
+640702042668befcf89ed2da,modern-bencode,1.5.0,2021/6/10,,,MIT,3,1
+640701892668befcf833a5a7,aiobittrexapi,1.2.0,2021/1/1,MIT license,MIT,MIT,1,1
+6407022a2668befcf8bfa4c6,pyvsc,0.5.8.20210912.1,2021/9/12,Apache 2.0,,Apache-2.0,1,1
+6407019a2668befcf842c5b6,aws-cdk.aws-appconfig,1.42.0,2020/5/27,Apache-2.0,,Apache-2.0,1,1
+640702482668befcf8da257a,mypy-boto3-cognito-idp,1.16.13.0,2020/11/6,MIT License,MIT,MIT,1,1
+640701ef2668befcf88bbce7,aws-cdk.aws-workspaces,1.106.0,2021/5/25,Apache-2.0,,Apache-2.0,1,1
+640701b62668befcf85b8038,dbt-layer-bigquery,0.1.2517515174,2022/6/17,,,Apache-2.0,3,1
+640701c92668befcf86ad7d5,aws-cdk.aws-ivs-alpha,2.18.0a0,2022/3/29,Apache-2.0,,Apache-2.0,1,1
+640701e52668befcf8835f74,goose3,3.0.2,2017/3/28,Apache,Apache-2.0,Apache-2.0,1,1
+640702522668befcf8e25afc,sbol3,1.0a10,2021/5/14,MIT License,MIT,MIT,1,1
+640702052668befcf89f966c,open-spiel,0.3.0,2021/2/25,Apache 2.0,,Apache-2.0,1,1
+6407029d2668befcf8fd55ee,tencentcloud-sdk-python-iotexplorer,3.0.646,2022/5/31,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+640702222668befcf8b8c948,pytest-embedded-arduino,0.7.8,2022/7/28,MIT,MIT,MIT,1,1
+640701ae2668befcf853df37,cloudtee,0.0.3,2012/3/17,UNKNOWN,,Unrecognizable,,1
+640702482668befcf8d9c083,robinhood-aiokafka,1.0.5,2019/10/18,Apache 2,Apache-2.0,Apache-2.0,1,1
+640702412668befcf8d35088,vmklib,0.4.10,2021/7/5,,MIT,MIT,2,1
+640701b82668befcf85c8f45,dabl,0.2.2,2021/7/9,,,BSD-3-Clause,3,1
+6407025c2668befcf8eb92af,quartet_templates,1.0.2,2018/10/25,GPLv3,GPL-3.0-only,GPL-3.0-only,1,1
+6407018e2668befcf83849c9,blankly,1.14.2b0,2021/12/23,lgpl-3.0,LGPL-3.0-only,LGPL-3.0-only,1,1
+640702632668befcf8f1247d,sklearnfunctions,0.0.2,2022/4/1,,MIT,MIT,2,0
+640702422668befcf8d43785,scotthsieh-projen-statemachine,2.0.77,2022/8/26,Apache-2.0,,Apache-2.0,1,1
+640701aa2668befcf851213c,geode-conversion,4.2.5,2022/11/3,Proprietary,,Unrecognizable,,1
+640702b72668befcf8fed05e,mypy-boto3-mq,1.17.15.0,2021/2/24,MIT License,MIT,MIT,1,1
+640701ab2668befcf8520bb7,cijoe,0.2.7,2022/2/10,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+640701e02668befcf87f220d,hypers,0.0.9,2018/12/16,BSD 3-Clause,,BSD-3-Clause,1,1
+640702162668befcf8ae864b,netomaton,0.1.0,2019/6/3,Apache License 2.0,Apache-2.0,Apache-2.0,1,1
+640701c62668befcf8688acf,flowmachine,1.0.0.post0.dev110,2020/2/10,,MPL-2.0,MPL-2.0,2,1
+6407019f2668befcf846db6d,chainer-addons,0.9.1,2021/4/28,MIT License,,MIT,1,1
+6407022a2668befcf8bfb9b1,nugrid,0.1.0,2021/3/4,,,Unrecognizable,,1
+640701fd2668befcf898b7c7,malwaretl-stoq-transformer,1.0.7,2022/7/24,,Apache-2.0,Apache-2.0,2,1
+6407023f2668befcf8d19112,repozesendmail,0.1.1,2020/7/23,,,Unrecognizable,,1
+640701af2668befcf8552f74,akagi,0.1.21b3,2017/8/25,MIT license,MIT,MIT,1,1
+640701812668befcf82d102a,biblebot,0.1.2,2020/3/23,,MIT,MIT,2,1
+640702062668befcf89ff7db,oh_my_tools_package,0.0.3beta55,2022/4/6,,,Unrecognizable,,1
+640702432668befcf8d58cee,repustate,1.1.0,2015/2/17,MIT,MIT,MIT,1,1
+640701f42668befcf890907e,i3ipc,1.2.0,2016/3/19,BSD,BSD-3-Clause,BSD-3-Clause,1,1
+640702222668befcf8b89bc6,nomad-cbec-id-cli,1.4.0,2021/6/9,,,Unrecognizable,,1
+640702112668befcf8a96272,procmux,1.0.4,2022/9/29,MIT,,MIT,1,1
+640701d82668befcf877852e,icalendar,3.7,2014/6/2,BSD,BSD-3-Clause,BSD-3-Clause,1,0
+6407023a2668befcf8cd4d44,roblox-robux-generator-only-username-2022-v-6147,8.709,2022/4/5,,,Unrecognizable,,1
+640701e52668befcf8830347,itaxs,0.0.0.8,2021/7/30,,,Unrecognizable,,1
+640701ee2668befcf88b0914,foursight-core,0.0.1b43,2020/11/24,MIT,MIT,MIT,1,1
+6407029a2668befcf8fd331f,mypy-boto3-kinesisanalytics,1.19.9,2021/11/2,MIT License,MIT,MIT,1,1
+6407023c2668befcf8cf85ad,pyndamics3,0.0.28,2022/2/1,Apache Software License 2.0,Apache-2.0,Apache-2.0,1,1
+640701c62668befcf868993f,encfix,0.1,2020/4/16,GPLv3+,GPL-3.0-or-later,GPL-3.0-or-later,1,1
+640701a92668befcf84fe11d,anutils,0.1.4,2022/6/17,MIT,,MIT,1,1
+640702202668befcf8b67187,notegame,0.0.14,2021/3/27,,,Unrecognizable,,0
+640702462668befcf8d80064,sunnyside,1.0.2,2020/8/12,,MIT,MIT,2,1
+640701812668befcf82cdd77,actiontree,0.6.3,2015/9/6,MIT,MIT,MIT,1,1
+640702022668befcf89c8581,odoo12-addon-purchase-order-approved,12.0.1.0.1.99.dev5,2020/9/26,AGPL-3,AGPL-3.0-only,AGPL-3.0-only,1,1
+640702552668befcf8e4e82d,taxbill,0.1.0,2019/2/12,GPL-3.0,GPL-3.0-only,GPL-3.0-only,1,1
+640701942668befcf83d70b0,dagster-github-nightly,2020.3.6,2020/3/6,Apache-2.0,,Apache-2.0,1,1
+640701de2668befcf87d97ca,django-kidocare,1,2014/10/26,beerware,BSD-3-Clause,BSD-3-Clause,1,1
+640702542668befcf8e43dd8,superlog,0.4,2022/5/4,LGPL v3,,LGPL-3.0-only,1,1
+6407018b2668befcf83537a6,alto2txt,0.3.3,2022/7/1,MIT,MIT,MIT,1,1
+6407021b2668befcf8b227a1,mogwai,0.6.5,2014/12/1,Apache Software License 2.0,Apache-2.0,Apache-2.0,1,1
+640701cf2668befcf86ff785,gitmagic,0.1,2015/11/25,UNKNOWN,,Unrecognizable,,0
+640701a42668befcf84b33f6,bitbnspy,0.1.6,2020/6/15,MIT,MIT,MIT,1,1
+640701c32668befcf866005f,flowetl,1.15.0.post0.dev711,2021/12/6,MPLv2,,MPL-2.0,1,1
+6407025b2668befcf8ea27ff,scrapy-warc,0.2.2,2020/2/21,MIT/Apache-2.0,MIT,MIT,1,1
+640702092668befcf8a29db5,logtweet,0.1.4,2020/1/28,,,MIT,3,1
+640701e32668befcf881b371,fitsne,0.2.9,2018/9/26,BSD3,,BSD-3-Clause,1,1
+6407022e2668befcf8c34b36,rssynergia,20160419.18,2016/4/19,http://www.apache.org/licenses/LICENSE-2.0.html,Apache-2.0,Apache-2.0,1,1
+640701d12668befcf871b42b,esy,1.1.1,2018/7/19,MIT,LGPL-3.0-only,MIT,1,0
+640702412668befcf8d37f9e,tagsdk,0.0.6,2021/1/7,,,Unrecognizable,,1
+640701e52668befcf883890f,django-post-office,3.0.2,2017/7/29,MIT,MIT,MIT,1,1
+640702282668befcf8be0ec8,rapid-router,1.0.0.post0.dev127,2016/4/20,,,Unrecognizable,,1
+640702352668befcf8c96af5,snakemake,5.17.0,2020/5/7,MIT,MIT,MIT,1,1
+640702d52668befcf8008c4e,mypy-boto3-s3control,1.12.45.0,2020/4/23,MIT License,MIT,MIT,1,1
+640702322668befcf8c62c40,rdflib-sqlite,0.1,2012/7/4,BSD,BSD-3-Clause,BSD-3-Clause,1,1
+640701a32668befcf84a9f23,bugyi.dummy,0.2.1,2021/9/19,MIT license,MIT,MIT,1,1
+6407024d2668befcf8de55d6,testpoetrypypi,0.1.20,2020/1/25,Apache-2.0,Apache-2.0,Apache-2.0,1,1
+640701d72668befcf87738b2,gardener-cicd-whd,1.1273.0,2021/5/3,,,Unrecognizable,,1
+640701ee2668befcf88adcd0,guillotina-graphql,0.1.1,2020/9/27,MIT,MIT,MIT,1,1
+640702572668befcf8e6ac72,reqwest-py,0.1.0,2022/7/26,,,Unrecognizable,,1
+640701f62668befcf891b12e,odoo12-addon-account-payment-return,12.0.1.0.0.99.dev10,2019/3/5,AGPL-3,AGPL-3.0-only,AGPL-3.0-only,1,1
+6407027f2668befcf8fb449f,mypy-boto3-glue,1.13.19.0,2020/5/28,MIT License,MIT,MIT,1,1
+6407023a2668befcf8cdcbf5,siriuscommon,2.1.0,2021/10/10,GNU GPLv3,,GPL-3.0-only,1,1
+640701952668befcf83dd849,aliyun-python-sdk-config,1.0.0,2020/8/31,Apache,Apache-2.0,Apache-2.0,1,1
+6407017e2668befcf82a2858,daqdata,2.5,2019/12/9,,MIT,MIT,2,1
+6407022a2668befcf8bf22a9,ocrd,0.2.5,2018/6/18,Apache License 2.0,,Apache-2.0,1,1
+640701b42668befcf859a29c,clitellum,5.0.7,2020/4/7,GPL,,GPL-3.0-only,1,1
+640702482668befcf8d9f762,trainerdex,3.0.5,2020/7/22,GPL-3.0,GPL-3.0-only,GPL-3.0-only,1,1
+640701de2668befcf87d382b,aws-cdk.aws-route53,1.32.1,2020/4/9,Apache-2.0,,Apache-2.0,1,1
+640701ab2668befcf85196ce,azureml-designer-cv-modules,0.0.55,2022/8/16,,Other,Unrecognizable,,1
+640701c32668befcf865d4d8,k3down2,0.1.10,2021/1/8,MIT,,MIT,1,1
+640701be2668befcf8618a44,get-coach-data2,1.1.3,2017/11/30,,,Unrecognizable,,1
+640702362668befcf8ca5a82,thumbup,1.5.1,2019/6/10,MIT,MIT,MIT,1,1
+640701ff2668befcf89a1961,metview,1.8.1,2021/9/29,Apache License Version 2.0,Apache-2.0,Apache-2.0,1,1
+640701eb2668befcf88878ab,erikunicamp-myutils,0.0.49,2021/5/29,,MIT,MIT,2,1
+6407024b2668befcf8dcf55f,simpler,4.4.0,2021/10/14,MIT,MIT,MIT,1,1
+640702412668befcf8d398fe,redis-queue-tool,4.3.0,2020/7/10,MIT License,MIT,MIT,1,1
+640702222668befcf8b85c79,odoo12-addon-account-invoice-overdue-warn,12.0.1.0.0.99.dev2,2022/2/2,AGPL-3,AGPL-3.0-only,AGPL-3.0-only,1,1
+640701f62668befcf891b05f,nonebot-plugin-monitor,0.0.1,2022/3/29,MIT,MIT,MIT,1,1
+640701872668befcf831a71c,dagster-aws,0.9.8,2020/9/15,Apache-2.0,Apache-2.0,Apache-2.0,1,1
+640701f22668befcf88ea0c2,infoblox-netmri,3.8.0.0,2021/5/20,Apache,Apache-2.0,Apache-2.0,1,1
+640702492668befcf8dac7d5,shell-command-logger,0.2.5,2022/4/17,MIT License,MIT,MIT,1,1
+640702222668befcf8b830d6,odoo12-addon-account-invoice-margin-sale,12.0.1.0.0.99.dev7,2021/4/13,AGPL-3,AGPL-3.0-only,AGPL-3.0-only,1,1
+640701f72668befcf892ac2d,nyto,0.0.8,2022/6/27,,,MIT,3,1
+6407025e2668befcf8ecdc5a,wurlitzer,1.0.0,2017/6/22,MIT,MIT,MIT,1,1
+6407023e2668befcf8d0b180,trytond-account-statement-aeb43,5.2.0,2019/5/6,GPL-3,GPL-3.0-or-later,GPL-3.0-or-later,1,1
+6407024b2668befcf8dc9cfd,uniquid,0.3.0,2018/9/20,,Other,BSD-3-Clause,3,1
+6407018b2668befcf8357d80,corut,0.0.24,2021/12/14,MIT License,MIT,MIT,1,1
+640701ac2668befcf852f0b9,anybox.recipe.openerp,0.6,2011/9/11,ZPL,,Unrecognizable,,1
+640701fe2668befcf8996eb9,prerender,0.4.3,2017/4/11,,,Unrecognizable,,1
+640701902668befcf839b698,bosi,4.0.21,2017/12/8,,Apache-2.0,Apache-2.0,2,1
+640701c92668befcf86aa0db,dpcpp-cpp-rt,2022.0.3,2022/3/3,Intel End User License Agreement for Developer Tools,Other,Unrecognizable,,0
+640702492668befcf8dab1f2,vnpy-hx,1.0.1,2022/8/1,MIT,MIT,MIT,1,1
+640701aa2668befcf850fe33,cometspy,0.4.8,2021/5/26,GPL,MIT,GPL-3.0-only,1,1
+640701ff2668befcf899ac75,minieigen,0.5.1,2015/6/9,UNKNOWN,,Unrecognizable,,1
+640702162668befcf8ae14ed,pqos,4.3.0,2021/11/18,BSD 3-Clause License,BSD-3-Clause,BSD-3-Clause,1,1
+6407020a2668befcf8a3f1cf,magicgui,0.2.1rc1,2020/12/29,MIT license,MIT,MIT,1,1
+640702202668befcf8b6a5d1,py2deb,0.25,2017/5/23,,MIT,MIT,2,1
+6407022c2668befcf8c19ec7,pydaymet,0.11.3,2021/10/7,MIT,MIT,MIT,1,1
+640702592668befcf8e870df,pytket-pyquil,0.16.0,2021/9/24,Apache 2,Other,Apache-2.0,1,1
+6407017e2668befcf829c94f,azure-cli-rdbms,0.0.12,2018/2/13,MIT,MIT,MIT,1,1
+640701892668befcf83386f2,pricehero-mehtaarn000,0.3.6,2021/2/16,,MIT,MIT,2,1
+6407020d2668befcf8a5cfae,odoo14-addon-l10n-ro-stock-account,14.0.2.7.1.dev3,2022/6/22,AGPL-3,AGPL-3.0-only,AGPL-3.0-only,1,1
+640701dc2668befcf87b21e4,h2o-pysparkling-3.0,3.30.0.5-1,2020/6/30,Apache v2,Apache-2.0,Apache-2.0,1,1
+640701d82668befcf877ac0b,django-skrill,0.1.3,2012/12/9,"Copyright (c) 2012, byteweaver
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+    * Redistributions of source code must retain the above copyright notice,
+      this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.
+    * Neither the name of django-eca-catalogue nor the names of its contributors may
+      be used to endorse or promote products derived from this software without
+      specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ""AS IS"" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",,BSD-3-Clause,1,1
+6407029b2668befcf8fd36eb,mypy-boto3-kinesisanalytics,1.17.92,2021/6/10,MIT License,MIT,MIT,1,1
+640702042668befcf89ec4a0,odoo14-addon-l10n-br-fiscal,14.0.4.12.0,2022/4/3,AGPL-3,AGPL-3.0-only,AGPL-3.0-only,1,1
+6407018c2668befcf83642f8,convertbng,0.4.4,2016/5/17,MIT License,MIT,MIT,1,1
+640702682668befcf8f6355c,wgstatus,1.0.1,2017/3/25,"Apache License, Version 2.0",,Apache-2.0,1,1
+640702732668befcf8f9c197,tfds-nightly,0.0.2.dev201902020014,2019/2/2,Apache 2.0,Apache-2.0,Apache-2.0,1,1
+6407026a2668befcf8f717f7,ya-aioclient,0.6.1,2021/3/22,LGPL-3.0-or-later,LGPL-3.0-or-later,LGPL-3.0-or-later,1,1
+640701f62668befcf891e393,infosystem,0.1.66,2019/12/5,Apache-2,,Apache-2.0,1,1
+640701b32668befcf8588b71,restauthcommon,0.6.1,2013/4/1,GNU General Public License (GPL) v3,GPL-3.0-or-later,GPL-3.0-or-later,1,1
+6407021c2668befcf8b33e7e,nteract-on-jupyter,1.9.6,2018/8/15,,,Unrecognizable,,0
+640702352668befcf8c93fc3,staticpie,0.4.4,2021/10/26,GPLv3,,GPL-3.0-only,1,1
+640701952668befcf83e879a,bddjango,2.7.6,2022/9/30,,MIT,MIT,2,1
+6407029a2668befcf8fd27eb,mypy-boto3-kinesis-video-signaling,1.17.70.post2,2021/5/10,MIT License,MIT,MIT,1,1
+640702502668befcf8e0d35a,spell,0.18.1,2018/9/19,,,Unrecognizable,,1
+640701a32668befcf84a2f31,better-fasta-grep,1.0.1,2021/10/12,GPL 3,GPL-3.0-only,GPL-3.0-only,1,1
+640701822668befcf82d76f8,chinstrap,1.0.8,2022/6/2,MIT License,,MIT,1,1
+640701f22668befcf88e81ea,musicalrobot,0.8,2019/8/21,MIT,,MIT,1,1
+640702422668befcf8d4d390,vincent,0.2,2013/7/31,MIT License,,MIT,1,1
+640701f62668befcf8927cd2,cdk8s-plus-22,2.0.0rc102,2022/9/7,Apache-2.0,,Apache-2.0,1,1
+640701d92668befcf878b0ae,draftsupdate,4.0.0,2017/10/30,MIT,MIT,MIT,1,1
+6407017f2668befcf82a9b1a,cpgclientlib,0.11.96,2020/3/3,,Apache-2.0,Apache-2.0,2,1
+640701bb2668befcf85f1bc2,electiondata,1.3.0,2021/5/15,,,Unrecognizable,,1
+640701822668befcf82d5a09,nemo-billing,1.13.1,2021/10/7,MIT,MIT,MIT,1,1
+6407024e2668befcf8dec437,mypy-boto3-config,1.14.55.0,2020/9/3,MIT License,MIT,MIT,1,1
+640702582668befcf8e840bd,recept,0.0.11,2019/9/30,Apache-2.0,Apache-2.0,Apache-2.0,1,1
+6407017e2668befcf82a5cd3,clustersupport,0.0.2,2020/9/6,,MIT,MIT,2,1
+640702732668befcf8f9c262,tencentcloud-sdk-python-cmq,3.0.644,2022/5/29,Apache License 2.0,Apache-2.0,Apache-2.0,1,1

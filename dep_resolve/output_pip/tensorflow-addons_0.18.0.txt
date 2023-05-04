@@ -1,0 +1,7 @@
+tensorflow-addons==0.18.0
+  - packaging [required: Any, installed: 23.1]
+  - typeguard [required: >=2.7, installed: 3.0.2]
+    - importlib-metadata [required: >=3.6, installed: 6.6.0]
+      - zipp [required: >=0.5, installed: 3.15.0]
+    - typing-extensions [required: >=4.4.0, installed: 4.5.0]
+

@@ -1,0 +1,228 @@
+{
+  "virtualenv": {
+    "version": "20.16.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<21,>=16"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.27.0,>=1.21.1"
+      },
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.15.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<1.16.0,>=1.13.0"
+      },
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      },
+      {
+        "from": "pathlib2",
+        "specifier": ""
+      },
+      {
+        "from": "jsonschema",
+        "specifier": ">=1.11.0"
+      },
+      {
+        "from": "furl",
+        "specifier": ">=1.8.0"
+      },
+      {
+        "from": "orderedmultidict",
+        "specifier": ">=1.8.0"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.29.0,>=2.20.0"
+      }
+    ]
+  },
+  "PyYAML": {
+    "version": "6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<6.1,>=3.12"
+      }
+    ]
+  },
+  "pyjwt": {
+    "version": "2.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.5.0,>=2.4.0"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.9.0,>=2.4.2"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "2.4.7",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.5.0,>=2.0.3"
+      }
+    ]
+  },
+  "psutil": {
+    "version": "5.9.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<5.10.0,>=3.4.2"
+      }
+    ]
+  },
+  "pathlib2": {
+    "version": "2.3.7.post1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.4.0,>=2.3.0"
+      }
+    ]
+  },
+  "jsonschema": {
+    "version": "3.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.3.0,>=2.6.0"
+      }
+    ]
+  },
+  "furl": {
+    "version": "2.1.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.2.0,>=2.0.0"
+      }
+    ]
+  },
+  "attrs": {
+    "version": "20.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<20.4.0,>=18.0"
+      },
+      {
+        "from": "jsonschema",
+        "specifier": ">=17.4.0"
+      }
+    ]
+  },
+  "platformdirs": {
+    "version": "2.5.3",
+    "constraints": [
+      {
+        "from": "virtualenv",
+        "specifier": "<3,>=2.4"
+      }
+    ]
+  },
+  "filelock": {
+    "version": "3.8.0",
+    "constraints": [
+      {
+        "from": "virtualenv",
+        "specifier": "<4,>=3.4.1"
+      }
+    ]
+  },
+  "distlib": {
+    "version": "0.3.6",
+    "constraints": [
+      {
+        "from": "virtualenv",
+        "specifier": "<1,>=0.3.6"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyrsistent": {
+    "version": "0.19.2",
+    "constraints": [
+      {
+        "from": "jsonschema",
+        "specifier": ">=0.14.0"
+      }
+    ]
+  },
+  "orderedmultidict": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "furl",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  }
+}

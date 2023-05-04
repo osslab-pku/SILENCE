@@ -1,0 +1,69 @@
+{
+  "tomli": {
+    "version": "2.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "hatchling",
+        "specifier": ">=1.2.2"
+      }
+    ]
+  },
+  "hatchling": {
+    "version": "1.11.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "pluggy": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "hatchling",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "pathspec": {
+    "version": "0.10.1",
+    "constraints": [
+      {
+        "from": "hatchling",
+        "specifier": ">=0.10.1"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "hatchling",
+        "specifier": ">=21.3"
+      }
+    ]
+  },
+  "editables": {
+    "version": "0.3",
+    "constraints": [
+      {
+        "from": "hatchling",
+        "specifier": ">=0.3"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  }
+}

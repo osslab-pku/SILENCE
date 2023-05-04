@@ -1,0 +1,449 @@
+{
+  "tensorflow-io-gcs-filesystem": {
+    "version": "0.27.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.23.1"
+      }
+    ]
+  },
+  "wrapt": {
+    "version": "1.14.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.11.0"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.6.6"
+      }
+    ]
+  },
+  "termcolor": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.1.0"
+      }
+    ]
+  },
+  "tensorflow-estimator": {
+    "version": "2.11.0rc0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.12,>=2.11.0rc0"
+      }
+    ]
+  },
+  "tensorboard": {
+    "version": "2.10.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.11,>=2.10"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.12.0"
+      },
+      {
+        "from": "grpcio",
+        "specifier": ">=1.5.2"
+      },
+      {
+        "from": "google-pasta",
+        "specifier": ""
+      },
+      {
+        "from": "astunparse",
+        "specifier": "<2.0,>=1.6.1"
+      },
+      {
+        "from": "google-auth",
+        "specifier": ">=1.9.0"
+      }
+    ]
+  },
+  "setuptools": {
+    "version": "65.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      },
+      {
+        "from": "tensorboard",
+        "specifier": ">=41.0.0"
+      }
+    ]
+  },
+  "protobuf": {
+    "version": "3.19.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<3.20,>=3.9.2"
+      },
+      {
+        "from": "tensorboard",
+        "specifier": "<3.20,>=3.9.2"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "opt-einsum": {
+    "version": "3.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.3.2"
+      }
+    ]
+  },
+  "numpy": {
+    "version": "1.23.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.20"
+      },
+      {
+        "from": "tensorboard",
+        "specifier": ">=1.12.0"
+      },
+      {
+        "from": "opt-einsum",
+        "specifier": ">=1.7"
+      },
+      {
+        "from": "h5py",
+        "specifier": ">=1.14.5"
+      }
+    ]
+  },
+  "libclang": {
+    "version": "14.0.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=13.0.0"
+      }
+    ]
+  },
+  "keras": {
+    "version": "2.11.0rc3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.12,>=2.11.0rc1"
+      }
+    ]
+  },
+  "h5py": {
+    "version": "3.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.9.0"
+      }
+    ]
+  },
+  "grpcio": {
+    "version": "1.50.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<2.0,>=1.24.3"
+      },
+      {
+        "from": "tensorboard",
+        "specifier": ">=1.24.3"
+      }
+    ]
+  },
+  "google-pasta": {
+    "version": "0.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=0.1.1"
+      }
+    ]
+  },
+  "gast": {
+    "version": "0.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<=0.4.0,>=0.2.1"
+      }
+    ]
+  },
+  "flatbuffers": {
+    "version": "22.10.26",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=2.0"
+      }
+    ]
+  },
+  "astunparse": {
+    "version": "1.6.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.6.0"
+      }
+    ]
+  },
+  "absl-py": {
+    "version": "1.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.0.0"
+      },
+      {
+        "from": "tensorboard",
+        "specifier": ">=0.4"
+      }
+    ]
+  },
+  "wheel": {
+    "version": "0.38.4",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": ">=0.26"
+      },
+      {
+        "from": "astunparse",
+        "specifier": "<1.0,>=0.23.0"
+      }
+    ]
+  },
+  "werkzeug": {
+    "version": "2.2.2",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "tensorboard-plugin-wit": {
+    "version": "1.8.1",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": ">=1.6.0"
+      }
+    ]
+  },
+  "tensorboard-data-server": {
+    "version": "0.6.1",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": "<0.7.0,>=0.6.0"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": "<3,>=2.21.0"
+      },
+      {
+        "from": "requests-oauthlib",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "markdown": {
+    "version": "3.3.7",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": ">=2.6.8"
+      }
+    ]
+  },
+  "google-auth-oauthlib": {
+    "version": "0.4.6",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": "<0.5,>=0.4.1"
+      }
+    ]
+  },
+  "google-auth": {
+    "version": "2.14.1",
+    "constraints": [
+      {
+        "from": "tensorboard",
+        "specifier": "<3,>=1.6.3"
+      },
+      {
+        "from": "google-auth-oauthlib",
+        "specifier": ">=1.0.0"
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "MarkupSafe": {
+    "version": "2.1.1",
+    "constraints": [
+      {
+        "from": "werkzeug",
+        "specifier": ">=2.1.1"
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "importlib-metadata": {
+    "version": "5.0.0",
+    "constraints": [
+      {
+        "from": "markdown",
+        "specifier": ">=4.4"
+      }
+    ]
+  },
+  "requests-oauthlib": {
+    "version": "1.3.1",
+    "constraints": [
+      {
+        "from": "google-auth-oauthlib",
+        "specifier": ">=0.7.0"
+      }
+    ]
+  },
+  "rsa": {
+    "version": "4.9",
+    "constraints": [
+      {
+        "from": "google-auth",
+        "specifier": "<5,>=3.1.4"
+      }
+    ]
+  },
+  "pyasn1-modules": {
+    "version": "0.2.8",
+    "constraints": [
+      {
+        "from": "google-auth",
+        "specifier": ">=0.2.1"
+      }
+    ]
+  },
+  "cachetools": {
+    "version": "5.2.0",
+    "constraints": [
+      {
+        "from": "google-auth",
+        "specifier": "<6.0,>=2.0.0"
+      }
+    ]
+  },
+  "zipp": {
+    "version": "3.10.0",
+    "constraints": [
+      {
+        "from": "importlib-metadata",
+        "specifier": ">=0.5"
+      }
+    ]
+  },
+  "oauthlib": {
+    "version": "3.2.2",
+    "constraints": [
+      {
+        "from": "requests-oauthlib",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  },
+  "pyasn1": {
+    "version": "0.4.8",
+    "constraints": [
+      {
+        "from": "rsa",
+        "specifier": ">=0.1.3"
+      },
+      {
+        "from": "pyasn1-modules",
+        "specifier": "<0.5.0,>=0.4.6"
+      }
+    ]
+  }
+}

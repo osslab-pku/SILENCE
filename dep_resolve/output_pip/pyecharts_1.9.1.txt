@@ -1,0 +1,7 @@
+pyecharts==1.9.1
+  - jinja2 [required: Any, installed: 3.1.2]
+    - MarkupSafe [required: >=2.0, installed: 2.1.2]
+  - prettytable [required: Any, installed: 3.7.0]
+    - wcwidth [required: Any, installed: 0.2.6]
+  - simplejson [required: Any, installed: 3.19.1]
+

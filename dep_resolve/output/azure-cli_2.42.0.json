@@ -1,0 +1,2162 @@
+{
+  "distro": {
+    "version": "1.8.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ""
+      }
+    ]
+  },
+  "xmltodict": {
+    "version": "0.13.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.12"
+      }
+    ]
+  },
+  "websocket-client": {
+    "version": "1.3.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.3.1"
+      }
+    ]
+  },
+  "sshtunnel": {
+    "version": "0.1.5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.1.4"
+      }
+    ]
+  },
+  "six": {
+    "version": "1.16.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=1.10.0"
+      },
+      {
+        "from": "javaproperties",
+        "specifier": "~=1.4"
+      },
+      {
+        "from": "azure-keyvault-keys",
+        "specifier": ">=1.12.0"
+      },
+      {
+        "from": "azure-cosmos",
+        "specifier": ">=1.6"
+      },
+      {
+        "from": "paramiko",
+        "specifier": ""
+      },
+      {
+        "from": "pathlib2",
+        "specifier": ""
+      },
+      {
+        "from": "azure-core",
+        "specifier": ">=1.11.0"
+      },
+      {
+        "from": "python-dateutil",
+        "specifier": ">=1.5"
+      },
+      {
+        "from": "msrestazure",
+        "specifier": ""
+      },
+      {
+        "from": "isodate",
+        "specifier": ""
+      }
+    ]
+  },
+  "semver": {
+    "version": "2.13.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==2.13.0"
+      }
+    ]
+  },
+  "scp": {
+    "version": "0.13.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.13.2"
+      }
+    ]
+  },
+  "PyNaCl": {
+    "version": "1.5.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.5.0"
+      }
+    ]
+  },
+  "PyMySQL": {
+    "version": "1.0.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.0.2"
+      }
+    ]
+  },
+  "PyGithub": {
+    "version": "1.57",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.38"
+      }
+    ]
+  },
+  "packaging": {
+    "version": "21.3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "<22.0,>=20.9"
+      },
+      {
+        "from": "azure-cli-core",
+        "specifier": "<22.0,>=20.9"
+      }
+    ]
+  },
+  "jsondiff": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=2.0.0"
+      }
+    ]
+  },
+  "javaproperties": {
+    "version": "0.5.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.5.1"
+      }
+    ]
+  },
+  "fabric": {
+    "version": "2.7.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=2.4"
+      }
+    ]
+  },
+  "colorama": {
+    "version": "0.4.6",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.4.4"
+      }
+    ]
+  },
+  "chardet": {
+    "version": "3.0.4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=3.0.4"
+      }
+    ]
+  },
+  "azure-synapse-spark": {
+    "version": "0.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.2.0"
+      }
+    ]
+  },
+  "azure-synapse-accesscontrol": {
+    "version": "0.5.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.5.0"
+      }
+    ]
+  },
+  "azure-storage-common": {
+    "version": "1.4.2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.4"
+      }
+    ]
+  },
+  "azure-mgmt-web": {
+    "version": "7.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==7.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-synapse": {
+    "version": "2.1.0b5",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==2.1.0b5"
+      }
+    ]
+  },
+  "azure-mgmt-storage": {
+    "version": "20.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=20.1.0"
+      }
+    ]
+  },
+  "azure-mgmt-sql": {
+    "version": "4.0.0b4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==4.0.0b4"
+      }
+    ]
+  },
+  "azure-mgmt-sqlvirtualmachine": {
+    "version": "1.0.0b3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==1.0.0b3"
+      }
+    ]
+  },
+  "azure-mgmt-signalr": {
+    "version": "1.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==1.1.0"
+      }
+    ]
+  },
+  "azure-mgmt-servicefabric": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-servicelinker": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==1.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-servicefabricmanagedclusters": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-servicebus": {
+    "version": "8.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=8.1.0"
+      }
+    ]
+  },
+  "azure-mgmt-security": {
+    "version": "2.0.0b1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==2.0.0b1"
+      }
+    ]
+  },
+  "azure-mgmt-search": {
+    "version": "8.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=8.0"
+      }
+    ]
+  },
+  "azure-mgmt-resource": {
+    "version": "21.1.0b1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==21.1.0b1"
+      }
+    ]
+  },
+  "azure-mgmt-relay": {
+    "version": "0.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.1.0"
+      }
+    ]
+  },
+  "azure-mgmt-redis": {
+    "version": "13.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=13.1.0"
+      }
+    ]
+  },
+  "azure-mgmt-redhatopenshift": {
+    "version": "1.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==1.1.0"
+      }
+    ]
+  },
+  "azure-mgmt-recoveryservices": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=2.1.0"
+      }
+    ]
+  },
+  "azure-mgmt-recoveryservicesbackup": {
+    "version": "5.1.0b2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=5.1.0b1"
+      }
+    ]
+  },
+  "azure-mgmt-rdbms": {
+    "version": "10.2.0b4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=10.2.0b3"
+      }
+    ]
+  },
+  "azure-mgmt-privatedns": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-policyinsights": {
+    "version": "1.1.0b3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.1.0b2"
+      }
+    ]
+  },
+  "azure-mgmt-netapp": {
+    "version": "9.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=9.0.1"
+      }
+    ]
+  },
+  "azure-mgmt-msi": {
+    "version": "6.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=6.1.0"
+      }
+    ]
+  },
+  "azure-mgmt-monitor": {
+    "version": "5.0.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=5.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-media": {
+    "version": "9.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=9.0"
+      }
+    ]
+  },
+  "azure-mgmt-maps": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=2.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-managementgroups": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-managedservices": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.0"
+      }
+    ]
+  },
+  "azure-mgmt-loganalytics": {
+    "version": "13.0.0b4",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==13.0.0b4"
+      }
+    ]
+  },
+  "azure-mgmt-kusto": {
+    "version": "0.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.3.0"
+      }
+    ]
+  },
+  "azure-mgmt-keyvault": {
+    "version": "10.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==10.1.0"
+      }
+    ]
+  },
+  "azure-mgmt-iothubprovisioningservices": {
+    "version": "1.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==1.1.0"
+      }
+    ]
+  },
+  "azure-mgmt-iothub": {
+    "version": "2.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==2.2.0"
+      }
+    ]
+  },
+  "azure-mgmt-iotcentral": {
+    "version": "10.0.0b1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=10.0.0b1"
+      }
+    ]
+  },
+  "azure-mgmt-imagebuilder": {
+    "version": "1.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.1.0"
+      }
+    ]
+  },
+  "azure-mgmt-hdinsight": {
+    "version": "9.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=9.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-extendedlocation": {
+    "version": "1.0.0b2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==1.0.0b2"
+      }
+    ]
+  },
+  "azure-mgmt-eventhub": {
+    "version": "10.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=10.1.0"
+      }
+    ]
+  },
+  "azure-mgmt-eventgrid": {
+    "version": "10.2.0b2",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==10.2.0b2"
+      }
+    ]
+  },
+  "azure-mgmt-dns": {
+    "version": "8.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=8.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-devtestlabs": {
+    "version": "4.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=4.0"
+      }
+    ]
+  },
+  "azure-mgmt-deploymentmanager": {
+    "version": "0.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.2.0"
+      }
+    ]
+  },
+  "azure-mgmt-datamigration": {
+    "version": "10.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=10.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-datalake-store": {
+    "version": "0.5.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.5.0"
+      }
+    ]
+  },
+  "azure-mgmt-datalake-analytics": {
+    "version": "0.2.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.2.1"
+      }
+    ]
+  },
+  "azure-mgmt-databoxedge": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-cosmosdb": {
+    "version": "8.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==8.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-containerservice": {
+    "version": "20.6.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=20.6.0"
+      }
+    ]
+  },
+  "azure-mgmt-containerinstance": {
+    "version": "9.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=9.1.0"
+      }
+    ]
+  },
+  "azure-mgmt-consumption": {
+    "version": "2.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=2.0"
+      }
+    ]
+  },
+  "azure-mgmt-cognitiveservices": {
+    "version": "13.3.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=13.3.0"
+      }
+    ]
+  },
+  "azure-mgmt-botservice": {
+    "version": "2.0.0b3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=2.0.0b3"
+      }
+    ]
+  },
+  "azure-mgmt-billing": {
+    "version": "6.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==6.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-batch": {
+    "version": "16.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=16.2.0"
+      }
+    ]
+  },
+  "azure-mgmt-batchai": {
+    "version": "7.0.0b1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==7.0.0b1"
+      }
+    ]
+  },
+  "azure-mgmt-authorization": {
+    "version": "0.61.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.61.0"
+      }
+    ]
+  },
+  "azure-mgmt-applicationinsights": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-apimanagement": {
+    "version": "3.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=3.0.0"
+      }
+    ]
+  },
+  "azure-mgmt-advisor": {
+    "version": "9.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==9.0.0"
+      }
+    ]
+  },
+  "azure-loganalytics": {
+    "version": "0.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.1.0"
+      }
+    ]
+  },
+  "azure-keyvault": {
+    "version": "1.1.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.1.0"
+      }
+    ]
+  },
+  "azure-keyvault-keys": {
+    "version": "4.5.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==4.5.1"
+      }
+    ]
+  },
+  "azure-keyvault-administration": {
+    "version": "4.0.0b3",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==4.0.0b3"
+      }
+    ]
+  },
+  "azure-graphrbac": {
+    "version": "0.60.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.60.0"
+      }
+    ]
+  },
+  "azure-datalake-store": {
+    "version": "0.0.52",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=0.0.49"
+      }
+    ]
+  },
+  "azure-data-tables": {
+    "version": "12.4.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==12.4.0"
+      }
+    ]
+  },
+  "azure-cosmos": {
+    "version": "3.2.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": ">=3.0.2,~=3.0"
+      }
+    ]
+  },
+  "azure-cli-core": {
+    "version": "2.42.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "==2.42.0"
+      }
+    ]
+  },
+  "azure-batch": {
+    "version": "12.0.0",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=12.0.0"
+      }
+    ]
+  },
+  "azure-appconfiguration": {
+    "version": "1.1.1",
+    "constraints": [
+      {
+        "from": "",
+        "specifier": "~=1.1.1"
+      }
+    ]
+  },
+  "paramiko": {
+    "version": "2.12.0",
+    "constraints": [
+      {
+        "from": "sshtunnel",
+        "specifier": ">=1.15.2"
+      },
+      {
+        "from": "scp",
+        "specifier": ""
+      },
+      {
+        "from": "fabric",
+        "specifier": ">=2.4"
+      },
+      {
+        "from": "azure-cli-core",
+        "specifier": "<3.0.0,>=2.0.8"
+      }
+    ]
+  },
+  "cffi": {
+    "version": "1.15.1",
+    "constraints": [
+      {
+        "from": "PyNaCl",
+        "specifier": ">=1.4.1"
+      },
+      {
+        "from": "azure-datalake-store",
+        "specifier": ""
+      },
+      {
+        "from": "pynacl",
+        "specifier": ">=1.4.1"
+      },
+      {
+        "from": "cryptography",
+        "specifier": ">=1.12"
+      }
+    ]
+  },
+  "requests": {
+    "version": "2.28.1",
+    "constraints": [
+      {
+        "from": "PyGithub",
+        "specifier": ">=2.14.0"
+      },
+      {
+        "from": "azure-storage-common",
+        "specifier": ""
+      },
+      {
+        "from": "azure-keyvault",
+        "specifier": ">=2.18.4"
+      },
+      {
+        "from": "azure-datalake-store",
+        "specifier": ">=2.20.0"
+      },
+      {
+        "from": "azure-cosmos",
+        "specifier": ">=2.10.0"
+      },
+      {
+        "from": "azure-core",
+        "specifier": ">=2.18.4"
+      },
+      {
+        "from": "msrest",
+        "specifier": "~=2.16"
+      },
+      {
+        "from": "adal",
+        "specifier": "<3,>=2.0.0"
+      },
+      {
+        "from": "requests-oauthlib",
+        "specifier": ">=2.0.0"
+      },
+      {
+        "from": "msal",
+        "specifier": "<3,>=2.0.0"
+      }
+    ]
+  },
+  "pynacl": {
+    "version": "1.5.0",
+    "constraints": [
+      {
+        "from": "PyGithub",
+        "specifier": ">=1.4.0"
+      },
+      {
+        "from": "paramiko",
+        "specifier": ">=1.0.1"
+      }
+    ]
+  },
+  "pyjwt": {
+    "version": "2.6.0",
+    "constraints": [
+      {
+        "from": "PyGithub",
+        "specifier": ">=2.4.0"
+      }
+    ]
+  },
+  "deprecated": {
+    "version": "1.2.13",
+    "constraints": [
+      {
+        "from": "PyGithub",
+        "specifier": ""
+      }
+    ]
+  },
+  "pyparsing": {
+    "version": "3.0.9",
+    "constraints": [
+      {
+        "from": "packaging",
+        "specifier": "!=3.0.5,>=2.0.2"
+      }
+    ]
+  },
+  "pathlib2": {
+    "version": "2.3.7.post1",
+    "constraints": [
+      {
+        "from": "fabric",
+        "specifier": ""
+      }
+    ]
+  },
+  "invoke": {
+    "version": "1.7.3",
+    "constraints": [
+      {
+        "from": "fabric",
+        "specifier": "<2.0,>=1.3"
+      }
+    ]
+  },
+  "azure-core": {
+    "version": "1.26.1",
+    "constraints": [
+      {
+        "from": "azure-synapse-spark",
+        "specifier": "<2.0.0,>=1.6.0"
+      },
+      {
+        "from": "azure-synapse-accesscontrol",
+        "specifier": "<2.0.0,>=1.6.0"
+      },
+      {
+        "from": "azure-keyvault-keys",
+        "specifier": "<2.0.0,>=1.20.0"
+      },
+      {
+        "from": "azure-keyvault-administration",
+        "specifier": "<2.0.0,>=1.7.0"
+      },
+      {
+        "from": "azure-data-tables",
+        "specifier": "<2.0.0,>=1.15.0"
+      },
+      {
+        "from": "azure-appconfiguration",
+        "specifier": "<2.0.0,>=1.2.2"
+      },
+      {
+        "from": "msrest",
+        "specifier": ">=1.24.0"
+      },
+      {
+        "from": "azure-mgmt-core",
+        "specifier": "<2.0.0,>=1.24.0"
+      }
+    ]
+  },
+  "azure-common": {
+    "version": "1.1.28",
+    "constraints": [
+      {
+        "from": "azure-synapse-spark",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-synapse-accesscontrol",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-storage-common",
+        "specifier": ">=1.1.5"
+      },
+      {
+        "from": "azure-mgmt-web",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-synapse",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-storage",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-sql",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-sqlvirtualmachine",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-signalr",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-servicefabric",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-servicelinker",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-servicefabricmanagedclusters",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-servicebus",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-security",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-search",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-resource",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-relay",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-redis",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-redhatopenshift",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-recoveryservices",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-recoveryservicesbackup",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-rdbms",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-privatedns",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-policyinsights",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-netapp",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-msi",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-monitor",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-media",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-maps",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-managementgroups",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-managedservices",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-loganalytics",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-kusto",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-keyvault",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-iothubprovisioningservices",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-iothub",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-iotcentral",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-imagebuilder",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-hdinsight",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-extendedlocation",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-eventhub",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-eventgrid",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-dns",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-devtestlabs",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-deploymentmanager",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-datamigration",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-datalake-store",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-datalake-analytics",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-databoxedge",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-cosmosdb",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-containerservice",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-containerinstance",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-consumption",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-cognitiveservices",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-botservice",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-billing",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-batch",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-batchai",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-authorization",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-applicationinsights",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-apimanagement",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-mgmt-advisor",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-loganalytics",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-keyvault",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-keyvault-keys",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-keyvault-administration",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-graphrbac",
+        "specifier": "~=1.1"
+      },
+      {
+        "from": "azure-batch",
+        "specifier": "~=1.1"
+      }
+    ]
+  },
+  "msrest": {
+    "version": "0.7.1",
+    "constraints": [
+      {
+        "from": "azure-synapse-spark",
+        "specifier": ">=0.5.0"
+      },
+      {
+        "from": "azure-synapse-accesscontrol",
+        "specifier": ">=0.5.0"
+      },
+      {
+        "from": "azure-mgmt-web",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-synapse",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-storage",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-sql",
+        "specifier": ">=0.7.1"
+      },
+      {
+        "from": "azure-mgmt-sqlvirtualmachine",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-signalr",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-servicefabric",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-servicelinker",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-servicefabricmanagedclusters",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-servicebus",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-security",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-search",
+        "specifier": ">=0.5.0"
+      },
+      {
+        "from": "azure-mgmt-resource",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-redis",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-redhatopenshift",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-recoveryservices",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-recoveryservicesbackup",
+        "specifier": ">=0.7.1"
+      },
+      {
+        "from": "azure-mgmt-rdbms",
+        "specifier": ">=0.7.1"
+      },
+      {
+        "from": "azure-mgmt-privatedns",
+        "specifier": ">=0.5.0"
+      },
+      {
+        "from": "azure-mgmt-policyinsights",
+        "specifier": ">=0.7.1"
+      },
+      {
+        "from": "azure-mgmt-netapp",
+        "specifier": ">=0.7.1"
+      },
+      {
+        "from": "azure-mgmt-msi",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-monitor",
+        "specifier": ">=0.7.1"
+      },
+      {
+        "from": "azure-mgmt-media",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-maps",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-managementgroups",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-managedservices",
+        "specifier": ">=0.5.0"
+      },
+      {
+        "from": "azure-mgmt-loganalytics",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-kusto",
+        "specifier": ">=0.5.0"
+      },
+      {
+        "from": "azure-mgmt-keyvault",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-iothubprovisioningservices",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-iothub",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-iotcentral",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-imagebuilder",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-hdinsight",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-extendedlocation",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-eventhub",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-eventgrid",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-dns",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-devtestlabs",
+        "specifier": ">=0.5.0"
+      },
+      {
+        "from": "azure-mgmt-deploymentmanager",
+        "specifier": ">=0.5.0"
+      },
+      {
+        "from": "azure-mgmt-datamigration",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-databoxedge",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-cosmosdb",
+        "specifier": ">=0.7.1"
+      },
+      {
+        "from": "azure-mgmt-containerservice",
+        "specifier": ">=0.7.1"
+      },
+      {
+        "from": "azure-mgmt-containerinstance",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-cognitiveservices",
+        "specifier": ">=0.7.1"
+      },
+      {
+        "from": "azure-mgmt-botservice",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-billing",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-batch",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-batchai",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-authorization",
+        "specifier": ">=0.5.0"
+      },
+      {
+        "from": "azure-mgmt-applicationinsights",
+        "specifier": ">=0.5.0"
+      },
+      {
+        "from": "azure-mgmt-apimanagement",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-mgmt-advisor",
+        "specifier": ">=0.5.0"
+      },
+      {
+        "from": "azure-loganalytics",
+        "specifier": ">=0.5.0"
+      },
+      {
+        "from": "azure-keyvault",
+        "specifier": ">=0.5.0"
+      },
+      {
+        "from": "azure-keyvault-keys",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-keyvault-administration",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-graphrbac",
+        "specifier": ">=0.5.0"
+      },
+      {
+        "from": "azure-data-tables",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-batch",
+        "specifier": ">=0.6.21"
+      },
+      {
+        "from": "azure-appconfiguration",
+        "specifier": ">=0.6.10"
+      },
+      {
+        "from": "msrestazure",
+        "specifier": "<2.0.0,>=0.6.0"
+      }
+    ]
+  },
+  "python-dateutil": {
+    "version": "2.8.2",
+    "constraints": [
+      {
+        "from": "azure-storage-common",
+        "specifier": ""
+      },
+      {
+        "from": "adal",
+        "specifier": "<3,>=2.1.0"
+      }
+    ]
+  },
+  "cryptography": {
+    "version": "38.0.3",
+    "constraints": [
+      {
+        "from": "azure-storage-common",
+        "specifier": ""
+      },
+      {
+        "from": "azure-keyvault",
+        "specifier": ">=2.1.4"
+      },
+      {
+        "from": "azure-keyvault-keys",
+        "specifier": ">=2.1.4"
+      },
+      {
+        "from": "azure-cli-core",
+        "specifier": ""
+      },
+      {
+        "from": "paramiko",
+        "specifier": ">=2.5"
+      },
+      {
+        "from": "adal",
+        "specifier": ">=1.1.0"
+      },
+      {
+        "from": "pyopenssl",
+        "specifier": "<39,>=38.0.0"
+      },
+      {
+        "from": "msal",
+        "specifier": "<41,>=0.6"
+      }
+    ]
+  },
+  "azure-mgmt-core": {
+    "version": "1.3.2",
+    "constraints": [
+      {
+        "from": "azure-mgmt-web",
+        "specifier": "<2.0.0,>=1.3.1"
+      },
+      {
+        "from": "azure-mgmt-synapse",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-storage",
+        "specifier": "<2.0.0,>=1.3.1"
+      },
+      {
+        "from": "azure-mgmt-sql",
+        "specifier": "<2.0.0,>=1.3.2"
+      },
+      {
+        "from": "azure-mgmt-sqlvirtualmachine",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-signalr",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-servicefabric",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-servicelinker",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-servicefabricmanagedclusters",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-servicebus",
+        "specifier": "<2.0.0,>=1.3.1"
+      },
+      {
+        "from": "azure-mgmt-security",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-search",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-resource",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-redis",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-redhatopenshift",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-recoveryservices",
+        "specifier": "<2.0.0,>=1.3.1"
+      },
+      {
+        "from": "azure-mgmt-recoveryservicesbackup",
+        "specifier": "<2.0.0,>=1.3.2"
+      },
+      {
+        "from": "azure-mgmt-rdbms",
+        "specifier": "<2.0.0,>=1.3.2"
+      },
+      {
+        "from": "azure-mgmt-privatedns",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-policyinsights",
+        "specifier": "<2.0.0,>=1.3.2"
+      },
+      {
+        "from": "azure-mgmt-netapp",
+        "specifier": "<2.0.0,>=1.3.2"
+      },
+      {
+        "from": "azure-mgmt-msi",
+        "specifier": "<2.0.0,>=1.3.1"
+      },
+      {
+        "from": "azure-mgmt-monitor",
+        "specifier": "<2.0.0,>=1.3.2"
+      },
+      {
+        "from": "azure-mgmt-media",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-maps",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-managementgroups",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-loganalytics",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-keyvault",
+        "specifier": "<2.0.0,>=1.3.1"
+      },
+      {
+        "from": "azure-mgmt-iothubprovisioningservices",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-iothub",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-iotcentral",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-imagebuilder",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-hdinsight",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-extendedlocation",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-eventhub",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-eventgrid",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-dns",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-datamigration",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-databoxedge",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-cosmosdb",
+        "specifier": "<2.0.0,>=1.3.2"
+      },
+      {
+        "from": "azure-mgmt-containerservice",
+        "specifier": "<2.0.0,>=1.3.2"
+      },
+      {
+        "from": "azure-mgmt-containerinstance",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-cognitiveservices",
+        "specifier": "<2.0.0,>=1.3.2"
+      },
+      {
+        "from": "azure-mgmt-botservice",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-billing",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-batch",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-batchai",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-applicationinsights",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-mgmt-apimanagement",
+        "specifier": "<2.0.0,>=1.3.0"
+      },
+      {
+        "from": "azure-mgmt-advisor",
+        "specifier": "<2.0.0,>=1.2.0"
+      },
+      {
+        "from": "azure-cli-core",
+        "specifier": "<2,>=1.2.0"
+      }
+    ]
+  },
+  "azure-mgmt-nspkg": {
+    "version": "3.0.2",
+    "constraints": [
+      {
+        "from": "azure-mgmt-relay",
+        "specifier": ">=2.0.0"
+      },
+      {
+        "from": "azure-mgmt-consumption",
+        "specifier": ">=2.0.0"
+      },
+      {
+        "from": "azure-mgmt-datalake-nspkg",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  },
+  "msrestazure": {
+    "version": "0.6.4",
+    "constraints": [
+      {
+        "from": "azure-mgmt-relay",
+        "specifier": "<2.0.0,>=0.4.20"
+      },
+      {
+        "from": "azure-mgmt-managedservices",
+        "specifier": "<2.0.0,>=0.4.32"
+      },
+      {
+        "from": "azure-mgmt-kusto",
+        "specifier": "<2.0.0,>=0.4.32"
+      },
+      {
+        "from": "azure-mgmt-devtestlabs",
+        "specifier": "<2.0.0,>=0.4.32"
+      },
+      {
+        "from": "azure-mgmt-deploymentmanager",
+        "specifier": "<2.0.0,>=0.4.32"
+      },
+      {
+        "from": "azure-mgmt-datalake-store",
+        "specifier": "<2.0.0,>=0.4.27"
+      },
+      {
+        "from": "azure-mgmt-datalake-analytics",
+        "specifier": "<2.0.0,>=0.4.7"
+      },
+      {
+        "from": "azure-mgmt-consumption",
+        "specifier": "<2.0.0,>=0.4.20"
+      },
+      {
+        "from": "azure-mgmt-authorization",
+        "specifier": "<2.0.0,>=0.4.32"
+      },
+      {
+        "from": "azure-keyvault",
+        "specifier": "<2.0.0,>=0.4.32"
+      },
+      {
+        "from": "azure-graphrbac",
+        "specifier": "<2.0.0,>=0.4.32"
+      },
+      {
+        "from": "azure-cli-core",
+        "specifier": "~=0.6.4"
+      },
+      {
+        "from": "azure-batch",
+        "specifier": "<2.0.0,>=0.4.32"
+      }
+    ]
+  },
+  "azure-mgmt-datalake-nspkg": {
+    "version": "3.0.1",
+    "constraints": [
+      {
+        "from": "azure-mgmt-datalake-store",
+        "specifier": ">=2.0.0"
+      },
+      {
+        "from": "azure-mgmt-datalake-analytics",
+        "specifier": ">=2.0.0"
+      }
+    ]
+  },
+  "azure-nspkg": {
+    "version": "3.0.2",
+    "constraints": [
+      {
+        "from": "azure-keyvault",
+        "specifier": ">=2.0.0"
+      },
+      {
+        "from": "azure-mgmt-nspkg",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  },
+  "adal": {
+    "version": "1.2.7",
+    "constraints": [
+      {
+        "from": "azure-datalake-store",
+        "specifier": ">=0.4.2"
+      },
+      {
+        "from": "msrestazure",
+        "specifier": "<2.0.0,>=0.6.0"
+      }
+    ]
+  },
+  "psutil": {
+    "version": "5.9.4",
+    "constraints": [
+      {
+        "from": "azure-cli-core",
+        "specifier": "~=5.9"
+      }
+    ]
+  },
+  "pyopenssl": {
+    "version": "22.1.0",
+    "constraints": [
+      {
+        "from": "azure-cli-core",
+        "specifier": ">=17.1.0"
+      }
+    ]
+  },
+  "PyJWT": {
+    "version": "2.6.0",
+    "constraints": [
+      {
+        "from": "azure-cli-core",
+        "specifier": ">=2.1.0"
+      },
+      {
+        "from": "adal",
+        "specifier": "<3,>=1.0.0"
+      }
+    ]
+  },
+  "pkginfo": {
+    "version": "1.8.3",
+    "constraints": [
+      {
+        "from": "azure-cli-core",
+        "specifier": ">=1.5.0.1"
+      }
+    ]
+  },
+  "msal-extensions": {
+    "version": "1.0.0",
+    "constraints": [
+      {
+        "from": "azure-cli-core",
+        "specifier": "~=1.0.0"
+      }
+    ]
+  },
+  "jmespath": {
+    "version": "1.0.1",
+    "constraints": [
+      {
+        "from": "azure-cli-core",
+        "specifier": ""
+      }
+    ]
+  },
+  "humanfriendly": {
+    "version": "10.0",
+    "constraints": [
+      {
+        "from": "azure-cli-core",
+        "specifier": "~=10.0"
+      }
+    ]
+  },
+  "azure-cli-telemetry": {
+    "version": "1.0.8.post20221028041827",
+    "constraints": [
+      {
+        "from": "azure-cli-core",
+        "specifier": "==1.0.8.*"
+      }
+    ]
+  },
+  "argcomplete": {
+    "version": "1.12.2",
+    "constraints": [
+      {
+        "from": "azure-cli-core",
+        "specifier": "~=1.8"
+      }
+    ]
+  },
+  "bcrypt": {
+    "version": "4.0.1",
+    "constraints": [
+      {
+        "from": "paramiko",
+        "specifier": ">=3.1.3"
+      }
+    ]
+  },
+  "pycparser": {
+    "version": "2.20",
+    "constraints": [
+      {
+        "from": "cffi",
+        "specifier": ""
+      }
+    ]
+  },
+  "certifi": {
+    "version": "2022.9.24",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": ">=2017.4.17"
+      },
+      {
+        "from": "msrest",
+        "specifier": ">=2017.4.17"
+      }
+    ]
+  },
+  "urllib3": {
+    "version": "1.26.12",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<1.27,>=1.21.1"
+      }
+    ]
+  },
+  "idna": {
+    "version": "3.3",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<4,>=2.5"
+      }
+    ]
+  },
+  "charset-normalizer": {
+    "version": "2.1.0",
+    "constraints": [
+      {
+        "from": "requests",
+        "specifier": "<3,>=2"
+      }
+    ]
+  },
+  "wrapt": {
+    "version": "1.14.1",
+    "constraints": [
+      {
+        "from": "deprecated",
+        "specifier": "<2,>=1.10"
+      }
+    ]
+  },
+  "typing-extensions": {
+    "version": "4.4.0",
+    "constraints": [
+      {
+        "from": "azure-core",
+        "specifier": ">=4.0.1"
+      }
+    ]
+  },
+  "requests-oauthlib": {
+    "version": "1.3.1",
+    "constraints": [
+      {
+        "from": "msrest",
+        "specifier": ">=0.5.0"
+      }
+    ]
+  },
+  "isodate": {
+    "version": "0.6.1",
+    "constraints": [
+      {
+        "from": "msrest",
+        "specifier": ">=0.6.0"
+      }
+    ]
+  },
+  "portalocker": {
+    "version": "2.6.0",
+    "constraints": [
+      {
+        "from": "msal-extensions",
+        "specifier": "<3,>=1.0"
+      },
+      {
+        "from": "azure-cli-telemetry",
+        "specifier": "<3,>=1.6"
+      }
+    ]
+  },
+  "msal": {
+    "version": "1.20.0",
+    "constraints": [
+      {
+        "from": "msal-extensions",
+        "specifier": "<2.0.0,>=0.4.1"
+      }
+    ]
+  },
+  "applicationinsights": {
+    "version": "0.11.10",
+    "constraints": [
+      {
+        "from": "azure-cli-telemetry",
+        "specifier": "<0.12,>=0.11.1"
+      }
+    ]
+  },
+  "oauthlib": {
+    "version": "3.2.2",
+    "constraints": [
+      {
+        "from": "requests-oauthlib",
+        "specifier": ">=3.0.0"
+      }
+    ]
+  }
+}

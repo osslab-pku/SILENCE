@@ -1,0 +1,15 @@
+pyqt5-tools==5.15.4.3.2
+  - click [required: Any, installed: 8.1.3]
+  - pyqt5 [required: ==5.15.4, installed: 5.15.4]
+    - PyQt5-Qt5 [required: >=5.15, installed: 5.15.2]
+    - PyQt5-sip [required: >=12.8,<13, installed: 12.12.1]
+  - pyqt5-plugins [required: >=5.15.4.2.2,<5.15.4.3, installed: 5.15.4.2.2]
+    - click [required: Any, installed: 8.1.3]
+    - pyqt5 [required: ==5.15.4, installed: 5.15.4]
+      - PyQt5-Qt5 [required: >=5.15, installed: 5.15.2]
+      - PyQt5-sip [required: >=12.8,<13, installed: 12.12.1]
+    - qt5-tools [required: >=5.15.2.1.2,<5.15.2.2, installed: 5.15.2.1.3]
+      - click [required: Any, installed: 8.1.3]
+      - qt5-applications [required: >=5.15.2.2.2,<5.15.2.3, installed: 5.15.2.2.3]
+  - python-dotenv [required: Any, installed: 1.0.0]
+
