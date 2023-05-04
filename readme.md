@@ -25,9 +25,9 @@ minimizing its differences from the original graph.
 
 ## How to start?
 
-1. You first need to import the dataset under the `data` directory into MongoDB. Run:
+1. The dataset is stored in the `package` collection in the `license` database. The dataset is under the `data` directory and you need to import it into MongoDB. Run:
 ```
-mongoimport --db license --collection package --file data/package.json
+mongoimport --uri=mongodb://127.0.0.1:<MONGO_PORT> --db=license --collection package --drop package.json
 ```
 
 2. For results of the empirical study, you can run:
@@ -43,7 +43,7 @@ python remediator.py all
 python relicenser.py
 ```
 
-If you want to get remediation in dependency graph for a version of specific package, run:
+If you want to get remediation in dependency graph for a specific package version, run:
 ```
 python remediator.py one -n name -v version
 ```
