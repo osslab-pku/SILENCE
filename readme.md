@@ -25,7 +25,7 @@ minimizing its differences from the original graph.
 
 ## How to start?
 
-1. The dataset is stored in the `package` collection in the `license` database. The dataset is under the `data` directory and you need to import it into MongoDB. Run:
+1. The dataset is stored in the `package` collection in the `license` database. You can get the dataset in `data` directory and you need to import it into MongoDB. Run:
 ```
 mongoimport --uri=mongodb://127.0.0.1:<MONGO_PORT> --db=license --collection package --drop package.json
 ```
