@@ -37,7 +37,7 @@ license_evolution.ipynb
 license_incompatibility.ipynb
 ```
 
-3. To get remediation of all incompatibilities in top 5,000 downloaded incompatibilities, you can run:
+3. To get remediation of all incompatibilities in top 5,000 downloaded packages, you can run:
 ```
 python remediator.py all
 python relicenser.py
