@@ -7641,3 +7641,4 @@ zopefoundation/Zope,e639221e7da269d13eeb2825cce62730a3a537e9,2004-01-05 17:04:13
 zulip/zulint,dfbf1d566c66faef8a74641e104340f5279061cb,2019-08-07 23:51:22,typing-extensions,mypy_extensions
 zulip/zulip,68dd8e4ec8de09664061bf8c08646a50576a9e73,2019-08-06 00:24:09,typing-extensions,mypy_extensions
 zulip/zulip-terminal,c470d255c0c981e1a4e312564dc26c15366dbc09,2020-08-10 18:10:15,typing-extensions,mypy_extensions
+,,,ndjson,jsonlines

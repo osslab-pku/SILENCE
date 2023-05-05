@@ -639,3 +639,4 @@ prompt-toolkit gnureadline,3
 prettytable texttable,3
 plotly matplotlib,3
 pyqt5 pyside2,3
+ndjson jsonlines,1

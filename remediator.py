@@ -230,7 +230,7 @@ class Z3Remediator:
             if pkg in direct_deps and pkg in migrations:
                 cons = []
                 for alter in migrations[pkg]:
-                    if alter in var_dict:
+                    if alter in var_dict and alter != self.package:
                         cons.append(z3.If(var_dict[alter] < 0, 1, 0))
                 c = z3.Sum(
                     c,
@@ -381,7 +381,7 @@ class Z3Remediator:
             if i not in new_tree and i in direct_deps:
                 if i in self.mig_base.rules:
                     for r in self.mig_base.rules[i]:
-                        if r in new_tree:
+                        if r in new_tree and r != self.package:
                             changes.append(f"Migrate {i} to {r}")
                             break
                     else:
@@ -401,11 +401,11 @@ def get_remediation(mongo_uri: str, package: str, version: str) -> dict:
     client = MongoClient(mongo_uri, tz_aware=True)
     package_db = client["license"]["package"]
     sample = package_db.find_one({"name": package, "version": version})
-
+    
     requires_dist, before = sample["requires_dist"], sample["release_date"]
     original_tree = {i["name"].lower(): i["version"] for i in sample["tree_created"]}
     logger.debug("Original tree: %s", original_tree)
-
+    remed["original_tree"]=original_tree
     dr = Z3Remediator(mongo_uri, package, version, sample["license_clean"])
     new_trees, direct_deps = dr.remediate(requires_dist, original_tree, before=before)
     for new_tree in new_trees:
