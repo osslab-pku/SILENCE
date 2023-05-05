@@ -2,16 +2,15 @@
 
 ## Intorduction
 In this paper, we propose SILENCE, an SMT
-(i.e., satisfiability modulo theories) based approach to automatically recommend actions to remediate license incompatibility
-in a release’s dependency graph. Given a dependency graph
-with one or more license incompatibilities, SILENCE searches
-for an alternative graph without license incompatibilities while
-minimizing its differences from the original graph. 
+(i.e., satisfiability modulo theories) based approach to automatically recommend actions to remediate license incompatibility in a release’s dependency graph. Given a dependency graph
+with one or more license incompatibilities, SILENCE searches for an alternative graph without license incompatibilities while minimizing its differences from the original graph.
+
+
 
 ## Dirs and files
 1. `data_collection`: licensing information collection
 2. `dep_resolve` : Python Dependency Tree Resolution
-3. `knowledge_base` contains license compatibility matrix, migration pattern, license keywords and so on.
+3. `knowledge_base` contains license compatibility matrix, migration patterns, license keywords and so on.
 4. `res` contains results and evaluation of SILENCE.
 5. `analysis.py` : data analysis of empirical study
 6. `license_distribution.ipynb`: results of RQ1
@@ -37,13 +36,13 @@ license_evolution.ipynb
 license_incompatibility.ipynb
 ```
 
-3. To get remediation of all incompatibilities in top 5,000 downloaded packages, you can run:
+3. To get remediations of all incompatibilities in top 5,000 downloaded packages, you can run:
 ```
 python remediator.py all
 python relicenser.py
 ```
 
-If you want to get remediation in dependency graph for a specific package version, run:
+4. If you want to get remediations in dependency graph for a specific package version, run:
 ```
 python remediator.py one -n name -v version
 ```
