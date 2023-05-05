@@ -1,7 +1,7 @@
 # Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem
 
 ## Intorduction
-In this paper, an SMT-solver-based incompatibility remediator for licenses in the
+In this paper, we propose SILENCE, an SMT-solver-based incompatibility remediator for licenses in the
 dependency graph. Given a release and its dependency graph with one or more license incompatibilities, SILENCE 1) finds alternative licenses that are compatible with the dependency
 graph, and 2) searches for alternative graphs with no license incompatibilities and minimal difference with the original graph. The results are aggregated as a report of recommended
 remediations (i.e., migrations, removals, version pinnings, or license changes) for developers to consider.
