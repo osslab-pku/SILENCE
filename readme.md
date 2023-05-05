@@ -26,7 +26,7 @@ with one or more license incompatibilities, SILENCE searches for an alternative 
 
 1. The dataset is stored in the `package` collection in the `license` database. You can get the dataset in `data` directory and you need to import it into MongoDB. Run:
 ```
-mongoimport --uri=mongodb://127.0.0.1:<MONGO_PORT> --db=license --collection package --drop package.json
+mongorestore --db=license --gzip data/package.bson.gz
 ```
 
 2. For results of the empirical study, you can run:
