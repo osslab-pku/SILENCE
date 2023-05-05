@@ -1,10 +1,10 @@
 # Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem
 
 ## Intorduction
-In this paper, we propose SILENCE, an SMT
-(i.e., satisfiability modulo theories) based approach to automatically recommend actions to remediate license incompatibility in a release’s dependency graph. Given a dependency graph
-with one or more license incompatibilities, SILENCE searches for an alternative graph without license incompatibilities while minimizing its differences from the original graph.
-
+In this paper, an SMT-solver-based incompatibility remediator for licenses in the
+dependency graph. Given a release and its dependency graph with one or more license incompatibilities, SILENCE 1) finds alternative licenses that are compatible with the dependency
+graph, and 2) searches for alternative graphs with no license incompatibilities and minimal difference with the original graph. The results are aggregated as a report of recommended
+remediations (i.e., migrations, removals, version pinnings, or license changes) for developers to consider.
 
 
 ## Dirs and files
