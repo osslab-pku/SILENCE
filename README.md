@@ -16,8 +16,8 @@ remediations (i.e., migrations, removals, version pinnings, or license changes) 
 6. `RQ1_license_evolution.ipynb`: results of RQ1
 7. `RQ2_license_incompatibility.ipynb`: results of RQ2
 8. `RQ3_license_remediation_practice.md`: note of RQ3
-9. `SILENCE_remediator.py`: implementation of SILENCE's SMT-based part
-10. `SILENCE_relicenser.py`: implementation of SILENCE's relicenser
+9. `remediator.py`: implementation of SILENCE's SMT-based part
+10. `relicenser.py`: implementation of SILENCE's relicenser
 11. `res` contains results and evaluation of SILENCE.
 12. `data` contains our dataset
 
@@ -31,9 +31,9 @@ mongorestore --db=license --gzip data/package.bson.gz
 
 2. For results of the empirical study, you can run:
 ```
-license_distribution.ipynb
-license_evolution.ipynb
-license_incompatibility.ipynb
+RQ1_license_distribution.ipynb
+RQ1_license_evolution.ipynb
+RQ2_license_incompatibility.ipynb
 ```
 
 3. To get remediations of all incompatibilities in top 5,000 downloaded packages, you can run:
