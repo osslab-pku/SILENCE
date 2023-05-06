@@ -8,7 +8,7 @@ remediations (i.e., migrations, removals, version pinnings, or license changes) 
 
 
 ## Dirs and files
-1. `data_collection`: licensing information collection
+1. `licensing_data_collection`: licensing information collection
 2. `dep_resolve` : Python dependency tree resolution
 3. `knowledge_base` contains license compatibility matrix, migration patterns, license keywords and so on.
 4. `analysis.py` : data analysis of empirical study
