@@ -9,17 +9,17 @@ remediations (i.e., migrations, removals, version pinnings, or license changes) 
 
 ## Dirs and files
 1. `data_collection`: licensing information collection
-2. `dep_resolve` : Python Dependency Tree Resolution
+2. `dep_resolve` : Python dependency tree resolution
 3. `knowledge_base` contains license compatibility matrix, migration patterns, license keywords and so on.
-4. `res` contains results and evaluation of SILENCE.
-5. `analysis.py` : data analysis of empirical study
-6. `license_distribution.ipynb`: results of RQ1
-7. `license_evolution.ipynb`: results of RQ1
-8. `license_incompatibility.ipynb`: results of RQ2
-9. `NOTE.md`: note of RQ3
-9. `remediator.py`: implementation of SILENCE's SMT-based part
-10. `relicenser.py`: implementation of SILENCE's relicenser
-11. `data` contains our dataset
+4. `analysis.py` : data analysis of empirical study
+5. `RQ1_license_distribution.ipynb`: results of RQ1
+6. `RQ1_license_evolution.ipynb`: results of RQ1
+7. `RQ2_license_incompatibility.ipynb`: results of RQ2
+8. `RQ3_license_remediation_practice.md`: note of RQ3
+9. `SILENCE_remediator.py`: implementation of SILENCE's SMT-based part
+10. `SILENCE_relicenser.py`: implementation of SILENCE's relicenser
+11. `res` contains results and evaluation of SILENCE.
+12. `data` contains our dataset
 
 
 ## How to start?

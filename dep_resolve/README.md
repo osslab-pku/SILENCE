@@ -9,7 +9,7 @@ This module imitates the behavior of pip based on a MongoDB replica of PyPI usin
 3. `eval_samples.json`: The packages used for evaluation
 4. `output/`: Dependency tree resolved from our resolver
 5. `output_pip/`: Dependency trees resolved from pip
-
+6. `build_dep_trees.py` builds dependency trees for all release in PyPI
 ## Evaluation Results
 
 ```
