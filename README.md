@@ -46,3 +46,5 @@ python relicenser.py
 ```
 python remediator.py one -n name -v version
 ```
+## License
+The project is licensed under [MulanPubL-2.0](LISENSE).
