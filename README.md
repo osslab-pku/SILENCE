@@ -51,8 +51,30 @@ python relicenser.py
 
 4. If you want to get remediations in dependency graph for a specific package version, run:
 ```
-python remediator.py one -n name -v version
+python SILENSE.py -n name -v version
 ```
+
+For example, if you want to get remediations for fiftone 0.18.0 in the paper, you can run:
+```
+python SILENSE.py -n fiftone -v 0.18.0
+```
+
+you will get the output as follows:
+```
+Possible Remediations for fiftyone 0.18.0:
+1. Change project license to GPL-3.0-only, GPL-3.0-or-later, or AGPL-3.0-only;
+2. Or make the following dependency changes:
+   a) Remove ndjson ;
+   b) Pin voxel51-eta to 0.1.9;
+   c) Pin pillow to 6.2.2;
+   d) Pin imageio to 2.9.0;
+   e) Pin h11 to 0.11.0.
+3. Or make the following dependency changes:
+   a) Remove voxel51-eta;
+   b) Remove ndjson;
+   c) Pin h11 to 0.11.0.
+```
+
 ## License
 The project is licensed under [MulanPubL-2.0](LISENSE).
 
