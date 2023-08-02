@@ -24,7 +24,7 @@ def silense():
     remed = get_remediation(args.mongo_uri, args.name, args.version)
 
     
-    print(f"Possible Remediations for {args.name} {args.version}")
+    print(f"Possible Remediations for {args.name} {args.version}:")
     print("1. Change project license to "+ ", ".join(compats[:3]))
     for i, remediation in enumerate(remed["changes"]):
         print(f"{i+2}. Or make the following dependency changes :")
@@ -33,5 +33,7 @@ def silense():
     
     return compats, remed    
 
+
 if __name__ =="__main__":
     silense()
+    

@@ -64,7 +64,7 @@ you will get the output as follows:
 Possible Remediations for fiftyone 0.18.0:
 1. Change project license to GPL-3.0-only, GPL-3.0-or-later, or AGPL-3.0-only;
 2. Or make the following dependency changes:
-   a) Remove ndjson ;
+   a) Remove ndjson;
    b) Pin voxel51-eta to 0.1.9;
    c) Pin pillow to 6.2.2;
    d) Pin imageio to 2.9.0;
