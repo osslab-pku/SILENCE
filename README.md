@@ -1,11 +1,8 @@
 # Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem
 
 ## Citation
-```
-W. Xu, H. He, K. Gao, and M. Zhou, "Understanding and Remediating Open-Source License Incompatibilities
-in the PyPI Ecosystem,"in 38th IEEE/ACM International Conference on Automated Software Engineering,
-ASE 2023, Luxembourg, September 11-15, 2023.
-```
+W. Xu, H. He, K. Gao, and M. Zhou, "Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem,"in 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023, Luxembourg, September 11-15, 2023.
+
 
 ## Intorduction
 In this paper, we propose SILENSE, an SMT-solver-based incompatibility remediator for licenses in the
