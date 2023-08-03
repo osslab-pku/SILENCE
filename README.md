@@ -50,9 +50,9 @@ python relicenser.py
 python SILENSE.py -n name -v version
 ```
 
-For example, if you want to get remediations for fiftone 0.18.0 in the paper, you can run:
+For example, if you want to get remediations for fiftyone 0.18.0 in the paper, you can run:
 ```
-python SILENSE.py -n fiftone -v 0.18.0
+python SILENSE.py -n fiftyone -v 0.18.0
 ```
 
 you will get the output as follows:
