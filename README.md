@@ -1,10 +1,9 @@
-# Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem
+# SILENSE
 
-## Citation
-W. Xu, H. He, K. Gao, and M. Zhou, "Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem,"in 38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023, Luxembourg, September 11-15, 2023.
+This repository contains source code and data of the papar "Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem".
 
 ## Intorduction
-In this paper, we propose SILENSE, an SMT-solver-based incompatibility remediator for licenses in the
+In this paper, we first conduct a large-scale empirical study of license incompatibility in PyPI ecosystem. Inspired by our findings, we propose SILENSE, an SMT-solver-based incompatibility remediator for licenses in the
 dependency graph. Given a release and its dependency graph with one or more license incompatibilities, SILENSE 1) finds alternative licenses that are compatible with the dependency
 graph, and 2) searches for alternative graphs with no license incompatibilities and minimal difference with the original graph. The results are aggregated as a report of recommended
 remediations (i.e., migrations, removals, version pinnings, or license changes) for developers to consider.
@@ -27,7 +26,7 @@ remediations (i.e., migrations, removals, version pinnings, or license changes) 
 
 ## How to start?
 
-1. The dataset is stored in the `package` collection in the `license` database. You can get the dataset in `data` directory and you need to import it into MongoDB. Run:
+1. The dataset is stored in the `package` collection in the `license` database. You can get the dataset in `data` directory (due to the file size limit on GitHub, please download the dataset at [here](https://figshare.com/s/1fcea61928e416533380)) and you need to import it into MongoDB. Run:
 ```
 mongorestore --db=license --gzip data/package.bson.gz
 ```
@@ -75,3 +74,16 @@ Possible Remediations for fiftyone 0.18.0:
 The project is licensed under [MulanPubL-2.0](LISENSE).
 
 
+## Citation
+For citing, please use following BibTex citation:
+```
+@inproceedings{SILENSE2023,
+  author       = {Weiwei Xu and
+                  Hao He and
+                  Kai Gao and
+                  Minghui Zhou},
+  title        = {Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem},
+  booktitle    = {38th {IEEE/ACM} International Conference on Automated Software Engineering,
+                  {ASE} 2023, Luxembourg, September 11-15, 2023.}
+}
+```
