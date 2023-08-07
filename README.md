@@ -22,6 +22,7 @@ remediations (i.e., migrations, removals, version pinnings, or license changes) 
 10. `relicenser.py`: implementation of SILENSE's relicenser
 11. `res` contains results and evaluation of SILENSE.
 12. `data` contains our dataset
+13. `SILENSE.py` contains the main function of SILENSE.
 
 
 ## How to start?
