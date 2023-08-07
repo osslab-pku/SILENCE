@@ -29,7 +29,7 @@ def silense():
     for i, remediation in enumerate(remed["changes"]):
         print(f"{i+2}. Or make the following dependency changes :")
         for j,operation in enumerate(remediation):
-            print("    "+chr(ord("a")+j) + ") "+ operation + ";")
+            print(chr(ord("a")+j) + ") "+ operation + ";")
     
     return compats, remed    
 
