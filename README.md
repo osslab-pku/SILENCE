@@ -1,10 +1,10 @@
-# SILENSE
+# SILENCE
 
 This repository contains source code and data of the papar "Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem".
 
 ## Intorduction
-In this paper, we first conduct a large-scale empirical study of license incompatibility in PyPI ecosystem. Inspired by our findings, we propose SILENSE, an SMT-solver-based incompatibility remediator for licenses in the
-dependency graph. Given a release and its dependency graph with one or more license incompatibilities, SILENSE 1) finds alternative licenses that are compatible with the dependency
+In this paper, we first conduct a large-scale empirical study of license incompatibility in PyPI ecosystem. Inspired by our findings, we propose SILENCE, an SMT-solver-based incompatibility remediator for licenses in the
+dependency graph. Given a release and its dependency graph with one or more license incompatibilities, SILENCE 1) finds alternative licenses that are compatible with the dependency
 graph, and 2) searches for alternative graphs with no license incompatibilities and minimal difference with the original graph. The results are aggregated as a report of recommended
 remediations (i.e., migrations, removals, version pinnings, or license changes) for developers to consider.
 
@@ -18,9 +18,9 @@ remediations (i.e., migrations, removals, version pinnings, or license changes) 
 6. `RQ1_license_evolution.ipynb`: results of RQ1
 7. `RQ2_license_incompatibility.ipynb`: results of RQ2
 8. `RQ3_license_remediation_practice.md`: note of RQ3
-9. `remediator.py`: implementation of SILENSE's SMT-based part
-10. `relicenser.py`: implementation of SILENSE's relicenser
-11. `res` contains results and evaluation of SILENSE.
+9. `remediator.py`: implementation of SILENCE's SMT-based part
+10. `relicenser.py`: implementation of SILENCE's relicenser
+11. `res` contains results and evaluation of SILENCE.
 12. `data` contains our dataset
 
 
@@ -46,12 +46,12 @@ python relicenser.py
 
 4. If you want to get remediations in dependency graph for a specific package version, run:
 ```
-python SILENSE.py -n name -v version
+python SILENCE.py -n name -v version
 ```
 
 For example, if you want to get remediations for fiftyone 0.18.0 in the paper, you can run:
 ```
-python SILENSE.py -n fiftyone -v 0.18.0
+python SILENCE.py -n fiftyone -v 0.18.0
 ```
 
 you will get the output as follows:
@@ -77,7 +77,7 @@ The project is licensed under [MulanPubL-2.0](LISENSE).
 ## Citation
 For citing, please use following BibTex citation:
 ```
-@inproceedings{SILENSE2023,
+@inproceedings{SILENCE2023,
   author       = {Weiwei Xu and
                   Hao He and
                   Kai Gao and

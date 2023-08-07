@@ -3,7 +3,7 @@ from remediator import get_remediation
 import argparse
 import logging
 logger = logging.getLogger(__name__)
-def silense():
+def SILENCE():
 
     parser = argparse.ArgumentParser()
     parser.add_argument("-n", "--name", type=str, required=False)
@@ -15,7 +15,7 @@ def silense():
     args = parser.parse_args()
 
     logging.basicConfig(
-        filename="silense.log",
+        filename="SILENCE.log",
         format="%(asctime)s (Process %(process)d) [%(levelname)s] %(filename)s:%(lineno)d %(message)s",
         level=logging.INFO,
     )
@@ -35,5 +35,5 @@ def silense():
 
 
 if __name__ =="__main__":
-    silense()
+    SILENCE()
     
