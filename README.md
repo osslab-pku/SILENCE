@@ -1,12 +1,16 @@
 # SILENCE
 
-This repository contains source code and data of the papar "Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem".
+This repository contains source code and data of the paper "Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem" published at ASE'2023. 
+
+* Weiwei Xu, Hao He, Kai Gao, Minghui Zhou. Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem. ASE'2023
+
 
 ## Intorduction
 In this paper, we first conduct a large-scale empirical study of license incompatibility in PyPI ecosystem. Inspired by our findings, we propose SILENCE, an SMT-solver-based incompatibility remediator for licenses in the
-dependency graph. Given a release and its dependency graph with one or more license incompatibilities, SILENCE 1) finds alternative licenses that are compatible with the dependency
-graph, and 2) searches for alternative graphs with no license incompatibilities and minimal difference with the original graph. The results are aggregated as a report of recommended
-remediations (i.e., migrations, removals, version pinnings, or license changes) for developers to consider.
+dependency graph. Given a release and its dependency graph with one or more license incompatibilities, SILENCE 
+1) finds alternative licenses that are compatible with the dependency graph, and
+2) searches for alternative graphs with no license incompatibilities and minimal difference with the original graph.
+The results are aggregated as a report of recommended remediations (i.e., migrations, removals, version pinnings, or license changes) for developers to consider.
 
 
 ## Dirs and files
