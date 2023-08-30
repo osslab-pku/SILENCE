@@ -76,11 +76,11 @@ Possible Remediations for fiftyone 0.18.0:
 ```
 
 ## License
-The project is licensed under [MulanPubL-2.0](LISENSE).
+The project is licensed under [MulanPubL-2.0](LICENSE).
 
 
 ## Citation
-For citing, please use following BibTex citation:
+For citing, please use the following BibTex citation:
 ```
 @inproceedings{SILENCE2023,
   author       = {Weiwei Xu and
