@@ -83,12 +83,11 @@ The project is licensed under [MulanPubL-2.0](LICENSE).
 For citing, please use the following BibTex citation:
 ```
 @inproceedings{SILENCE2023,
-  author       = {Weiwei Xu and
-                  Hao He and
-                  Kai Gao and
-                  Minghui Zhou},
-  title        = {Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem},
-  booktitle    = {38th {IEEE/ACM} International Conference on Automated Software Engineering,
-                  {ASE} 2023, Luxembourg, September 11-15, 2023.}
+  title={Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem},
+  author={Xu, Weiwei and He, Hao and Gao, Kai and Zhou, Minghui},
+  booktitle={2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={178--190},
+  year={2023},
+  organization={IEEE}
 }
 ```
