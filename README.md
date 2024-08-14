@@ -4,6 +4,8 @@ This repository contains source code and data of the paper "[Understanding and R
 
 * Weiwei Xu, Hao He, Kai Gao, Minghui Zhou. Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem. ASE'2023
 
+## Tool
+📢 A tool based on SILENCE for compliance analysis and incompatibility remediation for Python projects is now available at [https://licenserec.com/#/compliance](https://licenserec.com/#/compliance).
 
 ## Intorduction
 In this paper, we first conduct a large-scale empirical study of license incompatibility in PyPI ecosystem. Inspired by our findings, we propose SILENCE, an SMT-solver-based incompatibility remediator for licenses in the
