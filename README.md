@@ -1,6 +1,6 @@
 # SILENCE
 
-This repository contains source code and data of the paper "[Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem](https://ieeexplore.ieee.org/abstract/document/10298475)" published at ASE'2023. 
+This repository contains source code and data of the paper "[Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem](https://ieeexplore.ieee.org/abstract/document/10298475)" published at ASE'23. 
 
 * Weiwei Xu, Hao He, Kai Gao, Minghui Zhou. Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem. ASE'2023
 
